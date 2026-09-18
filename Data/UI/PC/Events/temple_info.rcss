@@ -1,0 +1,12 @@
+body { width: 100%; height: 100%; margin: 0; background-color: transparent; font-family: Arial; }
+.node, .label, .art, .state, .digit { position: absolute; }
+.label, .art, .state, .digit { pointer-events: none; }
+.label { white-space: nowrap; }
+.state { left: 0; top: 0; width: 100%; height: 100%; }
+body { pointer-events: none; }
+#panel { right: 0; top: 0; pointer-events: none; }
+.mu-skill-slot, .mu-skill-slot .mu-button { pointer-events: auto; }
+.mu-skill-slot .selection-1, .mu-skill-slot .selection-2 { display: none; pointer-events: none; }
+.mu-skill-slot.selected-1 .selection-1, .mu-skill-slot.selected-2 .selection-2 { display: block; }
+.mu-skill-icon { position: absolute; overflow: hidden; clip: always; pointer-events: none; }
+.skill-sheet { position: absolute; pointer-events: none; }

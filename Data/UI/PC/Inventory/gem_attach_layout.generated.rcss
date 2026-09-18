@@ -1,0 +1,73 @@
+/* Generated from exact source instance matrices and bitmap bounds. */
+#menu { width: 307.998413px; height: 411.000595px; }
+#menu-art-15 { width: 307.998413px; height: 411.000595px; left: 0px; top: 0px; }
+#menu-art-15 > .piece-0 { left: 0px; top: 0px; width: 16px; height: 16px; }
+#menu-art-15 > .piece-1 { left: 16px; top: 0px; width: 275.998413px; height: 16px; }
+#menu-art-15 > .piece-2 { left: 291.998413px; top: 0px; width: 16px; height: 16px; }
+#menu-art-15 > .piece-3 { left: 0px; top: 16px; width: 16px; height: 379.000595px; }
+#menu-art-15 > .piece-4 { left: 16px; top: 16px; width: 275.998413px; height: 379.000595px; }
+#menu-art-15 > .piece-5 { left: 291.998413px; top: 16px; width: 16px; height: 379.000595px; }
+#menu-art-15 > .piece-6 { left: 0px; top: 395.000595px; width: 16px; height: 16px; }
+#menu-art-15 > .piece-7 { left: 16px; top: 395.000595px; width: 274.99112px; height: 16px; }
+#menu-art-15 > .piece-8 { left: 290.99112px; top: 395.000595px; width: 16.007293px; height: 16px; }
+#menu-art-14 { width: 293px; height: 9px; left: 7px; top: 38px; }
+#menu-art-14 > .piece-0 { left: 0px; top: 0px; width: 293px; height: 9px; }
+#menu-art-13 { width: 287px; height: 2px; left: 11px; top: 351px; }
+#menu-art-13 > .piece-0 { left: 0px; top: 0px; width: 287px; height: 2px; }
+#tfAttachTitle { width: 228px; height: 12.6px; left: 35px; top: 16px; }
+#taAttachMent { width: 228px; height: 40px; left: 35px; top: 54px; }
+#btnAttachClose { width: 70px; height: 30px; left: 119px; top: 365px; }
+#btnAttachClose > .state-up > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnAttachClose > .state-over > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnAttachClose > .state-down > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnAttachClose > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnAttach1 { width: 95px; height: 35px; left: 42px; top: 107px; transform-origin: 0px 0px; transform: matrix(1.000229, 0, 0, 1, 0, 0); }
+#btnAttach1 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach1 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach1 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach1 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach2 { width: 95px; height: 35px; left: 169px; top: 107px; transform-origin: 0px 0px; transform: matrix(1.000229, 0, 0, 1, 0, 0); }
+#btnAttach2 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach2 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach2 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach2 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach3 { width: 95px; height: 35px; left: 42px; top: 149px; transform-origin: 0px 0px; transform: matrix(1.000229, 0, 0, 1, 0, 0); }
+#btnAttach3 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach3 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach3 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach3 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach4 { width: 95px; height: 35px; left: 169px; top: 149px; transform-origin: 0px 0px; transform: matrix(1.000229, 0, 0, 1, 0, 0); }
+#btnAttach4 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach4 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach4 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach4 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach5 { width: 95px; height: 35px; left: 42px; top: 193px; transform-origin: 0px 0px; transform: matrix(1.000229, 0, 0, 1, 0, 0); }
+#btnAttach5 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach5 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach5 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach5 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach6 { width: 95px; height: 35px; left: 169px; top: 193px; transform-origin: 0px 0px; transform: matrix(1.000229, 0, 0, 1, 0, 0); }
+#btnAttach6 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach6 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach6 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach6 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach7 { width: 95px; height: 35px; left: 42px; top: 235px; transform-origin: 0px 0px; transform: matrix(1.000229, 0, 0, 1, 0, 0); }
+#btnAttach7 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach7 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach7 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach7 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach8 { width: 95px; height: 35px; left: 169px; top: 235px; transform-origin: 0px 0px; transform: matrix(1.000229, 0, 0, 1, 0, 0); }
+#btnAttach8 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach8 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach8 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach8 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach9 { width: 95px; height: 35px; left: 42px; top: 279px; transform-origin: 0px 0px; transform: matrix(1.000229, 0, 0, 1, 0, 0); }
+#btnAttach9 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach9 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach9 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach9 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach10 { width: 95px; height: 35px; left: 169px; top: 279px; transform-origin: 0px 0px; transform: matrix(1.000229, 0, 0, 1, 0, 0); }
+#btnAttach10 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach10 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach10 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnAttach10 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }

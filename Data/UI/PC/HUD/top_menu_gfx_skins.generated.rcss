@@ -1,0 +1,16 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#top-menu-map-frame { decorator: image(TopMenu.Bitmap67); }
+#top-menu-wing-back { decorator: image(TopMenu.Bitmap60); }
+#top-menu-wing-controls { decorator: image(TopMenu.Bitmap60); }
+.BtMacroOption { decorator: image(TopMenu.Bitmap36); }
+.BtMacroOption.over { decorator: image(TopMenu.Bitmap38); }
+.BtMacroOption.down { decorator: image(TopMenu.Bitmap40); }
+.BtMacroOption.disabled { decorator: image(TopMenu.Bitmap42); }
+.BtMacroStart.start { decorator: image(TopMenu.Bitmap45); }
+.BtMacroStart.start.over { decorator: image(TopMenu.Bitmap47); }
+.BtMacroStart.start.down { decorator: image(TopMenu.Bitmap49); }
+.BtMacroStart.start.disabled { decorator: image(TopMenu.Bitmap51); }
+.BtMacroStop.stop { decorator: image(TopMenu.Bitmap18); }
+.BtMacroStop.stop.over { decorator: image(TopMenu.Bitmap20); }
+.BtMacroStop.stop.down { decorator: image(TopMenu.Bitmap22); }
+.BtMacroStop.stop.disabled { decorator: image(TopMenu.Bitmap24); }

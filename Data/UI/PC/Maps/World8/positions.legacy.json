@@ -1,0 +1,41 @@
+{
+  "world": "World8",
+  "language": null,
+  "source": "World8/Minimap.bmd",
+  "sourceSha256": "e343ccfa7537d9e9f2eb64f7730faa35ecf651fa87606d08e3e3d313685be664",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 8,
+      "y": 8,
+      "rotation": 270,
+      "name": "�m���A",
+      "sourceNameHex": "836d838a8341"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 9,
+      "y": 18,
+      "rotation": 225,
+      "name": "�G���x�����h",
+      "sourceNameHex": "8347838b8378838983938368"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 10,
+      "y": 228,
+      "rotation": 225,
+      "name": "�^���J��",
+      "sourceNameHex": "835e838b834a8393"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

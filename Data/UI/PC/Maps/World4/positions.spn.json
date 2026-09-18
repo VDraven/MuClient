@@ -1,0 +1,139 @@
+{
+  "world": "World4",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World4_spn.bmd",
+  "sourceSha256": "3b7ac6cb4681c443c5682162a6ecd49ddd5963b99ed03cb93f0b62d45f69157b",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 171,
+      "y": 105,
+      "rotation": 135,
+      "name": "Charon",
+      "npcNumber": 237,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 180,
+      "y": 103,
+      "rotation": 45,
+      "name": "Duende del Caos",
+      "npcNumber": 238,
+      "index": 1
+    },
+    {
+      "kind": "npc",
+      "x": 172,
+      "y": 96,
+      "rotation": 135,
+      "name": "Guardián de Seguridad",
+      "npcNumber": 240,
+      "index": 2
+    },
+    {
+      "kind": "npc",
+      "x": 173,
+      "y": 125,
+      "rotation": 45,
+      "name": "Elfa Lala",
+      "npcNumber": 242,
+      "index": 3
+    },
+    {
+      "kind": "npc",
+      "x": 195,
+      "y": 124,
+      "rotation": 90,
+      "name": "Eo el Artesano",
+      "npcNumber": 243,
+      "index": 4
+    },
+    {
+      "kind": "npc",
+      "x": 169,
+      "y": 109,
+      "rotation": 135,
+      "name": "Amy la Chica de las Pócimas",
+      "npcNumber": 253,
+      "index": 5
+    },
+    {
+      "kind": "npc",
+      "x": 193,
+      "y": 110,
+      "rotation": 90,
+      "name": "Amy la Chica de las Pócimas",
+      "npcNumber": 253,
+      "index": 6
+    },
+    {
+      "kind": "npc",
+      "x": 167,
+      "y": 118,
+      "rotation": 45,
+      "name": "Soldado Fantasma de la Sombra",
+      "npcNumber": 257,
+      "index": 7
+    },
+    {
+      "kind": "npc",
+      "x": 179,
+      "y": 126,
+      "rotation": 45,
+      "name": "Espíritu Flor de Cerezo",
+      "npcNumber": 450,
+      "index": 8
+    },
+    {
+      "kind": "npc",
+      "x": 179,
+      "y": 129,
+      "rotation": 135,
+      "name": "Árbol Flor de Cerezo",
+      "npcNumber": 451,
+      "index": 9
+    },
+    {
+      "kind": "npc",
+      "x": 187,
+      "y": 125,
+      "rotation": 45,
+      "name": "Mayordomo Gens Vanert",
+      "npcNumber": 544,
+      "index": 10
+    },
+    {
+      "index": 11,
+      "kind": "portal",
+      "x": 151,
+      "y": 2,
+      "rotation": 315,
+      "name": "Entrada a Lorencia"
+    },
+    {
+      "index": 12,
+      "kind": "portal",
+      "x": 222,
+      "y": 29,
+      "rotation": 135,
+      "name": "Entrada a Aida"
+    },
+    {
+      "index": 13,
+      "kind": "portal",
+      "x": 242,
+      "y": 241,
+      "rotation": 45,
+      "name": "Entrada a Atlans"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

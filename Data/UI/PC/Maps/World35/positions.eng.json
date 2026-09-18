@@ -1,0 +1,87 @@
+{
+  "world": "World35",
+  "language": "eng",
+  "source": "Local/Eng/Minimap/Minimap_World35_eng.bmd",
+  "sourceSha256": "b20cd63da7853fa8dda8c761bfa347d943e761e7cfb561434f1ed347be254a53",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 118,
+      "y": 11,
+      "rotation": 135,
+      "name": "Guardsman",
+      "npcNumber": 224,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 135,
+      "y": 47,
+      "rotation": 45,
+      "name": "Trainer",
+      "npcNumber": 226,
+      "index": 1
+    },
+    {
+      "kind": "npc",
+      "x": 113,
+      "y": 56,
+      "rotation": 45,
+      "name": "Safety Guardian",
+      "npcNumber": 240,
+      "index": 2
+    },
+    {
+      "kind": "npc",
+      "x": 145,
+      "y": 14,
+      "rotation": 135,
+      "name": "Hanzo the Blacksmith",
+      "npcNumber": 251,
+      "index": 3
+    },
+    {
+      "kind": "npc",
+      "x": 96,
+      "y": 25,
+      "rotation": 135,
+      "name": "Lahap",
+      "npcNumber": 256,
+      "index": 4
+    },
+    {
+      "kind": "npc",
+      "x": 228,
+      "y": 48,
+      "rotation": 45,
+      "name": "Apostle Devin",
+      "npcNumber": 406,
+      "index": 5
+    },
+    {
+      "kind": "npc",
+      "x": 62,
+      "y": 239,
+      "rotation": 45,
+      "name": "Werewolf Quarel",
+      "npcNumber": 407,
+      "index": 6
+    },
+    {
+      "index": 7,
+      "kind": "portal",
+      "x": 238,
+      "y": 42,
+      "rotation": 45,
+      "name": "Entrance to the Valley of Loren"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

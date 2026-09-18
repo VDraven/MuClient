@@ -1,0 +1,67 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#panel-art-4 > .piece-5 { decorator: image(CursedTempleScore.hwan_scorebg); }
+#panel-art-4 > .piece-4 { decorator: image(CursedTempleScore.mark_mucombined); }
+#panel-art-4 > .piece-3 { decorator: image(CursedTempleScore.hwan_scorebg); }
+#panel-art-4 > .piece-2 { decorator: image(CursedTempleScore.mark_hwanyoung); }
+#panel-art-4 > .piece-1 { decorator: image(CursedTempleScore.vs); }
+#panel-art-4 > .piece-0 { decorator: image(CursedTempleScore.colon); }
+#mcIllusionTwoDigit > .digit-0 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score00 0.648438 0 36 89); }
+#mcIllusionTwoDigit > .digit-1 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score01 0.648438 0 36 89); }
+#mcIllusionTwoDigit > .digit-2 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score02 0.648438 0 36 89); }
+#mcIllusionTwoDigit > .digit-3 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score03 0.648438 0 36 89); }
+#mcIllusionTwoDigit > .digit-4 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score04 0.648438 0 36 89); }
+#mcIllusionTwoDigit > .digit-5 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score05 0.648438 0 36 89); }
+#mcIllusionTwoDigit > .digit-6 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score06 0.648438 0 36 89); }
+#mcIllusionTwoDigit > .digit-7 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score07 0.648438 0 36 89); }
+#mcIllusionTwoDigit > .digit-8 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score08 0.648438 0 36 89); }
+#mcIllusionTwoDigit > .digit-9 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score09 0.648438 0 36 89); }
+#mcIllusionOneDigit > .digit-0 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score00 0.648438 0 36 89); }
+#mcIllusionOneDigit > .digit-1 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score01 0.648438 0 36 89); }
+#mcIllusionOneDigit > .digit-2 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score02 0.648438 0 36 89); }
+#mcIllusionOneDigit > .digit-3 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score03 0.648438 0 36 89); }
+#mcIllusionOneDigit > .digit-4 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score04 0.648438 0 36 89); }
+#mcIllusionOneDigit > .digit-5 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score05 0.648438 0 36 89); }
+#mcIllusionOneDigit > .digit-6 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score06 0.648438 0 36 89); }
+#mcIllusionOneDigit > .digit-7 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score07 0.648438 0 36 89); }
+#mcIllusionOneDigit > .digit-8 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score08 0.648438 0 36 89); }
+#mcIllusionOneDigit > .digit-9 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score09 0.648438 0 36 89); }
+#mcIllusionSingleDigit > .digit-0 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score00 0.648438 0 36 89); }
+#mcIllusionSingleDigit > .digit-1 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score01 0.648438 0 36 89); }
+#mcIllusionSingleDigit > .digit-2 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score02 0.648438 0 36 89); }
+#mcIllusionSingleDigit > .digit-3 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score03 0.648438 0 36 89); }
+#mcIllusionSingleDigit > .digit-4 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score04 0.648438 0 36 89); }
+#mcIllusionSingleDigit > .digit-5 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score05 0.648438 0 36 89); }
+#mcIllusionSingleDigit > .digit-6 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score06 0.648438 0 36 89); }
+#mcIllusionSingleDigit > .digit-7 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score07 0.648438 0 36 89); }
+#mcIllusionSingleDigit > .digit-8 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score08 0.648438 0 36 89); }
+#mcIllusionSingleDigit > .digit-9 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score09 0.648438 0 36 89); }
+#mcAlliedTwoDigit > .digit-0 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score00 0.648438 89 54 0); }
+#mcAlliedTwoDigit > .digit-1 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score01 0.648438 89 54 0); }
+#mcAlliedTwoDigit > .digit-2 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score02 0.648438 89 54 0); }
+#mcAlliedTwoDigit > .digit-3 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score03 0.648438 89 54 0); }
+#mcAlliedTwoDigit > .digit-4 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score04 0.648438 89 54 0); }
+#mcAlliedTwoDigit > .digit-5 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score05 0.648438 89 54 0); }
+#mcAlliedTwoDigit > .digit-6 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score06 0.648438 89 54 0); }
+#mcAlliedTwoDigit > .digit-7 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score07 0.648438 89 54 0); }
+#mcAlliedTwoDigit > .digit-8 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score08 0.648438 89 54 0); }
+#mcAlliedTwoDigit > .digit-9 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score09 0.648438 89 54 0); }
+#mcAlliedOneDigit > .digit-0 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score00 0.648438 89 54 0); }
+#mcAlliedOneDigit > .digit-1 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score01 0.648438 89 54 0); }
+#mcAlliedOneDigit > .digit-2 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score02 0.648438 89 54 0); }
+#mcAlliedOneDigit > .digit-3 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score03 0.648438 89 54 0); }
+#mcAlliedOneDigit > .digit-4 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score04 0.648438 89 54 0); }
+#mcAlliedOneDigit > .digit-5 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score05 0.648438 89 54 0); }
+#mcAlliedOneDigit > .digit-6 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score06 0.648438 89 54 0); }
+#mcAlliedOneDigit > .digit-7 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score07 0.648438 89 54 0); }
+#mcAlliedOneDigit > .digit-8 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score08 0.648438 89 54 0); }
+#mcAlliedOneDigit > .digit-9 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score09 0.648438 89 54 0); }
+#mcAlliedSingleDigit > .digit-0 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score00 0.648438 89 54 0); }
+#mcAlliedSingleDigit > .digit-1 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score01 0.648438 89 54 0); }
+#mcAlliedSingleDigit > .digit-2 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score02 0.648438 89 54 0); }
+#mcAlliedSingleDigit > .digit-3 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score03 0.648438 89 54 0); }
+#mcAlliedSingleDigit > .digit-4 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score04 0.648438 89 54 0); }
+#mcAlliedSingleDigit > .digit-5 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score05 0.648438 89 54 0); }
+#mcAlliedSingleDigit > .digit-6 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score06 0.648438 89 54 0); }
+#mcAlliedSingleDigit > .digit-7 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score07 0.648438 89 54 0); }
+#mcAlliedSingleDigit > .digit-8 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score08 0.648438 89 54 0); }
+#mcAlliedSingleDigit > .digit-9 > .piece-0 { decorator: gfx-tint(CursedTempleScore.hwan_score09 0.648438 89 54 0); }

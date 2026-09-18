@@ -1,0 +1,130 @@
+<rml><head>
+<meta name="mu-design-Inventory-Size" content="327 639"/>
+<meta name="mu-design-Inventory-Grid" content="60 370 26 26"/>
+<meta name="mu-design-Inventory-Equipment0" content="28 147 52 78"/>
+<meta name="mu-design-Inventory-Equipment1" content="247 147 52 78"/>
+<meta name="mu-design-Inventory-Equipment2" content="137 85 52 52"/>
+<meta name="mu-design-Inventory-Equipment3" content="138 147 52 78"/>
+<meta name="mu-design-Inventory-Equipment4" content="138 235 52 52"/>
+<meta name="mu-design-Inventory-Equipment5" content="28 235 52 52"/>
+<meta name="mu-design-Inventory-Equipment6" content="247 235 52 52"/>
+<meta name="mu-design-Inventory-Equipment7" content="210 85 89.000092 52.000397"/>
+<meta name="mu-design-Inventory-Equipment8" content="28 85 52 52"/>
+<meta name="mu-design-Inventory-Equipment9" content="92 104 32.999878 32.999878"/>
+<meta name="mu-design-Inventory-Equipment10" content="93 254 32.999878 32.999878"/>
+<meta name="mu-design-Inventory-Equipment11" content="202 254 32.999878 32.999878"/>
+<meta name="mu-design-Inventory-Reference" content="640 480"/>
+<meta name="mu-design-Inventory-InitialPosition" content="360 40"/>
+<title>Inventory and equipment</title>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="inventory.rcss"/>
+<link type="text/rcss" href="inventory_gfx.generated.rcss"/>
+<link type="text/rcss" href="inventory_gfx_skins.generated.rcss"/>
+<meta name="mu-design-Inventory-Button0" content="272 42 19 19"/><meta name="mu-design-Inventory-Button1" content="160 323 70 30"/><meta name="mu-design-Inventory-Button2" content="160 587 70 30"/><meta name="mu-design-Inventory-Button3" content="228 587 70 30"/><meta name="mu-design-Inventory-Button4" content="91 323 70 30"/><meta name="mu-design-Inventory-Button5" content="22 323 70 30"/></head><body><div id="inventory">
+<div id="symbol-76-0" class="art"><i class="popup_01_1-0"/><i class="popup_bg01-1"/><i class="popup_bg03-2"/></div>
+<div id="symbol-78-0" class="art"><i class="newinven_bg-0"/></div>
+<div id="symbol-80-0" class="art"><i class="war_bg_centerline-0"/></div>
+<div id="symbol-82-0" class="art"><i class="invenbg01-0"/><i class="invenbg02-1"/><i class="invenbg02-2"/><i class="invenbg02-3"/><i class="invenbg02-4"/><i class="invenbg02-5"/><i class="invenbg02-6"/><i class="invenbg03-7"/></div>
+<div id="symbol-84-0" class="art"><i class="coin-0"/></div>
+<div id="symbol-86-0" class="art"/>
+<div id="symbol-88-0" class="art"><i class="newinven_box006-0"/></div>
+<div id="symbol-90-0" class="art"><i class="newinven_box012-0"/></div>
+<div id="symbol-92-0" class="art"><i class="newinven_box002-0"/></div>
+<div id="mc_gloves" class="art"><i class="newinven_box008-0"/></div>
+<div id="mc_helm" class="art"><i class="newinven_box003-0"/></div>
+<div id="symbol-98-0" class="art"><i class="newinven_box001-0"/></div>
+<div id="symbol-100-0" class="art"><i class="newinven_box010-0"/></div>
+<div id="symbol-102-0" class="art"><i class="newinven_box013-0"/></div>
+<div id="symbol-104-0" class="art"><i class="newinven_box009-0"/></div>
+<div id="symbol-104-1" class="art"><i class="newinven_box009-0"/></div>
+<div id="symbol-106-0" class="art"><i class="newinven_box007-0"/></div>
+<div id="symbol-108-0" class="art"><i class="newinven_box005-0"/></div>
+<div id="symbol-110-0" class="art"><i class="newinven_box004-0"/></div>
+<div id="tfTitle" class="mu-overflow-label MULabel Label_캐릭터명 label"/>
+<div id="tfZen" class="mu-overflow-label MULabel Label_금액 label"/>
+<div id="btnDrag" class="MuButton_Drag drag"/>
+<div id="btnClose" class="mu-button MuButton_Close"/>
+<div id="btnSocketOption" class="mu-button MuButton_S01"><span id="btnSocketOption-label" class="mu-overflow-label label"/></div>
+<div id="btnSetOption" class="mu-button MuButton_S01"><span id="btnSetOption-label" class="mu-overflow-label label"/></div>
+<div id="btnRepair" class="mu-button MuButton_S01"><span id="btnRepair-label" class="mu-overflow-label label"/></div>
+<div id="btnPrivateStore" class="mu-button MuButton_S01"><span id="btnPrivateStore-label" class="mu-overflow-label label"/></div>
+<div id="btnExtensionBag" class="mu-button MuButton_S01"><span id="btnExtensionBag-label" class="mu-overflow-label label"/></div>
+<div id="isSlot0" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot1" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot2" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot3" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot4" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot5" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot6" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot7" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot8" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot9" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot10" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot11" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot12" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot13" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot14" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot15" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot16" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot17" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot18" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot19" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot20" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot21" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot22" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot23" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot24" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot25" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot26" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot27" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot28" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot29" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot30" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot31" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot32" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot33" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot34" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot35" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot36" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot37" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot38" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot39" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot40" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot41" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot42" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot43" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot44" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot45" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot46" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot47" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot48" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot49" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot50" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot51" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot52" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot53" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot54" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot55" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot56" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot57" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot58" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot59" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot60" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot61" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot62" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot63" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_helper" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_pants" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_boots" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_pentagram" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_ring_left" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_ring_right" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_amulet" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_weapon_right" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_armor" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_weapon_left" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_wing" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_helm" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="slot_gloves" class="mu-item-slot MuItemSlot_clear01"/>
+</div></body></rml>

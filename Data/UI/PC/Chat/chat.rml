@@ -1,0 +1,113 @@
+<rml>
+<head>
+    <!-- C++ presentation inputs. Authored here; read once before rendering. -->
+    <meta name="mu-design-RmlChatPanel-ViewHeights" content="91 192 308 427"/>
+    <meta name="mu-design-RmlChatPanel-ResizeViewportHeight" content="1120"/>
+    <meta name="mu-design-RmlChatPanel-SmallStageScale" content="0.83"/>
+    <meta name="mu-design-RmlChatPanel-LargeStageBottom" content="238"/>
+    <meta name="mu-design-RmlChatPanel-SmallStageBottom" content="197"/>
+    <meta name="mu-design-RmlChatPanel-ViewWidth" content="420"/>
+    <meta name="mu-design-RmlChatPanel-RowHeight" content="18"/>
+    <meta name="mu-design-RmlChatPanel-EditingExtraHeight" content="39"/>
+    <meta name="mu-design-RmlChatPanel-ViewHeightMargin" content="24"/>
+    <meta name="mu-design-RmlChatPanel-MenuTop" content="77"/>
+    <meta name="mu-design-RmlChatPanel-InputTop" content="102"/>
+    <meta name="mu-design-RmlChatPanel-ScrollDownBottom" content="36"/>
+    <meta name="mu-design-RmlChatPanel-MarqueeSecondsPerPixel" content="0.08"/>
+    <meta name="mu-design-RmlChatPanel-ShadowOffsetX" content="1"/>
+    <meta name="mu-design-RmlChatPanel-AlphaStep" content="20"/>
+    <meta name="mu-design-RmlChatPanel-AlphaMaximum" content="90"/>
+    <meta name="mu-design-RmlChatPanel-AlphaMinimum" content="20"/>
+    <meta name="mu-design-RmlChatPanel-DefaultAlpha" content="60"/>
+    <meta name="mu-design-RmlChatPanel-RmlBlockedChatWidth" content="327"/>
+    <meta name="mu-design-RmlChatPanel-RmlBlockedChatHeight" content="387"/>
+    <meta name="mu-design-RmlChatPanel-RmlBlockedChatVisibleRows" content="6"/>
+    <!-- End presentation inputs -->
+
+
+
+    <!-- Legacy history/query adapters; the retained panel owns visible geometry. -->
+    <meta name="mu-design-ChatCompatibility-Width" content="281"/>
+    <meta name="mu-design-ChatCompatibility-RowHeight" content="15"/>
+    <meta name="mu-design-ChatCompatibility-VerticalPadding" content="10"/>
+    <meta name="mu-design-ChatCompatibility-TextWidth" content="259"/>
+    <meta name="mu-design-ChatCompatibility-InitialRows" content="6"/>
+    <meta name="mu-design-ChatCompatibility-RowStep" content="3"/>
+    <meta name="mu-design-ChatCompatibility-MaximumRows" content="15"/>
+    <title>MU Online Chat</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="chat_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="blocked_chat_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="chat.rcss"/>
+    <link type="text/rcss" href="chat_gfx.generated.rcss"/>
+    <link type="text/rcss" href="blocked_chat_gfx.generated.rcss"/>
+</head>
+<body>
+    <div id="chat-panel" class="chat-panel">
+        <div id="chat-view" class="chat-view">
+            <div id="chat-background" class="chat-background"/>
+            <div id="chat-title" class="chat-title">
+                <i class="chat-title-frame"/><i class="chat-title-emblem"/>
+            </div>
+            <div id="chat-messages" class="chat-messages"/>
+            <div id="chat-scrollbar" class="mu-scrollbar chat-scrollbar">
+                <div id="chat-scroll-track" class="mu-scrollbar-track chat-scroll-track"/>
+                <div id="chat-scroll-down-arrow" class="mu-scrollbar-button scroll-arrow chat-scroll-down-arrow"/>
+                <div id="chat-scroll-up" class="mu-scrollbar-button scroll-arrow chat-scroll-up"/>
+                <div id="chat-scroll-thumb" class="mu-scrollbar-thumb chat-scroll-thumb"/>
+            </div>
+            <div id="chat-scroll-down" class="mu-button floating-scroll-down"/>
+        </div>
+
+        <div id="chat-menu" class="chat-menu">
+            <div id="chat-config" class="mu-button chat-config"/>
+            <div id="chat-menu-buttons" class="chat-menu-buttons">
+                <div id="type-normal" class="mu-button chat-button type-normal"><span id="normal-label" class="mu-overflow-label"/></div>
+                <div id="type-party" class="mu-button chat-button type-party"><span id="party-label" class="mu-overflow-label"/></div>
+                <div id="type-guild" class="mu-button chat-button type-guild"><span id="guild-label" class="mu-overflow-label"/></div>
+                <div id="type-gens" class="mu-button chat-button type-gens"><span id="gens-label" class="mu-overflow-label"/></div>
+                <div id="filter-whisper" class="mu-button chat-button filter-whisper"><span id="whisper-label" class="mu-overflow-label"/></div>
+                <div id="filter-system" class="mu-button chat-button filter-system"><span id="system-label" class="mu-overflow-label"/></div>
+                <div id="block-whisper" class="mu-button chat-button block-whisper"><span id="block-label" class="mu-overflow-label"/></div>
+                <div id="chat-view-mode" class="mu-button round-button chat-view-mode"/>
+                <div id="chat-size" class="mu-button round-button chat-size"/>
+                <div id="chat-alpha" class="mu-button round-button chat-alpha"/>
+            </div>
+        </div>
+
+        <div id="chat-input-area" class="chat-input-area">
+            <div class="input-back whisper-back"/>
+            <div class="input-back main-back"/>
+            <input id="chat-whisper" class="mu-text-input chat-input whisper-input" type="text" tabindex="2"/>
+            <input id="chat-input" class="mu-text-input chat-input main-input" type="text" tabindex="1"/>
+        </div>
+
+        <div id="blocked-chat" class="blocked-chat">
+            <div id="blocked-chat-back" class="blocked-chat-back">
+                <i class="blocked-chat-back-top"/>
+                <i class="blocked-chat-back-body"/>
+                <i class="blocked-chat-back-bottom"/>
+            </div>
+            <div id="blocked-chat-list-back" class="blocked-chat-list-back"/>
+            <div id="blocked-chat-input-back" class="blocked-chat-input-back"/>
+            <div id="blocked-chat-bullet" class="blocked-chat-bullet"/>
+            <div id="blocked-chat-divider" class="blocked-chat-divider"/>
+            <div id="blocked-chat-drag" class="blocked-chat-drag"/>
+            <div id="blocked-chat-title" class="blocked-chat-title">Block Chat</div>
+            <div id="blocked-chat-instruction" class="blocked-chat-instruction">Please enter the name of the character you want to block.</div>
+            <input id="blocked-chat-input" class="mu-text-input blocked-chat-input" type="text" tabindex="3"/>
+            <div id="blocked-chat-register" class="mu-button blocked-chat-button">Register</div>
+            <div id="blocked-chat-list" class="blocked-chat-list"/>
+            <div id="blocked-chat-scrollbar" class="mu-scrollbar blocked-chat-scrollbar">
+                <div id="blocked-chat-scroll-track" class="mu-scrollbar-track blocked-chat-scroll-track"/>
+                <div id="blocked-chat-scroll-down" class="mu-scrollbar-button blocked-chat-scroll-down"/>
+                <div id="blocked-chat-scroll-up" class="mu-scrollbar-button blocked-chat-scroll-up"/>
+                <div id="blocked-chat-scroll-thumb" class="mu-scrollbar-thumb blocked-chat-scroll-thumb"/>
+            </div>
+            <div id="blocked-chat-delete" class="mu-button blocked-chat-button">Delete</div>
+            <div id="blocked-chat-close" class="mu-button blocked-chat-close"/>
+        </div>
+    </div>
+</body>
+</rml>

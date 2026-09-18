@@ -1,0 +1,20 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-51-0 > .piece-0 { decorator: image(Trainer.popupfield01); }
+#art-51-0 > .piece-1 { decorator: image(Trainer.popupfield02); }
+#art-51-0 > .piece-2 { decorator: image(Trainer.popupfield03); }
+#art-51-0 > .piece-3 { decorator: image(Trainer.popupfield04); }
+#art-51-0 > .piece-4 { decorator: image(Trainer.popupfield05); }
+#art-51-0 > .piece-5 { decorator: image(Trainer.popupfield06); }
+#art-51-0 > .piece-6 { decorator: image(Trainer.popupfield07); }
+#art-51-0 > .piece-7 { decorator: image(Trainer.popupfield08); }
+#art-51-0 > .piece-8 { decorator: image(Trainer.popupfield09); }
+#art-53-0 > .piece-0 { decorator: image(Trainer.popup_line_m); }
+#art-55-0 > .piece-0 { decorator: image(Trainer.popup_line_s); }
+#menu .MuButton_XL01 { decorator: image(Trainer.btn_xl01); }
+#menu .MuButton_XL01:hover { decorator: image(Trainer.btn_xl02); }
+#menu .MuButton_XL01:active { decorator: image(Trainer.btn_xl03); }
+#menu .MuButton_XL01.disabled { decorator: image(Trainer.btn_xl04); }
+#menu .MuButton_S01 { decorator: image(Trainer.btn_s01); }
+#menu .MuButton_S01:hover { decorator: image(Trainer.btn_s02); }
+#menu .MuButton_S01:active { decorator: image(Trainer.btn_s03); }
+#menu .MuButton_S01.disabled { decorator: image(Trainer.btn_s04); }

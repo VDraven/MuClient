@@ -1,0 +1,56 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#durability .type-0 > .icon.state-0 > .piece { decorator: gfx-tint(ItemDurability.1 1 0 0 0); }
+#durability .type-0 > .icon.state-1 > .piece { decorator: gfx-tint(ItemDurability.1 0.7 77 77 0); }
+#durability .type-0 > .icon.state-2 > .piece { decorator: gfx-tint(ItemDurability.1 0.7 77 46 0); }
+#durability .type-0 > .icon.state-3 > .piece { decorator: gfx-tint(ItemDurability.1 0.7 77 15 0); }
+#durability .type-0 > .icon.state-4 > .piece { decorator: gfx-tint(ItemDurability.1 0.7 53 0 24); }
+#durability .type-1 > .icon.state-0 > .piece { decorator: gfx-tint(ItemDurability.3 1 0 0 0); }
+#durability .type-1 > .icon.state-1 > .piece { decorator: gfx-tint(ItemDurability.3 0.7 77 77 0); }
+#durability .type-1 > .icon.state-2 > .piece { decorator: gfx-tint(ItemDurability.3 0.7 77 46 0); }
+#durability .type-1 > .icon.state-3 > .piece { decorator: gfx-tint(ItemDurability.3 0.7 77 15 0); }
+#durability .type-1 > .icon.state-4 > .piece { decorator: gfx-tint(ItemDurability.3 0.7 53 0 24); }
+#durability .type-2 > .icon.state-0 > .piece { decorator: gfx-tint(ItemDurability.5 1 0 0 0); }
+#durability .type-2 > .icon.state-1 > .piece { decorator: gfx-tint(ItemDurability.5 0.7 77 77 0); }
+#durability .type-2 > .icon.state-2 > .piece { decorator: gfx-tint(ItemDurability.5 0.7 77 46 0); }
+#durability .type-2 > .icon.state-3 > .piece { decorator: gfx-tint(ItemDurability.5 0.7 77 15 0); }
+#durability .type-2 > .icon.state-4 > .piece { decorator: gfx-tint(ItemDurability.5 0.7 53 0 24); }
+#durability .type-3 > .icon.state-0 > .piece { decorator: gfx-tint(ItemDurability.7 1 0 0 0); }
+#durability .type-3 > .icon.state-1 > .piece { decorator: gfx-tint(ItemDurability.7 0.7 77 77 0); }
+#durability .type-3 > .icon.state-2 > .piece { decorator: gfx-tint(ItemDurability.7 0.7 77 46 0); }
+#durability .type-3 > .icon.state-3 > .piece { decorator: gfx-tint(ItemDurability.7 0.7 77 15 0); }
+#durability .type-3 > .icon.state-4 > .piece { decorator: gfx-tint(ItemDurability.7 0.7 53 0 24); }
+#durability .type-4 > .icon.state-0 > .piece { decorator: gfx-tint(ItemDurability.9 1 0 0 0); }
+#durability .type-4 > .icon.state-1 > .piece { decorator: gfx-tint(ItemDurability.9 0.7 77 77 0); }
+#durability .type-4 > .icon.state-2 > .piece { decorator: gfx-tint(ItemDurability.9 0.7 77 46 0); }
+#durability .type-4 > .icon.state-3 > .piece { decorator: gfx-tint(ItemDurability.9 0.7 77 15 0); }
+#durability .type-4 > .icon.state-4 > .piece { decorator: gfx-tint(ItemDurability.9 0.7 53 0 24); }
+#durability .type-5 > .icon.state-0 > .piece { decorator: gfx-tint(ItemDurability.11 1 0 0 0); }
+#durability .type-5 > .icon.state-1 > .piece { decorator: gfx-tint(ItemDurability.11 0.7 77 77 0); }
+#durability .type-5 > .icon.state-2 > .piece { decorator: gfx-tint(ItemDurability.11 0.7 77 46 0); }
+#durability .type-5 > .icon.state-3 > .piece { decorator: gfx-tint(ItemDurability.11 0.7 77 15 0); }
+#durability .type-5 > .icon.state-4 > .piece { decorator: gfx-tint(ItemDurability.11 0.7 53 0 24); }
+#durability .type-6 > .icon.state-0 > .piece { decorator: gfx-tint(ItemDurability.13 1 0 0 0); }
+#durability .type-6 > .icon.state-1 > .piece { decorator: gfx-tint(ItemDurability.13 0.7 77 77 0); }
+#durability .type-6 > .icon.state-2 > .piece { decorator: gfx-tint(ItemDurability.13 0.7 77 46 0); }
+#durability .type-6 > .icon.state-3 > .piece { decorator: gfx-tint(ItemDurability.13 0.7 77 15 0); }
+#durability .type-6 > .icon.state-4 > .piece { decorator: gfx-tint(ItemDurability.13 0.7 53 0 24); }
+#durability .type-7 > .icon.state-0 > .piece { decorator: gfx-tint(ItemDurability.15 1 0 0 0); }
+#durability .type-7 > .icon.state-1 > .piece { decorator: gfx-tint(ItemDurability.15 0.7 77 77 0); }
+#durability .type-7 > .icon.state-2 > .piece { decorator: gfx-tint(ItemDurability.15 0.7 77 46 0); }
+#durability .type-7 > .icon.state-3 > .piece { decorator: gfx-tint(ItemDurability.15 0.7 77 15 0); }
+#durability .type-7 > .icon.state-4 > .piece { decorator: gfx-tint(ItemDurability.15 0.7 53 0 24); }
+#durability .type-9 > .icon.state-0 > .piece { decorator: gfx-tint(ItemDurability.17 1 0 0 0); }
+#durability .type-9 > .icon.state-1 > .piece { decorator: gfx-tint(ItemDurability.17 0.7 77 77 0); }
+#durability .type-9 > .icon.state-2 > .piece { decorator: gfx-tint(ItemDurability.17 0.7 77 46 0); }
+#durability .type-9 > .icon.state-3 > .piece { decorator: gfx-tint(ItemDurability.17 0.7 77 15 0); }
+#durability .type-9 > .icon.state-4 > .piece { decorator: gfx-tint(ItemDurability.17 0.7 53 0 24); }
+#durability .type-10 > .icon.state-0 > .piece { decorator: gfx-tint(ItemDurability.19 1 0 0 0); }
+#durability .type-10 > .icon.state-1 > .piece { decorator: gfx-tint(ItemDurability.19 0.7 77 77 0); }
+#durability .type-10 > .icon.state-2 > .piece { decorator: gfx-tint(ItemDurability.19 0.7 77 46 0); }
+#durability .type-10 > .icon.state-3 > .piece { decorator: gfx-tint(ItemDurability.19 0.7 77 15 0); }
+#durability .type-10 > .icon.state-4 > .piece { decorator: gfx-tint(ItemDurability.19 0.7 53 0 24); }
+#durability .ring-right.state-0 > .piece { decorator: gfx-tint(ItemDurability.22 1 0 0 0); }
+#durability .ring-right.state-1 > .piece { decorator: gfx-tint(ItemDurability.22 0.7 77 77 0); }
+#durability .ring-right.state-2 > .piece { decorator: gfx-tint(ItemDurability.22 0.7 77 46 0); }
+#durability .ring-right.state-3 > .piece { decorator: gfx-tint(ItemDurability.22 0.7 77 15 0); }
+#durability .ring-right.state-4 > .piece { decorator: gfx-tint(ItemDurability.22 0.7 53 0 24); }

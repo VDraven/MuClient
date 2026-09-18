@@ -1,0 +1,112 @@
+<rml>
+<head>
+    <!-- C++ presentation inputs. Authored here; read once before rendering. -->
+    <meta name="mu-design-RmlCharacterFramePanel-PanelWidth" content="327"/>
+    <meta name="mu-design-RmlCharacterFramePanel-PanelHeight" content="639"/>
+    <meta name="mu-design-RmlCharacterFramePanel-ReferenceWidth" content="640"/>
+    <meta name="mu-design-RmlCharacterFramePanel-ReferenceHeight" content="480"/>
+    <meta name="mu-design-RmlCharacterFramePanel-GfxStageWidth" content="1024"/>
+    <meta name="mu-design-RmlCharacterFramePanel-InitialX" content="639"/>
+    <meta name="mu-design-RmlCharacterFramePanel-InitialY" content="40"/>
+    <!-- End presentation inputs -->
+
+
+
+    <link type="text/rcss" href="../ui_assets.rcss" />
+    <title>MU Online Character Frame</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="character_frame.rcss"/>
+    <link type="text/rcss" href="character_frame_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="character_frame_gfx.generated.rcss"/>
+</head>
+<body>
+        <div id="character-frame" class="character-frame">
+        <div id="character-background" class="character-background">
+            <i class="character-background-top character-popup-01-1"/><i class="character-background-middle character-popup-bg01"/><i class="character-background-bottom character-popup-bg03"/>
+        </div>
+        <i class="character-centerline"/>
+
+        <div id="character-section-general" class="character-section-frame gfx-scale-grid-parts">
+            <i class="textbg01"/><i class="textbg02"/><i class="textbg03"/>
+            <i class="textbg04"/><i class="textbg05"/><i class="textbg06"/>
+            <i class="textbg07"/><i class="textbg08"/><i class="textbg09"/>
+        </div>
+        <div id="character-section-strength" class="character-section-frame gfx-scale-grid-parts">
+            <i class="textbg01"/><i class="textbg02"/><i class="textbg03"/>
+            <i class="textbg04"/><i class="textbg05"/><i class="textbg06"/>
+            <i class="textbg07"/><i class="textbg08"/><i class="textbg09"/>
+        </div>
+        <div id="character-section-dexterity" class="character-section-frame gfx-scale-grid-parts">
+            <i class="textbg01"/><i class="textbg02"/><i class="textbg03"/>
+            <i class="textbg04"/><i class="textbg05"/><i class="textbg06"/>
+            <i class="textbg07"/><i class="textbg08"/><i class="textbg09"/>
+        </div>
+        <div id="character-section-vitality" class="character-section-frame gfx-scale-grid-parts">
+            <i class="textbg01"/><i class="textbg02"/><i class="textbg03"/>
+            <i class="textbg04"/><i class="textbg05"/><i class="textbg06"/>
+            <i class="textbg07"/><i class="textbg08"/><i class="textbg09"/>
+        </div>
+        <div id="character-section-energy" class="character-section-frame gfx-scale-grid-parts">
+            <i class="textbg01"/><i class="textbg02"/><i class="textbg03"/>
+            <i class="textbg04"/><i class="textbg05"/><i class="textbg06"/>
+            <i class="textbg07"/><i class="textbg08"/><i class="textbg09"/>
+        </div>
+        <div id="character-section-charisma" class="character-section-frame gfx-scale-grid-parts">
+            <i class="textbg01"/><i class="textbg02"/><i class="textbg03"/>
+            <i class="textbg04"/><i class="textbg05"/><i class="textbg06"/>
+            <i class="textbg07"/><i class="textbg08"/><i class="textbg09"/>
+        </div>
+
+        <div id="character-field-level" class="character-field-frame"/>
+        <div id="character-field-class" class="character-field-frame"/>
+        <div id="character-field-server" class="character-field-frame"/>
+        <div id="character-field-points" class="character-field-frame"/>
+        <div id="character-field-stat-0" class="character-field-frame"/>
+        <div id="character-field-stat-1" class="character-field-frame"/>
+        <div id="character-field-stat-2" class="character-field-frame"/>
+        <div id="character-field-stat-3" class="character-field-frame"/>
+        <div id="character-field-stat-4" class="character-field-frame"/>
+        <i class="character-point"/>
+
+        <div id="character-title" class="MULabel Label_캐릭터명 character-text"/>
+        <div id="character-level-label" class="MULabel Label_레벨 mu-overflow-label character-text"/>
+        <div id="character-level" class="MULabel Label_레벨[] character-text"/>
+        <div id="character-class-label" class="MULabel Label_클래스 mu-overflow-label character-text"/>
+        <div id="character-class" class="MULabel Label_클래스[] character-text"/>
+        <div id="character-server-label" class="MULabel Label_서버 mu-overflow-label character-text"/>
+        <div id="character-server" class="MULabel Label_서버[] character-text"/>
+        <div id="character-experience" class="MUTextArea TextArea_생성 character-text character-detail"/>
+        <div id="character-point-label" class="MULabel Label_포인트 mu-overflow-label character-text"/>
+        <div id="character-points" class="MULabel Label_포인트[] character-text"/>
+
+        <div id="character-stat-label-0" class="MULabel Label_힘 mu-overflow-label character-text"/>
+        <div id="character-stat-value-0" class="MULabel Label_힘[] character-text"/>
+        <div id="character-detail-0" class="MUTextArea TextArea_힘 character-text character-detail"/>
+        <div id="character-stat-button-0" class="mu-button MuButton_statusUp"/>
+
+        <div id="character-stat-label-1" class="MULabel Label_민첩 mu-overflow-label character-text"/>
+        <div id="character-stat-value-1" class="MULabel Label_민첩[] character-text"/>
+        <div id="character-detail-1" class="MUTextArea TextArea_민첩 character-text character-detail"/>
+        <div id="character-stat-button-1" class="mu-button MuButton_statusUp"/>
+
+        <div id="character-stat-label-2" class="MULabel Label_체력 mu-overflow-label character-text"/>
+        <div id="character-stat-value-2" class="MULabel Label_체력[] character-text"/>
+        <div id="character-detail-2" class="MUTextArea TextArea_체력 character-text character-detail"/>
+        <div id="character-stat-button-2" class="mu-button MuButton_statusUp"/>
+
+        <div id="character-stat-label-3" class="MULabel Label_에너지 mu-overflow-label character-text"/>
+        <div id="character-stat-value-3" class="MULabel Label_에너지[] character-text"/>
+        <div id="character-detail-3" class="MUTextArea TextArea_에너지 character-text character-detail"/>
+        <div id="character-stat-button-3" class="mu-button MuButton_statusUp"/>
+
+        <div id="character-stat-label-4" class="MULabel Label_통솔 mu-overflow-label character-text"/>
+        <div id="character-stat-value-4" class="MULabel Label_통솔[] character-text"/>
+        <div id="character-stat-button-4" class="mu-button MuButton_statusUp"/>
+
+        <div id="character-pet" class="mu-button MuButton_S01"><span id="character-pet-label" class="mu-overflow-label"/></div>
+        <div id="character-master" class="mu-button MuButton_S01"><span id="character-master-label" class="mu-overflow-label"/></div>
+        <div id="character-drag" class="mu-button MuButton_Drag character-drag"/>
+        <div id="character-close" class="mu-button MuButton_Close"/>
+    </div>
+</body>
+</rml>

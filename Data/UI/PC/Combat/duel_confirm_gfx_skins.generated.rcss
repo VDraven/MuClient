@@ -1,0 +1,25 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#menu-art-8 > .piece-8 { decorator: image(duel.popupfield01); }
+#menu-art-8 > .piece-7 { decorator: image(duel.popupfield02); }
+#menu-art-8 > .piece-6 { decorator: image(duel.popupfield03); }
+#menu-art-8 > .piece-5 { decorator: image(duel.popupfield04); }
+#menu-art-8 > .piece-4 { decorator: image(duel.popupfield05); }
+#menu-art-8 > .piece-3 { decorator: image(duel.popupfield06); }
+#menu-art-8 > .piece-2 { decorator: image(duel.popupfield07); }
+#menu-art-8 > .piece-1 { decorator: image(duel.popupfield08); }
+#menu-art-8 > .piece-0 { decorator: image(duel.popupfield09); }
+#menu-art-7 > .piece-0 { decorator: image(duel.command_deco02); }
+#menu-art-6 > .piece-0 { decorator: image(duel.popup_line_m); }
+#menu-art-5 > .piece-0 { decorator: image(duel.popup_line_s); }
+#btnOk > .state-up > .piece-0 { decorator: image(duel.btn_m01); }
+#btnOk > .state-over > .piece-0 { decorator: image(duel.btn_m02); }
+#btnOk > .state-down > .piece-0 { decorator: image(duel.btn_m03); }
+#btnOk > .state-disabled > .piece-0 { decorator: image(duel.btn_m04); }
+#btnCancel > .state-up > .piece-0 { decorator: image(duel.btn_m01); }
+#btnCancel > .state-over > .piece-0 { decorator: image(duel.btn_m02); }
+#btnCancel > .state-down > .piece-0 { decorator: image(duel.btn_m03); }
+#btnCancel > .state-disabled > .piece-0 { decorator: image(duel.btn_m04); }
+#btnEnd > .state-up > .piece-0 { decorator: image(duel.btn_m01); }
+#btnEnd > .state-over > .piece-0 { decorator: image(duel.btn_m02); }
+#btnEnd > .state-down > .piece-0 { decorator: image(duel.btn_m03); }
+#btnEnd > .state-disabled > .piece-0 { decorator: image(duel.btn_m04); }

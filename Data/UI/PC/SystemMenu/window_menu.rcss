@@ -1,0 +1,7 @@
+body { width: 100%; height: 100%; margin: 0; overflow: hidden; font-family: Arial; }
+#menu, #menu div, #menu span, #menu i { position: absolute; box-sizing: border-box; }
+#menu .label, #menu .hotkey, #menu i, #frame { pointer-events: none; }
+#menu .mu-button { pointer-events: auto; }
+#menu .label { overflow: hidden; white-space: nowrap; }
+
+#menu .mu-overflow-label { pointer-events: auto; }

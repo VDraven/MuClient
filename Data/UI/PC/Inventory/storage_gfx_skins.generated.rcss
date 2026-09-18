@@ -1,0 +1,43 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-85-0 > .piece-0 { decorator: image(StorageInven.popup_01_1); }
+#art-85-0 > .piece-1 { decorator: image(StorageInven.popup_bg01); }
+#art-85-0 > .piece-2 { decorator: image(StorageInven.popup_bg03); }
+#art-86-0 > .piece-0 { decorator: image(StorageInven.invenframe_01); }
+#art-86-0 > .piece-1 { decorator: image(StorageInven.invenframe_02); }
+#art-86-0 > .piece-2 { decorator: image(StorageInven.invenframe_01); }
+#art-88-0 > .piece-0 { decorator: image(StorageInven.invenbg01); }
+#art-88-0 > .piece-1 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-2 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-3 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-4 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-5 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-6 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-7 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-8 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-9 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-10 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-11 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-12 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-13 { decorator: image(StorageInven.invenbg02); }
+#art-88-0 > .piece-14 { decorator: image(StorageInven.invenbg03); }
+#art-90-0 > .piece-0 { decorator: image(StorageInven.popup_line_s); }
+#mcCharge-art-92-0 { decorator: tiled-horizontal(StorageInven.textfield01, StorageInven.textfield02, StorageInven.textfield03); }
+#mcCharge-art-92-1 { decorator: tiled-horizontal(StorageInven.textfield01, StorageInven.textfield02, StorageInven.textfield03); }
+#mcCharge-art-94-0 > .piece-0 { decorator: image(StorageInven.point); }
+#mcCharge-art-94-1 > .piece-0 { decorator: image(StorageInven.point); }
+#mcPeriodStorage-art-94-0 > .piece-0 { decorator: image(StorageInven.point); }
+#mcPeriodStorage-art-92-0 { decorator: tiled-horizontal(StorageInven.textfield01, StorageInven.textfield02, StorageInven.textfield03); }
+.MuButton_Close { decorator: image(StorageInven.btn_close01); }
+.MuButton_Close.over, .MuButton_Close:hover { decorator: image(StorageInven.btn_close02); }
+.MuButton_Close.down, .MuButton_Close:active { decorator: image(StorageInven.btn_close03); }
+.MuButton_Close.disabled { decorator: image(StorageInven.btn_close04); }
+.MuButton_S01_textYellow { decorator: image(StorageInven.btn_s01); }
+.MuButton_S01_textYellow.over, .MuButton_S01_textYellow:hover { decorator: image(StorageInven.btn_s02); }
+.MuButton_S01_textYellow.down, .MuButton_S01_textYellow:active { decorator: image(StorageInven.btn_s03); }
+.MuButton_S01_textYellow.disabled { decorator: image(StorageInven.btn_s04); }
+.MuItemSlot_clear01.icon-frame-2 { decorator: image(StorageInven.02_inven_select3_2); }
+.MuItemSlot_clear01.icon-frame-3 { decorator: image(StorageInven.03_inven_select3_3); }
+.MuItemSlot_clear01.icon-frame-4 { decorator: image(StorageInven.04_inven_select3_4); }
+.MuItemSlot_clear01.icon-frame-5 { decorator: image(StorageInven.05_inven_select3_5); }
+.MuItemSlot_clear01.icon-frame-6 { decorator: image(StorageInven.06_inven_select3_5); }
+.MuItemSlot_clear01.icon-frame-7 { decorator: image(StorageInven.07_inven_select3_7); }

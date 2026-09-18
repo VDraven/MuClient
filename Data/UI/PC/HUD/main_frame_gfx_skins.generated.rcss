@@ -1,0 +1,68 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#main-shell > .Bitmap272 { decorator: image(main.Bitmap272); }
+#main-shell > .Bitmap267 { decorator: image(main.Bitmap267); }
+#main-shell > .Bitmap271 { decorator: image(main.Bitmap271); }
+#main-shell > .Bitmap268 { decorator: image(main.Bitmap268); }
+#main-shell > .Bitmap270 { decorator: image(main.Bitmap270); }
+#main-shell > .Bitmap266 { decorator: image(main.Bitmap266); }
+#main-shell > .Bitmap269 { decorator: image(main.Bitmap269); }
+#main-shell > .Bitmap273 { decorator: image(main.Bitmap273); }
+#main-hp-background { decorator: image(main.Bitmap261); }
+#main-hp { decorator: image(main.guege_hp-nopack); }
+#main-mp-background { decorator: image(main.Bitmap256); }
+#main-mp { decorator: image(main.guege_mp-nopack); }
+#main-hp.poisoned { decorator: image(main.guege_hp_green-nopack); }
+#main-sd { decorator: image(main.Bitmap197); }
+#main-sd-clip { decorator: image(main.Bitmap193); }
+#main-ag { decorator: image(main.Bitmap190); }
+#main-ag-clip { decorator: image(main.Bitmap193); }
+#main-exp.normal { decorator: image(main.Bitmap178); }
+#main-exp.master { decorator: image(main.Bitmap174); }
+#main-exp.fourth { decorator: image(main.Bitmap170); }
+#main-exp-frame { decorator: image(main.Bitmap182); }
+#main-current-selection { decorator: image(main.Bitmap86); }
+#main-hot-selection { decorator: image(main.Bitmap119); }
+.skill-page-labels.page-one > .Bitmap141 { decorator: image(main.Bitmap141); }
+.skill-page-labels.page-one > .Bitmap142 { decorator: image(main.Bitmap142); }
+.skill-page-labels.page-one > .Bitmap143 { decorator: image(main.Bitmap143); }
+.skill-page-labels.page-one > .Bitmap144 { decorator: image(main.Bitmap144); }
+.skill-page-labels.page-one > .Bitmap145 { decorator: image(main.Bitmap145); }
+.skill-page-labels.page-two > .Bitmap134 { decorator: image(main.Bitmap134); }
+.skill-page-labels.page-two > .Bitmap135 { decorator: image(main.Bitmap135); }
+.skill-page-labels.page-two > .Bitmap136 { decorator: image(main.Bitmap136); }
+.skill-page-labels.page-two > .Bitmap137 { decorator: image(main.Bitmap137); }
+.skill-page-labels.page-two > .Bitmap138 { decorator: image(main.Bitmap138); }
+.skill-page-toggle.to-second { decorator: image(main.Bitmap110); }
+.skill-page-toggle.to-second > .arrow { decorator: image(main.Bitmap112); }
+.skill-page-toggle.to-second.over > .arrow { decorator: image(main.Bitmap114); }
+.skill-page-toggle.to-second.down > .arrow { decorator: image(main.Bitmap116); }
+.skill-page-toggle.to-second.disabled > .arrow { decorator: image(main.Bitmap112); }
+.skill-page-toggle.to-first { decorator: image(main.Bitmap123); }
+.skill-page-toggle.to-first > .arrow { decorator: image(main.Bitmap125); }
+.skill-page-toggle.to-first.over > .arrow { decorator: image(main.Bitmap127); }
+.skill-page-toggle.to-first.down > .arrow { decorator: image(main.Bitmap129); }
+.skill-page-toggle.to-first.disabled > .arrow { decorator: image(main.Bitmap131); }
+.MuButton_mainFrame01 { decorator: image(main.Bitmap247); }
+.MuButton_mainFrame01.over { decorator: image(main.Bitmap249); }
+.MuButton_mainFrame01.down { decorator: image(main.Bitmap251); }
+.MuButton_mainFrame01.disabled { decorator: image(main.Bitmap253); }
+.MuButton_mainFrame02 { decorator: image(main.Bitmap238); }
+.MuButton_mainFrame02.over { decorator: image(main.Bitmap240); }
+.MuButton_mainFrame02.down { decorator: image(main.Bitmap242); }
+.MuButton_mainFrame02.disabled { decorator: image(main.Bitmap244); }
+.DropdownMenu_Frame03 { decorator: image(main.Bitmap229); }
+.DropdownMenu_Frame03.over { decorator: image(main.Bitmap231); }
+.DropdownMenu_Frame03.down { decorator: image(main.Bitmap233); }
+.DropdownMenu_Frame03.disabled { decorator: image(main.Bitmap235); }
+.MuButton_mainFrame04 { decorator: image(main.Bitmap220); }
+.MuButton_mainFrame04.over { decorator: image(main.Bitmap222); }
+.MuButton_mainFrame04.down { decorator: image(main.Bitmap224); }
+.MuButton_mainFrame04.disabled { decorator: image(main.Bitmap226); }
+.DropdownMenu_Frame05 { decorator: image(main.Bitmap211); }
+.DropdownMenu_Frame05.over { decorator: image(main.Bitmap213); }
+.DropdownMenu_Frame05.down { decorator: image(main.Bitmap215); }
+.DropdownMenu_Frame05.disabled { decorator: image(main.Bitmap217); }
+.DropdownMenu_Frame06 { decorator: image(main.Bitmap202); }
+.DropdownMenu_Frame06.over { decorator: image(main.Bitmap204); }
+.DropdownMenu_Frame06.down { decorator: image(main.Bitmap206); }
+.DropdownMenu_Frame06.disabled { decorator: image(main.Bitmap208); }

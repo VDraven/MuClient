@@ -1,0 +1,16 @@
+<rml><head>
+<meta name="mu-design-Panel-Size" content="327 639"/>
+<meta name="mu-design-Panel-Grids" content="60 163 26 26 60 410 26 26"/>
+<meta name="mu-design-Panel-Reference" content="640 480"/>
+<meta name="mu-design-Panel-Initial" content="21 40"/>
+<title>trade</title>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="trade.rcss"/>
+<link type="text/rcss" href="trade_gfx.generated.rcss"/>
+<link type="text/rcss" href="trade_gfx_skins.generated.rcss"/>
+</head><body><div id="panel"><div id="mcMyInvenBG" class="art"/>
+<div id="mcOtherInvenBG" class="art"/>
+<div id="tfOtherConfirm" class="mu-overflow-label label MULabel Label_거래확인"/>
+<div id="tfMyConfirm" class="mu-overflow-label label MULabel Label_거래확인"/>
+</div></body></rml>

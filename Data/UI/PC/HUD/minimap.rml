@@ -1,0 +1,38 @@
+<rml><head><title>Map</title>
+<meta name="mu-design-Map-InitialScaleX" content="2.25"/>
+<meta name="mu-design-Map-InitialScaleY" content="1.5"/>
+<meta name="mu-design-Map-InitialAlpha" content="55.0"/>
+<meta name="mu-design-Map-CenterYOffset" content="30.0"/>
+<meta name="mu-design-Map-HelpDelayMs" content="6000.0"/>
+<meta name="mu-design-Map-HelpFadeSeconds" content="1.6"/>
+<meta name="mu-design-Map-SmallScale" content="0.83"/>
+<meta name="mu-design-Map-MaskSize" content="800.0 600.0"/>
+<meta name="mu-design-Map-RotationMatrix" content="0.7070770263671875 0.707061767578125 -0.707061767578125 0.7070770263671875"/>
+<meta name="mu-design-Map-FrameRate" content="24.0"/>
+<meta name="mu-design-Map-AlphaStep" content="25.0"/>
+<meta name="mu-design-Map-AlphaMin" content="25.0"/>
+<meta name="mu-design-Map-AlphaMax" content="85.0"/>
+<meta name="mu-design-Map-ScaleStep" content="25.0"/>
+<meta name="mu-design-Map-ScaleMin" content="125.0"/>
+<meta name="mu-design-Map-ScaleMax" content="350.0"/>
+<meta name="mu-design-Map-ImageAlphaFactor" content="0.7"/>
+<meta name="mu-design-Map-IconAlphaOffset" content="15.0"/>
+<meta name="mu-design-Map-SmallStageHeight" content="700.0"/>
+<meta name="mu-design-Map-NameScale" content="150.0"/>
+<meta name="mu-design-Map-IconRotation" content="-45.0 -45.0"/>
+<meta name="mu-design-Map-LabelExtra" content="5.0"/>
+<meta name="mu-design-Map-HelpFadeCurve" content="1.001 2.0 -10.0"/>
+<meta name="mu-design-Map-HeroFrames" content="30"/>
+<meta name="mu-design-Map-PortalGrid" content="28.25 81.25"/>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="minimap.rcss"/>
+<link type="text/rcss" href="hud_map_gfx.generated.rcss"/>
+<link type="text/rcss" href="hud_map_hero.generated.rcss"/>
+</head><body><div id="map-root"><div id="map-host"/>
+<div id="map-hero"><i class="hud-map-image-78"/></div>
+<div id="map-help" class="hud-map-image-60"><div id="txAlphaDownKey" class="map-key"><div class="map-key-content labelMapHotlKey"><i class="hud-map-image-56"/><span class="MULabel mu-overflow-label textField">[</span></div></div><div id="txAlphaUpKey" class="map-key"><div class="map-key-content labelMapHotlKey"><i class="hud-map-image-56"/><span class="MULabel mu-overflow-label textField">]</span></div></div><div id="txSizeDownKey" class="map-key"><div class="map-key-content labelMapHotlKey"><i class="hud-map-image-56"/><span class="MULabel mu-overflow-label textField">-</span></div></div><div id="txSizeUpKey" class="map-key"><div class="map-key-content labelMapHotlKey"><i class="hud-map-image-56"/><span class="MULabel mu-overflow-label textField">+</span></div></div><div id="txAlphaControl" class="MULabel">Opacity</div><div id="txAlphaDownText" class="MULabel">Less</div><div id="txAlphaUpText" class="MULabel">More</div><div id="txSizeControl" class="MULabel">Zoom</div><div id="txSizeDownText" class="MULabel">Out</div><div id="txSizeUpText" class="MULabel">In</div></div>
+<div id="map-prototypes"><div id="npc-label" class="MULabel mu-overflow-label label_NpcName"/>
+<div id="portal-label" class="MULabel mu-overflow-label label_portal"/><div id="portal-origin"/><div id="npc-origin"/>
+<i id="map-art-40" class="hud-map-image-40"/><i id="map-art-23" class="hud-map-image-23"/><i id="map-art-24" class="hud-map-image-24"/><i id="map-art-25" class="hud-map-image-25"/><i id="map-art-26" class="hud-map-image-26"/>
+</div></div></body></rml>

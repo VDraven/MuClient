@@ -1,0 +1,22 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#panel-art-4 > .piece-12 { decorator: image(CursedTempleinfo.hwan_minimapbg_1); }
+#panel-art-4 > .piece-11 { decorator: image(CursedTempleinfo.textfield01); }
+#panel-art-4 > .piece-10 { decorator: image(CursedTempleinfo.textfield02); }
+#panel-art-4 > .piece-9 { decorator: image(CursedTempleinfo.textfield03); }
+#panel-art-4 > .piece-8 { decorator: image(CursedTempleinfo.textfield01); }
+#panel-art-4 > .piece-7 { decorator: image(CursedTempleinfo.textfield02); }
+#panel-art-4 > .piece-6 { decorator: image(CursedTempleinfo.textfield03); }
+#panel-art-4 > .piece-5 { decorator: image(CursedTempleinfo.textfield01); }
+#panel-art-4 > .piece-4 { decorator: image(CursedTempleinfo.textfield02); }
+#panel-art-4 > .piece-3 { decorator: image(CursedTempleinfo.textfield03); }
+#panel-art-4 > .piece-2 { decorator: image(CursedTempleinfo.clock); }
+#panel-art-4 > .piece-1 { decorator: image(CursedTempleinfo.whanyoung); }
+#panel-art-4 > .piece-0 { decorator: image(CursedTempleinfo.mucombined); }
+#ssMapSkillSlot0-mcSelected > .piece-0 { decorator: image(CursedTempleinfo.item_select); }
+#ssMapSkillSlot0-mcSelected2 > .piece-0 { decorator: image(CursedTempleinfo.item_select_1); }
+#ssMapSkillSlot1-mcSelected > .piece-0 { decorator: image(CursedTempleinfo.item_select); }
+#ssMapSkillSlot1-mcSelected2 > .piece-0 { decorator: image(CursedTempleinfo.item_select_1); }
+#ssMapSkillSlot2-mcSelected > .piece-0 { decorator: image(CursedTempleinfo.item_select); }
+#ssMapSkillSlot2-mcSelected2 > .piece-0 { decorator: image(CursedTempleinfo.item_select_1); }
+#ssMapSkillSlot3-mcSelected > .piece-0 { decorator: image(CursedTempleinfo.item_select); }
+#ssMapSkillSlot3-mcSelected2 > .piece-0 { decorator: image(CursedTempleinfo.item_select_1); }

@@ -1,0 +1,149 @@
+{
+  "world": "World52",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World52_spn.bmd",
+  "sourceSha256": "0b878ea42077b6f882dd0d3ae24823068e2b0bf5f7aa7622818a4bd29dad9ace",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 51,
+      "y": 229,
+      "rotation": 45,
+      "name": "Guardián de Seguridad",
+      "npcNumber": 240,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 37,
+      "y": 242,
+      "rotation": 45,
+      "name": "Lahap",
+      "npcNumber": 256,
+      "index": 1
+    },
+    {
+      "kind": "npc",
+      "x": 44,
+      "y": 189,
+      "rotation": 135,
+      "name": "Soldado Fantasma de la Sombra",
+      "npcNumber": 257,
+      "index": 2
+    },
+    {
+      "kind": "npc",
+      "x": 57,
+      "y": 231,
+      "rotation": 45,
+      "name": "Soldado Fantasma de la Sombra",
+      "npcNumber": 257,
+      "index": 3
+    },
+    {
+      "kind": "npc",
+      "x": 55,
+      "y": 243,
+      "rotation": 45,
+      "name": "Espejismo",
+      "npcNumber": 385,
+      "index": 4
+    },
+    {
+      "kind": "npc",
+      "x": 44,
+      "y": 229,
+      "rotation": 45,
+      "name": "Silvia",
+      "npcNumber": 415,
+      "index": 5
+    },
+    {
+      "kind": "npc",
+      "x": 29,
+      "y": 237,
+      "rotation": 90,
+      "name": "Rhea",
+      "npcNumber": 416,
+      "index": 6
+    },
+    {
+      "kind": "npc",
+      "x": 37,
+      "y": 218,
+      "rotation": 45,
+      "name": "Marce",
+      "npcNumber": 417,
+      "index": 7
+    },
+    {
+      "kind": "npc",
+      "x": 45,
+      "y": 243,
+      "rotation": 45,
+      "name": "Amo de Simientes",
+      "npcNumber": 452,
+      "index": 8
+    },
+    {
+      "kind": "npc",
+      "x": 49,
+      "y": 243,
+      "rotation": 45,
+      "name": "Investigador de Simientes",
+      "npcNumber": 453,
+      "index": 9
+    },
+    {
+      "kind": "npc",
+      "x": 22,
+      "y": 225,
+      "rotation": 90,
+      "name": "Moss",
+      "npcNumber": 492,
+      "index": 10
+    },
+    {
+      "kind": "npc",
+      "x": 49,
+      "y": 216,
+      "rotation": 90,
+      "name": "Lugard",
+      "npcNumber": 540,
+      "index": 11
+    },
+    {
+      "kind": "npc",
+      "x": 20,
+      "y": 214,
+      "rotation": 135,
+      "name": "David",
+      "npcNumber": 579,
+      "index": 12
+    },
+    {
+      "index": 13,
+      "kind": "portal",
+      "x": 248,
+      "y": 149,
+      "rotation": 45,
+      "name": "Entrada a Atlans"
+    },
+    {
+      "index": 14,
+      "kind": "portal",
+      "x": 19,
+      "y": 27,
+      "rotation": 225,
+      "name": "Entrada a Devias"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

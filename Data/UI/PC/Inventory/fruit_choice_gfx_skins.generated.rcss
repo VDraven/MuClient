@@ -1,0 +1,30 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#menu-art-7 > .piece-0 { decorator: image(CautionS9.popupfield01); }
+#menu-art-7 > .piece-1 { decorator: image(CautionS9.popupfield02); }
+#menu-art-7 > .piece-2 { decorator: image(CautionS9.popupfield03); }
+#menu-art-7 > .piece-3 { decorator: image(CautionS9.popupfield04); }
+#menu-art-7 > .piece-4 { decorator: image(CautionS9.popupfield05); }
+#menu-art-7 > .piece-5 { decorator: image(CautionS9.popupfield06); }
+#menu-art-7 > .piece-6 { decorator: image(CautionS9.popupfield07); }
+#menu-art-7 > .piece-7 { decorator: image(CautionS9.popupfield08); }
+#menu-art-7 > .piece-8 { decorator: image(CautionS9.popupfield09); }
+#btnFruitOk > .state-up > .piece-0 { decorator: image(CautionS9.btn_m01); }
+#btnFruitOk > .state-over > .piece-0 { decorator: image(CautionS9.btn_m02); }
+#btnFruitOk > .state-down > .piece-0 { decorator: image(CautionS9.btn_m03); }
+#btnFruitOk > .state-disabled > .piece-0 { decorator: image(CautionS9.btn_m04); }
+#btnFruitCancel > .state-up > .piece-0 { decorator: image(CautionS9.btn_m01); }
+#btnFruitCancel > .state-over > .piece-0 { decorator: image(CautionS9.btn_m02); }
+#btnFruitCancel > .state-down > .piece-0 { decorator: image(CautionS9.btn_m03); }
+#btnFruitCancel > .state-disabled > .piece-0 { decorator: image(CautionS9.btn_m04); }
+#btnStatCancel > .state-up > .piece-0 { decorator: image(CautionS9.btn_m01); }
+#btnStatCancel > .state-over > .piece-0 { decorator: image(CautionS9.btn_m02); }
+#btnStatCancel > .state-down > .piece-0 { decorator: image(CautionS9.btn_m03); }
+#btnStatCancel > .state-disabled > .piece-0 { decorator: image(CautionS9.btn_m04); }
+#btnStatUp > .state-up > .piece-0 { decorator: image(CautionS9.btn_m01); }
+#btnStatUp > .state-over > .piece-0 { decorator: image(CautionS9.btn_m02); }
+#btnStatUp > .state-down > .piece-0 { decorator: image(CautionS9.btn_m03); }
+#btnStatUp > .state-disabled > .piece-0 { decorator: image(CautionS9.btn_m04); }
+#btnStatDown > .state-up > .piece-0 { decorator: image(CautionS9.btn_m01); }
+#btnStatDown > .state-over > .piece-0 { decorator: image(CautionS9.btn_m02); }
+#btnStatDown > .state-down > .piece-0 { decorator: image(CautionS9.btn_m03); }
+#btnStatDown > .state-disabled > .piece-0 { decorator: image(CautionS9.btn_m04); }

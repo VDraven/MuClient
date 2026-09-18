@@ -1,0 +1,14 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.s16-caution-frame {
+    decorator: tiled-box(
+        FriendWindow.popupfield01, FriendWindow.popupfield02, FriendWindow.popupfield03,
+        FriendWindow.popupfield04, FriendWindow.popupfield05, FriendWindow.popupfield06,
+        FriendWindow.popupfield07, FriendWindow.popupfield08, FriendWindow.popupfield09
+    );
+}
+.s16-caution-divider { decorator: image(PetInfo.popup_line_m); }
+.s16-caution-bottom-divider { decorator: image(PetInfo.popup_line_s); }
+.s16-caution-button { decorator: image(FriendMenu.btn_l01); }
+.s16-caution-button.over, .s16-caution-button:hover { decorator: image(FriendMenu.btn_l02); }
+.s16-caution-button.down, .s16-caution-button:active { decorator: image(FriendMenu.btn_l03); }
+.s16-caution-button.disabled, .s16-caution-button:disabled { decorator: image(FriendMenu.btn_l04); }

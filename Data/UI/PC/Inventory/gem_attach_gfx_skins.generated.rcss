@@ -1,0 +1,56 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#menu-art-15 > .piece-0 { decorator: image(MixStone.popupfield01); }
+#menu-art-15 > .piece-1 { decorator: image(MixStone.popupfield02); }
+#menu-art-15 > .piece-2 { decorator: image(MixStone.popupfield03); }
+#menu-art-15 > .piece-3 { decorator: image(MixStone.popupfield04); }
+#menu-art-15 > .piece-4 { decorator: image(MixStone.popupfield05); }
+#menu-art-15 > .piece-5 { decorator: image(MixStone.popupfield06); }
+#menu-art-15 > .piece-6 { decorator: image(MixStone.popupfield07); }
+#menu-art-15 > .piece-7 { decorator: image(MixStone.popupfield08); }
+#menu-art-15 > .piece-8 { decorator: image(MixStone.popupfield09); }
+#menu-art-14 > .piece-0 { decorator: image(MixStone.popup_line_m); }
+#menu-art-13 > .piece-0 { decorator: image(MixStone.popup_line_s); }
+#btnAttachClose > .state-up > .piece-0 { decorator: image(MixStone.btn_s01); }
+#btnAttachClose > .state-over > .piece-0 { decorator: image(MixStone.btn_s02); }
+#btnAttachClose > .state-down > .piece-0 { decorator: image(MixStone.btn_s03); }
+#btnAttachClose > .state-disabled > .piece-0 { decorator: image(MixStone.btn_s04); }
+#btnAttach1 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnAttach1 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnAttach1 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnAttach1 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnAttach2 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnAttach2 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnAttach2 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnAttach2 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnAttach3 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnAttach3 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnAttach3 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnAttach3 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnAttach4 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnAttach4 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnAttach4 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnAttach4 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnAttach5 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnAttach5 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnAttach5 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnAttach5 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnAttach6 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnAttach6 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnAttach6 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnAttach6 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnAttach7 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnAttach7 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnAttach7 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnAttach7 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnAttach8 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnAttach8 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnAttach8 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnAttach8 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnAttach9 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnAttach9 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnAttach9 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnAttach9 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnAttach10 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnAttach10 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnAttach10 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnAttach10 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }

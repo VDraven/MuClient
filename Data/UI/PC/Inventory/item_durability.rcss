@@ -1,0 +1,7 @@
+body { margin: 0; width: 100%; height: 100%; overflow: hidden; font-family: Arial; }
+#durability, #durability div, #durability i { position: absolute; }
+#durability .icon, #durability .ring-right, #durability i { pointer-events: none; }
+#durability .ring-right { display: none; }
+#durability .type-10 .ring-right { display: block; }
+/* Existing ammunition counter has no symbol in ItemDurability; retained as native Rml text. */
+#ammunition { position: absolute; left: 2px; top: 26px; font-size: 12px; line-height: 14px; color: #ffa000; background-color: #000000b4; }

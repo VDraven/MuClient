@@ -1,0 +1,1014 @@
+{
+  "schema": 1,
+  "separateTextures": true,
+  "maps": [
+    {
+      "world": "World1",
+      "assetSet": 1,
+      "layout": "World1/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World1/mini_map.OZT",
+      "sourceSha256": "e91a3c9588116d5e0e2f5073b1b124cc4839a95ac2eaf14453cc38397d1ad72b",
+      "rgbaSha256": "772ee9a0ed95f174b2bae1748adb9072d04f15086b50f9ee4bf18c72921cb512",
+      "positionSets": [
+        {
+          "file": "World1/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World1_eng.bmd",
+          "markers": 23,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World1/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World1_eng.bmd",
+          "markers": 20
+        },
+        {
+          "file": "World1/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World1_por.bmd",
+          "markers": 23,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World1/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World1_spn.bmd",
+          "markers": 23,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World1/positions.legacy.json",
+          "language": null,
+          "source": "World1/Minimap.bmd",
+          "markers": 20
+        }
+      ],
+      "defaultPositions": "World1/positions.eng.json"
+    },
+    {
+      "world": "World2",
+      "assetSet": 2,
+      "layout": "World2/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World2/mini_map.OZT",
+      "sourceSha256": "c805e1536df259f53736f12cc6acc662634063dca99fb1084d3ac33af28e4830",
+      "rgbaSha256": "5f9382dd775de19f659f1b2afea27567deaff533cc26db15f34c99cb3f9ff0be",
+      "positionSets": [
+        {
+          "file": "World2/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World2_eng.bmd",
+          "markers": 7,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World2/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World2_eng.bmd",
+          "markers": 7
+        },
+        {
+          "file": "World2/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World2_por.bmd",
+          "markers": 7,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World2/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World2_spn.bmd",
+          "markers": 7,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World2/positions.legacy.json",
+          "language": null,
+          "source": "World2/Minimap.bmd",
+          "markers": 7
+        }
+      ],
+      "defaultPositions": "World2/positions.eng.json"
+    },
+    {
+      "world": "World3",
+      "assetSet": 3,
+      "layout": "World3/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World3/mini_map.OZT",
+      "sourceSha256": "ed32dcc31545468a81c5aaeaf63ee36fb62130af8b0a2c260adcec8a6717bca9",
+      "rgbaSha256": "7d90dbf1fe87db559199c0189dafffeaca81792d17e87d1038bb205e9a514a14",
+      "positionSets": [
+        {
+          "file": "World3/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World3_eng.bmd",
+          "markers": 25,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World3/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World3_eng.bmd",
+          "markers": 15
+        },
+        {
+          "file": "World3/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World3_por.bmd",
+          "markers": 25,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World3/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World3_spn.bmd",
+          "markers": 25,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World3/positions.legacy.json",
+          "language": null,
+          "source": "World3/Minimap.bmd",
+          "markers": 16
+        }
+      ],
+      "defaultPositions": "World3/positions.eng.json"
+    },
+    {
+      "world": "World4",
+      "assetSet": 4,
+      "layout": "World4/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World4/mini_map.OZT",
+      "sourceSha256": "c8297ded98fee40c57b5a8858784572fba7931a14005058f03c1a54bda439116",
+      "rgbaSha256": "19ea11d8f0babe32ab1b0c2977ac62a9c87c43086f1b12922d194b249611a8ba",
+      "positionSets": [
+        {
+          "file": "World4/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World4_eng.bmd",
+          "markers": 14,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World4/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World4_eng.bmd",
+          "markers": 12
+        },
+        {
+          "file": "World4/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World4_por.bmd",
+          "markers": 14,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World4/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World4_spn.bmd",
+          "markers": 14,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World4/positions.legacy.json",
+          "language": null,
+          "source": "World4/Minimap.bmd",
+          "markers": 12
+        }
+      ],
+      "defaultPositions": "World4/positions.eng.json"
+    },
+    {
+      "world": "World5",
+      "assetSet": 5,
+      "layout": "World5/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World5/mini_map.OZT",
+      "sourceSha256": "fb3e7811a940f2c78288074f5939db4fdc8c4980931ab404f2fd94a0320cb8ab",
+      "rgbaSha256": "f0e2b24085001c8a2574d776461688bfc9d3ed2db48c28e9a63631d8037021c4",
+      "positionSets": [
+        {
+          "file": "World5/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World5_eng.bmd",
+          "markers": 10,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World5/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World5_eng.bmd",
+          "markers": 8
+        },
+        {
+          "file": "World5/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World5_por.bmd",
+          "markers": 10,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World5/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World5_spn.bmd",
+          "markers": 10,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World5/positions.legacy.json",
+          "language": null,
+          "source": "World5/Minimap.bmd",
+          "markers": 8
+        }
+      ],
+      "defaultPositions": "World5/positions.eng.json"
+    },
+    {
+      "world": "World8",
+      "assetSet": 8,
+      "layout": "World8/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World8/mini_map.OZT",
+      "sourceSha256": "0a3a3f6c94ef84352e2d08b62a9644eb5653a466c860400eb592f5646417de61",
+      "rgbaSha256": "b69a15f18755f45578085bfe5f174f44d910ad8f8aa464cfd55f7d6f98a0f2db",
+      "positionSets": [
+        {
+          "file": "World8/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World8_eng.bmd",
+          "markers": 4,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World8/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World8_eng.bmd",
+          "markers": 3
+        },
+        {
+          "file": "World8/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World8_por.bmd",
+          "markers": 4,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World8/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World8_spn.bmd",
+          "markers": 4,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World8/positions.legacy.json",
+          "language": null,
+          "source": "World8/Minimap.bmd",
+          "markers": 3
+        }
+      ],
+      "defaultPositions": "World8/positions.eng.json"
+    },
+    {
+      "world": "World9",
+      "assetSet": 9,
+      "layout": "World9/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World9/mini_map.OZT",
+      "sourceSha256": "3ce40cc6cd38fcf206cdc831b7824a623995e51eb9fc1ec6dca0f73d43aef64e",
+      "rgbaSha256": "29c1fc76738837d05940a2b67cda4d52140e8a5e3578a5a6a486ed13504fdd9c",
+      "positionSets": [
+        {
+          "file": "World9/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World9_eng.bmd",
+          "markers": 2,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World9/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World9_eng.bmd",
+          "markers": 2
+        },
+        {
+          "file": "World9/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World9_por.bmd",
+          "markers": 2,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World9/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World9_spn.bmd",
+          "markers": 2,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World9/positions.legacy.json",
+          "language": null,
+          "source": "World9/Minimap.bmd",
+          "markers": 2
+        }
+      ],
+      "defaultPositions": "World9/positions.eng.json"
+    },
+    {
+      "world": "World11",
+      "assetSet": 11,
+      "layout": "World11/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World11/mini_map.OZT",
+      "sourceSha256": "6d30fce11f845a1ef6cb598f87f092aca6711f0a33450f2a1d2a37bac9897275",
+      "rgbaSha256": "6a71ffa2889c08a8bfc0868ea6ff8089728a03156a3a0e53f0d47f31fe9d821f",
+      "positionSets": [
+        {
+          "file": "World11/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World11_eng.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World11/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World11_eng.bmd",
+          "markers": 1
+        },
+        {
+          "file": "World11/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World11_por.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World11/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World11_spn.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World11/positions.legacy.json",
+          "language": null,
+          "source": "World11/Minimap.bmd",
+          "markers": 1
+        }
+      ],
+      "defaultPositions": "World11/positions.eng.json"
+    },
+    {
+      "world": "World32",
+      "assetSet": 32,
+      "layout": "World32/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World32/mini_map.OZT",
+      "sourceSha256": "778f2b8917d92eb5c9803d1f44ef7458ac14dbc841621457060c2a0c38072ec0",
+      "rgbaSha256": "653f463e840088a19bd11f42586891a7879b19dc1fb93d5dfba78abda55eb242",
+      "positionSets": [
+        {
+          "file": "World32/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World32_eng.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World32/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World32_eng.bmd",
+          "markers": 1
+        },
+        {
+          "file": "World32/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World32_por.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World32/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World32_spn.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World32/positions.legacy.json",
+          "language": null,
+          "source": "World32/Minimap.bmd",
+          "markers": 1
+        }
+      ],
+      "defaultPositions": "World32/positions.eng.json"
+    },
+    {
+      "world": "World34",
+      "assetSet": 34,
+      "layout": "World34/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World34/mini_map.OZT",
+      "sourceSha256": "0f9935f5ca522e32f90e979ed70d71e27a887ab282c62a8fec436e3648a822b6",
+      "rgbaSha256": "18f2eb6c734f99c7bd2477e7c5494d0f91f9fdd28310c65fe12551fe9b98de5c",
+      "positionSets": [
+        {
+          "file": "World34/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World34_eng.bmd",
+          "markers": 4,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World34/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World34_eng.bmd",
+          "markers": 3
+        },
+        {
+          "file": "World34/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World34_por.bmd",
+          "markers": 4,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World34/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World34_spn.bmd",
+          "markers": 4,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World34/positions.legacy.json",
+          "language": null,
+          "source": "World34/Minimap.bmd",
+          "markers": 4
+        }
+      ],
+      "defaultPositions": "World34/positions.eng.json"
+    },
+    {
+      "world": "World35",
+      "assetSet": 35,
+      "layout": "World35/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World35/mini_map.OZT",
+      "sourceSha256": "e97f9acf934ca7bc12ad7cceb160af0d00528075165d6ebe56a40dba864f76e6",
+      "rgbaSha256": "53cb97b3e0fbaae3527c336ea46e28ff9ebba5abfd1d92f91cc66a848f1ce9df",
+      "positionSets": [
+        {
+          "file": "World35/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World35_eng.bmd",
+          "markers": 8,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World35/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World35_eng.bmd",
+          "markers": 9
+        },
+        {
+          "file": "World35/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World35_por.bmd",
+          "markers": 8,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World35/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World35_spn.bmd",
+          "markers": 8,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World35/positions.legacy.json",
+          "language": null,
+          "source": "World35/Minimap.bmd",
+          "markers": 9
+        }
+      ],
+      "defaultPositions": "World35/positions.eng.json"
+    },
+    {
+      "world": "World38",
+      "assetSet": 38,
+      "layout": "World38/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World38/mini_map.OZT",
+      "sourceSha256": "3bae5e601fb21a868182f3e38caf58881b564039467a4011e461924e6f092cda",
+      "rgbaSha256": "71ad8a21f8f9256b4dcba8735850f89de05c1442954face55d8fdf14c4b377cd",
+      "positionSets": [
+        {
+          "file": "World38/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World38_eng.bmd",
+          "markers": 2,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World38/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World38_eng.bmd",
+          "markers": 2
+        },
+        {
+          "file": "World38/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World38_por.bmd",
+          "markers": 2,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World38/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World38_spn.bmd",
+          "markers": 2,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World38/positions.legacy.json",
+          "language": null,
+          "source": "World38/Minimap.bmd",
+          "markers": 2
+        }
+      ],
+      "defaultPositions": "World38/positions.eng.json"
+    },
+    {
+      "world": "World39",
+      "assetSet": 39,
+      "layout": "World39/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World39/mini_map.OZT",
+      "sourceSha256": "d84d9f4346ceedba63361e589d14398e2e7f265ed36cab03056b1ff64b6f3e7d",
+      "rgbaSha256": "38d8b886596f4e2d3e8c156092ee3576a9e435f63619c692529504e7c3e515e5",
+      "positionSets": [
+        {
+          "file": "World39/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World39_eng.bmd",
+          "markers": 3,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World39/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World39_eng.bmd",
+          "markers": 2
+        },
+        {
+          "file": "World39/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World39_por.bmd",
+          "markers": 3,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World39/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World39_spn.bmd",
+          "markers": 3,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World39/positions.legacy.json",
+          "language": null,
+          "source": "World39/Minimap.bmd",
+          "markers": 2
+        }
+      ],
+      "defaultPositions": "World39/positions.eng.json"
+    },
+    {
+      "world": "World42",
+      "assetSet": 42,
+      "layout": "World42/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World42/mini_map.OZT",
+      "sourceSha256": "11ae10677f600dead347148372806c93b07b875f9d7e66bbac24b48f0fd042bd",
+      "rgbaSha256": "aac54cebe3fb4c34ff5b6c1507382b88c9747de84f485c168ac41d156a816fd5",
+      "positionSets": [
+        {
+          "file": "World42/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World42_eng.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World42/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World42_eng.bmd",
+          "markers": 1
+        },
+        {
+          "file": "World42/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World42_por.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World42/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World42_spn.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World42/positions.legacy.json",
+          "language": null,
+          "source": "World42/Minimap.bmd",
+          "markers": 1
+        }
+      ],
+      "defaultPositions": "World42/positions.eng.json"
+    },
+    {
+      "world": "World52",
+      "assetSet": 52,
+      "layout": "World52/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World52/mini_map.OZT",
+      "sourceSha256": "3ebbe9443c6bcf5a8c55aaed5c3b2cb96065e5e1122001c9c04846338cf3612b",
+      "rgbaSha256": "38486044be918355a72d52aeaaf851fc70404c579201fc506f9cc2faef6d1077",
+      "positionSets": [
+        {
+          "file": "World52/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World52_eng.bmd",
+          "markers": 15,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World52/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World52_eng.bmd",
+          "markers": 15
+        },
+        {
+          "file": "World52/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World52_por.bmd",
+          "markers": 15,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World52/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World52_spn.bmd",
+          "markers": 15,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World52/positions.legacy.json",
+          "language": null,
+          "source": "World52/Minimap.bmd",
+          "markers": 16
+        }
+      ],
+      "defaultPositions": "World52/positions.eng.json"
+    },
+    {
+      "world": "World57",
+      "assetSet": 57,
+      "layout": "World57/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World57/mini_map.OZT",
+      "sourceSha256": "24795fb3bc3f197bd876510cec95b27399b85928ba77a08920ab7a6671b29321",
+      "rgbaSha256": "0bd8da2201fec3b69f67bb1dbdc6c913578b9d90dd20f67aa9ebcf7e1bfdd81f",
+      "positionSets": [
+        {
+          "file": "World57/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World57_eng.bmd",
+          "markers": 8,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World57/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World57_eng.bmd",
+          "markers": 8
+        },
+        {
+          "file": "World57/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World57_por.bmd",
+          "markers": 8,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World57/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World57_spn.bmd",
+          "markers": 8,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World57/positions.legacy.json",
+          "language": null,
+          "source": "World57/Minimap.bmd",
+          "markers": 8
+        }
+      ],
+      "defaultPositions": "World57/positions.eng.json"
+    },
+    {
+      "world": "World58",
+      "assetSet": 58,
+      "layout": "World58/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World58/mini_map.OZT",
+      "sourceSha256": "a871201b9d8a942d601c252b85c4e7b88a69625a26b0c02091cbaff335bd726b",
+      "rgbaSha256": "414120b395d98e1735bdfd46437489ff4ad61d3bb4e5507649049a45c3801c14",
+      "positionSets": [
+        {
+          "file": "World58/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World58_eng.bmd",
+          "markers": 2,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World58/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World58_eng.bmd",
+          "markers": 2
+        },
+        {
+          "file": "World58/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World58_por.bmd",
+          "markers": 2,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World58/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World58_spn.bmd",
+          "markers": 2,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World58/positions.legacy.json",
+          "language": null,
+          "source": "World58/Minimap.bmd",
+          "markers": 2
+        }
+      ],
+      "defaultPositions": "World58/positions.eng.json"
+    },
+    {
+      "world": "World64",
+      "assetSet": 64,
+      "layout": "World64/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World64/mini_map.OZT",
+      "sourceSha256": "b75ea0404f18045f6b33f6347a31587fea03b152fbc4f6994b41cb9d05601600",
+      "rgbaSha256": "ea4b39f708042c528ab0fc8546299b07903545e8aead0de860f75e6533dde3b4",
+      "positionSets": [
+        {
+          "file": "World64/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World64_eng.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World64/positions.por.eng.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World64_eng.bmd",
+          "markers": 1
+        },
+        {
+          "file": "World64/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World64_por.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World64/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World64_spn.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World64/positions.legacy.json",
+          "language": null,
+          "source": "World64/Minimap.bmd",
+          "markers": 1
+        }
+      ],
+      "defaultPositions": "World64/positions.eng.json"
+    },
+    {
+      "world": "World81",
+      "assetSet": 81,
+      "layout": "World81/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World81/mini_map.OZT",
+      "sourceSha256": "efe2b743c8ed797deb32bdc0b40e8534fe8e23b7ffd7d43aaffe93ecedca4370",
+      "rgbaSha256": "7776353c2f02063c8ea62fd753497ee417e6a14516d8d9aed78d7a6d551af2f6",
+      "positionSets": [
+        {
+          "file": "World81/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World81_eng.bmd",
+          "markers": 7,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World81/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World81_por.bmd",
+          "markers": 7,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World81/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World81_spn.bmd",
+          "markers": 7,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World81/positions.legacy.json",
+          "language": null,
+          "source": "World81/Minimap.bmd",
+          "markers": 7
+        }
+      ],
+      "defaultPositions": "World81/positions.eng.json"
+    },
+    {
+      "world": "World82",
+      "assetSet": 82,
+      "layout": "World82/layout.tga",
+      "size": [
+        1024,
+        1024
+      ],
+      "source": "World82/mini_map.OZT",
+      "sourceSha256": "2d8ac9829919cfe4dc46c6e97594a6d4172724d3a38ce129a194fc5b7d98b183",
+      "rgbaSha256": "37cad88c09a53c01caac0d47f23ea40472f9e53677a6da4ae8274fbfbcabd92f",
+      "positionSets": [
+        {
+          "file": "World82/positions.eng.json",
+          "language": "eng",
+          "source": "Local/Eng/Minimap/Minimap_World82_eng.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World82/positions.por.json",
+          "language": "por",
+          "source": "Local/Por/Minimap/Minimap_World82_por.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World82/positions.spn.json",
+          "language": "spn",
+          "source": "Local/Spn/Minimap/Minimap_World82_spn.bmd",
+          "markers": 1,
+          "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+          "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+        },
+        {
+          "file": "World82/positions.legacy.json",
+          "language": null,
+          "source": "World82/Minimap.bmd",
+          "markers": 1
+        }
+      ],
+      "defaultPositions": "World82/positions.eng.json"
+    }
+  ]
+}

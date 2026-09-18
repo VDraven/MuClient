@@ -1,0 +1,27 @@
+<rml>
+<head>
+    <!-- C++ presentation inputs. Authored here; read once before rendering. -->
+    <meta name="mu-design-RmlTooltipLayer-TooltipCapacity" content="8"/>
+    <meta name="mu-design-RmlTooltipLayer-MinimumContentSize" content="1"/>
+    <!-- End presentation inputs -->
+
+
+
+    <title>MU Online Tooltips</title>
+    <link type="text/rcss" href="common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="tooltip_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="tooltip.rcss"/>
+    <link type="text/rcss" href="tooltip_gfx.generated.rcss"/>
+</head>
+<body>
+    <div id="tooltip-0" class="mu-tooltip"/>
+    <div id="tooltip-1" class="mu-tooltip"/>
+    <div id="tooltip-2" class="mu-tooltip"/>
+    <div id="tooltip-3" class="mu-tooltip"/>
+    <div id="tooltip-4" class="mu-tooltip"/>
+    <div id="tooltip-5" class="mu-tooltip"/>
+    <div id="tooltip-6" class="mu-tooltip"/>
+    <div id="tooltip-7" class="mu-tooltip"/>
+</body>
+</rml>

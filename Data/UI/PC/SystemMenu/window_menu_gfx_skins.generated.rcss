@@ -1,0 +1,10 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#frame > .top { decorator: image(SelectMenu.command_chatip_bg01_1); }
+#frame > .middle { decorator: image(SelectMenu.command_chatip_bg02); }
+#frame > .bottom { decorator: image(SelectMenu.command_chatip_bg03); }
+#key-bg-0 { decorator: image(SelectMenu.systemtip_sbg); }
+#key-bg-1 { decorator: image(SelectMenu.systemtip_sbg); }
+#key-bg-2 { decorator: image(SelectMenu.systemtip_sbg); }
+#key-bg-3 { decorator: image(SelectMenu.systemtip_sbg); }
+#key-bg-4 { decorator: image(SelectMenu.systemtip_sbg); }
+#key-bg-5 { decorator: image(SelectMenu.systemtip_sbg); }

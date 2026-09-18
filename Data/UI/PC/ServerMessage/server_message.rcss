@@ -1,0 +1,3 @@
+body { margin: 0; width: 100%; height: 100%; overflow: hidden; font-family: Arial; pointer-events: none; }
+#server-message-panel { position: absolute; pointer-events: none; }
+#server-message-text { position: absolute; overflow: hidden; white-space: normal; pointer-events: none; }

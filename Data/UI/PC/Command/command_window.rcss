@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial;
+}
+
+.command-window,
+.command-window div,
+.command-window span {
+    position: absolute;
+    box-sizing: border-box;
+}
+
+.command-window {
+    pointer-events: auto;
+}
+
+.command-window-back { pointer-events: auto; }
+.command-window-back > i { position: absolute; pointer-events: none; }
+
+.command-window-title {
+    overflow: hidden;
+    color: #ffc000;
+    text-align: center;
+    white-space: nowrap;
+    pointer-events: none;
+}
+
+.command-button {
+    width: 125px;
+    height: 35px;
+    overflow: hidden;
+    pointer-events: auto;
+}
+.command-button-label {
+    overflow: hidden;
+    color: #c6c6c6;
+    text-align: center;
+    white-space: nowrap;
+    pointer-events: none;
+}
+.command-button.disabled .command-button-label { color: #666666; }
+
+.command-window-drag {
+    pointer-events: auto;
+    cursor: move;
+    drag: drag;
+}
+
+.command-window-close { width: 19px; height: 19px; pointer-events: auto; }

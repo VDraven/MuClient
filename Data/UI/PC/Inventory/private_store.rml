@@ -1,0 +1,78 @@
+<rml>
+<head>
+<meta name="mu-design-PrivateStore-DropAllowedColor" content="0.1 0.4 0.8"/>
+<meta name="mu-design-PrivateStore-DropBannedColor" content="1 0 0"/>
+<meta name="mu-design-PrivateStore-seller-GridRect" content="58.5 118.5 208 104"/>
+<meta name="mu-design-PrivateStore-Width" content="327"/>
+<meta name="mu-design-PrivateStore-Height" content="289"/>
+<meta name="mu-design-PrivateStore-GridColumns" content="8"/>
+<meta name="mu-design-PrivateStore-GridRows" content="4"/>
+<meta name="mu-design-PrivateStore-buyer-GridRect" content="58.5 118.5 208 104"/>
+<meta name="mu-design-PrivateStore-InitialX" content="21"/>
+<meta name="mu-design-PrivateStore-InitialY" content="40"/>
+<meta name="mu-design-PrivateStore-ReferenceWidth" content="640"/>
+<meta name="mu-design-PrivateStore-ReferenceHeight" content="480"/>
+
+    <title>MU Online Private Store</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="private_store.rcss"/>
+    <link type="text/rcss" href="private_store_gfx.generated.rcss"/>
+    <link type="text/rcss" href="private_store_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="purchase_store_gfx.generated.rcss"/>
+    <link type="text/rcss" href="purchase_store_gfx_skins.generated.rcss"/>
+
+</head>
+<body>
+    <div id="private-store" class="private-store seller">
+        <div id="private-store-background" class="private-store-background"><i class="popup_01_1-0"/><i class="popup_bg01-1"/><i class="popup_bg05-2"/></div>
+        <div id="private-store-grid-background" class="private-store-background"><i class="invenbg01-0"/><i class="invenbg02-1"/><i class="invenbg02-2"/><i class="invenbg03-3"/></div>
+        <div id="private-store-name-background" class="private-store-background"/>
+        <div id="private-store-point" class="private-store-background"/>
+        <div id="private-store-title" class="private-store-text private-store-title Label_구매"/>
+        <div id="private-store-name-label" class="mu-overflow-label private-store-text private-store-name-label Label_상점명"/>
+        <input id="private-store-name" class="mu-text-input private-store-input TextInput_출고할금액" type="text" maxlength="25"/>
+        <div id="private-store-buyer-name" class="MULabel private-store-buyer-name Label_상점명[]"/>
+        <div id="private-store-drag" class="MuButton_Drag private-store-drag"/>
+        <div id="private-store-open" class="mu-button MuButton_S01 private-store-button">
+            <span id="private-store-open-label" class="mu-overflow-label private-store-button-label"/>
+        </div>
+        <div id="private-store-close-shop" class="mu-button MuButton_S01 private-store-button">
+            <span id="private-store-close-shop-label" class="mu-overflow-label private-store-button-label"/>
+        </div>
+        <div id="private-store-close" class="mu-button MuButton_Close private-store-close"/>
+        <div id="private-store-slot-0" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-1" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-2" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-3" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-4" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-5" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-6" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-7" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-8" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-9" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-10" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-11" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-12" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-13" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-14" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-15" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-16" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-17" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-18" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-19" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-20" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-21" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-22" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-23" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-24" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-25" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-26" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-27" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-28" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-29" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-30" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+        <div id="private-store-slot-31" class="mu-item-slot MuItemSlot_clear01 private-store-slot"/>
+    </div>
+</body>
+</rml>

@@ -1,0 +1,158 @@
+{
+  "world": "World52",
+  "language": null,
+  "source": "World52/Minimap.bmd",
+  "sourceSha256": "895ae0094bb3809fdfbc1dd9556d326f7f1a938bd5840ffc04e0d9aa4ab08dea",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "npc",
+      "x": 36,
+      "y": 241,
+      "rotation": 0,
+      "name": "�Z���r�X",
+      "sourceNameHex": "835a838b83728358"
+    },
+    {
+      "index": 1,
+      "kind": "npc",
+      "x": 43,
+      "y": 229,
+      "rotation": 0,
+      "name": "�V���r�A",
+      "sourceNameHex": "8356838b83728341"
+    },
+    {
+      "index": 2,
+      "kind": "npc",
+      "x": 28,
+      "y": 236,
+      "rotation": 0,
+      "name": "���A",
+      "sourceNameHex": "838a8341"
+    },
+    {
+      "index": 3,
+      "kind": "npc",
+      "x": 35,
+      "y": 219,
+      "rotation": 0,
+      "name": "�}���X",
+      "sourceNameHex": "837d838b8358"
+    },
+    {
+      "index": 4,
+      "kind": "npc",
+      "x": 41,
+      "y": 191,
+      "rotation": 0,
+      "name": "�j���̗d���Z���t�B�[",
+      "sourceNameHex": "8f6a959f82cc976490b8835a838983748342815b"
+    },
+    {
+      "index": 5,
+      "kind": "npc",
+      "x": 56,
+      "y": 232,
+      "rotation": 0,
+      "name": "�j���̗d���Z���t�B�[",
+      "sourceNameHex": "8f6a959f82cc976490b8835a838983748342815b"
+    },
+    {
+      "index": 6,
+      "kind": "npc",
+      "x": 72,
+      "y": 220,
+      "rotation": 0,
+      "name": "�j���̗d���Z���t�B�[",
+      "sourceNameHex": "8f6a959f82cc976490b8835a838983748342815b"
+    },
+    {
+      "index": 7,
+      "kind": "npc",
+      "x": 49,
+      "y": 229,
+      "rotation": 0,
+      "name": "�q�ɔԃo�Y",
+      "sourceNameHex": "91718cc994d4836f8359"
+    },
+    {
+      "index": 8,
+      "kind": "npc",
+      "x": 54,
+      "y": 243,
+      "rotation": 0,
+      "name": "�~���[�W��",
+      "sourceNameHex": "837e8389815b83578385"
+    },
+    {
+      "index": 9,
+      "kind": "npc",
+      "x": 45,
+      "y": 243,
+      "rotation": 0,
+      "name": "�V�[�h�}�X�^�[",
+      "sourceNameHex": "8356815b8368837d8358835e815b"
+    },
+    {
+      "index": 10,
+      "kind": "npc",
+      "x": 49,
+      "y": 243,
+      "rotation": 0,
+      "name": "�\\�P�b�g�}�X�^�[",
+      "sourceNameHex": "835c835083628367837d8358835e815b"
+    },
+    {
+      "index": 11,
+      "kind": "npc",
+      "x": 48,
+      "y": 216,
+      "rotation": 0,
+      "name": "���K�h",
+      "sourceNameHex": "838b834b8368"
+    },
+    {
+      "index": 12,
+      "kind": "npc",
+      "x": 21,
+      "y": 225,
+      "rotation": 0,
+      "name": "�L���v�e�����X",
+      "sourceNameHex": "834c838383768365839383828358"
+    },
+    {
+      "index": 13,
+      "kind": "npc",
+      "x": 20,
+      "y": 214,
+      "rotation": 0,
+      "name": "�_�r�f",
+      "sourceNameHex": "835f83728366"
+    },
+    {
+      "index": 14,
+      "kind": "portal",
+      "x": 248,
+      "y": 149,
+      "rotation": 45,
+      "name": "�A�g�����X ����",
+      "sourceNameHex": "834183678389839383582093fc8cfb"
+    },
+    {
+      "index": 15,
+      "kind": "portal",
+      "x": 19,
+      "y": 27,
+      "rotation": 225,
+      "name": "�f�r�A�X ����",
+      "sourceNameHex": "83668372834183582093fc8cfb"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

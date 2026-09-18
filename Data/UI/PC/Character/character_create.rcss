@@ -1,0 +1,13 @@
+body { margin: 0; background-color: transparent; font-family: Arial; }
+.node, .label, .art, .state, .digit { position: absolute; }
+.label, .art, .state, .digit { pointer-events: none; }
+.label { white-space: nowrap; }
+.state { left: 0; top: 0; width: 100%; height: 100%; }
+body { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; }
+#panel { position: relative; flex-shrink: 0; }
+.node { pointer-events: none; }
+.mu-button, .mu-text-input, .mu-text-area { pointer-events: auto; }
+.mu-text-input { position: absolute; padding: 0; border-width: 0; background-color: transparent; }
+.mu-text-area { position: absolute; white-space: pre-wrap; overflow-x: hidden; overflow-y: auto; }
+#tfInputExplain { display: none; }
+.effect-frame { display: none; }

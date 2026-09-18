@@ -1,0 +1,8 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.mu-tooltip.framed {
+    decorator: tiled-box(
+        FriendWindow.MuBackground_boxT1p, FriendWindow.MuBackground_boxT2p, FriendWindow.MuBackground_boxT3p,
+        FriendWindow.MuBackground_boxT4p, FriendWindow.MuBackground_boxT5p, FriendWindow.MuBackground_boxT6p,
+        FriendWindow.MuBackground_boxT7p, FriendWindow.MuBackground_boxT8p, FriendWindow.MuBackground_boxT9p
+    );
+}

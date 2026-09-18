@@ -1,0 +1,32 @@
+{
+  "world": "World58",
+  "language": null,
+  "source": "World58/Minimap.bmd",
+  "sourceSha256": "9cd1e8b8324c198cbd9b3cf38ec9172ecbd4ef3f127168dc8bb8cd5b257025cf",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 224,
+      "y": 214,
+      "rotation": 135,
+      "name": "�f�r�A�X",
+      "sourceNameHex": "8366837283418358"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 169,
+      "y": 22,
+      "rotation": 225,
+      "name": "�z����",
+      "sourceNameHex": "9b7a89bb8fea"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

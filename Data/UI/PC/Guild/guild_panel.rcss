@@ -1,0 +1,22 @@
+body { width: 100%; height: 100%; margin: 0; overflow: hidden; font-family: Arial; }
+#panel, #panel div, #panel span, #panel i, #panel input { position: absolute; box-sizing: border-box; }
+#panel .group { left: 0; top: 0; width: 100%; height: 100%; pointer-events: none; }
+#panel .group.mu-hidden { display: none; }
+#panel .art, #panel .label, #panel i, #panel .button-state { pointer-events: none; }
+#panel .label { overflow: hidden; white-space: nowrap; }
+#panel .mu-button, #panel .mu-overflow-label, #panel .mu-text-input { pointer-events: auto; }
+#panel .drag { cursor: move; drag: drag; pointer-events: auto; }
+#panel .button-state { left: 0; top: 0; width: 100%; height: 100%; display: none; }
+#panel .MUTextArea { white-space: pre-wrap; overflow-x: hidden; overflow-y: auto; pointer-events: auto; }
+#panel .MUTextArea scrollbarvertical { width: 0; }
+#panel .mu-scrollbar, #panel .mu-scrollbar div { pointer-events: auto; }
+#panel .mu-palette { pointer-events: none; }
+#panel .mu-palette-cell { pointer-events: auto; }
+#panel .mu-palette.read-only .mu-palette-cell { pointer-events: none; }
+#panel .mu-palette.read-only .palette-color-0 { decorator: none; }
+#panel .mu-text-input { margin: 0; padding: 0; border-width: 0; background-color: transparent; decorator: none; }
+
+#panel .mu-list { overflow: hidden; pointer-events: auto; }
+#member-row-template, #guild-row-template, #rival-row-template { display: none; }
+#panel .MemberListItemRenderer, #panel .GuildListItemRenderer { position: absolute; left: 0; }
+#panel .MemberListItemRenderer .mu-list-cell, #panel .GuildListItemRenderer .mu-list-cell { position: absolute; white-space: nowrap; overflow: hidden; }

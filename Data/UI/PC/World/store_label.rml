@@ -1,0 +1,22 @@
+<rml>
+<head>
+<meta name="mu-design-StoreLabel-Width" content="146"/>
+<meta name="mu-design-StoreLabel-OneTitleHeight" content="60"/>
+<meta name="mu-design-StoreLabel-TwoTitleHeight" content="75"/>
+<meta name="mu-design-StoreLabel-Left" content="-73"/>
+<meta name="mu-design-StoreLabel-Top" content="-80"/>
+
+    <title>MU Online Player Names</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="store_label.rcss"/>
+    <link type="text/rcss" href="store_label_gfx.generated.rcss"/>
+    <link type="text/rcss" href="store_label_gfx_skins.generated.rcss"/>
+<meta name="mu-design-StoreLabel-WorldRaise" content="60"/>
+<meta name="mu-design-StoreLabel-HighlightPeriod" content="265"/>
+<meta name="mu-design-StoreLabel-RightMargin" content="4"/>
+</head>
+<body>
+    <div id="player-name-layer"></div>
+</body>
+</rml>

@@ -1,0 +1,332 @@
+.mu-checkbox { position: absolute; width: 13dp; height: 13dp; decorator: image(mu-check-up); }
+.mu-checkbox:hover { decorator: image(mu-check-over); }
+.mu-checkbox:active { decorator: image(mu-check-down); }
+.mu-checkbox:disabled { decorator: image(mu-check-disabled); }
+.mu-checkbox:checked { decorator: image(mu-checked-up); }
+.mu-checkbox:checked:hover { decorator: image(mu-checked-over); }
+.mu-checkbox:checked:active { decorator: image(mu-checked-down); }
+.mu-checkbox:checked:disabled { decorator: image(mu-checked-disabled); }
+.mu-checkbox-row { position: absolute; height: 20dp; cursor: pointer; }
+.mu-checkbox-row > .mu-checkbox { left: 3.5dp; top: 3.5dp; }
+.mu-checkbox-row > span { position: absolute; left: 22dp; top: 2.75dp; height: 17.4dp; white-space: nowrap; overflow: hidden; }
+.mu-checkbox-row > .mu-checkbox:checked + span { color: #f7941d; }
+.mu-checkbox-row > .mu-checkbox:disabled + span { color: #666666; }
+.mu-meter-cell { width: 11dp; height: 16dp; decorator: image(mu-meter-empty); }
+.mu-meter-cell.filled { decorator: image(mu-meter-full); }
+
+
+
+/* The exact shared MU scrollbar skin already used by the M Warp panel. */
+
+
+
+
+
+
+
+
+
+
+/* Shared S16 popup shell exported from BlockedChat.gfx. */
+
+
+.mu-window {
+    decorator: tiled-box(
+        window-tl, window-t, window-tr,
+        window-l, window-c, window-r,
+        window-bl, window-b, window-br
+    );
+}
+
+.mu-window-s16 {
+    decorator: ninepatch(window-s16, window-s16-inner);
+}
+
+.mu-divider-big {
+    position: absolute;
+    width: 293px;
+    height: 9px;
+    decorator: image(divider-big);
+    pointer-events: none;
+}
+
+.mu-divider-small {
+    position: absolute;
+    width: 287px;
+    height: 2px;
+    decorator: image(divider-small);
+    pointer-events: none;
+}
+
+.mu-scrollbar,
+.mu-scrollbar-track,
+.mu-scrollbar-button,
+.mu-scrollbar-thumb {
+    position: absolute;
+    pointer-events: none;
+}
+
+.mu-scrollbar-thumb {
+    cursor: move;
+    drag: drag;
+}
+
+.mu-button {
+    position: absolute;
+    color: #c6c6c6;
+    text-align: center;
+}
+.mu-button.mu-hidden { display: none; }
+
+/* Common.Controls.MUButton: authored child art follows native pointer states. */
+.mu-button > .state-over, .mu-button > .state-down, .mu-button > .state-disabled,
+.mu-button > .state-selected, .mu-button > .state-selected-over,
+.mu-button > .state-selected-down, .mu-button > .state-selected-disabled { display: none; }
+.mu-button:hover > .state-up, .mu-button:active > .state-up,
+.mu-button.disabled > .state-up { display: none; }
+.mu-button:hover > .state-over { display: block; }
+.mu-button:active > .state-over { display: none; }
+.mu-button:active > .state-down { display: block; }
+.mu-button.disabled > .state-over, .mu-button.disabled > .state-down { display: none; }
+.mu-button.disabled > .state-disabled { display: block; }
+
+.mu-button.selected > .state-up, .mu-button.selected > .state-over,
+.mu-button.selected > .state-down, .mu-button.selected > .state-disabled { display: none; }
+.mu-button.selected > .state-selected { display: block; }
+.mu-button.selected:hover > .state-selected, .mu-button.selected:active > .state-selected,
+.mu-button.selected.disabled > .state-selected { display: none; }
+.mu-button.selected:hover > .state-selected-over { display: block; }
+.mu-button.selected:active > .state-selected-over { display: none; }
+.mu-button.selected:active > .state-selected-down { display: block; }
+.mu-button.selected.disabled > .state-selected-over,
+.mu-button.selected.disabled > .state-selected-down { display: none; }
+.mu-button.selected.disabled > .state-selected-disabled { display: block; }
+
+.mu-frame-part,
+.mu-frame-box,
+.mu-icon { position: absolute; pointer-events: none; }
+
+body div.mu-overflow-label,
+body label.mu-overflow-label,
+body span.mu-overflow-label {
+    overflow: hidden;
+    white-space: nowrap;
+    pointer-events: auto;
+}
+
+/* Common.Controls.MULabel behavior base. */
+.MULabel {
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+/* Legacy shared skins. Re-verify before strict-catalog promotion. */
+.mu-button-xl {
+    width: 125px;
+    height: 35px;
+    line-height: 35px;
+    decorator: image(button-xl-up);
+}
+
+.mu-button-xl.over { decorator: image(button-xl-over); }
+.mu-button-xl.down,
+.mu-button-xl.selected { decorator: image(button-xl-down); }
+.mu-button-xl.disabled { decorator: image(button-xl-disabled); }
+
+.mu-button-small {
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    decorator: image(button-small-up);
+}
+
+.mu-button-small.over { decorator: image(button-small-over); }
+.mu-button-small.down { decorator: image(button-small-down); }
+.mu-button-small.disabled { decorator: image(button-small-disabled); }
+.mu-button-xl:hover { decorator: image(button-xl-over); }
+.mu-button-xl:active,
+.mu-button-xl.selected:hover,
+.mu-button-xl.selected:active { decorator: image(button-xl-down); }
+.mu-button-xl:disabled { decorator: image(button-xl-disabled); }
+.mu-button-small:hover { decorator: image(button-small-over); }
+.mu-button-small:active { decorator: image(button-small-down); }
+.mu-button-small:disabled { decorator: image(button-small-disabled); }
+
+.mu-button-s01 {
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+    color: #c6c6c6;
+    decorator: image(button-s01-up);
+    pointer-events: auto;
+}
+.mu-button-s01.over,
+.mu-button-s01:hover { decorator: image(button-s01-over); }
+.mu-button-s01.down,
+.mu-button-s01:active { decorator: image(button-s01-down); }
+.mu-button-s01.disabled,
+.mu-button-s01:disabled {
+    color: #666666;
+    decorator: image(button-s01-disabled);
+    pointer-events: none;
+}
+
+.mu-button-close {
+    width: 19px;
+    height: 19px;
+    decorator: image(button-close-up);
+    pointer-events: auto;
+}
+.mu-button-close.over,
+.mu-button-close:hover { decorator: image(button-close-over); }
+.mu-button-close.down,
+.mu-button-close:active { decorator: image(button-close-down); }
+.mu-button-close.disabled,
+.mu-button-close:disabled {
+    decorator: image(button-close-disabled);
+    pointer-events: none;
+}
+
+/* Legacy shared skins. Re-verify before strict-catalog promotion. */
+.mu-scrollbar-s01-track {
+    decorator: image(FriendWindow.scroll_bg02);
+    pointer-events: auto;
+}
+.mu-scrollbar-s01-track.over,
+.mu-scrollbar-s01-track:hover {
+    decorator: image(FriendWindow.scroll_bg02);
+}
+.mu-scrollbar-s01-track.down,
+.mu-scrollbar-s01-track:active {
+    decorator: image(FriendWindow.scroll_bg02);
+}
+.mu-scrollbar-s01-track.disabled {
+    decorator: image(FriendWindow.scroll_bg02);
+    pointer-events: none;
+}
+.mu-scrollbar-s01-up {
+    decorator: image(FriendWindow.scroll_btn01);
+    pointer-events: auto;
+}
+.mu-scrollbar-s01-up.over,
+.mu-scrollbar-s01-up:hover { decorator: image(FriendWindow.scroll_btn02); }
+.mu-scrollbar-s01-up.down,
+.mu-scrollbar-s01-up:active { decorator: image(FriendWindow.scroll_btn03); }
+.mu-scrollbar-s01-up.disabled {
+    decorator: image(FriendWindow.scroll_btn04);
+    pointer-events: none;
+}
+.mu-scrollbar-s01-down {
+    decorator: image(FriendWindow.scroll_btn05);
+    pointer-events: auto;
+}
+.mu-scrollbar-s01-down.over,
+.mu-scrollbar-s01-down:hover { decorator: image(FriendWindow.scroll_btn06); }
+.mu-scrollbar-s01-down.down,
+.mu-scrollbar-s01-down:active {
+    decorator: image(FriendWindow.scroll_btn07);
+}
+.mu-scrollbar-s01-down.disabled {
+    decorator: image(FriendWindow.scroll_btn08);
+    pointer-events: none;
+}
+.mu-scrollbar-s01-thumb {
+    decorator: image(FriendWindow.scroll01);
+    pointer-events: auto;
+    cursor: move;
+    drag: drag;
+}
+.mu-scrollbar-s01-thumb.over,
+.mu-scrollbar-s01-thumb:hover {
+    decorator: image(FriendWindow.scroll02);
+}
+.mu-scrollbar-s01-thumb.down,
+.mu-scrollbar-s01-thumb:active {
+    decorator: image(FriendWindow.scroll03);
+}
+.mu-scrollbar-s01-thumb.disabled {
+    decorator: image(FriendWindow.scroll04);
+    pointer-events: none;
+}
+
+/* Common.Controls.MUTextArea behavior base. Skins supply scrollbar art. */
+.MUTextArea {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.mu-button-caution {
+    width: 120px;
+    height: 56px;
+    line-height: 56px;
+    font-size: 19px;
+    decorator: image(button-caution-up);
+}
+
+.mu-button-caution.over,
+.mu-button-caution:hover { decorator: image(button-caution-over); }
+.mu-button-caution.down,
+.mu-button-caution:active { decorator: image(button-caution-down); }
+.mu-button-caution.disabled,
+.mu-button-caution:disabled { decorator: image(button-caution-disabled); }
+
+.mu-select {
+    box-sizing: border-box;
+    height: 28px;
+    color: #ddddda;
+}
+
+.mu-select selectvalue {
+    box-sizing: border-box;
+    width: auto;
+    height: 28px;
+    margin-right: 26px;
+    padding: 6px 10px;
+    border-width: 1px;
+    border-color: #473423;
+    background-color: #080705ee;
+    white-space: nowrap;
+}
+
+.mu-select selectarrow {
+    width: 26px;
+    height: 28px;
+    color: #d8c9a5;
+    background-color: #17120ddd;
+}
+
+.mu-select selectbox {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 2px;
+    border-width: 1px;
+    border-color: #6b4b2b;
+    background-color: #080705f2;
+}
+
+.mu-select selectbox option {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 5px 8px;
+    white-space: nowrap;
+    color: #ddddda;
+    background-color: #080705f2;
+}
+
+.mu-select selectbox option:hover { background-color: #5b3214; }
+.mu-select selectbox option:checked { color: #ffc000; }
+
+.mu-text-input {
+    box-sizing: border-box;
+    padding: 3px;
+    border-width: 1px;
+    border-color: #473423;
+    background-color: #080705cc;
+    color: #ddddda;
+    overflow: hidden;
+    cursor: text;
+    tab-index: auto;
+}
+
+.mu-option-stepper { pointer-events: auto; tab-index: auto; }

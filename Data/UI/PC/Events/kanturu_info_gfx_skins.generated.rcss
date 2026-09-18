@@ -1,0 +1,14 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-7 > .piece-0 { decorator: image(KanturuEvent.popupfield01A); }
+#art-7 > .piece-1 { decorator: image(KanturuEvent.popupfield02A); }
+#art-7 > .piece-2 { decorator: image(KanturuEvent.popupfield03A); }
+#art-7 > .piece-3 { decorator: image(KanturuEvent.popupfield04A); }
+#art-7 > .piece-4 { decorator: image(KanturuEvent.popupfield05A); }
+#art-7 > .piece-5 { decorator: image(KanturuEvent.popupfield06A); }
+#art-7 > .piece-6 { decorator: image(KanturuEvent.popupfield07A); }
+#art-7 > .piece-7 { decorator: image(KanturuEvent.popupfield08A); }
+#art-7 > .piece-8 { decorator: image(KanturuEvent.popupfield09A); }
+#art-3 > .piece-0 { decorator: image(KanturuEvent.popup_line_mA); }
+#art-2 > .piece-0 { decorator: image(KanturuEvent.popup_line_mA); }
+#art-1 > .piece-0 { decorator: image(KanturuEvent.popup_line_mA); }
+#art-0 > .piece-0 { decorator: image(KanturuEvent.popup_line_mA); }

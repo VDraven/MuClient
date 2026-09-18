@@ -1,0 +1,30 @@
+{
+  "world": "World58",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World58_eng.bmd",
+  "sourceSha256": "de3e18f8bb209be3f0cb0903d42c67bc8c88bd5c289fcc1989592a654633073b",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 224,
+      "y": 214,
+      "rotation": 135,
+      "name": "Entrance to Devias"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 169,
+      "y": 22,
+      "rotation": 225,
+      "name": "Entrance to the Hatchery"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

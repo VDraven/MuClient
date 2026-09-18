@@ -1,0 +1,24 @@
+{
+  "world": "World11",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World11_spn.bmd",
+  "sourceSha256": "cbf8ec099ea4dcbe789e6022cb65e7ee699979ebbb93d4b0b36d5daa283beb5e",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 13,
+      "y": 8,
+      "rotation": 315,
+      "name": "Entrada a la Torre Perdida"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

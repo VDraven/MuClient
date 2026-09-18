@@ -1,0 +1,18 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#private-store.seller #private-store-background > .popup_01_1-0 { decorator: image(PrivateStoreFrame.popup_01_1); }
+#private-store.seller #private-store-background > .popup_bg01-1 { decorator: image(PrivateStoreFrame.popup_bg01); }
+#private-store.seller #private-store-background > .popup_bg05-2 { decorator: image(PrivateStoreFrame.popup_bg05); }
+#private-store.seller #private-store-grid-background > .invenbg01-0 { decorator: image(PrivateStoreFrame.invenbg01); }
+#private-store.seller #private-store-grid-background > .invenbg02-1 { decorator: image(PrivateStoreFrame.invenbg02); }
+#private-store.seller #private-store-grid-background > .invenbg02-2 { decorator: image(PrivateStoreFrame.invenbg02); }
+#private-store.seller #private-store-grid-background > .invenbg03-3 { decorator: image(PrivateStoreFrame.invenbg03); }
+#private-store.seller #private-store-point { decorator: image(PrivateStoreFrame.point); }
+#private-store.seller #private-store-name-background { decorator: tiled-horizontal(PrivateStoreFrame.textfield01, PrivateStoreFrame.textfield02, PrivateStoreFrame.textfield03); }
+#private-store.seller .MuButton_Close { decorator: image(PrivateStoreFrame.btn_close01); }
+#private-store.seller .MuButton_Close.over, #private-store.seller .MuButton_Close:hover { decorator: image(PrivateStoreFrame.btn_close02); }
+#private-store.seller .MuButton_Close.down, #private-store.seller .MuButton_Close:active { decorator: image(PrivateStoreFrame.btn_close03); }
+#private-store.seller .MuButton_Close.disabled, #private-store.seller .MuButton_Close:disabled { decorator: image(PrivateStoreFrame.btn_close04); }
+#private-store.seller .MuButton_S01 { decorator: image(PrivateStoreFrame.btn_s01); }
+#private-store.seller .MuButton_S01.over, #private-store.seller .MuButton_S01:hover { decorator: image(PrivateStoreFrame.btn_s02); }
+#private-store.seller .MuButton_S01.down, #private-store.seller .MuButton_S01:active { decorator: image(PrivateStoreFrame.btn_s03); }
+#private-store.seller .MuButton_S01.disabled, #private-store.seller .MuButton_S01:disabled { decorator: image(PrivateStoreFrame.btn_s04); }

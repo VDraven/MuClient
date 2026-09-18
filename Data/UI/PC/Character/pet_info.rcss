@@ -1,0 +1,144 @@
+/* Panel behavior only. Geometry and skins come from the S9 GFx contract. */
+
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.pet-info,
+.pet-info div,
+.pet-info span,
+.pet-info i {
+    position: absolute;
+    box-sizing: border-box;
+}
+
+.pet-info { pointer-events: auto; }
+.pet-info-background,
+.pet-info-background > i,
+.pet-info-divider,
+.pet-info-nine-slice,
+.pet-info-row,
+.pet-info-value-back,
+.pet-info-command-background,
+.pet-info-command-background > i,
+.pet-info-command-point,
+.MuProgressBar_PetInfo { pointer-events: none; }
+
+.pet-info-title,
+.pet-info-label,
+.pet-info-value,
+.pet-info-missing,
+.pet-info-skill-row span,
+.MuButton_Tap01 > span {
+    overflow: hidden;
+    white-space: nowrap;
+    pointer-events: none;
+}
+
+.pet-info-content,
+.pet-info-commands {
+    display: none;
+    left: 0;
+    top: 0;
+    width: 327px;
+    height: 639px;
+    pointer-events: none;
+}
+
+.MuButton_Tap01 { pointer-events: auto; overflow: hidden; }
+.MuButton_Tap01.selected > span { color: #ffc000; }
+
+.MuProgressBar_PetInfo { overflow: hidden; }
+.pet-info-progress-content {
+    left: 12.5px;
+    top: 5px;
+    width: 238px;
+    height: 8px;
+    overflow: hidden;
+}
+.MuProgressBar_PetInfo-fill {
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 8px;
+}
+
+.pet-info-skill-row {
+    left: 0;
+    width: 210px;
+    height: 43px;
+    pointer-events: none;
+}
+.pet-info-skill-row-0 { top: 0; }
+.pet-info-skill-row-1 { top: 43px; }
+.pet-info-skill-row-2 { top: 86px; }
+.pet-info-skill-row-3 { top: 129px; }
+.pet-info-skill-slot { left: 0; top: 0; width: 34px; height: 43px; }
+.pet-info-skill-row span {
+    left: 48px;
+    top: 16px;
+    width: 162px;
+    height: 13.4px;
+    line-height: 14px;
+    color: #ababab;
+}
+
+.pet-info-scroll > .MuButton_sbTrack {
+    left: 3.5px;
+    top: 12.22px;
+    width: 15px;
+    height: 200px;
+}
+.pet-info-scroll > .MuButton_sbArrowUP {
+    left: 0;
+    top: 0;
+    width: 22px;
+    height: 15.56px;
+}
+.pet-info-scroll > .MuButton_sbArrowDOWN {
+    left: 0;
+    top: 208.44px;
+    width: 22px;
+    height: 15.56px;
+}
+.pet-info-scroll > .MuButton_sbThumb {
+    left: 3px;
+    top: 13.34px;
+    width: 16px;
+    height: 45.58px;
+}
+
+.pet-info-missing {
+    display: block;
+    left: 32px;
+    top: 139px;
+    width: 263px;
+    height: 14px;
+    line-height: 14px;
+    color: #ff3030;
+    text-align: center;
+}
+
+.pet-info-drag { cursor: move; drag: drag; pointer-events: auto; }
+#pet-info-close { pointer-events: auto; }
+
+#pet-info-scroll > .mu-scrollbar-thumb { min-height: 10px; }
+
+.MuButton_Drag { cursor: move; drag: drag; pointer-events: auto; }
+
+.MuButton_Close { width: 19px; height: 19px; decorator: image(PetInfo.btn_close01); }
+.MuButton_Close.over,
+.MuButton_Close:hover { decorator: image(PetInfo.btn_close02); }
+.MuButton_Close.down,
+.MuButton_Close:active { decorator: image(PetInfo.btn_close03); }
+.MuButton_Close.disabled,
+.MuButton_Close:disabled { decorator: image(PetInfo.btn_close04); }
+
+/* Preserve the approved 7,8 inset and 20x28 cell inside each 34x43 command slot. */
+.mu-skill-icon { position: absolute; left: 20.5882353%; top: 18.6046512%; width: 58.8235294%; height: 65.1162791%; overflow: hidden; clip: always; pointer-events: none; }
+.mu-skill-icon .skill-sheet { position: absolute; pointer-events: none; }

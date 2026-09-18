@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="12.0" height="12.0" viewBox="0.0 0.0 12.0 12.0">
+  <!--GFx vector shapes: 114-->
+  <g transform="matrix(1 0 0 1 0 0)">
+    <path d="M11.0 6.5 L11.0 6.0 Q11.0 3.95 9.5 2.45 8.05 1.0 6.0 1.0 3.95 1.0 2.45 2.45 1.0 3.95 1.0 6.0 L1.05 6.5 Q1.2 8.25 2.45 9.5 3.95 11.0 6.0 11.0 8.05 11.0 9.5 9.5 10.8 8.25 11.0 6.5 M10.25 10.25 Q8.5 12.0 6.0 12.0 3.5 12.0 1.75 10.25 0.0 8.5 0.0 6.0 0.0 3.5 1.75 1.75 3.5 0.0 6.0 0.0 8.5 0.0 10.25 1.75 12.0 3.5 12.0 6.0 12.0 8.5 10.25 10.25" fill="#727272" fill-rule="evenodd" stroke="none" />
+    <path d="M1.05 6.5 L1.0 6.0 Q1.0 3.95 2.45 2.45 3.95 1.0 6.0 1.0 8.05 1.0 9.5 2.45 11.0 3.95 11.0 6.0 L11.0 6.5 Q10.8 4.75 9.5 3.45 8.05 2.0 6.0 2.0 3.95 2.0 2.45 3.45 1.2 4.75 1.05 6.5" fill="#8c8c8c" fill-rule="evenodd" stroke="none" />
+    <path d="M11.0 6.5 Q10.8 8.25 9.5 9.5 8.05 11.0 6.0 11.0 3.95 11.0 2.45 9.5 1.2 8.25 1.05 6.5 1.2 4.75 2.45 3.45 3.95 2.0 6.0 2.0 8.05 2.0 9.5 3.45 10.8 4.75 11.0 6.5" fill="url(#gradient0)" fill-rule="evenodd" stroke="none" />
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.0 0.005493164 -0.0061035156 0.0 6.0 6.5)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#999999" />
+      <stop offset="1.0" stop-color="#b3b3b3" />
+    </linearGradient>
+  </defs>
+</svg>

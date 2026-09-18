@@ -1,0 +1,32 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.chat-button { decorator: image(Chat.Bitmap1); }
+.chat-button.over, .chat-button:hover, .chat-button.selected, .chat-button:active { decorator: image(Chat.Bitmap5); }
+.chat-scroll-up { decorator: image(Chat.Bitmap16); }
+.chat-scroll-up.over, .chat-scroll-up:hover { decorator: image(Chat.Bitmap18); }
+.chat-scroll-up.down, .chat-scroll-up:active { decorator: image(Chat.Bitmap20); }
+.chat-scroll-up.disabled, .chat-scroll-up:disabled { decorator: image(Chat.Bitmap22); }
+.chat-scroll-down-arrow { decorator: image(Chat.Bitmap39); }
+.chat-scroll-down-arrow.over, .chat-scroll-down-arrow:hover { decorator: image(Chat.Bitmap41); }
+.chat-scroll-down-arrow.down, .chat-scroll-down-arrow:active { decorator: image(Chat.Bitmap43); }
+.chat-scroll-down-arrow.disabled, .chat-scroll-down-arrow:disabled { decorator: image(Chat.Bitmap45); }
+.chat-scroll-thumb { decorator: ninepatch(Chat.Bitmap30, Chat.chat-scroll-thumb-inner); }
+.chat-scroll-thumb.over, .chat-scroll-thumb:hover { decorator: ninepatch(Chat.Bitmap32, Chat.chat-scroll-thumb-over-inner); }
+.chat-scroll-thumb.down, .chat-scroll-thumb:active { decorator: ninepatch(Chat.Bitmap34, Chat.chat-scroll-thumb-down-inner); }
+.chat-scroll-thumb.disabled, .chat-scroll-thumb:disabled { decorator: ninepatch(Chat.Bitmap36, Chat.chat-scroll-thumb-disabled-inner); }
+.chat-scroll-track { decorator: tiled-vertical(Chat.Bitmap27, Chat.Bitmap25, Chat.Bitmap26); }
+.chat-config { decorator: image(Chat.Bitmap85); }
+.chat-config.over, .chat-config:hover { decorator: image(Chat.Bitmap87); }
+.chat-config.down, .chat-config:active { decorator: image(Chat.Bitmap89); }
+.chat-config.disabled, .chat-config:disabled { decorator: image(Chat.Bitmap91); }
+.chat-alpha { decorator: image(Chat.Bitmap70); }
+.chat-alpha.over, .chat-alpha:hover { decorator: image(Chat.Bitmap72); }
+.chat-size { decorator: image(Chat.Bitmap75); }
+.chat-size.over, .chat-size:hover { decorator: image(Chat.Bitmap77); }
+.chat-view-mode { decorator: image(Chat.Bitmap80); }
+.chat-view-mode.over, .chat-view-mode:hover { decorator: image(Chat.Bitmap82); }
+.floating-scroll-down { decorator: image(Chat.Bitmap95); }
+.floating-scroll-down.over, .floating-scroll-down:hover { decorator: image(Chat.Bitmap97); }
+.input-back { decorator: ninepatch(Chat.Bitmap117, Chat.chat-input-back-inner); }
+.chat-background { decorator: image(Chat.Bitmap113); }
+.chat-title-frame { decorator: image(Chat.Bitmap107); }
+.chat-title-emblem { decorator: image(Chat.Bitmap110); }

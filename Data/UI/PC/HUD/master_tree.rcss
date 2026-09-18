@@ -1,0 +1,16 @@
+body { margin: 0; }
+#master-tree { position: absolute; }
+#master-tree .art, #master-tree .label, #master-tree .mu-button,
+.master-slot, .master-slot .skill-rank { position: absolute; }
+#master-tree .art, #master-tree .label, .master-slot .skill-rank { pointer-events: none; }
+#master-tree i { position: absolute; pointer-events: none; }
+#mcSkillSlots { position: absolute; left: 0; top: 0; }
+.master-slot { display: none; }
+.master-slot > .art, .button-state { display: none; pointer-events: none; }
+.button-state { position: absolute; left: 0; top: 0; width: 100%; height: 100%; }
+#btnDrag { z-index: 1; }
+#btnClose, #btnExp { z-index: 2; }
+.mu-skill-icon { position: absolute; left: 0; top: 0; width: 100%; height: 100%; overflow: hidden; clip: always; pointer-events: none; }
+.mu-skill-icon .skill-sheet { position: absolute; pointer-events: none; }
+
+.MuButton_Drag { cursor: move; drag: drag; }

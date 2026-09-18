@@ -1,0 +1,35 @@
+.labelMapHotlKey .textField { left: 2.0px; top: 2.0px; width: 26.0px; height: 17.0px; font-size: 12.0px; line-height: 14.0px; color: #fe2a2a; text-align: center; }
+#txAlphaUpKey .map-key-content { transform: scale(0.8333282470703125, 0.6657562255859375); }
+#txAlphaDownKey .map-key-content { transform: scale(0.8333282470703125, 0.6657562255859375); }
+#txSizeUpKey .map-key-content { transform: scale(0.8333282470703125, 0.6657562255859375); }
+#txSizeDownKey .map-key-content { transform: scale(0.8333282470703125, 0.6657562255859375); }
+#map-hero.hero-frame-0 i { decorator: gfx-tint(hudMap.Bitmap78 1 0.0 0.0 0.0); }
+#map-hero.hero-frame-1 i { decorator: gfx-tint(hudMap.Bitmap78 0.9453125 0.054901960784313725 0.054901960784313725 0.054901960784313725); }
+#map-hero.hero-frame-2 i { decorator: gfx-tint(hudMap.Bitmap78 0.890625 0.10980392156862745 0.10980392156862745 0.10980392156862745); }
+#map-hero.hero-frame-3 i { decorator: gfx-tint(hudMap.Bitmap78 0.83203125 0.16862745098039217 0.16862745098039217 0.16862745098039217); }
+#map-hero.hero-frame-4 i { decorator: gfx-tint(hudMap.Bitmap78 0.77734375 0.2235294117647059 0.2235294117647059 0.2235294117647059); }
+#map-hero.hero-frame-5 i { decorator: gfx-tint(hudMap.Bitmap78 0.72265625 0.2784313725490196 0.2784313725490196 0.2784313725490196); }
+#map-hero.hero-frame-6 i { decorator: gfx-tint(hudMap.Bitmap78 0.66796875 0.3333333333333333 0.3333333333333333 0.3333333333333333); }
+#map-hero.hero-frame-7 i { decorator: gfx-tint(hudMap.Bitmap78 0.609375 0.39215686274509803 0.39215686274509803 0.39215686274509803); }
+#map-hero.hero-frame-8 i { decorator: gfx-tint(hudMap.Bitmap78 0.5546875 0.4470588235294118 0.4470588235294118 0.4470588235294118); }
+#map-hero.hero-frame-9 i { decorator: gfx-tint(hudMap.Bitmap78 0.5 0.5019607843137255 0.5019607843137255 0.5019607843137255); }
+#map-hero.hero-frame-10 i { decorator: gfx-tint(hudMap.Bitmap78 0.5234375 0.47843137254901963 0.47843137254901963 0.47843137254901963); }
+#map-hero.hero-frame-11 i { decorator: gfx-tint(hudMap.Bitmap78 0.55078125 0.45098039215686275 0.45098039215686275 0.45098039215686275); }
+#map-hero.hero-frame-12 i { decorator: gfx-tint(hudMap.Bitmap78 0.57421875 0.42745098039215684 0.42745098039215684 0.42745098039215684); }
+#map-hero.hero-frame-13 i { decorator: gfx-tint(hudMap.Bitmap78 0.6015625 0.4 0.4 0.4); }
+#map-hero.hero-frame-14 i { decorator: gfx-tint(hudMap.Bitmap78 0.625 0.3764705882352941 0.3764705882352941 0.3764705882352941); }
+#map-hero.hero-frame-15 i { decorator: gfx-tint(hudMap.Bitmap78 0.6484375 0.35294117647058826 0.35294117647058826 0.35294117647058826); }
+#map-hero.hero-frame-16 i { decorator: gfx-tint(hudMap.Bitmap78 0.67578125 0.3254901960784314 0.3254901960784314 0.3254901960784314); }
+#map-hero.hero-frame-17 i { decorator: gfx-tint(hudMap.Bitmap78 0.69921875 0.30196078431372547 0.30196078431372547 0.30196078431372547); }
+#map-hero.hero-frame-18 i { decorator: gfx-tint(hudMap.Bitmap78 0.7265625 0.27450980392156865 0.27450980392156865 0.27450980392156865); }
+#map-hero.hero-frame-19 i { decorator: gfx-tint(hudMap.Bitmap78 0.75 0.25098039215686274 0.25098039215686274 0.25098039215686274); }
+#map-hero.hero-frame-20 i { decorator: gfx-tint(hudMap.Bitmap78 0.7734375 0.22745098039215686 0.22745098039215686 0.22745098039215686); }
+#map-hero.hero-frame-21 i { decorator: gfx-tint(hudMap.Bitmap78 0.80078125 0.2 0.2 0.2); }
+#map-hero.hero-frame-22 i { decorator: gfx-tint(hudMap.Bitmap78 0.82421875 0.17647058823529413 0.17647058823529413 0.17647058823529413); }
+#map-hero.hero-frame-23 i { decorator: gfx-tint(hudMap.Bitmap78 0.8515625 0.14901960784313725 0.14901960784313725 0.14901960784313725); }
+#map-hero.hero-frame-24 i { decorator: gfx-tint(hudMap.Bitmap78 0.875 0.12549019607843137 0.12549019607843137 0.12549019607843137); }
+#map-hero.hero-frame-25 i { decorator: gfx-tint(hudMap.Bitmap78 0.8984375 0.10196078431372549 0.10196078431372549 0.10196078431372549); }
+#map-hero.hero-frame-26 i { decorator: gfx-tint(hudMap.Bitmap78 0.92578125 0.07450980392156863 0.07450980392156863 0.07450980392156863); }
+#map-hero.hero-frame-27 i { decorator: gfx-tint(hudMap.Bitmap78 0.94921875 0.050980392156862744 0.050980392156862744 0.050980392156862744); }
+#map-hero.hero-frame-28 i { decorator: gfx-tint(hudMap.Bitmap78 0.9765625 0.023529411764705882 0.023529411764705882 0.023529411764705882); }
+#map-hero.hero-frame-29 i { decorator: gfx-tint(hudMap.Bitmap78 1 0.0 0.0 0.0); }

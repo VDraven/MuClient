@@ -1,0 +1,23 @@
+{
+  "world": "World32",
+  "language": null,
+  "source": "World32/Minimap.bmd",
+  "sourceSha256": "eccbc40ac6e6542f62cb32bea4484d5fceb08c5d79de74a79af8d4760d7d4f6d",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 60,
+      "y": 8,
+      "rotation": 315,
+      "name": "���������J",
+      "sourceNameHex": "838d838c83938bac924a"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

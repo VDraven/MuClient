@@ -1,0 +1,70 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-27 > .piece-0 { decorator: image(GensRanking.popup_01_1); }
+#art-27 > .piece-1 { decorator: image(GensRanking.popup_bg01); }
+#art-27 > .piece-2 { decorator: image(GensRanking.popup_bg03); }
+#art-26 > .piece-0 { decorator: image(GensRanking.textbg01); }
+#art-26 > .piece-1 { decorator: image(GensRanking.textbg02); }
+#art-26 > .piece-2 { decorator: image(GensRanking.textbg03); }
+#art-26 > .piece-3 { decorator: image(GensRanking.textbg04); }
+#art-26 > .piece-4 { decorator: image(GensRanking.textbg05); }
+#art-26 > .piece-5 { decorator: image(GensRanking.textbg06); }
+#art-26 > .piece-6 { decorator: image(GensRanking.textbg07); }
+#art-26 > .piece-7 { decorator: image(GensRanking.textbg08); }
+#art-26 > .piece-8 { decorator: image(GensRanking.textbg09); }
+#art-25 > .piece-0 { decorator: image(GensRanking.textbg01); }
+#art-25 > .piece-1 { decorator: image(GensRanking.textbg02); }
+#art-25 > .piece-2 { decorator: image(GensRanking.textbg03); }
+#art-25 > .piece-3 { decorator: image(GensRanking.textbg04); }
+#art-25 > .piece-4 { decorator: image(GensRanking.textbg05); }
+#art-25 > .piece-5 { decorator: image(GensRanking.textbg06); }
+#art-25 > .piece-6 { decorator: image(GensRanking.textbg07); }
+#art-25 > .piece-7 { decorator: image(GensRanking.textbg08); }
+#art-25 > .piece-8 { decorator: image(GensRanking.textbg09); }
+#art-24 > .piece-0 { decorator: image(GensRanking.popup_line_s); }
+#art-23 > .piece-0 { decorator: image(GensRanking.popup_line_s); }
+#art-22 > .piece-0 { decorator: image(GensRanking.popup_line_s); }
+#art-21 > .piece-0 { decorator: image(GensRanking.textfield01); }
+#art-21 > .piece-1 { decorator: image(GensRanking.textfield02); }
+#art-21 > .piece-2 { decorator: image(GensRanking.textfield03); }
+#art-20 > .piece-0 { decorator: image(GensRanking.textfield01); }
+#art-20 > .piece-1 { decorator: image(GensRanking.textfield02); }
+#art-20 > .piece-2 { decorator: image(GensRanking.textfield03); }
+#art-19 > .piece-0 { decorator: image(GensRanking.textfield01); }
+#art-19 > .piece-1 { decorator: image(GensRanking.textfield02); }
+#art-19 > .piece-2 { decorator: image(GensRanking.textfield03); }
+#art-18 > .piece-0 { decorator: image(GensRanking.textfield01); }
+#art-18 > .piece-1 { decorator: image(GensRanking.textfield02); }
+#art-18 > .piece-2 { decorator: image(GensRanking.textfield03); }
+#art-17 > .piece-0 { decorator: image(GensRanking.point); }
+#btnClose > .state-up > .piece-0 { decorator: image(GensRanking.btn_close01); }
+#btnClose > .state-over > .piece-0 { decorator: image(GensRanking.btn_close02); }
+#btnClose > .state-down > .piece-0 { decorator: image(GensRanking.btn_close03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(GensRanking.btn_close04); }
+#mcMark_V.rank-1 { decorator: image(GensRanking.gmark_v01); }
+#mcMark_V.rank-2 { decorator: image(GensRanking.gmark_v02); }
+#mcMark_V.rank-3 { decorator: image(GensRanking.gmark_v03); }
+#mcMark_V.rank-4 { decorator: image(GensRanking.gmark_v04); }
+#mcMark_V.rank-5 { decorator: image(GensRanking.gmark_v05); }
+#mcMark_V.rank-6 { decorator: image(GensRanking.gmark_v06); }
+#mcMark_V.rank-7 { decorator: image(GensRanking.gmark_v07); }
+#mcMark_V.rank-8 { decorator: image(GensRanking.gmark_v08); }
+#mcMark_V.rank-9 { decorator: image(GensRanking.gmark_v09); }
+#mcMark_V.rank-10 { decorator: image(GensRanking.gmark_v10); }
+#mcMark_V.rank-11 { decorator: image(GensRanking.gmark_v11); }
+#mcMark_V.rank-12 { decorator: image(GensRanking.gmark_v12); }
+#mcMark_V.rank-13 { decorator: image(GensRanking.gmark_v13); }
+#mcMark_V.rank-14 { decorator: image(GensRanking.gmark_v14); }
+#mcMark_D.rank-1 { decorator: image(GensRanking.gmark_d01); }
+#mcMark_D.rank-2 { decorator: image(GensRanking.gmark_d02); }
+#mcMark_D.rank-3 { decorator: image(GensRanking.gmark_d03); }
+#mcMark_D.rank-4 { decorator: image(GensRanking.gmark_d04); }
+#mcMark_D.rank-5 { decorator: image(GensRanking.gmark_d05); }
+#mcMark_D.rank-6 { decorator: image(GensRanking.gmark_d06); }
+#mcMark_D.rank-7 { decorator: image(GensRanking.gmark_d07); }
+#mcMark_D.rank-8 { decorator: image(GensRanking.gmark_d08); }
+#mcMark_D.rank-9 { decorator: image(GensRanking.gmark_d09); }
+#mcMark_D.rank-10 { decorator: image(GensRanking.gmark_d10); }
+#mcMark_D.rank-11 { decorator: image(GensRanking.gmark_d11); }
+#mcMark_D.rank-12 { decorator: image(GensRanking.gmark_d12); }
+#mcMark_D.rank-13 { decorator: image(GensRanking.gmark_d13); }
+#mcMark_D.rank-14 { decorator: image(GensRanking.gmark_d14); }

@@ -1,0 +1,9 @@
+body { margin: 0; }
+body, body * { pointer-events: none; focus: none; }
+#map-root, #map-host, #map-hero, #map-help, #map-prototypes, #map-prototypes i, #map-prototypes div, #map-help div, #map-hero i { position: absolute; }
+#map-root, #map-host, #map-hero { width: 0; height: 0; }
+map-view { display: block; position: absolute; }
+#map-prototypes { visibility: hidden; }
+#map-help .MULabel { overflow: hidden; white-space: nowrap; }
+.map-key-content, .map-key-content i, .labelMapHotlKey .textField { position: absolute; }
+.map-key-content { transform-origin: 0 0; }

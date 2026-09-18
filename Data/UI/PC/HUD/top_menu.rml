@@ -1,0 +1,31 @@
+<rml>
+<head>
+<meta name="mu-design-TopMenu-ResizeStageHeight" content="700"/>
+<meta name="mu-design-TopMenu-SmallStageScale" content="0.83"/>
+<meta name="mu-design-TopMenu-FrameWidth" content="341"/>
+<meta name="mu-design-TopMenu-FrameHeight" content="39"/>
+<meta name="mu-design-TopMenu-OptionRect" content="208 10 29 29"/>
+<meta name="mu-design-TopMenu-ActionRect" content="238 10 29 29"/>
+<meta name="mu-design-TopMenu-ReferenceWidth" content="640"/>
+<meta name="mu-design-TopMenu-ReferenceHeight" content="480"/>
+<meta name="mu-design-TopMenu-TooltipOffset" content="-20 9"/>
+
+    <title>MU Online Top Menu</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="top_menu.rcss"/>
+    <link type="text/rcss" href="top_menu_gfx.generated.rcss"/>
+    <link type="text/rcss" href="top_menu_gfx_skins.generated.rcss"/>
+</head>
+<body>
+    <div id="top-menu" class="top-menu">
+        <div id="top-menu-wing-back" class="top-menu-wing"/>
+        <div id="top-menu-wing-controls" class="top-menu-wing"/>
+        <div id="top-menu-option" class="mu-button top-menu-button option BtMacroOption"/>
+        <div id="top-menu-action" class="mu-button top-menu-button action start BtMacroStart BtMacroStop"/>
+        <div id="top-menu-map-frame" class="top-menu-map-frame"/>
+        <div id="top-menu-map-name" class="MULabel top-menu-text map-name"/>
+        <div id="top-menu-position" class="MULabel top-menu-text position"/>
+    </div>
+</body>
+</rml>

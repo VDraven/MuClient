@@ -1,0 +1,36 @@
+<rml><head><title>GensRanking</title><meta name="mu-design-Panel-Size" content="327 639"/><meta name="mu-design-Panel-Reference" content="640 480"/><meta name="mu-design-Panel-Initial" content="20 20"/>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="gens_ranking.rcss"/>
+<link type="text/rcss" href="gens_ranking_gfx.generated.rcss"/>
+<link type="text/rcss" href="gens_ranking_gfx_skins.generated.rcss"/>
+</head><body><div id="panel">
+<div id="art-27" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-26" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/><i class="piece-3"/><i class="piece-4"/><i class="piece-5"/><i class="piece-6"/><i class="piece-7"/><i class="piece-8"/></div>
+<div id="art-25" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/><i class="piece-3"/><i class="piece-4"/><i class="piece-5"/><i class="piece-6"/><i class="piece-7"/><i class="piece-8"/></div>
+<div id="art-24" class="art"><i class="piece-0"/></div>
+<div id="art-23" class="art"><i class="piece-0"/></div>
+<div id="art-22" class="art"><i class="piece-0"/></div>
+<div id="art-21" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-20" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-19" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-18" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-17" class="art"><i class="piece-0"/></div>
+<div id="taGensInfoMent" class="text-area mu-text-area TextArea_1"/>
+<div id="tfGensInfo" class="label mu-overflow-label Label_갠스길드"/>
+<div id="taGensState" class="text-area mu-text-area TextArea_2"/>
+<div id="tfGensTeam" class="label mu-overflow-label Label_겐스"/>
+<div id="tfGensRanking" class="label mu-overflow-label Label_등급"/>
+<div id="tfRanking" class="label mu-overflow-label Label_겐스랭킹"/>
+<div id="tfContribution" class="label mu-overflow-label Label_획득기여도"/>
+<div id="tfGensTeamValue" class="label mu-overflow-label Label_듀프리언"/>
+<div id="tfGensRankingValue" class="label mu-overflow-label Label_사병"/>
+<div id="tfRankingValue" class="label mu-overflow-label Label_등수"/>
+<div id="tfGrade" class="label mu-overflow-label Label_등"/>
+<div id="tfContributionValue" class="label mu-overflow-label Label_획득기여도수"/>
+<div id="tfTitle" class="label mu-overflow-label Label_겐스정보창"/>
+<div id="btnDrag" class="drag MuButton_Drag"/>
+<div id="btnClose" class="mu-button MuButton_Close"><div class="button-state state-up"><i class="piece-0"/></div><div class="button-state state-over"><i class="piece-0"/></div><div class="button-state state-down"><i class="piece-0"/></div><div class="button-state state-disabled"><i class="piece-0"/></div></div>
+<div id="mcMark_V" class="art"/>
+<div id="mcMark_D" class="art"/>
+</div></body></rml>

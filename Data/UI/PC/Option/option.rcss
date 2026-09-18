@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial;
+    font-size: 14px;
+    color: #c6c6c6;
+}
+
+#option-panel {
+    position: absolute;
+}
+
+#title {
+    position: absolute;
+    left: 16px;
+    right: 16px;
+    text-align: center;
+    color: #ffc000;
+}
+
+.title-divider { top: 47px; }
+.row-label { position: absolute; left: 28px; }
+.font-label { top: 62px; }
+.language-label { top: 119px; }
+.resolution-label { top: 176px; }
+.automatic-row { left: 49px; top: 234px; width: 139px; }
+.whisper-row { left: 221px; top: 234px; width: 141px; }
+.slide-row { left: 49px; top: 266px; width: 139px; }
+.name-display-row { left: 221px; top: 266px; width: 141px; }
+.render-row { left: 49px; top: 298px; width: 139px; }
+.windowed-row { left: 221px; top: 298px; width: 141px; }
+.sound-label { top: 338px; }
+.music-label { top: 386px; }
+.effect-label { top: 437px; }
+
+.option-check {
+    position: absolute;
+    left: 28px;
+}
+.automatic-check { top: 237px; }
+.whisper-check { left: 200px; top: 237px; }
+.slide-check { top: 269px; }
+.name-display-check { left: 200px; top: 269px; }
+.render-check { top: 301px; }
+.windowed-check { left: 200px; top: 301px; }
+
+.volume-row {
+    position: absolute;
+    left: 76px;
+    width: 238px;
+    height: 25px;
+    white-space: nowrap;
+}
+.sound-volume { top: 357px; }
+.music-volume { top: 405px; }
+.volume-speaker {
+    margin-right: 10px;
+}
+.volume-cell {
+    margin-top: 5px;
+}
+
+.effect-row {
+    position: absolute;
+    left: 55px;
+    top: 459px;
+    width: 280px;
+    height: 30px;
+    white-space: nowrap;
+}
+.effect-option {
+    position: relative;
+    display: inline-block;
+    margin-right: 7px;
+    text-align: center;
+    line-height: 30px;
+    color: #575757;
+}
+.effect-choice {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.effect-option span { position: absolute; pointer-events: none; }
+
+.font-select, .language-select, .resolution-select {
+    position: absolute;
+    left: 28px;
+    width: 334px;
+}
+.font-select { top: 83px; }
+.language-select { top: 140px; }
+.resolution-select { top: 197px; }
+
+.bottom-divider { top: 535px; }
+#close-button {
+    left: 160px;
+    top: 544px;
+    border-width: 0;
+}
+
+#close-button > span { position: absolute; pointer-events: none; }
+
+.title-divider, .bottom-divider { position: absolute; left: 0; right: 0; margin-left: auto; margin-right: auto; pointer-events: none; }

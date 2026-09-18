@@ -1,0 +1,77 @@
+{
+  "world": "World81",
+  "language": null,
+  "source": "World81/Minimap.bmd",
+  "sourceSha256": "d28a84df301a7ebdbef8d918db9b8031b70d83613eb7dd444b4e889c4c9f4399",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "npc",
+      "x": 121,
+      "y": 102,
+      "rotation": 45,
+      "name": "�G�ݏ��l ���C�i",
+      "sourceNameHex": "8e4789dd8fa4906c20838c83438369"
+    },
+    {
+      "index": 1,
+      "kind": "npc",
+      "x": 117,
+      "y": 126,
+      "rotation": 45,
+      "name": "���폤�l �{����",
+      "sourceNameHex": "95908aed8fa4906c20837b838b838d"
+    },
+    {
+      "index": 2,
+      "kind": "npc",
+      "x": 123,
+      "y": 132,
+      "rotation": 0,
+      "name": "�q�ɔԃo�Y",
+      "sourceNameHex": "91718cc994d4836f8359"
+    },
+    {
+      "index": 3,
+      "kind": "npc",
+      "x": 122,
+      "y": 96,
+      "rotation": 45,
+      "name": "�q�ɔԃo�Y",
+      "sourceNameHex": "91718cc994d4836f8359"
+    },
+    {
+      "index": 4,
+      "kind": "npc",
+      "x": 158,
+      "y": 126,
+      "rotation": 225,
+      "name": "�q�ɔԃo�Y",
+      "sourceNameHex": "91718cc994d4836f8359"
+    },
+    {
+      "index": 5,
+      "kind": "portal",
+      "x": 115,
+      "y": 45,
+      "rotation": 180,
+      "name": "�A�C�_ ����",
+      "sourceNameHex": "83418343835f2093fc8cfb"
+    },
+    {
+      "index": 6,
+      "kind": "portal",
+      "x": 187,
+      "y": 212,
+      "rotation": 135,
+      "name": "�J���^��2 ����",
+      "sourceNameHex": "834a838b835e8393322093fc8cfb"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

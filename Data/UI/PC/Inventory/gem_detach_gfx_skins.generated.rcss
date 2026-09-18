@@ -1,0 +1,45 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#menu-art-9 > .piece-0 { decorator: image(MixStone.popupfield01); }
+#menu-art-9 > .piece-1 { decorator: image(MixStone.popupfield02); }
+#menu-art-9 > .piece-2 { decorator: image(MixStone.popupfield03); }
+#menu-art-9 > .piece-3 { decorator: image(MixStone.popupfield04); }
+#menu-art-9 > .piece-4 { decorator: image(MixStone.popupfield05); }
+#menu-art-9 > .piece-5 { decorator: image(MixStone.popupfield06); }
+#menu-art-9 > .piece-6 { decorator: image(MixStone.popupfield07); }
+#menu-art-9 > .piece-7 { decorator: image(MixStone.popupfield08); }
+#menu-art-9 > .piece-8 { decorator: image(MixStone.popupfield09); }
+#menu-art-8 > .piece-0 { decorator: image(MixStone.textbg01); }
+#menu-art-8 > .piece-1 { decorator: image(MixStone.textbg02); }
+#menu-art-8 > .piece-2 { decorator: image(MixStone.textbg03); }
+#menu-art-8 > .piece-3 { decorator: image(MixStone.textbg04); }
+#menu-art-8 > .piece-4 { decorator: image(MixStone.textbg05); }
+#menu-art-8 > .piece-5 { decorator: image(MixStone.textbg06); }
+#menu-art-8 > .piece-6 { decorator: image(MixStone.textbg07); }
+#menu-art-8 > .piece-7 { decorator: image(MixStone.textbg08); }
+#menu-art-8 > .piece-8 { decorator: image(MixStone.textbg09); }
+#menu-art-7 > .piece-0 { decorator: image(MixStone.popup_line_m); }
+#menu-art-6 > .piece-0 { decorator: image(MixStone.popup_line_s); }
+#btnDetachRun > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnDetachRun > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnDetachRun > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnDetachRun > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnDetachClose > .state-up > .piece-0 { decorator: image(MixStone.btn_s01); }
+#btnDetachClose > .state-over > .piece-0 { decorator: image(MixStone.btn_s02); }
+#btnDetachClose > .state-down > .piece-0 { decorator: image(MixStone.btn_s03); }
+#btnDetachClose > .state-disabled > .piece-0 { decorator: image(MixStone.btn_s04); }
+#sbList-track > .state-up > .piece-0 { decorator: image(MixStone.scroll_bg02); }
+#sbList-track > .state-over > .piece-0 { decorator: image(MixStone.scroll_bg02); }
+#sbList-track > .state-down > .piece-0 { decorator: image(MixStone.scroll_bg02); }
+#sbList-track > .state-disabled > .piece-0 { decorator: image(MixStone.scroll_bg02); }
+#sbList-downArrow > .state-up > .piece-0 { decorator: image(MixStone.scroll_btn05); }
+#sbList-downArrow > .state-over > .piece-0 { decorator: image(MixStone.scroll_btn06); }
+#sbList-downArrow > .state-down > .piece-0 { decorator: image(MixStone.scroll_btn07); }
+#sbList-downArrow > .state-disabled > .piece-0 { decorator: image(MixStone.scroll_btn08); }
+#sbList-upArrow > .state-up > .piece-0 { decorator: image(MixStone.scroll_btn01); }
+#sbList-upArrow > .state-over > .piece-0 { decorator: image(MixStone.scroll_btn02); }
+#sbList-upArrow > .state-down > .piece-0 { decorator: image(MixStone.scroll_btn03); }
+#sbList-upArrow > .state-disabled > .piece-0 { decorator: image(MixStone.scroll_btn04); }
+#sbList-thumb > .state-up > .piece-0 { decorator: image(MixStone.scroll01); }
+#sbList-thumb > .state-over > .piece-0 { decorator: image(MixStone.scroll02); }
+#sbList-thumb > .state-down > .piece-0 { decorator: image(MixStone.scroll03); }
+#sbList-thumb > .state-disabled > .piece-0 { decorator: image(MixStone.scroll04); }

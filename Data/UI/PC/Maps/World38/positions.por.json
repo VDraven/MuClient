@@ -1,0 +1,33 @@
+{
+  "world": "World38",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World38_por.bmd",
+  "sourceSha256": "ce1fb97da67c184daa7ea4afd5b3829c0db5722ebaaecfe8dd46c83caafccdbd",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 16,
+      "y": 222,
+      "rotation": 180,
+      "name": "Entrada para Tarkan"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 89,
+      "y": 91,
+      "rotation": 45,
+      "name": "Entrada para as Rel�quias de Kanturu",
+      "sourceNameHex": "456e747261646120706172612061732052656ced7175696173206465204b616e74757275"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

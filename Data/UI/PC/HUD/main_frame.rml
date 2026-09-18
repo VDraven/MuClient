@@ -1,0 +1,105 @@
+<rml>
+<head>
+    <meta name="mu-design-RmlMainFrameLayer-ResizeStageHeight" content="700"/>
+    <meta name="mu-design-RmlMainFrameLayer-SmallStageScale" content="0.95"/>
+    <meta name="mu-design-RmlMainFrameLayer-ArtWidth" content="921"/>
+    <meta name="mu-design-RmlMainFrameLayer-ArtHeight" content="106"/>
+    <meta name="mu-design-RmlMainFrameLayer-HotSelectionX" content="475"/>
+    <meta name="mu-design-RmlMainFrameLayer-HotSelectionStep" content="32"/>
+    <meta name="mu-design-RmlMainFrameLayer-MarbleHeight" content="89"/>
+    <meta name="mu-design-RmlMainFrameLayer-LegacyReferenceWidth" content="640"/>
+    <meta name="mu-design-RmlMainFrameLayer-LegacyReferenceHeight" content="480"/>
+    <title>MU Online Main Frame</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="main_frame.rcss"/>
+    <link type="text/rcss" href="main_frame_gfx.generated.rcss"/>
+    <link type="text/rcss" href="main_frame_gfx_skins.generated.rcss"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameSkillIconWidth" content="25.999756"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameSkillIconHeight" content="35.999756"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameCurrentSkillX" content="442"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameSkillY" content="53"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameHotKeyFirstX" content="480"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameHotKeyStep" content="32"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameSkillPageButtonX" content="636"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameSkillPageButtonY" content="55"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameSkillPageButtonWidth" content="15"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameSkillPageButtonHeight" content="28"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemFirstX" content="271"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemY" content="55.95"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemStep" content="42"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemWidth" content="30.00061"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemHeight" content="29.999695"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemCountImageX" content="-13"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemCountImageY" content="15"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemCountScaleX" content="1.142273"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemCountScaleY" content="1.142883"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemCountDigitStep" content="10"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemCountDigitWidth" content="12"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemCountDigitHeight" content="14"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameItemCountDigitLimit" content="4"/>
+    <!-- Retained client skill-chooser arrangement, in slot columns. -->
+    <meta name="mu-design-NewUIMainFrameWindow-SkillListCenteredCount" content="14"/>
+    <meta name="mu-design-NewUIMainFrameWindow-SkillListFirstRowCount" content="18"/>
+    <meta name="mu-design-NewUIMainFrameWindow-SkillListLeftRunStart" content="-8"/>
+    <meta name="mu-design-NewUIMainFrameWindow-SkillListSecondRowStart" content="-11"/>
+    <meta name="mu-design-NewUIMainFrameWindow-SkillListSlotWidth" content="32.0"/>
+    <meta name="mu-design-NewUIMainFrameWindow-SkillListSlotHeight" content="38.0"/>
+    <meta name="mu-design-NewUIMainFrameWindow-SkillIconSourceWidth" content="20.0"/>
+    <meta name="mu-design-NewUIMainFrameWindow-SkillIconSourceHeight" content="28.0"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameButtonY" content="58"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameButtonWidth" content="35"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameButtonHeight" content="38"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MainFrameButtonX" content="61 97 132 755 790 825"/>
+    <meta name="mu-design-NewUIMainFrameWindow-SkillListIconOffset" content="6"/>
+    <meta name="mu-design-NewUIMainFrameWindow-ExperienceEffectDuration" content="2000"/>
+    <meta name="mu-design-NewUIMainFrameWindow-NumberAtlasWidth" content="128"/>
+    <meta name="mu-design-NewUIMainFrameWindow-NumberAtlasHeight" content="16"/>
+    <meta name="mu-design-NewUIMainFrameWindow-SkillAtlasSize" content="256"/>
+    <meta name="mu-design-NewUIMainFrameWindow-MasterSkillAtlasSize" content="512"/>
+    <meta name="mu-design-NewUIMainFrameWindow-HotKeyNumberColor" content="1 0.9 0.8"/>
+    <meta name="mu-design-NewUIMainFrameWindow-HotKeyNumberBaseScale" content="0.3"/>
+    <meta name="mu-design-NewUIMainFrameWindow-HotKeyNumberWidthScale" content="0.7"/>
+    <meta name="mu-design-NewUIMainFrameWindow-HotKeyNumberOffsetY" content="20"/>
+    <meta name="mu-design-NewUIMainFrameWindow-CooldownColor" content="1 0.5 0.5 0.5"/>
+<meta name="mu-design-Skill-Columns" content="25"/>
+<link type="text/rcss" href="hud_skill_icons.generated.rcss"/>
+</head>
+    <body>
+        <div id="main-frame" class="main-frame">
+        <div id="main-hp-background" class="marble-background hp-background"/>
+        <div id="main-hp-track"><div id="main-hp-clip" class="gauge-clip marble-clip"><div id="main-hp" class="marble hp"/></div></div>
+        <div id="main-mp-background" class="marble-background mp-background"/>
+        <div id="main-mp-track"><div id="main-mp-clip" class="gauge-clip marble-clip"><div id="main-mp" class="marble mp"/></div></div>
+        <div id="main-shell" class="main-shell"><i class="Bitmap272"/><i class="Bitmap267"/><i class="Bitmap271"/><i class="Bitmap268"/><i class="Bitmap270"/><i class="Bitmap266"/><i class="Bitmap269"/><i class="Bitmap273"/></div>
+        <div id="main-sd-clip" class="gauge-clip"><div id="main-sd" class="rod sd"/></div>
+        <div id="main-ag-clip" class="gauge-clip"><div id="main-ag" class="rod ag"/></div>
+        <div id="main-exp-clip" class="gauge-clip"><div id="main-exp" class="experience normal"/></div>
+        <div id="main-exp-frame" class="exp-frame"/>
+        <div id="main-hp-text" class="main-text marble-text"/>
+        <div id="main-mp-text" class="main-text marble-text"/>
+        <div id="main-sd-text" class="main-text rod-text"/>
+        <div id="main-ag-text" class="main-text rod-text"/>
+        <div id="main-exp-current" class="main-text exp-current"/>
+        <div id="main-exp-slash" class="main-text exp-slash">/</div>
+        <div id="main-exp-next" class="main-text exp-next"/>
+        <div id="main-exp-page" class="main-text exp-page"/>
+        <div id="main-skill-page-labels" class="skill-page-labels page-one"><i class="Bitmap134"/><i class="Bitmap135"/><i class="Bitmap136"/><i class="Bitmap137"/><i class="Bitmap138"/><i class="Bitmap141"/><i class="Bitmap142"/><i class="Bitmap143"/><i class="Bitmap144"/><i class="Bitmap145"/></div>
+        <div id="main-skill-page-toggle" class="mu-button skill-page-toggle to-second"><i class="arrow"/></div>
+        <div id="main-current-selection" class="skill-selection current"/>
+        <div id="main-hot-selection" class="skill-selection hot"/>
+        <div id="main-button-shop" class="mu-button main-button shop MuButton_mainFrame01"/>
+        <div id="main-button-character" class="mu-button main-button character MuButton_mainFrame02"/>
+        <div id="main-button-inventory" class="mu-button main-button inventory DropdownMenu_Frame03"/>
+        <div id="main-button-quest" class="mu-button main-button quest MuButton_mainFrame04"/>
+        <div id="main-button-community" class="mu-button main-button community DropdownMenu_Frame05"/>
+        <div id="main-button-system" class="mu-button main-button system DropdownMenu_Frame06"/>
+    </div>
+        <div id="main-skill-icon-0" class="mu-skill-icon hud-skill-icon"><div class="skill-sheet"/><div class="skill-cooldown"/></div>
+        <div id="main-skill-icon-1" class="mu-skill-icon hud-skill-icon"><div class="skill-sheet"/><div class="skill-cooldown"/></div>
+        <div id="main-skill-icon-2" class="mu-skill-icon hud-skill-icon"><div class="skill-sheet"/><div class="skill-cooldown"/></div>
+        <div id="main-skill-icon-3" class="mu-skill-icon hud-skill-icon"><div class="skill-sheet"/><div class="skill-cooldown"/></div>
+        <div id="main-skill-icon-4" class="mu-skill-icon hud-skill-icon"><div class="skill-sheet"/><div class="skill-cooldown"/></div>
+        <div id="main-skill-icon-5" class="mu-skill-icon hud-skill-icon"><div class="skill-sheet"/><div class="skill-cooldown"/></div>
+</body>
+</rml>

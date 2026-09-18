@@ -1,0 +1,27 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#panel-art-6 > .piece-9 { decorator: image(ProgressFrame.popupfield01); }
+#panel-art-6 > .piece-8 { decorator: image(ProgressFrame.popupfield02); }
+#panel-art-6 > .piece-7 { decorator: image(ProgressFrame.popupfield03); }
+#panel-art-6 > .piece-6 { decorator: image(ProgressFrame.popupfield04); }
+#panel-art-6 > .piece-5 { decorator: image(ProgressFrame.popupfield05); }
+#panel-art-6 > .piece-4 { decorator: image(ProgressFrame.popupfield06); }
+#panel-art-6 > .piece-3 { decorator: image(ProgressFrame.popupfield07); }
+#panel-art-6 > .piece-2 { decorator: image(ProgressFrame.popupfield08); }
+#panel-art-6 > .piece-1 { decorator: image(ProgressFrame.popupfield09); }
+#panel-art-6 > .piece-0 { decorator: image(ProgressFrame.popup_line_m); }
+#pbGauge-back > .piece-2 { decorator: image(ProgressFrame.pethp_bg01); }
+#pbGauge-back > .piece-1 { decorator: image(ProgressFrame.pethp_bg02); }
+#pbGauge-back > .piece-0 { decorator: image(ProgressFrame.pethp_bg03); }
+#pbGauge-fill > .piece-0 { decorator: image(ProgressFrame.pethp_guege); }
+#btnOk > .state-up > .piece-0 { decorator: image(ProgressFrame.btn_m01); }
+#btnOk > .state-over > .piece-0 { decorator: image(ProgressFrame.btn_m02); }
+#btnOk > .state-down > .piece-0 { decorator: image(ProgressFrame.btn_m03); }
+#btnOk > .state-disabled > .piece-0 { decorator: image(ProgressFrame.btn_m04); }
+#btnCancel > .state-up > .piece-0 { decorator: image(ProgressFrame.btn_m01); }
+#btnCancel > .state-over > .piece-0 { decorator: image(ProgressFrame.btn_m02); }
+#btnCancel > .state-down > .piece-0 { decorator: image(ProgressFrame.btn_m03); }
+#btnCancel > .state-disabled > .piece-0 { decorator: image(ProgressFrame.btn_m04); }
+#btnClose > .state-up > .piece-0 { decorator: image(ProgressFrame.btn_m01); }
+#btnClose > .state-over > .piece-0 { decorator: image(ProgressFrame.btn_m02); }
+#btnClose > .state-down > .piece-0 { decorator: image(ProgressFrame.btn_m03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(ProgressFrame.btn_m04); }

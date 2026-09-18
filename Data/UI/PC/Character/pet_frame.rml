@@ -1,0 +1,35 @@
+<rml>
+<head>
+    <!-- C++ presentation inputs. Authored here; read once before rendering. -->
+    <meta name="mu-design-RmlPetFrameLayer-DragWidth" content="100"/>
+    <meta name="mu-design-RmlPetFrameLayer-DragHeight" content="19"/>
+    <meta name="mu-design-RmlPetFrameLayer-MemberHeight" content="33"/>
+    <meta name="mu-design-RmlPetFrameLayer-ReferenceWidth" content="640"/>
+    <meta name="mu-design-RmlPetFrameLayer-ReferenceHeight" content="480"/>
+    <meta name="mu-design-RmlPetFrameLayer-MinimizeX" content="82"/>
+    <meta name="mu-design-RmlPetFrameLayer-MinimizeY" content="3"/>
+    <meta name="mu-design-RmlPetFrameLayer-MinimizeWidth" content="13"/>
+    <meta name="mu-design-RmlPetFrameLayer-MinimizeHeight" content="13"/>
+    <!-- End presentation inputs -->
+
+
+
+    <link type="text/rcss" href="../ui_assets.rcss" />
+    <title>MU Online Pet Frame</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="pet_frame.rcss"/>
+    <link type="text/rcss" href="pet_frame_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="pet_frame_gfx.generated.rcss"/>
+</head>
+<body>
+    <div id="pet-frame" class="pet-frame">
+        <div id="pet-dragbar" class="mu-button MuButton_DragBar_pet"/>
+        <div id="pet-minimize" class="mu-button MuButton_Minimize"/>
+        <div id="pet-member-0" class="pet-member"><div id="pet-name-0" class="MULabel Label_name pet-name"/><div class="pet-hp-track"><div id="pet-hp-0" class="mu-progress-bar MuProgressBar_partyHP pet-hp"/><div class="mu-progress-bar MuProgressBar_expYellow pet-hp-yellow"/></div></div>
+        <div id="pet-member-1" class="pet-member"><div id="pet-name-1" class="MULabel Label_name pet-name"/><div class="pet-hp-track"><div id="pet-hp-1" class="mu-progress-bar MuProgressBar_partyHP pet-hp"/><div class="mu-progress-bar MuProgressBar_expYellow pet-hp-yellow"/></div></div>
+        <div id="pet-member-2" class="pet-member"><div id="pet-name-2" class="MULabel Label_name pet-name"/><div class="pet-hp-track"><div id="pet-hp-2" class="mu-progress-bar MuProgressBar_partyHP pet-hp"/><div class="mu-progress-bar MuProgressBar_expYellow pet-hp-yellow"/></div></div>
+        <div id="pet-member-3" class="pet-member"><div id="pet-name-3" class="MULabel Label_name pet-name"/><div class="pet-hp-track"><div id="pet-hp-3" class="mu-progress-bar MuProgressBar_partyHP pet-hp"/><div class="mu-progress-bar MuProgressBar_expYellow pet-hp-yellow"/></div></div>
+        <div id="pet-member-4" class="pet-member"><div id="pet-name-4" class="MULabel Label_name pet-name"/><div class="pet-hp-track"><div id="pet-hp-4" class="mu-progress-bar MuProgressBar_partyHP pet-hp"/><div class="mu-progress-bar MuProgressBar_expYellow pet-hp-yellow"/></div></div>
+    </div>
+</body>
+</rml>

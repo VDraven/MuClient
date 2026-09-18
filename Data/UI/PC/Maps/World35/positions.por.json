@@ -1,0 +1,87 @@
+{
+  "world": "World35",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World35_por.bmd",
+  "sourceSha256": "4713b2b5b06ba056ef1106f57fb7acb9a7b5a20547a3f9515e8d98e7170df2f1",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 118,
+      "y": 11,
+      "rotation": 135,
+      "name": "Guarda",
+      "npcNumber": 224,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 135,
+      "y": 47,
+      "rotation": 45,
+      "name": "Treinador",
+      "npcNumber": 226,
+      "index": 1
+    },
+    {
+      "kind": "npc",
+      "x": 113,
+      "y": 56,
+      "rotation": 45,
+      "name": "Guardião de segurança",
+      "npcNumber": 240,
+      "index": 2
+    },
+    {
+      "kind": "npc",
+      "x": 145,
+      "y": 14,
+      "rotation": 135,
+      "name": "Hanzo, o ferreiro",
+      "npcNumber": 251,
+      "index": 3
+    },
+    {
+      "kind": "npc",
+      "x": 96,
+      "y": 25,
+      "rotation": 135,
+      "name": "Lahap",
+      "npcNumber": 256,
+      "index": 4
+    },
+    {
+      "kind": "npc",
+      "x": 228,
+      "y": 48,
+      "rotation": 45,
+      "name": "Apóstolo Devin",
+      "npcNumber": 406,
+      "index": 5
+    },
+    {
+      "kind": "npc",
+      "x": 62,
+      "y": 239,
+      "rotation": 45,
+      "name": "Lobisomem Quarel",
+      "npcNumber": 407,
+      "index": 6
+    },
+    {
+      "index": 7,
+      "kind": "portal",
+      "x": 238,
+      "y": 42,
+      "rotation": 45,
+      "name": "Entrada para o Vale de Loren"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

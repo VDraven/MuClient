@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial;
+}
+
+.party-frame, .party-frame div {
+    position: absolute;
+    pointer-events: none;
+}
+
+.party-frame { display: none; }
+.party-gauge-clip { overflow: hidden; clip: always; }
+
+.party-channel {
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.party-name {
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+
+
+.party-hp, .party-mp { left: 0; top: 0; height: 100%; }

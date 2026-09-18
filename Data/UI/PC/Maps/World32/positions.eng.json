@@ -1,0 +1,24 @@
+{
+  "world": "World32",
+  "language": "eng",
+  "source": "Local/Eng/Minimap/Minimap_World32_eng.bmd",
+  "sourceSha256": "90bd7f8b564bde460bf2eba230730aa529df00f512f2b0b9e41fdf64099938b1",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 60,
+      "y": 8,
+      "rotation": 315,
+      "name": "Entrance to the Valley of Loren"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

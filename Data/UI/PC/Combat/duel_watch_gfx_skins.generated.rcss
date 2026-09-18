@@ -1,0 +1,36 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-28 > .piece-0 { decorator: image(duelwatch.popup_01_1); }
+#art-28 > .piece-1 { decorator: image(duelwatch.popup_bg01); }
+#art-28 > .piece-2 { decorator: image(duelwatch.popup_bg03); }
+#art-27 > .piece-0 { decorator: image(duelwatch.command_deco01); }
+#art-26 > .piece-0 { decorator: image(duelwatch.command_deco01); }
+#art-25 > .piece-0 { decorator: image(duelwatch.command_deco01); }
+#art-24 > .piece-0 { decorator: image(duelwatch.command_deco01); }
+#art-23 > .piece-0 { decorator: image(duelwatch.command_deco01); }
+#art-22 > .piece-0 { decorator: image(duelwatch.command_deco01); }
+#art-21 > .piece-0 { decorator: image(duelwatch.command_deco01); }
+#art-20 > .piece-0 { decorator: image(duelwatch.point); }
+#art-19 > .piece-0 { decorator: image(duelwatch.war_bg_centerline); }
+#art-18 > .piece-0 { decorator: image(duelwatch.war_bg_centerline); }
+#art-17 > .piece-0 { decorator: image(duelwatch.war_bg_centerline); }
+#art-16 > .piece-0 { decorator: image(duelwatch.command_deco01); }
+#btnDuelWatch0 > .state-up > .piece-0 { decorator: image(duelwatch.btn_m01); }
+#btnDuelWatch0 > .state-over > .piece-0 { decorator: image(duelwatch.btn_m02); }
+#btnDuelWatch0 > .state-down > .piece-0 { decorator: image(duelwatch.btn_m03); }
+#btnDuelWatch0 > .state-disabled > .piece-0 { decorator: image(duelwatch.btn_m04); }
+#btnDuelWatch1 > .state-up > .piece-0 { decorator: image(duelwatch.btn_m01); }
+#btnDuelWatch1 > .state-over > .piece-0 { decorator: image(duelwatch.btn_m02); }
+#btnDuelWatch1 > .state-down > .piece-0 { decorator: image(duelwatch.btn_m03); }
+#btnDuelWatch1 > .state-disabled > .piece-0 { decorator: image(duelwatch.btn_m04); }
+#btnDuelWatch2 > .state-up > .piece-0 { decorator: image(duelwatch.btn_m01); }
+#btnDuelWatch2 > .state-over > .piece-0 { decorator: image(duelwatch.btn_m02); }
+#btnDuelWatch2 > .state-down > .piece-0 { decorator: image(duelwatch.btn_m03); }
+#btnDuelWatch2 > .state-disabled > .piece-0 { decorator: image(duelwatch.btn_m04); }
+#btnDuelWatch3 > .state-up > .piece-0 { decorator: image(duelwatch.btn_m01); }
+#btnDuelWatch3 > .state-over > .piece-0 { decorator: image(duelwatch.btn_m02); }
+#btnDuelWatch3 > .state-down > .piece-0 { decorator: image(duelwatch.btn_m03); }
+#btnDuelWatch3 > .state-disabled > .piece-0 { decorator: image(duelwatch.btn_m04); }
+#btnClose > .state-up > .piece-0 { decorator: image(duelwatch.btn_close01); }
+#btnClose > .state-over > .piece-0 { decorator: image(duelwatch.btn_close02); }
+#btnClose > .state-down > .piece-0 { decorator: image(duelwatch.btn_close03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(duelwatch.btn_close04); }

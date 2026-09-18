@@ -1,0 +1,24 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-9 > .piece-0 { decorator: image(KanturuEvent.popupfield01); }
+#art-9 > .piece-1 { decorator: image(KanturuEvent.popupfield02); }
+#art-9 > .piece-2 { decorator: image(KanturuEvent.popupfield03); }
+#art-9 > .piece-3 { decorator: image(KanturuEvent.popupfield04); }
+#art-9 > .piece-4 { decorator: image(KanturuEvent.popupfield05); }
+#art-9 > .piece-5 { decorator: image(KanturuEvent.popupfield06); }
+#art-9 > .piece-6 { decorator: image(KanturuEvent.popupfield07); }
+#art-9 > .piece-7 { decorator: image(KanturuEvent.popupfield08); }
+#art-9 > .piece-8 { decorator: image(KanturuEvent.popupfield09); }
+#art-8 > .piece-0 { decorator: image(KanturuEvent.popup_line_m); }
+#art-7 > .piece-0 { decorator: image(KanturuEvent.popup_line_s); }
+#btnRefresh > .state-up > .piece-0 { decorator: image(KanturuEvent.btn_s01); }
+#btnRefresh > .state-over > .piece-0 { decorator: image(KanturuEvent.btn_s02); }
+#btnRefresh > .state-down > .piece-0 { decorator: image(KanturuEvent.btn_s03); }
+#btnRefresh > .state-disabled > .piece-0 { decorator: image(KanturuEvent.btn_s04); }
+#btnClose > .state-up > .piece-0 { decorator: image(KanturuEvent.btn_s01); }
+#btnClose > .state-over > .piece-0 { decorator: image(KanturuEvent.btn_s02); }
+#btnClose > .state-down > .piece-0 { decorator: image(KanturuEvent.btn_s03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(KanturuEvent.btn_s04); }
+#btnEnter > .state-up > .piece-0 { decorator: image(KanturuEvent.btn_s01); }
+#btnEnter > .state-over > .piece-0 { decorator: image(KanturuEvent.btn_s02); }
+#btnEnter > .state-down > .piece-0 { decorator: image(KanturuEvent.btn_s03); }
+#btnEnter > .state-disabled > .piece-0 { decorator: image(KanturuEvent.btn_s04); }

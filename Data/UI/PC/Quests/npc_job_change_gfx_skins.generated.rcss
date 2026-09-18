@@ -1,0 +1,43 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-109-0 > .piece-0 { decorator: image(NpcJobChangeQuest.popup_01_1); }
+#art-109-0 > .piece-1 { decorator: image(NpcJobChangeQuest.popup_bg01); }
+#art-109-0 > .piece-2 { decorator: image(NpcJobChangeQuest.popup_bg03); }
+#art-111-0 > .piece-0 { decorator: image(NpcJobChangeQuest.textbg01); }
+#art-111-0 > .piece-1 { decorator: image(NpcJobChangeQuest.textbg02); }
+#art-111-0 > .piece-2 { decorator: image(NpcJobChangeQuest.textbg03); }
+#art-111-0 > .piece-3 { decorator: image(NpcJobChangeQuest.textbg04); }
+#art-111-0 > .piece-4 { decorator: image(NpcJobChangeQuest.textbg05); }
+#art-111-0 > .piece-5 { decorator: image(NpcJobChangeQuest.textbg06); }
+#art-111-0 > .piece-6 { decorator: image(NpcJobChangeQuest.textbg07); }
+#art-111-0 > .piece-7 { decorator: image(NpcJobChangeQuest.textbg08); }
+#art-111-0 > .piece-8 { decorator: image(NpcJobChangeQuest.textbg09); }
+#art-113-0 > .piece-0 { decorator: image(NpcJobChangeQuest.war_bg_centerline); }
+#art-115-0 > .piece-0 { decorator: image(NpcJobChangeQuest.command_deco01); }
+#art-115-1 > .piece-0 { decorator: image(NpcJobChangeQuest.command_deco01); }
+#btnClose > .state-up > .piece-0 { decorator: image(NpcJobChangeQuest.btn_close01); }
+#btnClose > .state-over > .piece-0 { decorator: image(NpcJobChangeQuest.btn_close02); }
+#btnClose > .state-down > .piece-0 { decorator: image(NpcJobChangeQuest.btn_close03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(NpcJobChangeQuest.btn_close04); }
+#mcRequireItem-art-117-0 > .piece-0 { decorator: image(NpcJobChangeQuest.invenbox_m); }
+#mcRequireItem-art-119-0 > .piece-0 { decorator: image(NpcJobChangeQuest.popup_line_s); }
+#btnCompleteItem > .state-up > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l01); }
+#btnCompleteItem > .state-over > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l02); }
+#btnCompleteItem > .state-down > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l03); }
+#btnCompleteItem > .state-disabled > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l04); }
+#mcRequireItem3Piece-art-117-0 > .piece-0 { decorator: image(NpcJobChangeQuest.invenbox_m); }
+#mcRequireItem3Piece-art-117-1 > .piece-0 { decorator: image(NpcJobChangeQuest.invenbox_m); }
+#mcRequireItem3Piece-art-117-2 > .piece-0 { decorator: image(NpcJobChangeQuest.invenbox_m); }
+#mcRequireItem3Piece-art-119-0 > .piece-0 { decorator: image(NpcJobChangeQuest.popup_line_s); }
+#btnCompleteItemPiece > .state-up > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l01); }
+#btnCompleteItemPiece > .state-over > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l02); }
+#btnCompleteItemPiece > .state-down > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l03); }
+#btnCompleteItemPiece > .state-disabled > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l04); }
+#mcRequireMob-art-119-0 > .piece-0 { decorator: image(NpcJobChangeQuest.popup_line_s); }
+#btnCompleteMob > .state-up > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l01); }
+#btnCompleteMob > .state-over > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l02); }
+#btnCompleteMob > .state-down > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l03); }
+#btnCompleteMob > .state-disabled > .piece-0 { decorator: image(NpcJobChangeQuest.btn_l04); }
+#mcRequireZen-art-124-0 > .piece-0 { decorator: image(NpcJobChangeQuest.textfield01); }
+#mcRequireZen-art-124-0 > .piece-1 { decorator: image(NpcJobChangeQuest.textfield02); }
+#mcRequireZen-art-124-0 > .piece-2 { decorator: image(NpcJobChangeQuest.textfield03); }
+#mcRequireZen-art-126-0 > .piece-0 { decorator: image(NpcJobChangeQuest.point); }

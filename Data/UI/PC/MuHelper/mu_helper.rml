@@ -1,0 +1,225 @@
+<rml>
+<head>
+
+<meta name="mu-design-MuHelper-Width" content="327"/>
+<meta name="mu-design-MuHelper-Height" content="639"/>
+<meta name="mu-design-MuHelper-SidePanelWidth" content="306"/>
+<meta name="mu-design-MuHelper-ReferenceWidth" content="640"/>
+<meta name="mu-design-MuHelper-ReferenceHeight" content="480"/>
+    <title>MU Helper</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="mu_helper.rcss"/>
+    <link type="text/rcss" href="mu_helper_gfx.generated.rcss"/>
+    <link type="text/rcss" href="mu_helper_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="mu_helper_sub_gfx.generated.rcss"/>
+    <link type="text/rcss" href="mu_helper_sub_gfx_skins.generated.rcss"/>
+<meta name="mu-design-Skill-Columns" content="25"/>
+<link type="text/rcss" href="mu_helper_skill_icons.generated.rcss"/>
+</head>
+<body>
+<div id="mu-helper" class="mu-helper">
+    <div class="helper-back"><i class="part-0"/><i class="part-1"/><i class="part-2"/></div>
+    <div class="helper-page-frame"><i class="part-0"/><i class="part-1"/><i class="part-2"/></div>
+    <div id="text-title" class="helper-title MuLabel_title MULabel mu-overflow-label"/>
+    <div id="helper-drag" class="helper-drag MuButton_Drag"/>
+    <div id="helper-close" class="mu-button MuButton_Close helper-close"/>
+    <div id="tab-hunt" class="mu-button MuButton_toggleTap_macro helper-tab tab-hunt"><span id="text-hunting" class="mu-overflow-label"/></div>
+    <div id="tab-item" class="mu-button MuButton_toggleTap_macro helper-tab tab-item"><span id="text-obtaining" class="mu-overflow-label"/></div>
+    <div id="tab-other" class="mu-button MuButton_toggleTap_macro helper-tab tab-other"><span id="text-other-settings" class="mu-overflow-label"/></div>
+    <div id="page-hunt" class="helper-page">
+        <div class="hunt-lines"><i class="image-0"/><i class="image-1"/><i class="image-2"/><i class="image-3"/><i class="image-4"/><i class="image-5"/><i class="image-6"/><i class="stroke-0"/><i class="stroke-1"/><i class="stroke-2"/><i class="stroke-3"/><i class="stroke-4"/></div>
+        <span id="text-range" class="mu-overflow-label section-label MULabel MuLabel_grey01"/>
+        <div class="range-buttons"><div id="hunt-range-1" class="mu-button helper-range MuButton_areano r1"><i/><span class="mu-overflow-label">1</span></div>
+<div id="hunt-range-2" class="mu-button helper-range MuButton_areano r2"><i/><span class="mu-overflow-label">2</span></div>
+<div id="hunt-range-3" class="mu-button helper-range MuButton_areano r3"><i/><span class="mu-overflow-label">3</span></div>
+<div id="hunt-range-4" class="mu-button helper-range MuButton_areano r4"><i/><span class="mu-overflow-label">4</span></div>
+<div id="hunt-range-5" class="mu-button helper-range MuButton_areano r5"><i/><span class="mu-overflow-label">5</span></div>
+<div id="hunt-range-6" class="mu-button helper-range MuButton_areano r6"><i/><span class="mu-overflow-label">6</span></div>
+<div id="hunt-range-7" class="mu-button helper-range MuButton_areano r7"><i/><span class="mu-overflow-label">7</span></div>
+<div id="hunt-range-8" class="mu-button helper-range MuButton_areano r8"><i/><span class="mu-overflow-label">8</span></div></div>
+        <label id="row-fallback-basic" class="mu-checkbox-row regular-row MuCheckBox_hunt01" for="fallback-basic"><input id="fallback-basic" class="mu-checkbox" type="checkbox"/><span id="text-regular-attack" class="mu-overflow-label"></span></label>
+        <label id="row-concentrated-monsters" class="mu-checkbox-row concentrated-row MuCheckBox_hunt01" for="concentrated-monsters"><input id="concentrated-monsters" class="mu-checkbox" type="checkbox"/><span id="text-concentrated-monsters" class="mu-overflow-label"/></label>
+        <label id="row-skills-closely" class="mu-checkbox-row closely-row MuCheckBox_hunt01" for="skills-closely"><input id="skills-closely" class="mu-checkbox" type="checkbox"/><span id="text-skills-closely" class="mu-overflow-label"/></label>
+        <label id="row-long-counter" class="mu-checkbox-row counter-row MuCheckBox_hunt01" for="long-counter"><input id="long-counter" class="mu-checkbox" type="checkbox"/><span id="text-long-counter" class="mu-overflow-label"></span></label>
+        <label id="row-return-position" class="mu-checkbox-row return-row MuCheckBox_hunt01" for="return-position"><input id="return-position" class="mu-checkbox" type="checkbox"/><span id="text-return-position" class="mu-overflow-label"></span></label>
+        <input id="return-seconds" class="mu-text-input helper-input return-seconds MuTextInput_beige01" type="text" maxlength="4"/>
+        <span id="text-seconds" class="mu-overflow-label seconds-label MULabel MuLabel_grey02"/>
+        <label id="row-use-potion" class="mu-checkbox-row potion-row MuCheckBox_hunt01" for="use-potion"><input id="use-potion" class="mu-checkbox" type="checkbox"/><span id="text-potion" class="mu-overflow-label"></span></label>
+        <div id="potion-settings" class="mu-button MuButton_circleOption helper-gear potion-settings"><span id="text-setting" class="mu-overflow-label"/></div>
+        <span id="text-basic-skill" class="mu-overflow-label skill-label basic-label MULabel MuLabel_grey01"/>
+        <span id="text-activation-1" class="mu-overflow-label skill-label skill-1-label MULabel MuLabel_grey01"/>
+        <div id="assigned-skill-0" class="mu-item-slot helper-slot assigned-slot slot-basic"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+        <div id="assigned-skill-1" class="mu-item-slot helper-slot assigned-slot slot-active-1"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+        <span id="text-condition" class="mu-overflow-label condition-label condition-1 MULabel MuLabel_grey01"/>
+        <div id="skill-1-settings" class="mu-button MuButton_circleOption helper-gear skill-settings-1"><span id="copy-setting-skill-1" class="mu-overflow-label"/></div>
+        <div id="class-activation-2" class="class-layer">
+            <span id="text-activation-2" class="mu-overflow-label skill-label skill-2-label MULabel MuLabel_grey01"/>
+            <div id="assigned-skill-2" class="mu-item-slot helper-slot assigned-slot slot-active-2"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+            <span id="copy-condition-2" class="mu-overflow-label condition-label condition-2 MULabel MuLabel_grey01"/>
+            <div id="skill-2-settings" class="mu-button MuButton_circleOption helper-gear skill-settings-2"><span id="copy-setting-skill-2" class="mu-overflow-label"/></div>
+        </div>
+        <div id="class-combo" class="class-option">
+            <label id="row-combo" class="mu-checkbox-row MuCheckBox_hunt02" for="combo"><input id="combo" class="mu-checkbox" type="checkbox"/><span id="text-combo" class="mu-overflow-label"></span></label>
+        </div>
+        <div id="class-dark-raven" class="class-option dark-raven">
+            <label id="row-use-dark-raven" class="mu-checkbox-row MuCheckBox_get" for="use-dark-raven"><input id="use-dark-raven" class="mu-checkbox" type="checkbox"/><span id="text-dark-spirits" class="mu-overflow-label"></span></label>
+            <label id="row-dark-mode-1" class="radio-row raven-auto MuRadioButton_orange01" for="dark-mode-1"><input id="dark-mode-1" class="mu-radio" type="radio" name="dark-mode"/><span id="text-auto-attack" class="mu-overflow-label"></span></label>
+            <label id="row-dark-mode-0" class="radio-row raven-cease MuRadioButton_orange01" for="dark-mode-0"><input id="dark-mode-0" class="mu-radio" type="radio" name="dark-mode"/><span id="text-cease-attack" class="mu-overflow-label"></span></label>
+            <label id="row-dark-mode-2" class="radio-row raven-together MuRadioButton_orange01" for="dark-mode-2"><input id="dark-mode-2" class="mu-radio" type="radio" name="dark-mode"/><span id="text-attack-together" class="mu-overflow-label"></span></label>
+        </div>
+        <div id="class-party" class="class-layer">
+            <label id="row-support-party" class="mu-checkbox-row party-row MuCheckBox_hunt01" for="support-party"><input id="support-party" class="mu-checkbox" type="checkbox"/><span id="text-party" class="mu-overflow-label"></span></label>
+            <div id="party-settings" class="mu-button MuButton_circleOption helper-gear party-settings"><span id="copy-setting-party" class="mu-overflow-label"/></div>
+        </div>
+        <label id="class-auto-heal" class="mu-checkbox-row auto-heal-row MuCheckBox_hunt01" for="auto-heal"><input id="auto-heal" class="mu-checkbox" type="checkbox"/><span id="text-auto-heal" class="mu-overflow-label"></span></label>
+        <label id="class-drain-life" class="mu-checkbox-row drain-life-row MuCheckBox_hunt01" for="drain-life"><input id="drain-life" class="mu-checkbox" type="checkbox"/><span id="text-drain-life" class="mu-overflow-label"></span></label>
+        <label id="row-buff-duration" class="mu-checkbox-row buff-check MuCheckBox_hunt01" for="buff-duration"><input id="buff-duration" class="mu-checkbox" type="checkbox"/><span id="text-buff-duration" class="mu-overflow-label"></span></label>
+        <div id="assigned-skill-3" class="mu-item-slot helper-slot assigned-slot slot-buff-1"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div><div id="assigned-skill-4" class="mu-item-slot helper-slot assigned-slot slot-buff-2"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div><div id="assigned-skill-5" class="mu-item-slot helper-slot assigned-slot slot-buff-3"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+    </div>
+    <div id="page-item" class="helper-page">
+        <div class="item-lines"><i class="image-0"/><i class="image-1"/><i class="image-2"/><i class="image-3"/><i class="image-4"/><i class="image-5"/><i class="image-6"/><i class="stroke-0"/></div>
+        <span id="copy-range-item" class="mu-overflow-label section-label MULabel MuLabel_grey01"/>
+        <div class="range-buttons"><div id="obtain-range-1" class="mu-button helper-range MuButton_areano r1"><i/><span class="mu-overflow-label">1</span></div>
+<div id="obtain-range-2" class="mu-button helper-range MuButton_areano r2"><i/><span class="mu-overflow-label">2</span></div>
+<div id="obtain-range-3" class="mu-button helper-range MuButton_areano r3"><i/><span class="mu-overflow-label">3</span></div>
+<div id="obtain-range-4" class="mu-button helper-range MuButton_areano r4"><i/><span class="mu-overflow-label">4</span></div>
+<div id="obtain-range-5" class="mu-button helper-range MuButton_areano r5"><i/><span class="mu-overflow-label">5</span></div>
+<div id="obtain-range-6" class="mu-button helper-range MuButton_areano r6"><i/><span class="mu-overflow-label">6</span></div>
+<div id="obtain-range-7" class="mu-button helper-range MuButton_areano r7"><i/><span class="mu-overflow-label">7</span></div>
+<div id="obtain-range-8" class="mu-button helper-range MuButton_areano r8"><i/><span class="mu-overflow-label">8</span></div></div>
+        <label id="row-repair-item" class="mu-checkbox-row repair-row MuCheckBox_get" for="repair-item"><input id="repair-item" class="mu-checkbox" type="checkbox"/><span id="text-repair-item" class="mu-overflow-label"></span></label>
+        <label id="row-pick-all" class="mu-checkbox-row item-all MuCheckBox_get" for="pick-all"><input id="pick-all" class="mu-checkbox" type="checkbox"/><span id="text-pick-all" class="mu-overflow-label"></span></label>
+        <label id="row-pick-selected" class="mu-checkbox-row item-selected MuCheckBox_get" for="pick-selected"><input id="pick-selected" class="mu-checkbox" type="checkbox"/><span id="text-pick-selected" class="mu-overflow-label"></span></label>
+        <label id="row-pick-jewel" class="mu-checkbox-row item-jewel MuCheckBox_get" for="pick-jewel"><input id="pick-jewel" class="mu-checkbox" type="checkbox"/><span id="text-jewel" class="mu-overflow-label"></span></label>
+        <label id="row-pick-ancient" class="mu-checkbox-row item-ancient MuCheckBox_get" for="pick-ancient"><input id="pick-ancient" class="mu-checkbox" type="checkbox"/><span id="text-set-item" class="mu-overflow-label"></span></label>
+        <label id="row-pick-zen" class="mu-checkbox-row item-zen MuCheckBox_get" for="pick-zen"><input id="pick-zen" class="mu-checkbox" type="checkbox"/><span id="text-zen" class="mu-overflow-label"></span></label>
+        <label id="row-pick-excellent" class="mu-checkbox-row item-excellent MuCheckBox_get" for="pick-excellent"><input id="pick-excellent" class="mu-checkbox" type="checkbox"/><span id="text-excellent" class="mu-overflow-label"></span></label>
+        <label id="row-pick-extra" class="mu-checkbox-row item-extra MuCheckBox_get" for="pick-extra"><input id="pick-extra" class="mu-checkbox" type="checkbox"/><span id="text-extra-item" class="mu-overflow-label"></span></label>
+        <input id="item-name" class="mu-text-input helper-input item-name MuTextInput_beige02" type="text" maxlength="32"/>
+        <div id="item-add" class="mu-button MuButton_S01 item-add"><span id="text-add" class="mu-overflow-label"/></div>
+        <span id="text-other-items" class="mu-overflow-label other-items-title MULabel MuLabel_grey03">Other Items</span>
+        <div class="item-list-back gfx-scale-grid-parts"><i class="MacroMain.tooltip_bg02"/><i class="MacroMain.tooltip_bg03"/><i class="MacroMain.tooltip_bg01"/><i class="MacroMain.tooltip_bg04"/><i class="MacroMain.tooltip_bg05"/><i class="MacroMain.tooltip_bg06"/><i class="MacroMain.tooltip_bg07"/><i class="MacroMain.tooltip_bg08"/><i class="MacroMain.tooltip_bg09"/></div>
+        <div id="item-list" class="item-list">
+            <div id="item-row-0" class="mu-button item-row row-0"/>
+<div id="item-row-1" class="mu-button item-row row-1"/>
+<div id="item-row-2" class="mu-button item-row row-2"/>
+<div id="item-row-3" class="mu-button item-row row-3"/>
+<div id="item-row-4" class="mu-button item-row row-4"/>
+        </div>
+        <div id="item-scroll" class="mu-scrollbar MuScrollBar_001">
+            <div class="mu-scrollbar-track mu-scrollbar-s01-track MuButton_sbTrack"/>
+            <div class="mu-scrollbar-button mu-scrollbar-s01-down MuButton_sbArrowDOWN"/>
+            <div class="mu-scrollbar-button mu-scrollbar-s01-up MuButton_sbArrowUP"/>
+            <div class="mu-scrollbar-thumb mu-scrollbar-s01-thumb MuButton_sbThumb"/>
+        </div>
+        <div id="item-delete" class="mu-button MuButton_S01 item-delete"><span id="text-delete" class="mu-overflow-label"/></div>
+    </div>
+    <div id="page-other" class="helper-page">
+        <div class="other-lines"><i class="image-0"/><i class="image-1"/></div>
+        <label id="row-accept-friend" class="mu-checkbox-row other-friend MuCheckBox_etc" for="accept-friend"><input id="accept-friend" class="mu-checkbox" type="checkbox"/><span id="text-accept-friend" class="mu-overflow-label"></span></label>
+        <label id="row-accept-guild" class="mu-checkbox-row other-guild MuCheckBox_etc" for="accept-guild"><input id="accept-guild" class="mu-checkbox" type="checkbox"/><span id="text-accept-guild" class="mu-overflow-label"></span></label>
+        <label id="row-self-defense" class="mu-checkbox-row other-defense MuCheckBox_etc" for="self-defense"><input id="self-defense" class="mu-checkbox" type="checkbox"/><span id="text-self-defense" class="mu-overflow-label"/></label>
+        <span id="text-manual-yield" class="mu-overflow-label other-yield-label MULabel MuLabel_grey03"/>
+        <input id="manual-yield-seconds" class="mu-text-input helper-input other-yield-seconds MuTextInput_beige01" type="text" maxlength="3"/>
+        <span id="copy-seconds-manual" class="mu-overflow-label other-yield-unit MULabel MuLabel_grey03"/>
+    </div>
+    <div id="helper-reset" class="mu-button MuButton_L01 helper-button-l helper-reset"><span id="text-initialization" class="mu-overflow-label"/></div>
+    <div id="helper-save" class="mu-button MuButton_L01 helper-button-l helper-save"><span id="text-save" class="mu-overflow-label"/></div>
+    <div id="skill-picker" class="skill-picker">
+        <div id="available-skill-0" class="mu-item-slot helper-slot available-slot a0"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+<div id="available-skill-1" class="mu-item-slot helper-slot available-slot a1"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+<div id="available-skill-2" class="mu-item-slot helper-slot available-slot a2"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+<div id="available-skill-3" class="mu-item-slot helper-slot available-slot a3"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+<div id="available-skill-4" class="mu-item-slot helper-slot available-slot a4"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+<div id="available-skill-5" class="mu-item-slot helper-slot available-slot a5"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+<div id="available-skill-6" class="mu-item-slot helper-slot available-slot a6"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+<div id="available-skill-7" class="mu-item-slot helper-slot available-slot a7"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+<div id="available-skill-8" class="mu-item-slot helper-slot available-slot a8"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+<div id="available-skill-9" class="mu-item-slot helper-slot available-slot a9"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div>
+    </div>
+    <div id="sub-window" class="sub-window">
+        <div class="sub-back gfx-scale-grid-parts"><i class="MacroSub.popupfield01"/><i class="MacroSub.popupfield02"/><i class="MacroSub.popupfield03"/><i class="MacroSub.popupfield04"/><i class="MacroSub.popupfield05"/><i class="MacroSub.popupfield06"/><i class="MacroSub.popupfield07"/><i class="MacroSub.popupfield08"/><i class="MacroSub.popupfield09"/></div>
+        <div id="sub-recovery" class="sub-content">
+            <div class="recovery-lines"><i class="image-0"/><i class="image-1"/><i class="image-2"/></div>
+            <div id="text-auto-recovery" class="mu-overflow-label sub-title MULabel MuLabel_title"/>
+            <div class="recovery-potion recovery-group">
+                <div class="recovery-box helper-inset gfx-scale-grid-parts"><i class="MacroSub.tooltip_bg01"/><i class="MacroSub.tooltip_bg02"/><i class="MacroSub.tooltip_bg03"/><i class="MacroSub.tooltip_bg04"/><i class="MacroSub.tooltip_bg05"/><i class="MacroSub.tooltip_bg06"/><i class="MacroSub.CursedTempleMatchMenu"/><i class="MacroSub.tooltip_bg08"/><i class="MacroSub.tooltip_bg09"/></div><div class="heading-diamond"/>
+                <span id="text-auto-potion" class="mu-overflow-label recovery-heading MULabel MuLabel_grey01"/>
+                <div class="level-row "><input id="potion-level-1" class="mu-meter-cell" type="radio" name="potion-level" value="1"/>
+<input id="potion-level-2" class="mu-meter-cell" type="radio" name="potion-level" value="2"/>
+<input id="potion-level-3" class="mu-meter-cell" type="radio" name="potion-level" value="3"/>
+<input id="potion-level-4" class="mu-meter-cell" type="radio" name="potion-level" value="4"/>
+<input id="potion-level-5" class="mu-meter-cell" type="radio" name="potion-level" value="5"/>
+<input id="potion-level-6" class="mu-meter-cell" type="radio" name="potion-level" value="6"/>
+<input id="potion-level-7" class="mu-meter-cell" type="radio" name="potion-level" value="7"/>
+<input id="potion-level-8" class="mu-meter-cell" type="radio" name="potion-level" value="8"/>
+<input id="potion-level-9" class="mu-meter-cell" type="radio" name="potion-level" value="9"/>
+<input id="potion-level-10" class="mu-meter-cell" type="radio" name="potion-level" value="10"/></div>
+                <span id="text-hp-status" class="mu-overflow-label level-label MULabel MuLabel_beige02"/>
+            </div>
+            <div id="sub-recovery-heal" class="recovery-second recovery-group">
+                <div class="recovery-box helper-inset gfx-scale-grid-parts"><i class="MacroSub.tooltip_bg01"/><i class="MacroSub.tooltip_bg02"/><i class="MacroSub.tooltip_bg03"/><i class="MacroSub.tooltip_bg04"/><i class="MacroSub.tooltip_bg05"/><i class="MacroSub.tooltip_bg06"/><i class="MacroSub.CursedTempleMatchMenu"/><i class="MacroSub.tooltip_bg08"/><i class="MacroSub.tooltip_bg09"/></div><div class="heading-diamond"/>
+                <span id="copy-auto-heal-sub" class="mu-overflow-label recovery-heading MULabel MuLabel_grey01"/>
+                <div class="level-row "><input id="heal-level-1" class="mu-meter-cell" type="radio" name="heal-level" value="1"/>
+<input id="heal-level-2" class="mu-meter-cell" type="radio" name="heal-level" value="2"/>
+<input id="heal-level-3" class="mu-meter-cell" type="radio" name="heal-level" value="3"/>
+<input id="heal-level-4" class="mu-meter-cell" type="radio" name="heal-level" value="4"/>
+<input id="heal-level-5" class="mu-meter-cell" type="radio" name="heal-level" value="5"/>
+<input id="heal-level-6" class="mu-meter-cell" type="radio" name="heal-level" value="6"/>
+<input id="heal-level-7" class="mu-meter-cell" type="radio" name="heal-level" value="7"/>
+<input id="heal-level-8" class="mu-meter-cell" type="radio" name="heal-level" value="8"/>
+<input id="heal-level-9" class="mu-meter-cell" type="radio" name="heal-level" value="9"/>
+<input id="heal-level-10" class="mu-meter-cell" type="radio" name="heal-level" value="10"/></div>
+                <span id="copy-hp-status-heal" class="mu-overflow-label level-label MULabel MuLabel_beige02"/>
+            </div>
+            <div id="sub-recovery-drain" class="recovery-second"><span id="copy-drain-life-sub" class="mu-overflow-label recovery-heading MULabel MuLabel_grey01"/></div>
+        </div>
+        <div id="sub-skill" class="sub-content">
+            <div class="activation-lines"><i class="image-0"/><i class="image-1"/><i class="image-2"/><i class="image-3"/></div><div class="activation-extra-lines"><i class="image-0"/><i class="image-1"/><i class="image-2"/><i class="image-3"/><i class="image-4"/></div><div class="activation-middle-line"/>
+            <div class="sub-inset delay-box helper-inset gfx-scale-grid-parts"><i class="MacroSub.tooltip_bg01"/><i class="MacroSub.tooltip_bg02"/><i class="MacroSub.tooltip_bg03"/><i class="MacroSub.tooltip_bg04"/><i class="MacroSub.tooltip_bg05"/><i class="MacroSub.tooltip_bg06"/><i class="MacroSub.CursedTempleMatchMenu"/><i class="MacroSub.tooltip_bg08"/><i class="MacroSub.tooltip_bg09"/></div><div class="sub-inset pre-box helper-inset gfx-scale-grid-parts"><i class="MacroSub.tooltip_bg01"/><i class="MacroSub.tooltip_bg02"/><i class="MacroSub.tooltip_bg03"/><i class="MacroSub.tooltip_bg04"/><i class="MacroSub.tooltip_bg05"/><i class="MacroSub.tooltip_bg06"/><i class="MacroSub.CursedTempleMatchMenu"/><i class="MacroSub.tooltip_bg08"/><i class="MacroSub.tooltip_bg09"/></div><div class="sub-inset mobs-box helper-inset gfx-scale-grid-parts"><i class="MacroSub.tooltip_bg01"/><i class="MacroSub.tooltip_bg02"/><i class="MacroSub.tooltip_bg03"/><i class="MacroSub.tooltip_bg04"/><i class="MacroSub.tooltip_bg05"/><i class="MacroSub.tooltip_bg06"/><i class="MacroSub.CursedTempleMatchMenu"/><i class="MacroSub.tooltip_bg08"/><i class="MacroSub.tooltip_bg09"/></div><div class="delay-input-frame"><i class="image-0"/><i class="image-1"/><i class="image-2"/></div>
+            <div id="text-activation-skill" class="mu-overflow-label sub-title MULabel MuLabel_title"/>
+            <label id="row-sub-skill-timer" class="mu-checkbox-row sub-delay-row MuCheckBox_hunt01" for="sub-skill-timer"><input id="sub-skill-timer" class="mu-checkbox" type="checkbox"/><span id="text-delay" class="mu-overflow-label"></span></label>
+            <input id="sub-skill-interval" class="mu-text-input helper-input sub-skill-interval MuTextInput_beige01" type="text" maxlength="4"/>
+            <span id="copy-seconds-sub" class="mu-overflow-label sub-seconds-label MULabel MuLabel_grey02"/>
+            <label id="row-sub-monster-condition" class="mu-checkbox-row sub-monster-row MuCheckBox_hunt01" for="sub-monster-condition"><input id="sub-monster-condition" class="mu-checkbox" type="checkbox"/><span id="copy-condition-sub" class="mu-overflow-label"></span></label>
+            <span id="text-pre-condition" class="mu-overflow-label pre-title MULabel MuLabel_grey01"/>
+            <label id="row-skill-pre-0" class="radio-row pre-range MuRadioButton_beige01" for="skill-pre-0"><input id="skill-pre-0" class="mu-radio" type="radio" name="skill-pre"/><span id="text-monster-range" class="mu-overflow-label"></span></label>
+            <label id="row-skill-pre-1" class="radio-row pre-attacking MuRadioButton_beige01" for="skill-pre-1"><input id="skill-pre-1" class="mu-radio" type="radio" name="skill-pre"/><span id="text-monster-attacking" class="mu-overflow-label"></span></label>
+            <span id="text-sub-condition" class="mu-overflow-label mobs-title MULabel MuLabel_grey01"/>
+            <label id="row-skill-mobs-0" class="radio-row mobs-two MuRadioButton_beige02" for="skill-mobs-0"><input id="skill-mobs-0" class="mu-radio" type="radio" name="skill-mobs"/><span id="text-more-two" class="mu-overflow-label"></span></label>
+            <label id="row-skill-mobs-1" class="radio-row mobs-three MuRadioButton_beige02" for="skill-mobs-1"><input id="skill-mobs-1" class="mu-radio" type="radio" name="skill-mobs"/><span id="text-more-three" class="mu-overflow-label"></span></label>
+            <label id="row-skill-mobs-2" class="radio-row mobs-four MuRadioButton_beige02" for="skill-mobs-2"><input id="skill-mobs-2" class="mu-radio" type="radio" name="skill-mobs"/><span id="text-more-four" class="mu-overflow-label"></span></label>
+            <label id="row-skill-mobs-3" class="radio-row mobs-five MuRadioButton_beige02" for="skill-mobs-3"><input id="skill-mobs-3" class="mu-radio" type="radio" name="skill-mobs"/><span id="text-more-five" class="mu-overflow-label"></span></label>
+        </div>
+        <div id="sub-party" class="sub-content">
+            <div class="party-lines"><i class="image-0"/><i class="image-1"/><i class="image-2"/><i class="image-3"/><i class="image-4"/><i class="image-5"/><i class="image-6"/></div>
+            <div id="copy-party-title" class="mu-overflow-label sub-title MULabel MuLabel_title"/>
+            <span id="text-buff-support" class="mu-overflow-label party-buff-title MULabel MuLabel_grey01"/>
+            <label id="row-party-buff-duration" class="mu-checkbox-row party-duration MuCheckBox_sub_skill" for="party-buff-duration"><input id="party-buff-duration" class="mu-checkbox" type="checkbox"/><span id="text-party-buff-duration" class="mu-overflow-label"></span></label>
+            <span id="text-buff-interval" class="mu-overflow-label buff-interval-label MULabel MuLabel_beige01"/>
+            <input id="party-buff-interval" class="mu-text-input helper-input party-buff-interval MuTextInput_beige01" type="text" maxlength="4"/>
+            <div id="sub-party-heal" class="party-heal-section">
+                <div class="heading-diamond"/><span class="mu-overflow-label recovery-heading MULabel MuLabel_grey01">Party Heal</span>
+                <label id="row-party-heal" class="mu-checkbox-row party-heal-check MuCheckBox_sub_skill" for="party-heal"><input id="party-heal" class="mu-checkbox" type="checkbox"/><span id="text-party-heal" class="mu-overflow-label"></span></label>
+                <div class="sub-inset party-heal-box helper-inset gfx-scale-grid-parts"><i class="MacroSub.tooltip_bg01"/><i class="MacroSub.tooltip_bg02"/><i class="MacroSub.tooltip_bg03"/><i class="MacroSub.tooltip_bg04"/><i class="MacroSub.tooltip_bg05"/><i class="MacroSub.tooltip_bg06"/><i class="MacroSub.CursedTempleMatchMenu"/><i class="MacroSub.tooltip_bg08"/><i class="MacroSub.tooltip_bg09"/></div>
+                <div class="level-row party-heal-levels"><input id="party-heal-level-1" class="mu-meter-cell" type="radio" name="party-heal-level" value="1"/>
+<input id="party-heal-level-2" class="mu-meter-cell" type="radio" name="party-heal-level" value="2"/>
+<input id="party-heal-level-3" class="mu-meter-cell" type="radio" name="party-heal-level" value="3"/>
+<input id="party-heal-level-4" class="mu-meter-cell" type="radio" name="party-heal-level" value="4"/>
+<input id="party-heal-level-5" class="mu-meter-cell" type="radio" name="party-heal-level" value="5"/>
+<input id="party-heal-level-6" class="mu-meter-cell" type="radio" name="party-heal-level" value="6"/>
+<input id="party-heal-level-7" class="mu-meter-cell" type="radio" name="party-heal-level" value="7"/>
+<input id="party-heal-level-8" class="mu-meter-cell" type="radio" name="party-heal-level" value="8"/>
+<input id="party-heal-level-9" class="mu-meter-cell" type="radio" name="party-heal-level" value="9"/>
+<input id="party-heal-level-10" class="mu-meter-cell" type="radio" name="party-heal-level" value="10"/></div>
+                <span id="text-party-hp" class="mu-overflow-label level-label MULabel MuLabel_beige02"/>
+            </div>
+        </div>
+        <div id="sub-reset" class="mu-button MuButton_M01 helper-button-sub sub-reset"><span id="copy-initialization-sub" class="mu-overflow-label"/></div>
+        <div id="sub-save" class="mu-button MuButton_M01 helper-button-sub sub-save"><span id="copy-save-sub" class="mu-overflow-label"/></div>
+        <div id="sub-close" class="mu-button MuButton_M01 helper-button-sub sub-close"><span id="text-close" class="mu-overflow-label"/></div>
+    </div>
+</div>
+</body>
+</rml>

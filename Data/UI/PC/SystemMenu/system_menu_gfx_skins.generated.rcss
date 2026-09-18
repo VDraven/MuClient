@@ -1,0 +1,46 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.system-frame {
+    decorator: tiled-box(
+        SystemMenu.popupfield01, SystemMenu.popupfield02, SystemMenu.popupfield03,
+        SystemMenu.popupfield04, SystemMenu.popupfield05, SystemMenu.popupfield06,
+        SystemMenu.popupfield07, SystemMenu.popupfield08, SystemMenu.popupfield09
+    );
+}
+.system-frame.gfx-scale-grid-parts { decorator: none; }
+.gfx-scale-grid-parts > i { position: absolute; pointer-events: none; }
+.system-frame > .SystemMenu\.popupfield01 { decorator: image(SystemMenu.popupfield01); }
+.system-frame > .SystemMenu\.popupfield02 { decorator: image(SystemMenu.popupfield02); }
+.system-frame > .SystemMenu\.popupfield03 { decorator: image(SystemMenu.popupfield03); }
+.system-frame > .SystemMenu\.popupfield04 { decorator: image(SystemMenu.popupfield04); }
+.system-frame > .SystemMenu\.popupfield05 { decorator: image(SystemMenu.popupfield05); }
+.system-frame > .SystemMenu\.popupfield06 { decorator: image(SystemMenu.popupfield06); }
+.system-frame > .SystemMenu\.popupfield07 { decorator: image(SystemMenu.popupfield07); }
+.system-frame > .SystemMenu\.popupfield08 { decorator: image(SystemMenu.popupfield08); }
+.system-frame > .SystemMenu\.popupfield09 { decorator: image(SystemMenu.popupfield09); }
+.system-frame.login {
+    decorator: tiled-box(
+        SystemMenu.popupfield01, SystemMenu.popupfield02, SystemMenu.popupfield03,
+        SystemMenu.popupfield04, SystemMenu.popupfield05, SystemMenu.popupfield06,
+        SystemMenu.popupfield07, SystemMenu.popupfield08, SystemMenu.popupfield09
+    );
+}
+.system-frame.login.gfx-scale-grid-parts { decorator: none; }
+.system-frame.login > .SystemMenu\.popupfield01 { decorator: image(SystemMenu.popupfield01); }
+.system-frame.login > .SystemMenu\.popupfield02 { decorator: image(SystemMenu.popupfield02); }
+.system-frame.login > .SystemMenu\.popupfield03 { decorator: image(SystemMenu.popupfield03); }
+.system-frame.login > .SystemMenu\.popupfield04 { decorator: image(SystemMenu.popupfield04); }
+.system-frame.login > .SystemMenu\.popupfield05 { decorator: image(SystemMenu.popupfield05); }
+.system-frame.login > .SystemMenu\.popupfield06 { decorator: image(SystemMenu.popupfield06); }
+.system-frame.login > .SystemMenu\.popupfield07 { decorator: image(SystemMenu.popupfield07); }
+.system-frame.login > .SystemMenu\.popupfield08 { decorator: image(SystemMenu.popupfield08); }
+.system-frame.login > .SystemMenu\.popupfield09 { decorator: image(SystemMenu.popupfield09); }
+#system-menu .MuButton_S01 { decorator: image(SystemMenu.btn_s01); }
+#system-menu .MuButton_S01.over, #system-menu .MuButton_S01:hover { decorator: image(SystemMenu.btn_s02); }
+#system-menu .MuButton_S01.down, #system-menu .MuButton_S01:active { decorator: image(SystemMenu.btn_s03); }
+#system-menu .MuButton_S01.disabled { decorator: image(SystemMenu.btn_s04); }
+#system-menu .MuButton_XL01 { decorator: image(SystemMenu.btn_xl01); }
+#system-menu .MuButton_XL01.over, #system-menu .MuButton_XL01:hover { decorator: image(SystemMenu.btn_xl02); }
+#system-menu .MuButton_XL01.down, #system-menu .MuButton_XL01:active { decorator: image(SystemMenu.btn_xl03); }
+#system-menu .MuButton_XL01.disabled { decorator: image(SystemMenu.btn_xl04); }
+#title-divider { decorator: image(SystemMenu.popup_line_m); }
+#bottom-divider { decorator: image(SystemMenu.popup_line_s); }

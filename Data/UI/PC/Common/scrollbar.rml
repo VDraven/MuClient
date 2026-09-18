@@ -1,0 +1,21 @@
+<rml>
+<head>
+    <!-- Compatibility dimensions for pending panels using the explicit-layout API. -->
+    <meta name="mu-design-Width" content="22"/>
+    <meta name="mu-design-Height" content="252.998"/>
+    <meta name="mu-design-TrackX" content="3.5"/>
+    <meta name="mu-design-TrackY" content="13.808"/>
+    <meta name="mu-design-TrackWidth" content="15"/>
+    <meta name="mu-design-TrackHeight" content="226"/>
+    <meta name="mu-design-ButtonWidth" content="22"/>
+    <meta name="mu-design-ButtonHeight" content="17.578"/>
+    <meta name="mu-design-DownY" content="235.42"/>
+    <meta name="mu-design-ThumbX" content="3"/>
+    <meta name="mu-design-ThumbY" content="15.067"/>
+    <meta name="mu-design-ThumbWidth" content="16"/>
+    <meta name="mu-design-DefaultThumbHeight" content="51.48"/>
+    <meta name="mu-design-DefaultThumbTravel" content="168.87"/>
+    <meta name="mu-design-MinimumThumbHeight" content="10"/>
+</head>
+<body/>
+</rml>

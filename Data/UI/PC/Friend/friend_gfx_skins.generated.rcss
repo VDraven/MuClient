@@ -1,0 +1,38 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.mu-frame-popup-s16 {
+    decorator: tiled-box(
+        FriendWindow.popupfield01, FriendWindow.popupfield02, FriendWindow.popupfield03,
+        FriendWindow.popupfield04, FriendWindow.popupfield05, FriendWindow.popupfield06,
+        FriendWindow.popupfield07, FriendWindow.popupfield08, FriendWindow.popupfield09
+    );
+}
+.mu-frame-popup-s16.gfx-scale-grid-parts { decorator: none; }
+.gfx-scale-grid-parts > i { position: absolute; pointer-events: none; }
+.mu-frame-popup-s16 > .popupfield01 { decorator: image(FriendWindow.popupfield01); }
+.mu-frame-popup-s16 > .popupfield02 { decorator: image(FriendWindow.popupfield02); }
+.mu-frame-popup-s16 > .popupfield03 { decorator: image(FriendWindow.popupfield03); }
+.mu-frame-popup-s16 > .popupfield04 { decorator: image(FriendWindow.popupfield04); }
+.mu-frame-popup-s16 > .popupfield05 { decorator: image(FriendWindow.popupfield05); }
+.mu-frame-popup-s16 > .popupfield06 { decorator: image(FriendWindow.popupfield06); }
+.mu-frame-popup-s16 > .popupfield07 { decorator: image(FriendWindow.popupfield07); }
+.mu-frame-popup-s16 > .popupfield08 { decorator: image(FriendWindow.popupfield08); }
+.mu-frame-popup-s16 > .popupfield09 { decorator: image(FriendWindow.popupfield09); }
+.mu-frame-content-s16 {
+    decorator: tiled-box(
+        FriendWindow.MuBackground_boxT1p, FriendWindow.MuBackground_boxT2p, FriendWindow.MuBackground_boxT3p,
+        FriendWindow.MuBackground_boxT4p, FriendWindow.MuBackground_boxT5p, FriendWindow.MuBackground_boxT6p,
+        FriendWindow.MuBackground_boxT7p, FriendWindow.MuBackground_boxT8p, FriendWindow.MuBackground_boxT9p
+    );
+}
+.mu-frame-content-s16.gfx-scale-grid-parts { decorator: none; }
+.mu-frame-content-s16 > .MuBackground_boxT1p { decorator: image(FriendWindow.MuBackground_boxT1p); }
+.mu-frame-content-s16 > .MuBackground_boxT2p { decorator: image(FriendWindow.MuBackground_boxT2p); }
+.mu-frame-content-s16 > .MuBackground_boxT3p { decorator: image(FriendWindow.MuBackground_boxT3p); }
+.mu-frame-content-s16 > .MuBackground_boxT4p { decorator: image(FriendWindow.MuBackground_boxT4p); }
+.mu-frame-content-s16 > .MuBackground_boxT5p { decorator: image(FriendWindow.MuBackground_boxT5p); }
+.mu-frame-content-s16 > .MuBackground_boxT6p { decorator: image(FriendWindow.MuBackground_boxT6p); }
+.mu-frame-content-s16 > .MuBackground_boxT7p { decorator: image(FriendWindow.MuBackground_boxT7p); }
+.mu-frame-content-s16 > .MuBackground_boxT8p { decorator: image(FriendWindow.MuBackground_boxT8p); }
+.mu-frame-content-s16 > .MuBackground_boxT9p { decorator: image(FriendWindow.MuBackground_boxT9p); }
+.mu-frame-popup-title { decorator: tiled-horizontal(FriendWindow.Bitmap80, FriendWindow.Bitmap79, FriendWindow.Bitmap78); }
+.mu-frame-input { decorator: tiled-horizontal(FriendWindow.textfield01, FriendWindow.textfield02, FriendWindow.textfield03); }

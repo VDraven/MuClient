@@ -1,0 +1,12 @@
+<rml><head><title>Buffs</title>
+<meta name="mu-design-Buff-Icons" content="1 2 3 4 5 6 8 9 10 11 14 15 16 17 18 21 22 23 24 25 26 29 30 31 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 61 65 71 72 73 74 75 76 77 78 79 80 81 82 86 87 88 89 90 91 92 93 94 95 96 97 99 100 101 102 103 104 107 108 112 113 114 115 116 117 118 119 121 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 169 174 175 176 177 178 179 180 181 182 183 184 186 188 193 194 195 196 197 198 199 200 201 202 203 204 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 238 239 240 241 242 243 244 245 246 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 292 293 294 295 296 297 298 299 300 301 302 303 309 310 311 312 313 315 316 317 318 319 320 324 325 326 328 329 330 332 335 336"/>
+<meta name="mu-design-Buff-Size" content="366 36"/>
+<meta name="mu-design-Buff-Cell" content="26 36 8 8"/>
+<meta name="mu-design-Buff-Resize" content="700 0.83 21 26 90"/>
+<meta name="mu-design-Buff-Columns" content="8 3"/>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="buff_list.rcss"/>
+<link type="text/rcss" href="buff_list_gfx.generated.rcss"/>
+<link type="text/rcss" href="buff_icons_gfx.generated.rcss"/>
+</head><body><div id="buff-list"><div id="_BuffList"/><div id="_DeBuffList"/></div></body></rml>

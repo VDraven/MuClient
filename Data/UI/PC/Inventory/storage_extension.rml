@@ -1,0 +1,158 @@
+<rml><head>
+<meta name="mu-design-Panel-Size" content="327 639"/>
+<meta name="mu-design-Panel-Grids" content="60 102 26 26"/>
+<meta name="mu-design-Panel-Reference" content="640 480"/>
+<meta name="mu-design-Panel-Initial" content="360 40"/>
+<title>StorageInven</title>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="storage.rcss"/>
+<link type="text/rcss" href="storage_gfx.generated.rcss"/>
+<link type="text/rcss" href="storage_gfx_skins.generated.rcss"/>
+</head><body><div id="panel">
+<div id="art-85-0" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-86-0" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-88-0" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/><i class="piece-3"/><i class="piece-4"/><i class="piece-5"/><i class="piece-6"/><i class="piece-7"/><i class="piece-8"/><i class="piece-9"/><i class="piece-10"/><i class="piece-11"/><i class="piece-12"/><i class="piece-13"/><i class="piece-14"/></div>
+<div id="art-90-0" class="art"><i class="piece-0"/></div>
+<div id="tfTitle" class="mu-overflow-label label MULabel Label_창고(열림)"/>
+<div id="btnDrag" class="drag MuButton_Drag"/>
+<div id="btnClose" class="mu-button MuButton_Close"/>
+<div id="btnExit" class="mu-button MuButton_S01"><span id="btnExit-label" class="mu-overflow-label label"/></div>
+<div id="isSlot0" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot1" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot2" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot3" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot4" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot5" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot6" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot7" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot8" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot9" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot10" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot11" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot12" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot13" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot14" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot15" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot16" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot17" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot18" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot19" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot20" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot21" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot22" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot23" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot24" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot25" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot26" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot27" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot28" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot29" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot30" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot31" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot32" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot33" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot34" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot35" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot36" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot37" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot38" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot39" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot40" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot41" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot42" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot43" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot44" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot45" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot46" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot47" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot48" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot49" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot50" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot51" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot52" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot53" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot54" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot55" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot56" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot57" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot58" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot59" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot60" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot61" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot62" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot63" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot64" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot65" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot66" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot67" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot68" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot69" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot70" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot71" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot72" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot73" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot74" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot75" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot76" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot77" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot78" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot79" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot80" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot81" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot82" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot83" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot84" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot85" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot86" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot87" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot88" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot89" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot90" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot91" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot92" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot93" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot94" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot95" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot96" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot97" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot98" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot99" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot100" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot101" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot102" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot103" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot104" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot105" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot106" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot107" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot108" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot109" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot110" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot111" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot112" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot113" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot114" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot115" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot116" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot117" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot118" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot119" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="mcCharge" class="group"><div id="mcCharge-art-92-0" class="art"/>
+<div id="mcCharge-art-92-1" class="art"/>
+<div id="mcCharge-art-94-0" class="art"><i class="piece-0"/></div>
+<div id="mcCharge-art-94-1" class="art"><i class="piece-0"/></div>
+<div id="tfKeepZen" class="mu-overflow-label label MULabel Label_창고보관금액"/>
+<div id="tfCharge" class="mu-overflow-label label MULabel Label_창고사용료"/>
+<div id="tfKeepZenValue" class="mu-overflow-label label MULabel Label_창고보관금액[]"/>
+<div id="tfChargeValue" class="mu-overflow-label label MULabel Label_창고사용료[]"/>
+<div id="btnWithDraw" class="mu-button MuButton_S01_textYellow"><span id="btnWithDraw-label" class="mu-overflow-label label"/></div>
+<div id="btnLift" class="mu-button MuButton_S01_textYellow"><span id="btnLift-label" class="mu-overflow-label label"/></div>
+<div id="btnDeposit" class="mu-button MuButton_S01_textYellow"><span id="btnDeposit-label" class="mu-overflow-label label"/></div>
+<div id="btnExtend" class="mu-button MuButton_S01_textYellow"><span id="btnExtend-label" class="mu-overflow-label label"/></div>
+<div id="btnZenInfo" class="mu-button MuButton_Drag"><span id="btnZenInfo-label" class="mu-overflow-label label"/></div></div>
+<div id="mcPeriodStorage" class="group"><div id="mcPeriodStorage-art-94-0" class="art"><i class="piece-0"/></div>
+<div id="mcPeriodStorage-art-92-0" class="art"/>
+<div id="tfRemainTimeTitle" class="mu-overflow-label label MULabel Label_사용기간"/>
+<div id="tfRemainTime" class="mu-overflow-label label MULabel Label_기간"/></div>
+</div></body></rml>

@@ -1,0 +1,18 @@
+<rml>
+<head>
+    <title>MU Online Server Selection</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="server_select.rcss"/>
+</head>
+<body>
+    <div id="server-select" class="mu-window">
+        <div id="title"></div>
+        <div id="title-divider" class="mu-divider-small"/>
+        <div id="group-list" class="server-list"></div>
+        <div id="server-list" class="server-list"></div>
+        <div id="bottom-divider" class="mu-divider-big"/>
+        <div id="description"></div>
+        <div id="advisory"></div>
+    </div>
+</body>
+</rml>

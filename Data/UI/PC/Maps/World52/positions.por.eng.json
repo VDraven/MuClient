@@ -1,0 +1,134 @@
+{
+  "world": "World52",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World52_eng.bmd",
+  "sourceSha256": "86218282e7cefd5ea27375ae89b538f0906de87cdcf28efd36e4007c8dd91eff",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "npc",
+      "x": 36,
+      "y": 241,
+      "rotation": 0,
+      "name": "Lahap"
+    },
+    {
+      "index": 1,
+      "kind": "npc",
+      "x": 43,
+      "y": 229,
+      "rotation": 0,
+      "name": "Potion Merchant Silvia"
+    },
+    {
+      "index": 2,
+      "kind": "npc",
+      "x": 28,
+      "y": 236,
+      "rotation": 0,
+      "name": "Weapons Merchant Rhea"
+    },
+    {
+      "index": 3,
+      "kind": "npc",
+      "x": 35,
+      "y": 219,
+      "rotation": 0,
+      "name": "Magic Shop Owner Marce"
+    },
+    {
+      "index": 4,
+      "kind": "npc",
+      "x": 41,
+      "y": 191,
+      "rotation": 0,
+      "name": "Shadow Phantom Soldier"
+    },
+    {
+      "index": 5,
+      "kind": "npc",
+      "x": 56,
+      "y": 232,
+      "rotation": 0,
+      "name": "Shadow Phantom Soldier"
+    },
+    {
+      "index": 6,
+      "kind": "npc",
+      "x": 72,
+      "y": 220,
+      "rotation": 0,
+      "name": "Shadow Phantom Soldier"
+    },
+    {
+      "index": 7,
+      "kind": "npc",
+      "x": 49,
+      "y": 229,
+      "rotation": 0,
+      "name": "Safety Guardian"
+    },
+    {
+      "index": 8,
+      "kind": "npc",
+      "x": 54,
+      "y": 243,
+      "rotation": 0,
+      "name": "Mirage"
+    },
+    {
+      "index": 9,
+      "kind": "npc",
+      "x": 45,
+      "y": 243,
+      "rotation": 0,
+      "name": "Seed Master"
+    },
+    {
+      "index": 10,
+      "kind": "npc",
+      "x": 49,
+      "y": 243,
+      "rotation": 0,
+      "name": "Seed Researcher"
+    },
+    {
+      "index": 11,
+      "kind": "npc",
+      "x": 48,
+      "y": 216,
+      "rotation": 0,
+      "name": "Lugard"
+    },
+    {
+      "index": 12,
+      "kind": "npc",
+      "x": 21,
+      "y": 225,
+      "rotation": 0,
+      "name": "Moss"
+    },
+    {
+      "index": 13,
+      "kind": "portal",
+      "x": 248,
+      "y": 149,
+      "rotation": 45,
+      "name": "Entrance to Atlans"
+    },
+    {
+      "index": 14,
+      "kind": "portal",
+      "x": 19,
+      "y": 27,
+      "rotation": 225,
+      "name": "Entrance to Devias"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

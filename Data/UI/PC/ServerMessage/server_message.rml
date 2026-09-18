@@ -1,0 +1,20 @@
+<rml>
+<head>
+    <meta name="mu-design-ServerMessage-Height" content="200"/>
+    <meta name="mu-design-ServerMessage-Width" content="400"/>
+    <meta name="mu-design-ServerMessage-Left" content="10"/>
+    <meta name="mu-design-ServerMessage-TopOffset" content="10"/>
+    <meta name="mu-design-ServerMessage-ReferenceTop" content="31"/>
+    <meta name="mu-design-ServerMessage-ReferenceHeight" content="600"/>
+
+    <title>MU Online Server Messages</title>
+    <link type="text/rcss" href="server_message.rcss"/>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="server_message_gfx.generated.rcss"/>
+</head>
+<body>
+    <div id="server-message-panel" class="NormalNotice">
+        <div id="server-message-text" class="MULabel"></div>
+    </div>
+</body>
+</rml>

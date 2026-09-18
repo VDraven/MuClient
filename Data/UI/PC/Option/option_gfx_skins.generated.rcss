@@ -1,0 +1,44 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.option-back {
+    decorator: tiled-box(
+        Option.popupfield01, Option.popupfield02, Option.popupfield03,
+        Option.popupfield04, Option.popupfield05, Option.popupfield06,
+        Option.popupfield07, Option.popupfield08, Option.popupfield09
+    );
+}
+.option-back.gfx-scale-grid-parts { decorator: none; }
+.gfx-scale-grid-parts > i { position: absolute; pointer-events: none; }
+.option-back > .Option\.popupfield01 { decorator: image(Option.popupfield01); }
+.option-back > .Option\.popupfield02 { decorator: image(Option.popupfield02); }
+.option-back > .Option\.popupfield03 { decorator: image(Option.popupfield03); }
+.option-back > .Option\.popupfield04 { decorator: image(Option.popupfield04); }
+.option-back > .Option\.popupfield05 { decorator: image(Option.popupfield05); }
+.option-back > .Option\.popupfield06 { decorator: image(Option.popupfield06); }
+.option-back > .Option\.popupfield07 { decorator: image(Option.popupfield07); }
+.option-back > .Option\.popupfield08 { decorator: image(Option.popupfield08); }
+.option-back > .Option\.popupfield09 { decorator: image(Option.popupfield09); }
+#close-button { decorator: image(Option.btn_s01); }
+#close-button.over, #close-button:hover { decorator: image(Option.btn_s02); }
+#close-button.down, #close-button:active { decorator: image(Option.btn_s03); }
+#close-button.disabled, #close-button:disabled { decorator: image(Option.btn_s04); }
+#option-panel .option-check-row > input.MuCheckBox_001 { decorator: image(Option.checkbox_0_01); }
+#option-panel .option-check-row:hover > input.MuCheckBox_001 { decorator: image(Option.checkbox_0_02); }
+#option-panel .option-check-row:active > input.MuCheckBox_001 { decorator: image(Option.checkbox_0_03); }
+#option-panel .option-check-row > input.MuCheckBox_001:disabled { decorator: image(Option.checkbox_0_04); }
+#option-panel .option-check-row > input.MuCheckBox_001:checked { decorator: image(Option.checkbox_1_01); }
+#option-panel .option-check-row:hover > input.MuCheckBox_001:checked { decorator: image(Option.checkbox_1_02); }
+#option-panel .option-check-row:active > input.MuCheckBox_001:checked { decorator: image(Option.checkbox_1_03); }
+#option-panel .option-check-row > input.MuCheckBox_001:checked:disabled { decorator: image(Option.checkbox_1_04); }
+#option-panel .MuStatusIndicator_volume .volume-cell { decorator: image(Option.vol_bg); }
+#option-panel .MuStatusIndicator_volume .volume-cell.filled { decorator: image(Option.vol_org); }
+#option-panel .volume-speaker { decorator: image(Option.vol_icon); }
+#option-panel .effect-option > input.Button { decorator: image(Option.level_effect_1); }
+#option-panel .effect-option:hover > input.Button { decorator: image(Option.level_effect_2); }
+#option-panel .effect-option:active > input.Button { decorator: image(Option.level_effect_2); }
+#option-panel .effect-option > input.Button:disabled { decorator: image(Option.level_effect_1); }
+#option-panel .effect-option > input.Button:checked { decorator: image(Option.level_effect_2); }
+#option-panel .effect-option:hover > input.Button:checked { decorator: image(Option.level_effect_2); }
+#option-panel .effect-option:active > input.Button:checked { decorator: image(Option.level_effect_1); }
+#option-panel .effect-option > input.Button:checked:disabled { decorator: image(Option.level_effect_1); }
+#option-panel .title-divider { decorator: image(Option.popup_line_m); }
+#option-panel .bottom-divider { decorator: image(Option.popup_line_s); }

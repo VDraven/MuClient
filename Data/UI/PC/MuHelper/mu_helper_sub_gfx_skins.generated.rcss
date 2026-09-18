@@ -1,0 +1,80 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.sub-window .sub-back {
+    decorator: tiled-box(
+        MacroSub.popupfield01, MacroSub.popupfield02, MacroSub.popupfield03,
+        MacroSub.popupfield04, MacroSub.popupfield05, MacroSub.popupfield06,
+        MacroSub.popupfield07, MacroSub.popupfield08, MacroSub.popupfield09
+    );
+}
+.sub-window .sub-back.gfx-scale-grid-parts { decorator: none; }
+.gfx-scale-grid-parts > i { position: absolute; pointer-events: none; }
+.sub-window .sub-back > .MacroSub\.popupfield01 { decorator: image(MacroSub.popupfield01); }
+.sub-window .sub-back > .MacroSub\.popupfield02 { decorator: image(MacroSub.popupfield02); }
+.sub-window .sub-back > .MacroSub\.popupfield03 { decorator: image(MacroSub.popupfield03); }
+.sub-window .sub-back > .MacroSub\.popupfield04 { decorator: image(MacroSub.popupfield04); }
+.sub-window .sub-back > .MacroSub\.popupfield05 { decorator: image(MacroSub.popupfield05); }
+.sub-window .sub-back > .MacroSub\.popupfield06 { decorator: image(MacroSub.popupfield06); }
+.sub-window .sub-back > .MacroSub\.popupfield07 { decorator: image(MacroSub.popupfield07); }
+.sub-window .sub-back > .MacroSub\.popupfield08 { decorator: image(MacroSub.popupfield08); }
+.sub-window .sub-back > .MacroSub\.popupfield09 { decorator: image(MacroSub.popupfield09); }
+#mu-helper .MuButton_M01 { decorator: image(MacroSub.btn_m01); }
+#mu-helper .MuButton_M01.over, #mu-helper .MuButton_M01:hover { decorator: image(MacroSub.btn_m02); }
+#mu-helper .MuButton_M01.down, #mu-helper .MuButton_M01:active { decorator: image(MacroSub.btn_m03); }
+#mu-helper .MuButton_M01.disabled, #mu-helper .MuButton_M01:disabled { decorator: image(MacroSub.btn_m04); }
+.recovery-lines > .image-0 { decorator: image(MacroSub.popup_line_m); }
+.recovery-lines > .image-1 { decorator: image(MacroSub.popup_line_s); }
+.recovery-lines > .image-2 { decorator: image(MacroSub.popup_line_s); }
+.party-lines > .image-0 { decorator: image(MacroSub.popup_line_m); }
+.party-lines > .image-1 { decorator: image(MacroSub.point); }
+.party-lines > .image-2 { decorator: image(MacroSub.textfield01); }
+.party-lines > .image-3 { decorator: image(MacroSub.textfield02); }
+.party-lines > .image-4 { decorator: image(MacroSub.textfield03); }
+.party-lines > .image-5 { decorator: image(MacroSub.popup_line_s); }
+.party-lines > .image-6 { decorator: image(MacroSub.popup_line_s); }
+.activation-lines > .image-0 { decorator: image(MacroSub.popup_line_m); }
+.activation-lines > .image-1 { decorator: image(MacroSub.point); }
+.activation-lines > .image-2 { decorator: image(MacroSub.point); }
+.activation-lines > .image-3 { decorator: image(MacroSub.popup_line_s); }
+.activation-extra-lines > .image-0 { decorator: image(MacroSub.popup_line_m); }
+.activation-extra-lines > .image-1 { decorator: image(MacroSub.popup_line_m); }
+.activation-extra-lines > .image-2 { decorator: image(MacroSub.textfield01); }
+.activation-extra-lines > .image-3 { decorator: image(MacroSub.textfield02); }
+.activation-extra-lines > .image-4 { decorator: image(MacroSub.textfield03); }
+.delay-input-frame > .image-0 { decorator: image(MacroSub.textfield01); }
+.delay-input-frame > .image-1 { decorator: image(MacroSub.textfield02); }
+.delay-input-frame > .image-2 { decorator: image(MacroSub.textfield03); }
+.activation-middle-line { decorator: image(MacroSub.popup_line_s); }
+.heading-diamond { decorator: image(MacroSub.point); }
+.helper-inset {
+    decorator: tiled-box(
+        MacroSub.tooltip_bg01, MacroSub.tooltip_bg02, MacroSub.tooltip_bg03,
+        MacroSub.tooltip_bg04, MacroSub.tooltip_bg05, MacroSub.tooltip_bg06,
+        MacroSub.CursedTempleMatchMenu, MacroSub.tooltip_bg08, MacroSub.tooltip_bg09
+    );
+}
+.helper-inset.gfx-scale-grid-parts { decorator: none; }
+.helper-inset > .MacroSub\.tooltip_bg01 { decorator: image(MacroSub.tooltip_bg01); }
+.helper-inset > .MacroSub\.tooltip_bg02 { decorator: image(MacroSub.tooltip_bg02); }
+.helper-inset > .MacroSub\.tooltip_bg03 { decorator: image(MacroSub.tooltip_bg03); }
+.helper-inset > .MacroSub\.tooltip_bg04 { decorator: image(MacroSub.tooltip_bg04); }
+.helper-inset > .MacroSub\.tooltip_bg05 { decorator: image(MacroSub.tooltip_bg05); }
+.helper-inset > .MacroSub\.tooltip_bg06 { decorator: image(MacroSub.tooltip_bg06); }
+.helper-inset > .MacroSub\.CursedTempleMatchMenu { decorator: image(MacroSub.CursedTempleMatchMenu); }
+.helper-inset > .MacroSub\.tooltip_bg08 { decorator: image(MacroSub.tooltip_bg08); }
+.helper-inset > .MacroSub\.tooltip_bg09 { decorator: image(MacroSub.tooltip_bg09); }
+#mu-helper #sub-window .MuCheckBox_sub_skill > input { decorator: image(MacroSub.checkbox_0_01); }
+#mu-helper #sub-window .MuCheckBox_sub_skill:hover > input { decorator: image(MacroSub.checkbox_0_02); }
+#mu-helper #sub-window .MuCheckBox_sub_skill:active > input { decorator: image(MacroSub.checkbox_0_03); }
+#mu-helper #sub-window .MuCheckBox_sub_skill > input:disabled { decorator: image(MacroSub.checkbox_0_04); }
+#mu-helper #sub-window .MuCheckBox_sub_skill > input:checked { decorator: image(MacroSub.checkbox_1_01); }
+#mu-helper #sub-window .MuCheckBox_sub_skill:hover > input:checked { decorator: image(MacroSub.checkbox_1_02); }
+#mu-helper #sub-window .MuCheckBox_sub_skill:active > input:checked { decorator: image(MacroSub.checkbox_1_03); }
+#mu-helper #sub-window .MuCheckBox_sub_skill > input:checked:disabled { decorator: image(MacroSub.checkbox_1_04); }
+#mu-helper #sub-window .MuCheckBox_hunt01 > input { decorator: image(MacroSub.checkbox_0_01); }
+#mu-helper #sub-window .MuCheckBox_hunt01:hover > input { decorator: image(MacroSub.checkbox_0_02); }
+#mu-helper #sub-window .MuCheckBox_hunt01:active > input { decorator: image(MacroSub.checkbox_0_03); }
+#mu-helper #sub-window .MuCheckBox_hunt01 > input:disabled { decorator: image(MacroSub.checkbox_0_04); }
+#mu-helper #sub-window .MuCheckBox_hunt01 > input:checked { decorator: image(MacroSub.checkbox_1_01); }
+#mu-helper #sub-window .MuCheckBox_hunt01:hover > input:checked { decorator: image(MacroSub.checkbox_1_02); }
+#mu-helper #sub-window .MuCheckBox_hunt01:active > input:checked { decorator: image(MacroSub.checkbox_1_03); }
+#mu-helper #sub-window .MuCheckBox_hunt01 > input:checked:disabled { decorator: image(MacroSub.checkbox_1_04); }

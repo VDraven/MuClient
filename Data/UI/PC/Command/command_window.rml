@@ -1,0 +1,53 @@
+<rml>
+<head>
+    <!-- C++ presentation inputs. Authored here; read once before rendering. -->
+    <meta name="mu-design-RmlCommandWindowPanel-PanelWidth" content="327"/>
+    <meta name="mu-design-RmlCommandWindowPanel-PanelHeight" content="639"/>
+    <meta name="mu-design-RmlCommandWindowPanel-ReferenceWidth" content="640"/>
+    <meta name="mu-design-RmlCommandWindowPanel-ReferenceHeight" content="480"/>
+    <meta name="mu-design-RmlCommandWindowPanel-ButtonX" content="101"/>
+    <meta name="mu-design-RmlCommandWindowPanel-ButtonY" content="102"/>
+    <meta name="mu-design-RmlCommandWindowPanel-ButtonStep" content="44"/>
+    <meta name="mu-design-RmlCommandWindowPanel-ButtonWidth" content="128.000259"/>
+    <meta name="mu-design-RmlCommandWindowPanel-ButtonHeight" content="35"/>
+    <!-- End presentation inputs -->
+
+
+
+    <!-- Game-space target hint; preserved legacy art, authored presentation. -->
+    <meta name="mu-design-CommandTarget-Frame" content="5 5 128 32"/>
+    <meta name="mu-design-CommandTarget-TextY" content="12"/>
+    <meta name="mu-design-CommandTarget-AllowedColor" content="255 255 255 255"/>
+    <meta name="mu-design-CommandTarget-DeniedColor" content="255 0 0 255"/>
+    <meta name="mu-design-CommandTarget-BackgroundColor" content="20 20 20 0"/>
+    <title>MU Online Command Window</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="command_window_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="command_window.rcss"/>
+    <link type="text/rcss" href="command_window_gfx.generated.rcss"/>
+</head>
+<body>
+    <div id="command-window" class="command-window">
+        <div id="command-window-back" class="command-window-back">
+            <i class="command-background-top"/>
+            <i class="command-background-body"/>
+            <i class="command-background-bottom"/>
+        </div>
+        <div id="command-window-title" class="command-window-title"/>
+        <div id="command-button-0" class="mu-button command-button"><span id="command-label-0" class="mu-overflow-label command-button-label"/></div>
+        <div id="command-button-1" class="mu-button command-button"><span id="command-label-1" class="mu-overflow-label command-button-label"/></div>
+        <div id="command-button-2" class="mu-button command-button"><span id="command-label-2" class="mu-overflow-label command-button-label"/></div>
+        <div id="command-button-3" class="mu-button command-button"><span id="command-label-3" class="mu-overflow-label command-button-label"/></div>
+        <div id="command-button-4" class="mu-button command-button"><span id="command-label-4" class="mu-overflow-label command-button-label"/></div>
+        <div id="command-button-5" class="mu-button command-button"><span id="command-label-5" class="mu-overflow-label command-button-label"/></div>
+        <div id="command-button-6" class="mu-button command-button"><span id="command-label-6" class="mu-overflow-label command-button-label"/></div>
+        <div id="command-button-7" class="mu-button command-button"><span id="command-label-7" class="mu-overflow-label command-button-label"/></div>
+        <div id="command-button-8" class="mu-button command-button"><span id="command-label-8" class="mu-overflow-label command-button-label"/></div>
+        <div id="command-button-9" class="mu-button command-button"><span id="command-label-9" class="mu-overflow-label command-button-label"/></div>
+        <div id="command-button-10" class="mu-button command-button"><span id="command-label-10" class="mu-overflow-label command-button-label"/></div>
+        <div id="command-window-drag" class="command-window-drag"/>
+        <div id="command-window-close" class="mu-button command-window-close"/>
+    </div>
+</body>
+</rml>

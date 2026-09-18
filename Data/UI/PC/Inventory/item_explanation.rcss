@@ -1,0 +1,16 @@
+body { width: 100%; height: 100%; margin: 0; overflow: hidden; font-family: Arial; }
+#popup { position: absolute; left: 0; top: 0; display: inline-block; padding: 4px 3px; min-width: 16px; min-height: 16px; }
+#popup .frame { position: absolute; left: 0; top: 0; width: 100%; height: 100%; pointer-events: none; }
+#information { position: relative; padding: 2px; white-space: nowrap; overflow: visible; }
+#information .line { display: block; text-align: center; }
+#information .blank { min-height: 7px; }
+#information table { display: table; border-spacing: 6px 0; }
+#information tr { display: table-row; }
+#information td, #information th { display: table-cell; text-align: center; }
+#information .bold { font-weight: bold; }
+#information .white { color: #ffffff; }
+#information .blue, #information th { color: #80b3ff; }
+#information .red { color: #ff331a; }
+#information .yellow { color: #ffcc1a; }
+#information .green { color: #1aff80; }
+#information .dark-red { color: #ffffff; background-color: #a00000; }

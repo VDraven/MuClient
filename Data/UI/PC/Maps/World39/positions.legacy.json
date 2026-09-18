@@ -1,0 +1,32 @@
+{
+  "world": "World39",
+  "language": null,
+  "source": "World39/Minimap.bmd",
+  "sourceSha256": "e55c2eae744af5dd5d2e12259ab835f2155106daa1a8ec05961f888b8b933967",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 66,
+      "y": 105,
+      "rotation": 225,
+      "name": "�J���g���p��",
+      "sourceNameHex": "834a83938367838b94709ad0"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 141,
+      "y": 186,
+      "rotation": 135,
+      "name": "���o�Ǘ����u",
+      "sourceNameHex": "93fc8f6f8ac7979d91959275"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

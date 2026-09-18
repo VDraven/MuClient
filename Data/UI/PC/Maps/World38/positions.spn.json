@@ -1,0 +1,32 @@
+{
+  "world": "World38",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World38_spn.bmd",
+  "sourceSha256": "06deb592163f7db418d3704b65ba6ae3bfc78e124ede7abbee06d630b6091663",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 16,
+      "y": 222,
+      "rotation": 180,
+      "name": "Entrada a Tarkan"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 89,
+      "y": 91,
+      "rotation": 45,
+      "name": "Entrada a las Reliquias de Kanturu"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

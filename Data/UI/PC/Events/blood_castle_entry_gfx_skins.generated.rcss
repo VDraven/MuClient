@@ -1,0 +1,9 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-14 > .piece-0 { decorator: image(EnterBloodCastle.popup_01_1); }
+#art-14 > .piece-1 { decorator: image(EnterBloodCastle.popup_bg01); }
+#art-14 > .piece-2 { decorator: image(EnterBloodCastle.popup_bg03); }
+#art-13 > .piece-0 { decorator: image(EnterBloodCastle.war_bg_centerline); }
+#btnClose > .state-up > .piece-0 { decorator: image(EnterBloodCastle.btn_close01); }
+#btnClose > .state-over > .piece-0 { decorator: image(EnterBloodCastle.btn_close02); }
+#btnClose > .state-down > .piece-0 { decorator: image(EnterBloodCastle.btn_close03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(EnterBloodCastle.btn_close04); }

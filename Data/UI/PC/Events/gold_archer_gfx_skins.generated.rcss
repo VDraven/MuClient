@@ -1,0 +1,17 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-11 > .piece-0 { decorator: image(goldarcher.popup_01_1); }
+#art-11 > .piece-1 { decorator: image(goldarcher.popup_bg01); }
+#art-11 > .piece-2 { decorator: image(goldarcher.popup_bg03); }
+#art-10 > .piece-0 { decorator: image(goldarcher.textfield01); }
+#art-10 > .piece-1 { decorator: image(goldarcher.textfield02); }
+#art-10 > .piece-2 { decorator: image(goldarcher.textfield03); }
+#art-9 > .piece-0 { decorator: image(goldarcher.war_bg_centerline); }
+#art-8 > .piece-0 { decorator: image(goldarcher.popup_line_s); }
+#btnCertify > .state-up > .piece-0 { decorator: image(goldarcher.btn_l01); }
+#btnCertify > .state-over > .piece-0 { decorator: image(goldarcher.btn_l02); }
+#btnCertify > .state-down > .piece-0 { decorator: image(goldarcher.btn_l03); }
+#btnCertify > .state-disabled > .piece-0 { decorator: image(goldarcher.btn_l04); }
+#btnClose > .state-up > .piece-0 { decorator: image(goldarcher.btn_close01); }
+#btnClose > .state-over > .piece-0 { decorator: image(goldarcher.btn_close02); }
+#btnClose > .state-down > .piece-0 { decorator: image(goldarcher.btn_close03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(goldarcher.btn_close04); }

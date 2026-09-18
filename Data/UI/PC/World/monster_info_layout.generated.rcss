@@ -1,0 +1,5 @@
+/* S16 MonsterInfoMC / mcMonsterHP source geometry and TweenProgress timing. */
+.monster { margin-left: -60.5px; margin-top: -23.5px; }
+.hp { left: 6px; top: 18px; width: 109px; height: 11px; }
+.hp-track { left: 3px; top: 3px; width: 102.999695px; height: 4.999924px; }
+.hp-fill { left: 0; top: 0; width: 0%; height: 100%; transition: width 0.2s exponential-out; }

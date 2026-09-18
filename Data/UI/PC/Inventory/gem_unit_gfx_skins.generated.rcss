@@ -1,0 +1,29 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#menu-art-12 > .piece-0 { decorator: image(MixStone.popupfield01); }
+#menu-art-12 > .piece-1 { decorator: image(MixStone.popupfield02); }
+#menu-art-12 > .piece-2 { decorator: image(MixStone.popupfield03); }
+#menu-art-12 > .piece-3 { decorator: image(MixStone.popupfield04); }
+#menu-art-12 > .piece-4 { decorator: image(MixStone.popupfield05); }
+#menu-art-12 > .piece-5 { decorator: image(MixStone.popupfield06); }
+#menu-art-12 > .piece-6 { decorator: image(MixStone.popupfield07); }
+#menu-art-12 > .piece-7 { decorator: image(MixStone.popupfield08); }
+#menu-art-12 > .piece-8 { decorator: image(MixStone.popupfield09); }
+#menu-art-11 > .piece-0 { decorator: image(MixStone.popup_line_m); }
+#menu-art-10 > .piece-0 { decorator: image(MixStone.popup_line_s); }
+#menu-art-9 > .piece-0 { decorator: image(MixStone.popup_line_s); }
+#btnUnitClose > .state-up > .piece-0 { decorator: image(MixStone.btn_s01); }
+#btnUnitClose > .state-over > .piece-0 { decorator: image(MixStone.btn_s02); }
+#btnUnitClose > .state-down > .piece-0 { decorator: image(MixStone.btn_s03); }
+#btnUnitClose > .state-disabled > .piece-0 { decorator: image(MixStone.btn_s04); }
+#btnUnit1 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnUnit1 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnUnit1 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnUnit1 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnUnit2 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnUnit2 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnUnit2 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnUnit2 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }
+#btnUnit3 > .state-up > .piece-0 { decorator: image(MixStone.btn_l01); }
+#btnUnit3 > .state-over > .piece-0 { decorator: image(MixStone.btn_l02); }
+#btnUnit3 > .state-down > .piece-0 { decorator: image(MixStone.btn_l03); }
+#btnUnit3 > .state-disabled > .piece-0 { decorator: image(MixStone.btn_l04); }

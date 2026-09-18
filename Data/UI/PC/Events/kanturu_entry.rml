@@ -1,0 +1,18 @@
+<rml><head><title>KanturuEvent</title><meta name="mu-design-Menu-Size" content="397.8 377.000436"/><meta name="mu-design-Menu-Reference" content="640 480"/><meta name="mu-design-Panel-Initial" content="20 20"/>
+<meta name="mu-design-Source-Scale" content="1.3 1.3"/><meta name="mu-design-Source-SmallScale" content="0 0"/><link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="kanturu_entry.rcss"/>
+<link type="text/rcss" href="kanturu_entry_gfx.generated.rcss"/>
+<link type="text/rcss" href="kanturu_entry_gfx_skins.generated.rcss"/>
+<link type="text/rcss" href="kanturu_entry_layout.generated.rcss"/></head><body><div id="menu">
+<div id="source"><div id="art-9" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/><i class="piece-3"/><i class="piece-4"/><i class="piece-5"/><i class="piece-6"/><i class="piece-7"/><i class="piece-8"/></div>
+<div id="art-8" class="art"><i class="piece-0"/></div>
+<div id="art-7" class="art"><i class="piece-0"/></div>
+<div id="tfSubject" class="label mu-overflow-label Label_엘피스"/>
+<div id="btnRefresh" class="mu-button MuButton_S01"><div class="button-state state-up"><i class="piece-0"/></div><div class="button-state state-over"><i class="piece-0"/></div><div class="button-state state-down"><i class="piece-0"/></div><div class="button-state state-disabled"><i class="piece-0"/></div><span id="btnRefresh-label" class="label mu-overflow-label"/></div>
+<div id="btnClose" class="mu-button MuButton_S01"><div class="button-state state-up"><i class="piece-0"/></div><div class="button-state state-over"><i class="piece-0"/></div><div class="button-state state-down"><i class="piece-0"/></div><div class="button-state state-disabled"><i class="piece-0"/></div><span id="btnClose-label" class="label mu-overflow-label"/></div>
+<div id="TextArea1" class="text-area mu-text-area MuTextArea"/>
+<div id="TextArea3" class="text-area mu-text-area MuTextArea"/>
+<div id="TextArea2" class="text-area mu-text-area MuTextArea"/>
+<div id="btnEnter" class="mu-button MuButton_S01"><div class="button-state state-up"><i class="piece-0"/></div><div class="button-state state-over"><i class="piece-0"/></div><div class="button-state state-down"><i class="piece-0"/></div><div class="button-state state-disabled"><i class="piece-0"/></div><span id="btnEnter-label" class="label mu-overflow-label"/></div></div>
+</div></body></rml>

@@ -1,0 +1,82 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.store-frame {
+    decorator: tiled-box(
+        hudPlayerName.Bitmap58, hudPlayerName.Bitmap57, hudPlayerName.Bitmap56,
+        hudPlayerName.Bitmap55, hudPlayerName.Bitmap54, hudPlayerName.Bitmap52,
+        hudPlayerName.Bitmap53, hudPlayerName.Bitmap51, hudPlayerName.Bitmap50
+    );
+}
+.store-frame.gfx-scale-grid-parts { decorator: none; }
+.gfx-scale-grid-parts > i { position: absolute; pointer-events: none; }
+.store-frame > .hudPlayerName\.Bitmap58 { decorator: image(hudPlayerName.Bitmap58); }
+.store-frame > .hudPlayerName\.Bitmap57 { decorator: image(hudPlayerName.Bitmap57); }
+.store-frame > .hudPlayerName\.Bitmap56 { decorator: image(hudPlayerName.Bitmap56); }
+.store-frame > .hudPlayerName\.Bitmap55 { decorator: image(hudPlayerName.Bitmap55); }
+.store-frame > .hudPlayerName\.Bitmap54 { decorator: image(hudPlayerName.Bitmap54); }
+.store-frame > .hudPlayerName\.Bitmap52 { decorator: image(hudPlayerName.Bitmap52); }
+.store-frame > .hudPlayerName\.Bitmap53 { decorator: image(hudPlayerName.Bitmap53); }
+.store-frame > .hudPlayerName\.Bitmap51 { decorator: image(hudPlayerName.Bitmap51); }
+.store-frame > .hudPlayerName\.Bitmap50 { decorator: image(hudPlayerName.Bitmap50); }
+.long-store-title .store-frame {
+    decorator: tiled-box(
+        hudPlayerName.Bitmap58, hudPlayerName.Bitmap57, hudPlayerName.Bitmap56,
+        hudPlayerName.Bitmap55, hudPlayerName.Bitmap54, hudPlayerName.Bitmap52,
+        hudPlayerName.Bitmap53, hudPlayerName.Bitmap51, hudPlayerName.Bitmap50
+    );
+}
+.long-store-title .store-frame.gfx-scale-grid-parts { decorator: none; }
+.long-store-title .store-frame > .hudPlayerName\.Bitmap58 { decorator: image(hudPlayerName.Bitmap58); }
+.long-store-title .store-frame > .hudPlayerName\.Bitmap57 { decorator: image(hudPlayerName.Bitmap57); }
+.long-store-title .store-frame > .hudPlayerName\.Bitmap56 { decorator: image(hudPlayerName.Bitmap56); }
+.long-store-title .store-frame > .hudPlayerName\.Bitmap55 { decorator: image(hudPlayerName.Bitmap55); }
+.long-store-title .store-frame > .hudPlayerName\.Bitmap54 { decorator: image(hudPlayerName.Bitmap54); }
+.long-store-title .store-frame > .hudPlayerName\.Bitmap52 { decorator: image(hudPlayerName.Bitmap52); }
+.long-store-title .store-frame > .hudPlayerName\.Bitmap53 { decorator: image(hudPlayerName.Bitmap53); }
+.long-store-title .store-frame > .hudPlayerName\.Bitmap51 { decorator: image(hudPlayerName.Bitmap51); }
+.long-store-title .store-frame > .hudPlayerName\.Bitmap50 { decorator: image(hudPlayerName.Bitmap50); }
+.chat-frame > .hudPlayerName\.Bitmap14 { decorator: image(hudPlayerName.Bitmap14); }
+.chat-frame > .hudPlayerName\.Bitmap13 { decorator: image(hudPlayerName.Bitmap13); }
+.chat-frame > .hudPlayerName\.Bitmap15 { decorator: image(hudPlayerName.Bitmap15); }
+.chat-frame > .hudPlayerName\.Bitmap21 { decorator: image(hudPlayerName.Bitmap21); }
+.chat-frame > .hudPlayerName\.Bitmap20 { decorator: image(hudPlayerName.Bitmap20); }
+.chat-frame > .hudPlayerName\.Bitmap19 { decorator: image(hudPlayerName.Bitmap19); }
+.chat-frame > .hudPlayerName\.Bitmap18 { decorator: image(hudPlayerName.Bitmap18); }
+.chat-frame > .hudPlayerName\.Bitmap17 { decorator: image(hudPlayerName.Bitmap17); }
+.chat-frame > .hudPlayerName\.Bitmap16 { decorator: image(hudPlayerName.Bitmap16); }
+.chat-tail { decorator: image(hudPlayerName.Bitmap146); }
+.gens-1 { decorator: image(hudPlayerName.Bitmap69); }
+.gens-2 { decorator: image(hudPlayerName.Bitmap71); }
+.gens-3 { decorator: image(hudPlayerName.Bitmap73); }
+.gens-4 { decorator: image(hudPlayerName.Bitmap75); }
+.gens-5 { decorator: image(hudPlayerName.Bitmap77); }
+.gens-6 { decorator: image(hudPlayerName.Bitmap79); }
+.gens-7 { decorator: image(hudPlayerName.Bitmap81); }
+.gens-8 { decorator: image(hudPlayerName.Bitmap83); }
+.gens-9 { decorator: image(hudPlayerName.Bitmap85); }
+.gens-10 { decorator: image(hudPlayerName.Bitmap87); }
+.gens-11 { decorator: image(hudPlayerName.Bitmap89); }
+.gens-12 { decorator: image(hudPlayerName.Bitmap91); }
+.gens-13 { decorator: image(hudPlayerName.Bitmap93); }
+.gens-14 { decorator: image(hudPlayerName.Bitmap95); }
+.gens-15 { decorator: image(hudPlayerName.Bitmap97); }
+.gens-16 { decorator: image(hudPlayerName.Bitmap99); }
+.gens-17 { decorator: image(hudPlayerName.Bitmap101); }
+.gens-18 { decorator: image(hudPlayerName.Bitmap103); }
+.gens-19 { decorator: image(hudPlayerName.Bitmap105); }
+.gens-20 { decorator: image(hudPlayerName.Bitmap107); }
+.gens-21 { decorator: image(hudPlayerName.Bitmap109); }
+.gens-22 { decorator: image(hudPlayerName.Bitmap111); }
+.gens-23 { decorator: image(hudPlayerName.Bitmap113); }
+.gens-24 { decorator: image(hudPlayerName.Bitmap115); }
+.gens-25 { decorator: image(hudPlayerName.Bitmap117); }
+.gens-26 { decorator: image(hudPlayerName.Bitmap119); }
+.gens-27 { decorator: image(hudPlayerName.Bitmap121); }
+.gens-28 { decorator: image(hudPlayerName.Bitmap123); }
+.castle-1 { decorator: image(hudPlayerName.Bitmap126); }
+.castle-2 { decorator: image(hudPlayerName.Bitmap128); }
+.castle-3 { decorator: image(hudPlayerName.Bitmap130); }
+.castle-4 { decorator: image(hudPlayerName.Bitmap132); }
+.castle-5 { decorator: image(hudPlayerName.Bitmap134); }
+.castle-6 { decorator: image(hudPlayerName.Bitmap136); }
+.castle-7 { decorator: image(hudPlayerName.Bitmap138); }
+.castle-8 { decorator: image(hudPlayerName.Bitmap140); }

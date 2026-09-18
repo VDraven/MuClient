@@ -1,0 +1,134 @@
+{
+  "world": "World3",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World3_eng.bmd",
+  "sourceSha256": "8daaceebe96e36aadf896168525de44318e7cd8d9db9f45a044955bdc107db47",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "npc",
+      "x": 209,
+      "y": 28,
+      "rotation": 0,
+      "name": "Messenger of Archangel"
+    },
+    {
+      "index": 1,
+      "kind": "npc",
+      "x": 183,
+      "y": 31,
+      "rotation": 0,
+      "name": "Sebina the Priest"
+    },
+    {
+      "index": 2,
+      "kind": "npc",
+      "x": 226,
+      "y": 23,
+      "rotation": 0,
+      "name": "Caren the Barmaid"
+    },
+    {
+      "index": 3,
+      "kind": "npc",
+      "x": 225,
+      "y": 39,
+      "rotation": 0,
+      "name": "Wizard Izabel"
+    },
+    {
+      "index": 4,
+      "kind": "npc",
+      "x": 186,
+      "y": 46,
+      "rotation": 0,
+      "name": "Weapons Merchant Zienna"
+    },
+    {
+      "index": 5,
+      "kind": "npc",
+      "x": 215,
+      "y": 45,
+      "rotation": 0,
+      "name": "Royal Guard Captain Lorence"
+    },
+    {
+      "index": 6,
+      "kind": "npc",
+      "x": 217,
+      "y": 62,
+      "rotation": 0,
+      "name": "Safety Guardian"
+    },
+    {
+      "index": 7,
+      "kind": "npc",
+      "x": 170,
+      "y": 44,
+      "rotation": 0,
+      "name": "Shadow Phantom Soldier"
+    },
+    {
+      "index": 8,
+      "kind": "npc",
+      "x": 219,
+      "y": 73,
+      "rotation": 0,
+      "name": "Shadow Phantom Soldier"
+    },
+    {
+      "index": 9,
+      "kind": "npc",
+      "x": 229,
+      "y": 221,
+      "rotation": 0,
+      "name": "Jerint the Assistant"
+    },
+    {
+      "index": 10,
+      "kind": "npc",
+      "x": 30,
+      "y": 30,
+      "rotation": 0,
+      "name": "Natasha the Firecracker Merchant"
+    },
+    {
+      "index": 11,
+      "kind": "portal",
+      "x": 251,
+      "y": 33,
+      "rotation": 45,
+      "name": "Entrance to Lorencia"
+    },
+    {
+      "index": 12,
+      "kind": "portal",
+      "x": 162,
+      "y": 248,
+      "rotation": 135,
+      "name": "Entrance to Elveland"
+    },
+    {
+      "index": 13,
+      "kind": "portal",
+      "x": 0,
+      "y": 250,
+      "rotation": 180,
+      "name": "Entrance to the Lost Tower"
+    },
+    {
+      "index": 14,
+      "kind": "portal",
+      "x": 51,
+      "y": 92,
+      "rotation": 135,
+      "name": "Entrance to La Cleon"
+    }
+  ],
+  "imageOriginPixels": [
+    3,
+    9
+  ]
+}

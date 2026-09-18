@@ -1,0 +1,43 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#symbol-76-0 > .popup_01_1-0 { decorator: image(inventoryFrame.popup_01_1); }
+#symbol-76-0 > .popup_bg01-1 { decorator: image(inventoryFrame.popup_bg01); }
+#symbol-76-0 > .popup_bg03-2 { decorator: image(inventoryFrame.popup_bg03); }
+#symbol-78-0 > .newinven_bg-0 { decorator: image(inventoryFrame.newinven_bg); }
+#symbol-80-0 > .war_bg_centerline-0 { decorator: image(inventoryFrame.war_bg_centerline); }
+#symbol-82-0 > .invenbg01-0 { decorator: image(inventoryFrame.invenbg01); }
+#symbol-82-0 > .invenbg02-1 { decorator: image(inventoryFrame.invenbg02); }
+#symbol-82-0 > .invenbg02-2 { decorator: image(inventoryFrame.invenbg02); }
+#symbol-82-0 > .invenbg02-3 { decorator: image(inventoryFrame.invenbg02); }
+#symbol-82-0 > .invenbg02-4 { decorator: image(inventoryFrame.invenbg02); }
+#symbol-82-0 > .invenbg02-5 { decorator: image(inventoryFrame.invenbg02); }
+#symbol-82-0 > .invenbg02-6 { decorator: image(inventoryFrame.invenbg02); }
+#symbol-82-0 > .invenbg03-7 { decorator: image(inventoryFrame.invenbg03); }
+#symbol-84-0 > .coin-0 { decorator: image(inventoryFrame.coin); }
+#symbol-86-0 { decorator: tiled-horizontal(inventoryFrame.textfield01, inventoryFrame.textfield02, inventoryFrame.textfield03); }
+#symbol-88-0 > .newinven_box006-0 { decorator: image(inventoryFrame.newinven_box006); }
+#symbol-90-0 > .newinven_box012-0 { decorator: image(inventoryFrame.newinven_box012); }
+#symbol-92-0 > .newinven_box002-0 { decorator: image(inventoryFrame.newinven_box002); }
+#mc_gloves > .newinven_box008-0 { decorator: image(inventoryFrame.newinven_box008); }
+#mc_helm > .newinven_box003-0 { decorator: image(inventoryFrame.newinven_box003); }
+#symbol-98-0 > .newinven_box001-0 { decorator: image(inventoryFrame.newinven_box001); }
+#symbol-100-0 > .newinven_box010-0 { decorator: image(inventoryFrame.newinven_box010); }
+#symbol-102-0 > .newinven_box013-0 { decorator: image(inventoryFrame.newinven_box013); }
+#symbol-104-0 > .newinven_box009-0 { decorator: image(inventoryFrame.newinven_box009); }
+#symbol-104-1 > .newinven_box009-0 { decorator: image(inventoryFrame.newinven_box009); }
+#symbol-106-0 > .newinven_box007-0 { decorator: image(inventoryFrame.newinven_box007); }
+#symbol-108-0 > .newinven_box005-0 { decorator: image(inventoryFrame.newinven_box005); }
+#symbol-110-0 > .newinven_box004-0 { decorator: image(inventoryFrame.newinven_box004); }
+.MuButton_S01 { decorator: image(inventoryFrame.btn_s01); }
+.MuButton_S01.over, .MuButton_S01:hover { decorator: image(inventoryFrame.btn_s02); }
+.MuButton_S01.down, .MuButton_S01:active { decorator: image(inventoryFrame.btn_s03); }
+.MuButton_S01.disabled { decorator: image(inventoryFrame.btn_s04); }
+.MuButton_Close { decorator: image(inventoryFrame.btn_close01); }
+.MuButton_Close.over, .MuButton_Close:hover { decorator: image(inventoryFrame.btn_close02); }
+.MuButton_Close.down, .MuButton_Close:active { decorator: image(inventoryFrame.btn_close03); }
+.MuButton_Close.disabled { decorator: image(inventoryFrame.btn_close04); }
+.MuItemSlot_clear01.icon-frame-2 { decorator: image(inventoryFrame.02_inven_select3_2); }
+.MuItemSlot_clear01.icon-frame-3 { decorator: image(inventoryFrame.03_inven_select3_3); }
+.MuItemSlot_clear01.icon-frame-4 { decorator: image(inventoryFrame.04_inven_select3_4); }
+.MuItemSlot_clear01.icon-frame-5 { decorator: image(inventoryFrame.05_inven_select3_5); }
+.MuItemSlot_clear01.icon-frame-6 { decorator: image(inventoryFrame.06_inven_select3_5); }
+.MuItemSlot_clear01.icon-frame-7 { decorator: image(inventoryFrame.07_inven_select3_7); }

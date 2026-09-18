@@ -1,0 +1,21 @@
+body { margin: 0; width: 100%; height: 100%; overflow: hidden; font-family: Arial; }
+.main-frame, .main-frame div, .main-frame i { position: absolute; pointer-events: none; }
+.main-frame { display: none; transform-origin: 0 0; }
+.gauge-clip { overflow: hidden; clip: always; }
+.marble-clip { bottom: 0; width: 100%; height: 100%; }
+.marble { bottom: 0; width: 100%; }
+.rod, .experience { height: 100%; width: 100%; }
+.rod.ag { right: 0; }
+.main-text { white-space: nowrap; overflow: hidden; }
+.skill-page-labels > i { display: none; }
+.skill-page-labels.page-one > .Bitmap141, .skill-page-labels.page-one > .Bitmap142,
+.skill-page-labels.page-one > .Bitmap143, .skill-page-labels.page-one > .Bitmap144,
+.skill-page-labels.page-one > .Bitmap145, .skill-page-labels.page-two > .Bitmap134,
+.skill-page-labels.page-two > .Bitmap135, .skill-page-labels.page-two > .Bitmap136,
+.skill-page-labels.page-two > .Bitmap137, .skill-page-labels.page-two > .Bitmap138 { display: block; }
+
+.skill-page-toggle.to-second.disabled > .arrow { display: none; }
+
+.mu-skill-icon { position: absolute; pointer-events: none; overflow: hidden; clip: always; }
+.mu-skill-icon div { position: absolute; pointer-events: none; }
+.skill-cooldown { left: 0; bottom: 0; width: 100%; height: 0; background-color: #ff808080; }

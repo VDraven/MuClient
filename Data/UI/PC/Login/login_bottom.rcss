@@ -1,0 +1,3 @@
+body { margin: 0; width: 100%; height: 100%; overflow: hidden; font-family: Arial; }
+.scene-button, .scene-label { position: absolute; box-sizing: border-box; }
+.scene-label { pointer-events: none; white-space: nowrap; overflow: hidden; }

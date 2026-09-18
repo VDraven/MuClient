@@ -1,0 +1,18 @@
+<rml><head>
+<meta name="mu-design-Menu-Size" content="145.0 148.0"/>
+<meta name="mu-design-Menu-Reference" content="640 480"/>
+<meta name="mu-design-Menu-Anchor" content="0 0 0"/>
+<title>Character commands</title>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="quick_command.rcss"/>
+<link type="text/rcss" href="quick_command_gfx.generated.rcss"/>
+<link type="text/rcss" href="quick_command_gfx_skins.generated.rcss"/>
+</head><body><div id="menu"><i id="frame-top"/><i id="frame-middle"/><i id="frame-bottom"/>
+<div id="btnTrade" data-command="0" class="mu-button MuButton_clear01"><span class="label mu-overflow-label" id="btnTrade-label"/></div>
+<div id="btnPurchase" data-command="1" class="mu-button MuButton_clear01"><span class="label mu-overflow-label" id="btnPurchase-label"/></div>
+<div id="btnParty" data-command="2" class="mu-button MuButton_clear01"><span class="label mu-overflow-label" id="btnParty-label"/></div>
+<div id="btnFollow" data-command="3" class="mu-button MuButton_clear01"><span class="label mu-overflow-label" id="btnFollow-label"/></div>
+<div id="btnDuel" data-command="4" class="mu-button MuButton_clear01"><span class="label mu-overflow-label" id="btnDuel-label"/></div>
+<div id="tfTitle" class="MULabel"><span class="label mu-overflow-label" id="menu-title"/></div>
+</div></body></rml>

@@ -1,0 +1,48 @@
+/* Generated from exact source instance matrices and bitmap bounds. */
+#panel { width: 214.95px; height: 166.95px; }
+#panel-art-4 { width: 214.95px; height: 166.95px; left: 0px; top: 0px; }
+#panel-art-4 > .piece-12 { left: 0px; top: 0px; width: 214.95px; height: 166.95px; }
+#panel-art-4 > .piece-11 { left: 51px; top: 92px; width: 8px; height: 23.95px; }
+#panel-art-4 > .piece-10 { left: 59px; top: 92px; width: 30px; height: 24px; }
+#panel-art-4 > .piece-9 { left: 89px; top: 92px; width: 8px; height: 24px; }
+#panel-art-4 > .piece-8 { left: 145px; top: 92px; width: 8px; height: 23.95px; }
+#panel-art-4 > .piece-7 { left: 153px; top: 92px; width: 30px; height: 24px; }
+#panel-art-4 > .piece-6 { left: 183px; top: 92px; width: 8px; height: 24px; }
+#panel-art-4 > .piece-5 { left: 78px; top: 125px; width: 8px; height: 23.95px; }
+#panel-art-4 > .piece-4 { left: 86px; top: 125px; width: 50px; height: 24px; }
+#panel-art-4 > .piece-3 { left: 136px; top: 125px; width: 8px; height: 24px; }
+#panel-art-4 > .piece-2 { left: 57px; top: 124px; width: 21px; height: 26px; }
+#panel-art-4 > .piece-1 { left: 122px; top: 93px; width: 20.8px; height: 20.8px; }
+#panel-art-4 > .piece-0 { left: 30px; top: 93px; width: 17.5px; height: 19.8px; }
+#mcSkillFrame { width: 132px; height: 45px; left: 46px; top: 42px; }
+#ssMapSkillSlot0 { width: 36px; height: 45px; left: 0px; top: 0px; }
+#ssMapSkillSlot0-mcSelected { width: 36px; height: 45px; left: -5px; top: -5px; }
+#ssMapSkillSlot0-mcSelected > .piece-0 { left: 0px; top: 0px; width: 36px; height: 45px; }
+#ssMapSkillSlot0-mcSelected2 { width: 36px; height: 44px; left: -5px; top: -5px; }
+#ssMapSkillSlot0-mcSelected2 > .piece-0 { left: 0px; top: 0px; width: 36px; height: 44px; }
+#ssMapSkillSlot0-icon { left: 0px; top: 0px; width: 25px; height: 35.00061px; }
+#ssMapSkillSlot0-button { width: 25px; height: 25px; left: 0px; top: 0px; transform-origin: 0px 0px; transform: matrix(0.999588, 0, 0, 1.399445, 0, 0); }
+#ssMapSkillSlot1 { width: 36px; height: 45px; left: 32px; top: 0px; }
+#ssMapSkillSlot1-mcSelected { width: 36px; height: 45px; left: -5px; top: -5px; }
+#ssMapSkillSlot1-mcSelected > .piece-0 { left: 0px; top: 0px; width: 36px; height: 45px; }
+#ssMapSkillSlot1-mcSelected2 { width: 36px; height: 44px; left: -5px; top: -5px; }
+#ssMapSkillSlot1-mcSelected2 > .piece-0 { left: 0px; top: 0px; width: 36px; height: 44px; }
+#ssMapSkillSlot1-icon { left: 0px; top: 0px; width: 25px; height: 35.00061px; }
+#ssMapSkillSlot1-button { width: 25px; height: 25px; left: 0px; top: 0px; transform-origin: 0px 0px; transform: matrix(0.999588, 0, 0, 1.399445, 0, 0); }
+#ssMapSkillSlot2 { width: 36px; height: 45px; left: 64px; top: 0px; }
+#ssMapSkillSlot2-mcSelected { width: 36px; height: 45px; left: -5px; top: -5px; }
+#ssMapSkillSlot2-mcSelected > .piece-0 { left: 0px; top: 0px; width: 36px; height: 45px; }
+#ssMapSkillSlot2-mcSelected2 { width: 36px; height: 44px; left: -5px; top: -5px; }
+#ssMapSkillSlot2-mcSelected2 > .piece-0 { left: 0px; top: 0px; width: 36px; height: 44px; }
+#ssMapSkillSlot2-icon { left: 0px; top: 0px; width: 25px; height: 35.00061px; }
+#ssMapSkillSlot2-button { width: 25px; height: 25px; left: 0px; top: 0px; transform-origin: 0px 0px; transform: matrix(0.999588, 0, 0, 1.399445, 0, 0); }
+#ssMapSkillSlot3 { width: 36px; height: 45px; left: 96px; top: 0px; }
+#ssMapSkillSlot3-mcSelected { width: 36px; height: 45px; left: -5px; top: -5px; }
+#ssMapSkillSlot3-mcSelected > .piece-0 { left: 0px; top: 0px; width: 36px; height: 45px; }
+#ssMapSkillSlot3-mcSelected2 { width: 36px; height: 44px; left: -5px; top: -5px; }
+#ssMapSkillSlot3-mcSelected2 > .piece-0 { left: 0px; top: 0px; width: 36px; height: 44px; }
+#ssMapSkillSlot3-icon { left: 0px; top: 0px; width: 25px; height: 35.00061px; }
+#ssMapSkillSlot3-button { width: 25px; height: 25px; left: 0px; top: 0px; transform-origin: 0px 0px; transform: matrix(0.999588, 0, 0, 1.399445, 0, 0); }
+#tfMatchTime { width: 52px; height: 12.6px; left: 83px; top: 128px; }
+#tfIllusionScore { width: 36px; height: 12.6px; left: 147px; top: 95px; }
+#tfAlliedScore { width: 36px; height: 13.8px; left: 53px; top: 95px; }

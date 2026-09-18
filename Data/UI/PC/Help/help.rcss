@@ -1,0 +1,14 @@
+body { width: 100%; height: 100%; margin: 0; overflow: hidden; font-family: Arial; }
+#panel, #panel div, #panel span, #panel i, .HelpListItemRenderer, .HelpListItemRenderer span { position: absolute; box-sizing: border-box; }
+#panel .page, #panel .art, #panel .label, #panel i, .button-state, .HelpListItemRenderer span { pointer-events: none; }
+#panel .page { left: 0; top: 0; width: 100%; height: 100%; }
+#panel .mu-button, #panel .mu-list { pointer-events: auto; }
+#panel .mu-list { overflow: hidden; }
+#panel .label, .HelpListItemRenderer span { overflow: hidden; white-space: nowrap; }
+#panel .drag { cursor: move; drag: drag; pointer-events: auto; }
+#panel .button-state { left: 0; top: 0; width: 100%; height: 100%; display: none; }
+#panel .mu-scrollbar, #panel .mu-scrollbar div { pointer-events: auto; }
+#help-row-template { display: none; }
+#mcChatHotKey { display: none; }
+
+#panel .mu-overflow-label { pointer-events: auto; }

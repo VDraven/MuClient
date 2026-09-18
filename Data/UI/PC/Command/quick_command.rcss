@@ -1,0 +1,11 @@
+body { margin: 0; width: 100%; height: 100%; overflow: hidden; font-family: Arial; }
+#menu, #menu div, #menu span, #menu i { position: absolute; box-sizing: border-box; }
+#menu { height: 148.0px; }
+#menu .label, #menu i, #menu .MULabel { pointer-events: none; }
+#menu .mu-button { pointer-events: auto; }
+#menu .label { overflow: hidden; white-space: nowrap; }
+#frame-top { left: 0; top: 0; height: 34.0px; }
+#frame-middle { left: 0; top: 34.0px; height: 105.0px; }
+#frame-bottom { left: 0; height: 9.0px; }
+
+#menu .mu-overflow-label { pointer-events: auto; }

@@ -1,0 +1,42 @@
+{
+  "world": "World39",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World39_spn.bmd",
+  "sourceSha256": "efe454cd9d0d035756f0fe0e7d98af75b912364897b2432347ba2a44ad97e43b",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 141,
+      "y": 191,
+      "rotation": 90,
+      "name": "Máquina de Portón",
+      "npcNumber": 367,
+      "index": 0
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 66,
+      "y": 105,
+      "rotation": 225,
+      "name": "Entrada a las Ruinas de Kanturu"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 141,
+      "y": 186,
+      "rotation": 135,
+      "name": "M�quina de Port�n",
+      "sourceNameHex": "4de17175696e6120646520506f7274f36e"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

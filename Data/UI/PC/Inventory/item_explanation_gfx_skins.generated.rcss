@@ -1,0 +1,19 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#mcBg2 > .piece-0 { decorator: gfx-tint(infoPopup.tooltip_bg02 0 0 0 0); }
+#mcBg2 > .piece-1 { decorator: gfx-tint(infoPopup.tooltip_bg03 0 0 0 0); }
+#mcBg2 > .piece-2 { decorator: gfx-tint(infoPopup.tooltip_bg01 0 0 0 0); }
+#mcBg2 > .piece-3 { decorator: gfx-tint(infoPopup.tooltip_bg04 0 0 0 0); }
+#mcBg2 > .piece-4 { decorator: gfx-tint(infoPopup.tooltip_bg05 0 0 0 0); }
+#mcBg2 > .piece-5 { decorator: gfx-tint(infoPopup.tooltip_bg06 0 0 0 0); }
+#mcBg2 > .piece-6 { decorator: gfx-tint(infoPopup.tooltip_bg07 0 0 0 0); }
+#mcBg2 > .piece-7 { decorator: gfx-tint(infoPopup.tooltip_bg08 0 0 0 0); }
+#mcBg2 > .piece-8 { decorator: gfx-tint(infoPopup.tooltip_bg09 0 0 0 0); }
+#mcBg > .piece-0 { decorator: image(infoPopup.tooltip_bg02); }
+#mcBg > .piece-1 { decorator: image(infoPopup.tooltip_bg03); }
+#mcBg > .piece-2 { decorator: image(infoPopup.tooltip_bg01); }
+#mcBg > .piece-3 { decorator: image(infoPopup.tooltip_bg04); }
+#mcBg > .piece-4 { decorator: image(infoPopup.tooltip_bg05); }
+#mcBg > .piece-5 { decorator: image(infoPopup.tooltip_bg06); }
+#mcBg > .piece-6 { decorator: image(infoPopup.tooltip_bg07); }
+#mcBg > .piece-7 { decorator: image(infoPopup.tooltip_bg08); }
+#mcBg > .piece-8 { decorator: image(infoPopup.tooltip_bg09); }

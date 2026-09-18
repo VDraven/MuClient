@@ -1,0 +1,23 @@
+{
+  "world": "World64",
+  "language": null,
+  "source": "World64/Minimap.bmd",
+  "sourceSha256": "c32a4d8f947371539414be4d1b3949067019591786c8cbce3571b6de2e5624e7",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "npc",
+      "x": 121,
+      "y": 135,
+      "rotation": 0,
+      "name": "��ԃ^�C�g�D�X",
+      "sourceNameHex": "96e594d4835e8343836783448358"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

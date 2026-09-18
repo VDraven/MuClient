@@ -1,0 +1,25 @@
+/* Generated from exact source instance matrices and bitmap bounds. */
+#menu { width: 307.998413px; height: 226.00058px; }
+#menu-art-4 { width: 307.998413px; height: 226.00058px; left: 0px; top: 0px; }
+#menu-art-4 > .piece-0 { left: 0px; top: 0px; width: 16px; height: 16px; }
+#menu-art-4 > .piece-1 { left: 16px; top: 0px; width: 275.998413px; height: 16px; }
+#menu-art-4 > .piece-2 { left: 291.998413px; top: 0px; width: 16px; height: 16px; }
+#menu-art-4 > .piece-3 { left: 0px; top: 16px; width: 16px; height: 194.00058px; }
+#menu-art-4 > .piece-4 { left: 16px; top: 16px; width: 275.998413px; height: 194.00058px; }
+#menu-art-4 > .piece-5 { left: 291.998413px; top: 16px; width: 16px; height: 194.00058px; }
+#menu-art-4 > .piece-6 { left: 0px; top: 210.00058px; width: 16px; height: 16px; }
+#menu-art-4 > .piece-7 { left: 16px; top: 210.00058px; width: 274.99112px; height: 16px; }
+#menu-art-4 > .piece-8 { left: 290.99112px; top: 210.00058px; width: 16.007293px; height: 16px; }
+#taItemMent { width: 260.45px; height: 50px; left: 21px; top: 113px; }
+#btnItemOk { width: 75px; height: 35px; left: 75px; top: 176px; transform-origin: 0px 0px; transform: matrix(0.999359, 0, 0, 1, 0, 0); }
+#btnItemOk > .state-up > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnItemOk > .state-over > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnItemOk > .state-down > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnItemOk > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnItemCancel { width: 75px; height: 35px; left: 153px; top: 176px; transform-origin: 0px 0px; transform: matrix(1.000031, 0, 0, 1, 0, 0); }
+#btnItemCancel > .state-up > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnItemCancel > .state-over > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnItemCancel > .state-down > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnItemCancel > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#isItem { width: 26.000214px; height: 26.000214px; left: 103px; top: 12px; transform-origin: 0px 0px; transform: matrix(3.692307, 0, 0, 3.692307, 0, 0); }
+#isItem { width: 96.000758px; height: 96.000758px; left: 103px; top: 12px; transform: none; }

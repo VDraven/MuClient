@@ -1,0 +1,5 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.login-bottom .MuButton_S01 { decorator: image(winLoginSceneBottomUI.btn_xl01); }
+.login-bottom .MuButton_S01.over, .login-bottom .MuButton_S01:hover { decorator: image(winLoginSceneBottomUI.btn_xl02); }
+.login-bottom .MuButton_S01.down, .login-bottom .MuButton_S01:active { decorator: image(winLoginSceneBottomUI.btn_xl03); }
+.login-bottom .MuButton_S01.disabled, .login-bottom .MuButton_S01:disabled { decorator: image(winLoginSceneBottomUI.btn_xl04); }

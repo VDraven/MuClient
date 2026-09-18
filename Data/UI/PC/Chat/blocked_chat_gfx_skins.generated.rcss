@@ -1,0 +1,35 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.blocked-chat-list-back {
+    decorator: tiled-box(
+        BlockedChat.tooltip_bg01, BlockedChat.tooltip_bg02, BlockedChat.tooltip_bg03,
+        BlockedChat.tooltip_bg04, BlockedChat.tooltip_bg05, BlockedChat.tooltip_bg06,
+        BlockedChat.tooltip_bg07, BlockedChat.tooltip_bg08, BlockedChat.tooltip_bg09
+    );
+}
+.blocked-chat-input-back { decorator: tiled-horizontal(BlockedChat.textfield01, BlockedChat.textfield02, BlockedChat.textfield03); }
+.blocked-chat-back-top { decorator: image(characterFrame.popup_01_1); }
+.blocked-chat-back-body { decorator: image(BlockedChat.popup_bg01_2); }
+.blocked-chat-back-bottom { decorator: image(BlockedChat.popup_bg05); }
+.blocked-chat-bullet { decorator: image(FriendWindow.point); }
+.blocked-chat-divider { decorator: image(PetInfo.popup_line_m); }
+.blocked-chat-button { decorator: image(BlockedChat.btn_s01); }
+.blocked-chat-button.over, .blocked-chat-button:hover { decorator: image(BlockedChat.btn_s02); }
+.blocked-chat-button.down, .blocked-chat-button:active { decorator: image(BlockedChat.btn_s03); }
+.blocked-chat-button.disabled, .blocked-chat-button:disabled { decorator: image(BlockedChat.btn_s04); }
+.blocked-chat-close { decorator: image(FriendMenu.btn_close01); }
+.blocked-chat-close.over, .blocked-chat-close:hover { decorator: image(FriendMenu.btn_close02); }
+.blocked-chat-close.down, .blocked-chat-close:active { decorator: image(FriendMenu.btn_close03); }
+.blocked-chat-close.disabled, .blocked-chat-close:disabled { decorator: image(FriendMenu.btn_close04); }
+.blocked-chat-scroll-up { decorator: image(FriendWindow.scroll_btn01); }
+.blocked-chat-scroll-up.over, .blocked-chat-scroll-up:hover { decorator: image(FriendWindow.scroll_btn02); }
+.blocked-chat-scroll-up.down, .blocked-chat-scroll-up:active { decorator: image(FriendWindow.scroll_btn03); }
+.blocked-chat-scroll-up.disabled, .blocked-chat-scroll-up:disabled { decorator: image(FriendWindow.scroll_btn04); }
+.blocked-chat-scroll-down { decorator: image(FriendWindow.scroll_btn05); }
+.blocked-chat-scroll-down.over, .blocked-chat-scroll-down:hover { decorator: image(FriendWindow.scroll_btn06); }
+.blocked-chat-scroll-down.down, .blocked-chat-scroll-down:active { decorator: image(FriendWindow.scroll_btn07); }
+.blocked-chat-scroll-down.disabled, .blocked-chat-scroll-down:disabled { decorator: image(FriendWindow.scroll_btn08); }
+.blocked-chat-scroll-thumb { decorator: ninepatch(BlockedChat.scroll01, BlockedChat.blocked-chat-scroll-thumb-inner); }
+.blocked-chat-scroll-thumb.over, .blocked-chat-scroll-thumb:hover { decorator: ninepatch(BlockedChat.scroll02, BlockedChat.blocked-chat-scroll-thumb-over-inner); }
+.blocked-chat-scroll-thumb.down, .blocked-chat-scroll-thumb:active { decorator: ninepatch(BlockedChat.scroll03, BlockedChat.blocked-chat-scroll-thumb-down-inner); }
+.blocked-chat-scroll-thumb.disabled, .blocked-chat-scroll-thumb:disabled { decorator: ninepatch(BlockedChat.scroll04, BlockedChat.blocked-chat-scroll-thumb-disabled-inner); }
+.blocked-chat-scroll-track { decorator: image(FriendWindow.scroll_bg02); }

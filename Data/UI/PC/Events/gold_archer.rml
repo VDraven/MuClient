@@ -1,0 +1,20 @@
+<rml><head><title>goldarcher</title><meta name="mu-design-Menu-Size" content="327 639"/><meta name="mu-design-Menu-Reference" content="640 480"/><meta name="mu-design-Panel-Initial" content="20 20"/>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="gold_archer.rcss"/>
+<link type="text/rcss" href="gold_archer_gfx.generated.rcss"/>
+<link type="text/rcss" href="gold_archer_gfx_skins.generated.rcss"/>
+</head><body><div id="menu">
+<div id="art-11" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-10" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-9" class="art"><i class="piece-0"/></div>
+<div id="art-8" class="art"><i class="piece-0"/></div>
+<div id="tfInput" class="label mu-overflow-label Label_입력"/>
+<input id="tiCertifyInput" type="text" class="mu-text-input"/>
+<div id="taCertifyMent" class="text-area mu-text-area TextArea_인증번호입력하세요"/>
+<div id="taCertifyExample" class="text-area mu-text-area TextArea_인증번호넣으세요"/>
+<div id="tfTitle" class="label mu-overflow-label Label_겐스바네르트집사"/>
+<div id="btnCertify" class="mu-button MuButton_L01"><div class="button-state state-up"><i class="piece-0"/></div><div class="button-state state-over"><i class="piece-0"/></div><div class="button-state state-down"><i class="piece-0"/></div><div class="button-state state-disabled"><i class="piece-0"/></div><span id="btnCertify-label" class="label mu-overflow-label"/></div>
+<div id="btnDrag" class="drag MuButton_Drag"/>
+<div id="btnClose" class="mu-button MuButton_Close"><div class="button-state state-up"><i class="piece-0"/></div><div class="button-state state-over"><i class="piece-0"/></div><div class="button-state state-down"><i class="piece-0"/></div><div class="button-state state-disabled"><i class="piece-0"/></div></div>
+</div></body></rml>

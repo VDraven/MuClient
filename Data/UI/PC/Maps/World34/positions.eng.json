@@ -1,0 +1,50 @@
+{
+  "world": "World34",
+  "language": "eng",
+  "source": "Local/Eng/Minimap/Minimap_World34_eng.bmd",
+  "sourceSha256": "543a119c86891b57a36c3d64c5a2f68f218efcd204da908a38b87cb4a7166334",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 78,
+      "y": 13,
+      "rotation": 135,
+      "name": "Osbourne",
+      "npcNumber": 369,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 86,
+      "y": 14,
+      "rotation": 45,
+      "name": "Jerridon",
+      "npcNumber": 370,
+      "index": 1
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 72,
+      "y": 10,
+      "rotation": 225,
+      "name": "Entrance to Noria"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 238,
+      "y": 165,
+      "rotation": 135,
+      "name": "Entrance to Karutan"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

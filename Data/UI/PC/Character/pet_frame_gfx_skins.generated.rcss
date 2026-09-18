@@ -1,0 +1,13 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.MuButton_DragBar_pet { decorator: image(PetFrame.pet_dragbar); }
+.pet-member { decorator: image(PetFrame.pet_bg); }
+.pet-hp { decorator: image(PetFrame.party_hpbar); }
+.pet-hp-yellow { decorator: image(PetFrame.guege_exp); }
+.MuButton_Minimize { decorator: image(PetFrame.mubtn_minimizebtn01_2); }
+.MuButton_Minimize.over, .MuButton_Minimize:hover { decorator: image(PetFrame.mubtn_minimizebtn02_2); }
+.MuButton_Minimize.down, .MuButton_Minimize:active { decorator: image(PetFrame.mubtn_minimizebtn03_2); }
+.MuButton_Minimize.disabled, .MuButton_Minimize:disabled { decorator: image(PetFrame.mubtn_minimizebtn01_2); }
+.MuButton_Minimize.restore { decorator: image(PetFrame.mubtn_minimizebtn01_1); }
+.MuButton_Minimize.restore.over, .MuButton_Minimize.restore:hover { decorator: image(PetFrame.mubtn_minimizebtn02_1); }
+.MuButton_Minimize.restore.down, .MuButton_Minimize.restore:active { decorator: image(PetFrame.mubtn_minimizebtn03_1); }
+.MuButton_Minimize.restore.disabled, .MuButton_Minimize.restore:disabled { decorator: image(PetFrame.mubtn_minimizebtn01_1); }

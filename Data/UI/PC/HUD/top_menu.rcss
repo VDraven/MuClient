@@ -1,0 +1,4 @@
+body { margin: 0; width: 100%; height: 100%; overflow: hidden; font-family: Arial; }
+.top-menu, .top-menu div { position: absolute; pointer-events: none; }
+.top-menu { display: none; transform-origin: 0 0; }
+.top-menu-text { overflow: hidden; white-space: nowrap; }

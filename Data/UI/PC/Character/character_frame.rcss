@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial;
+}
+
+.character-frame,
+.character-frame div,
+.character-frame span,
+.character-frame i {
+    position: absolute;
+    box-sizing: border-box;
+}
+.character-frame i { display: block; }
+
+.character-frame { pointer-events: auto; }
+.character-background { pointer-events: auto; }
+.character-background > i,
+.character-centerline,
+.character-point,
+.character-field-frame { pointer-events: none; }
+
+.character-text {
+    overflow: hidden;
+    pointer-events: none;
+}
+.character-detail { white-space: pre; }
+
+.MuButton_statusUp { display: none; pointer-events: auto; }
+.MuButton_S01,
+.MuButton_Close { pointer-events: auto; }
+.MuButton_S01.disabled,
+.MuButton_S01:disabled,
+.MuButton_statusUp.disabled,
+.MuButton_statusUp:disabled,
+.MuButton_Close.disabled,
+.MuButton_Close:disabled { pointer-events: none; }
+
+#character-stat-label-4,
+#character-stat-value-4,
+#character-section-charisma,
+#character-field-stat-4 { display: none; }
+
+.MuButton_Drag { cursor: move; drag: drag; pointer-events: auto; }
+
+.MuButton_Close { width: 19px; height: 19px; decorator: image(characterFrame.btn_close01); }
+.MuButton_Close.over,
+.MuButton_Close:hover { decorator: image(characterFrame.btn_close02); }
+.MuButton_Close.down,
+.MuButton_Close:active { decorator: image(characterFrame.btn_close03); }
+.MuButton_Close.disabled,
+.MuButton_Close:disabled { decorator: image(characterFrame.btn_close04); }

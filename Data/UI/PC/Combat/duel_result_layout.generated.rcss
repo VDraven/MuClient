@@ -1,0 +1,35 @@
+/* Generated from exact source instance matrices and bitmap bounds. */
+#menu { width: 310px; height: 343px; }
+#menu-art-8 { width: 310px; height: 343px; left: 0px; top: 0px; }
+#menu-art-8 > .piece-8 { left: 0px; top: 0px; width: 16px; height: 16px; }
+#menu-art-8 > .piece-7 { left: 16px; top: 0px; width: 278px; height: 16px; }
+#menu-art-8 > .piece-6 { left: 294px; top: 0px; width: 16px; height: 16px; }
+#menu-art-8 > .piece-5 { left: 0px; top: 16px; width: 16px; height: 311px; }
+#menu-art-8 > .piece-4 { left: 16px; top: 16px; width: 278px; height: 311px; }
+#menu-art-8 > .piece-3 { left: 294px; top: 16px; width: 16px; height: 311px; }
+#menu-art-8 > .piece-2 { left: 0px; top: 327px; width: 16px; height: 16px; }
+#menu-art-8 > .piece-1 { left: 16px; top: 327px; width: 277px; height: 16px; }
+#menu-art-8 > .piece-0 { left: 293px; top: 327px; width: 16px; height: 16px; }
+#menu-art-7 { width: 117px; height: 105px; left: 98px; top: 62px; }
+#menu-art-7 > .piece-0 { left: 0px; top: 0px; width: 117px; height: 105px; }
+#menu-art-6 { width: 293px; height: 9px; left: 9px; top: 39px; }
+#menu-art-6 > .piece-0 { left: 0px; top: 0px; width: 293px; height: 9px; }
+#menu-art-5 { width: 287px; height: 2px; left: 14px; top: 280px; }
+#menu-art-5 > .piece-0 { left: 0px; top: 0px; width: 287px; height: 2px; }
+#tfTitle { width: 116px; height: 13.8px; left: 94px; top: 14px; }
+#taDuelInfo { width: 259px; height: 101.7px; left: 18px; top: 168px; }
+#btnOk { width: 75px; height: 35px; left: 77px; top: 294px; }
+#btnOk > .state-up > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnOk > .state-over > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnOk > .state-down > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnOk > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnCancel { width: 75px; height: 35px; left: 157px; top: 294px; }
+#btnCancel > .state-up > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnCancel > .state-over > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnCancel > .state-down > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnCancel > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnEnd { width: 75px; height: 35px; left: 116.6px; top: 294px; }
+#btnEnd > .state-up > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnEnd > .state-over > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnEnd > .state-down > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnEnd > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }

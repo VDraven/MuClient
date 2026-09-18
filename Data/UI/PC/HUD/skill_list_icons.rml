@@ -1,0 +1,5 @@
+<rml><head>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="hud_skill_icons.generated.rcss"/>
+<link type="text/rcss" href="skill_list_icons.rcss"/>
+</head><body><div id="skill-list-icons"/></body></rml>

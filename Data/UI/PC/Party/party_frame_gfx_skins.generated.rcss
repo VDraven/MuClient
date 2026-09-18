@@ -1,0 +1,18 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#party-frame .MuButton_Minimize { decorator: image(PartyFrame.mubtn_minimizebtn01_2); }
+#party-frame .MuButton_Minimize.over { decorator: image(PartyFrame.mubtn_minimizebtn02_2); }
+#party-frame .MuButton_Minimize.down { decorator: image(PartyFrame.mubtn_minimizebtn03_2); }
+#party-frame .MuButton_Minimize.disabled { decorator: image(PartyFrame.mubtn_minimizebtn01_2); }
+#party-frame .MuButton_Minimize.restore { decorator: image(PartyFrame.mubtn_minimizebtn01_1); }
+#party-frame .MuButton_Minimize.restore.over { decorator: image(PartyFrame.mubtn_minimizebtn02_1); }
+#party-frame .MuButton_Minimize.restore.down { decorator: image(PartyFrame.mubtn_minimizebtn03_1); }
+#party-frame .MuButton_Minimize.restore.disabled { decorator: image(PartyFrame.mubtn_minimizebtn01_1); }
+#party-frame .ButtonPartyLeave { decorator: image(PartyFrame.party_xbtn01_1); }
+#party-frame .ButtonPartyLeave.over { decorator: image(PartyFrame.party_xbtn02_1); }
+#party-frame .ButtonPartyLeave.down { decorator: image(PartyFrame.party_xbtn03_1); }
+#party-frame .ButtonPartyLeave.disabled { decorator: image(PartyFrame.party_xbtn04_1); }
+#party-frame .MuButton_DragBar_party { decorator: image(PartyFrame.party_gragbar); }
+#party-frame .MuProgressBar_partyHP { decorator: image(PartyFrame.party_hpbar); }
+#party-frame .MuProgressBar_partyMP { decorator: image(PartyFrame.party_mpbar); }
+#party-frame .ButtonPartyMaster > i { decorator: image(PartyFrame.party_crown); }
+#party-frame .party-background { decorator: ninepatch(PartyFrame.party_bg, PartyFrame.party_bg-inner); }

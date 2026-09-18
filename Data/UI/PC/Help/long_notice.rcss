@@ -1,0 +1,4 @@
+body { width: 100%; height: 100%; margin: 0; background-color: transparent; font-family: Arial; pointer-events: none; }
+#menu { position: absolute; left: 50%; transform: translateX(-50%); pointer-events: none; }
+#notice-text { position: absolute; white-space: nowrap; overflow: hidden; pointer-events: none; }
+#notice-background { position: absolute; left: 50%; transform: translateX(-50%); width: 100vw; min-width: 100%; pointer-events: none; }

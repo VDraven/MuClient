@@ -1,0 +1,150 @@
+/* Frame and decoration geometry comes from GFx contracts. Form controls remain in rework. */
+
+body { margin: 0; width: 100%; height: 100%; overflow: hidden; font-family: Arial; font-size: 12px; color: #c6c6c6; }
+.mu-helper, .mu-helper div, .mu-helper span, .mu-helper label, .mu-helper input, .mu-helper i {
+    position: absolute; box-sizing: border-box;
+}
+.mu-helper { width: 327px; height: 639px; pointer-events: auto; }
+.helper-back, .helper-back i, .helper-page-frame, .helper-page-frame i { pointer-events: none; }
+
+.helper-drag { left: 10px; top: 26px; width: 306px; height: 50px; cursor: move; drag: drag; pointer-events: auto; }
+.helper-close { left: 271.8px; top: 42.5px; width: 19px; height: 19px; }
+.mu-helper span { white-space: nowrap; overflow: hidden; line-height: 17.4px; }
+.mu-helper .mu-button { pointer-events: auto; overflow: hidden; }
+.mu-button > span { left: 0; top: 9px; width: 100%; height: 17.4px; line-height: 17.4px; }
+.helper-tab > span { top: 8px; }
+.item-add, .item-delete { font-size: 12px; }
+.item-add > span, .item-delete > span { top: 6px; }
+.helper-button-l { width: 95px; height: 35px; line-height: 35px;  color: #ffc000; }
+.helper-tab { top: 85px; width: 77px; height: 31px; line-height: 31px;  }
+.tab-hunt { left: 29px; } .tab-item { left: 107px; } .tab-other { left: 185px; }
+.helper-gear { width: 22px; height: 22px;  }
+.helper-gear span { display: none; }
+.helper-reset { left: 65px; top: 578px; } .helper-save { left: 166px; top: 578px; }
+.helper-page { left: 20px; top: 112px; width: 286px; height: 466px; }
+.hunt-lines, .hunt-lines i { pointer-events: none; }
+.item-lines, .item-lines i { pointer-events: none; }
+.other-lines, .other-lines i { pointer-events: none; }
+
+.mu-checkbox-row { width: 115px; pointer-events: auto; }
+.mu-checkbox-row > span { width: 95px; }
+.regular-row { left: 18px; top: 53px; }
+.concentrated-row { left: 18px; top: 77px; }
+.closely-row { left: 18px; top: 101px; }
+.counter-row { left: 18px; top: 125px; }
+.return-row { left: 18px; top: 149px; }
+.potion-row { left: 155px; top: 61px; width: 85px; }
+.potion-settings { left: 253px; top: 60px; }
+.auto-heal-row { left: 155px; top: 85px; }
+.drain-life-row { left: 155px; top: 109px; }
+.party-row { left: 155px; top: 133px; width: 85px; }
+.party-settings { left: 253px; top: 132px; }
+.helper-input { padding: 0; height: 16.6px; border-width: 0; background-color: transparent; color: #c4ac59; cursor: text; tab-index: auto; }
+.return-seconds { left: 74px; top: 172px; width: 26px; text-align: center; }
+.class-layer { left: 0; top: 0; width: 286px; height: 466px; pointer-events: none; }
+.helper-slot { width: 32px; height: 41px;  pointer-events: auto; }
+.slot-basic { left: 35px; top: 225px; }
+.slot-active-1 { left: 127px; top: 225px; }
+.slot-active-2 { left: 216px; top: 227px; }
+.skill-settings-1 { left: 158px; top: 271px; } .skill-settings-2 { left: 246px; top: 271px; }
+.class-option { left: 18px; top: 306px; width: 247px; height: 65px; pointer-events: none; }
+.class-option > .mu-checkbox-row { left: 0; top: 0; width: 120px; }
+.class-option > .mu-checkbox-row > span { width: 100px; }
+.dark-raven { top: 306.8px; }
+.radio-row { pointer-events: auto; }
+.radio-row input { decorator: svg(vectors/MuRadioButton.up.svg); }
+.radio-row:hover > input { decorator: svg(vectors/MuRadioButton.over.svg); }
+.radio-row:active > input { decorator: svg(vectors/MuRadioButton.down.svg); }
+.radio-row input:disabled { decorator: svg(vectors/MuRadioButton.up.svg); }
+.radio-row input:checked { decorator: svg(vectors/MuRadioButton.checked-up.svg); }
+.radio-row:hover > input:checked { decorator: svg(vectors/MuRadioButton.checked-over.svg); }
+.radio-row:active > input:checked { decorator: svg(vectors/MuRadioButton.checked-down.svg); }
+.radio-row input:checked:disabled { decorator: svg(vectors/MuRadioButton.checked-up.svg); }
+.buff-check { left: 18px; top: 384.8px; }
+.slot-buff-1 { left: 24px; top: 410.8px; } .slot-buff-2 { left: 63px; top: 410.8px; } .slot-buff-3 { left: 102px; top: 410.8px; }
+#page-item .mu-checkbox-row { width: 120px; } #page-item .mu-checkbox-row > span { width: 100px; }
+.repair-row { left: 14px; top: 61px; } .repair-muun { left: 150px; top: 61px; } .repair-guardian { left: 14px; top: 89px; }
+.item-all { left: 18px; top: 124.75px; } .item-selected { left: 18px; top: 153.25px; }
+.item-jewel { left: 36px; top: 179.25px; } .item-ancient { left: 158px; top: 179.25px; }
+.item-zen { left: 36px; top: 203.25px; } .item-excellent { left: 158px; top: 203.25px; }
+.item-extra { left: 36px; top: 227.25px; } .item-event { left: 158px; top: 227.3px; }
+.item-name { left: 57px; top: 251.25px; width: 145px; color: #c6c6c6; }
+.item-add { left: 206px; top: 244.25px; width: 70px; height: 30px; line-height: 30px; }
+.item-list-back { left: 11px; top: 316px; width: 242px; height: 92px;  pointer-events: none; }
+.item-list { left: 16px; top: 322px; width: 229.88px; height: 80px; overflow: hidden; }
+.item-row { left: 0; width: 229.88px; height: 16px; line-height: 16px; text-align: left; white-space: nowrap; }
+.item-row.selected { color: #ffc000; background-color: #4c2c1260; }
+.item-delete { left: 206px; top: 423px; width: 70px; height: 30px; line-height: 30px; }
+.other-friend { left: 18px; top: 19px; width: 247px; } .other-guild { left: 18px; top: 43px; width: 247px; }
+.other-defense { left: 18px; top: 81px; width: 247px; }
+.other-yield-label { left: 18px; top: 113px; width: 158px; height: 20px; line-height: 20px; }
+.other-yield-seconds { left: 181px; top: 113px; width: 40px; text-align: center; }
+.other-yield-unit { left: 226px; top: 113px; width: 38px; height: 20px; line-height: 20px; }
+#page-other .mu-checkbox-row > span { width: 227px; }
+.skill-picker { left: -76px; top: 337px; width: 72px; height: 225px; }
+.item-row.row-0 { top: 0px; }
+.item-row.row-1 { top: 16px; }
+.item-row.row-2 { top: 32px; }
+.item-row.row-3 { top: 48px; }
+.item-row.row-4 { top: 64px; }
+.available-slot.a0 { left: 0px; top: 0px; }
+.available-slot.a1 { left: 36px; top: 0px; }
+.available-slot.a2 { left: 0px; top: 45px; }
+.available-slot.a3 { left: 36px; top: 45px; }
+.available-slot.a4 { left: 0px; top: 90px; }
+.available-slot.a5 { left: 36px; top: 90px; }
+.available-slot.a6 { left: 0px; top: 135px; }
+.available-slot.a7 { left: 36px; top: 135px; }
+.available-slot.a8 { left: 0px; top: 180px; }
+.available-slot.a9 { left: 36px; top: 180px; }
+
+.sub-window { left: -306px; top: 26px; width: 306px; height: 342px; z-index: 10; }
+.sub-back { left: 0; top: 0; width: 306px; height: 342px;  pointer-events: none; }
+.sub-content { left: 0; top: 0; width: 306px; height: 342px; pointer-events: none; }
+.recovery-lines, .recovery-lines i { pointer-events: none; }
+.party-lines, .party-lines i { pointer-events: none; }
+.recovery-group { left: 17px; width: 275px; height: 90px; pointer-events: none; }
+.recovery-potion { top: 57px; } .recovery-second { left: 17px; top: 161px; }
+.drain-recovery #copy-auto-heal-sub { display: none; }
+.heading-diamond, .heading-diamond i { pointer-events: none; }
+.recovery-box, .recovery-box i { pointer-events: none; }
+.level-row { pointer-events: auto; overflow: visible; }
+.level-row .mu-meter-cell { decorator: image(MacroSub.vol_bg); }
+.level-row .mu-meter-cell.filled { decorator: image(MacroSub.vol_org); }
+.helper-button-sub { top: 294px; width: 75px; height: 35px; line-height: 35px;  }
+.sub-reset { left: 40px; } .sub-save { left: 120px; } .sub-close { left: 200px; }
+.sub-window.activation { top: 20px; height: 541.006px; }
+.activation .sub-back { top: 6px; height: 535.006px;  }
+.activation .sub-content { height: 541.006px; }
+.activation .helper-button-sub { top: 496px; }
+.activation-lines, .activation-lines i { pointer-events: none; }
+.activation-extra-lines, .activation-extra-lines i { pointer-events: none; }
+.activation-middle-line, .activation-middle-line i { pointer-events: none; }
+.sub-inset { left: 23px; width: 261px; height: 54px;  }
+.delay-box { top: 81px; height: 33px; } .pre-box { top: 193px; } .mobs-box { top: 303px; } .explosion-box { top: 416px; }
+.delay-input-frame, .delay-input-frame i { pointer-events: none; }
+.sub-delay-row { left: 17px; top: 55px; width: 219.41px; } .sub-delay-row > span { width: 199.41px; }
+.sub-monster-row { left: 17px; top: 137px; width: 219.41px; } .sub-monster-row > span { width: 199.41px; }
+.sub-skill-interval { left: 33.05px; top: 88.35px; width: 26px; text-align: center; pointer-events: auto; }
+.explosion-condition { left: 17px; top: 387px; width: 264px; } .explosion-condition > span { width: 244px; }
+.explosion-instant { left: 37px; top: 422px; width: 230px; } .explosion-instant > span { width: 210px; }
+.explosion-delay { left: 37px; top: 444px; width: 230px; } .explosion-delay > span { left: 49px; width: 183px; }
+.explosion-interval { left: 57.55px; top: 445.95px; width: 26px; text-align: center; }
+.party-duration { left: 23px; top: 82px; width: 116px; }
+.party-buff-interval { left: 243px; top: 83px; width: 26.95px; text-align: center; pointer-events: auto; }
+.party-heal-section { left: 17px; top: 161px; width: 275px; height: 105px; }
+.party-heal-check { left: 6px; top: 25px; width: 240px; } .party-heal-check > span { width: 220px; }
+.party-heal-box { left: 6px; top: 48px; }
+
+
+.helper-inset, .helper-inset i, .sub-back i { pointer-events: none; }
+
+.item-list-back i { pointer-events: none; }
+
+/* GFx area backgrounds extend beyond the transparent button hit rectangles. */
+#mu-helper .helper-range { overflow: visible; decorator: none; }
+#mu-helper .helper-range > i, #mu-helper .helper-range > span { pointer-events: none; }
+
+/* Approved slot insets; the whole source sheet is clipped to one AS2 cell. */
+.mu-skill-icon { position: absolute; overflow: hidden; clip: always; pointer-events: none; left: 18.75%; top: 14.6341463%; width: 62.5%; height: 68.2926829%; }
+.mu-skill-icon .skill-sheet { position: absolute; pointer-events: none; }

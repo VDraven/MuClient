@@ -1,0 +1,24 @@
+{
+  "world": "World82",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World82_spn.bmd",
+  "sourceSha256": "a6c46dadbc0bb8ce9dc22ea957034c3a262a155891cd6216a942bd586ea64f66",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 162,
+      "y": 9,
+      "rotation": 225,
+      "name": "Entrada a Karutan 1"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

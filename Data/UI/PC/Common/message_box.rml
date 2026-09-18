@@ -1,0 +1,48 @@
+<rml>
+<head>
+    <!-- C++ presentation inputs. Authored here; read once before rendering. -->
+    <meta name="mu-design-RmlMessageBoxPanel-PanelWidth" content="352"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelHeight" content="210"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelButtonWidth" content="70"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelButtonHeight" content="30"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelSingleButtonX" content="141"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelOkButtonX" content="96"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelCancelButtonX" content="186"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelButtonY" content="164"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelCautionWidth" content="308"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelCautionHeight" content="190"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelCautionButtonWidth" content="75"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelCautionButtonHeight" content="35"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelCautionSingleButtonX" content="109"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelCautionOkButtonX" content="69"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelCautionCancelButtonX" content="149"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelCautionBottomY" content="136"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PanelCautionMessageHeight" content="84"/>
+    <meta name="mu-design-RmlMessageBoxPanel-PasswordMaxLength" content="20"/>
+    <meta name="mu-design-RmlMessageBoxPanel-NumberMaxLength" content="8"/>
+    <meta name="mu-design-RmlMessageBoxPanel-TextMaxLength" content="10"/>
+    <!-- End presentation inputs -->
+
+
+
+    <title>MU Online Message Box</title>
+    <link type="text/rcss" href="common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="message_box_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="message_box.rcss"/>
+    <link type="text/rcss" href="message_box_gfx.generated.rcss"/>
+</head>
+<body>
+    <div id="message-box" class="s16-caution-frame">
+        <div id="message-title"></div>
+        <div id="message-divider" class="s16-caution-divider"/>
+        <div id="message"><div id="message-content"></div></div>
+        <input id="message-input" class="mu-text-input" type="text"/>
+        <div id="message-bottom">
+            <div id="message-bottom-divider" class="s16-caution-bottom-divider"/>
+            <div id="ok-button" class="mu-button s16-caution-button"><span id="ok-label" class="mu-overflow-label"></span></div>
+            <div id="cancel-button" class="mu-button s16-caution-button"><span id="cancel-label" class="mu-overflow-label"></span></div>
+        </div>
+    </div>
+</body>
+</rml>

@@ -1,0 +1,41 @@
+/* Tooltip.gfx uses 12px text, 2px leading, and 15x4px padding on its
+   550x400 stage. Convert once to the 640x480 reference, then the host applies
+   RmlUiScale universally. */
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial;
+    font-size: 14.4px;
+    line-height: 16.8px;
+    color: #ffffff;
+}
+
+.mu-tooltip {
+    display: none;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 4.8px 17.45px;
+    text-align: center;
+    line-height: 16.8px;
+    white-space: nowrap;
+    pointer-events: none;
+}
+
+.tooltip-line { display: block; min-height: 16.8px; }
+.tooltip-line.blank { min-height: 8.4px; }
+.tooltip-line.bold { font-weight: bold; }
+.tooltip-line.blue { color: #80b3ff; }
+.tooltip-line.gray { color: #ababab; }
+.tooltip-line.red { color: #ff331a; }
+.tooltip-line.yellow { color: #ffcc1a; }
+.tooltip-line.green { color: #1aff80; }
+.tooltip-line.purple { color: #ff1aff; }
+.tooltip-line.red-purple { color: #cc80cc; }
+.tooltip-line.violet { color: #b366ff; }
+.tooltip-line.orange { color: #e66b0a; }
+.tooltip-line.dark-red { color: #ffffff; background-color: #a00000; }
+.tooltip-line.dark-blue { color: #ffffff; background-color: #0000a0; }
+.tooltip-line.dark-yellow { color: #ffffff; background-color: #a06600; }
+.tooltip-line.green-blue { color: #00ff00; background-color: #3c3cc8; }

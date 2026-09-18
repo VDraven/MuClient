@@ -1,0 +1,3 @@
+body { margin: 0; font-family: Arial; background-color: transparent; pointer-events: none; }
+.monster, .monster-name, .hp, .hp-background, .hp-track, .hp-fill { position: absolute; pointer-events: none; }
+.monster-name { white-space: nowrap; }

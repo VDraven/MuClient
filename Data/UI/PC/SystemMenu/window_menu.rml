@@ -1,0 +1,15 @@
+<rml><head><title>Window menu</title><meta name="mu-design-Menu-Size" content="145 145"/><meta name="mu-design-Menu-Reference" content="640 480"/><meta name="mu-design-Menu-Anchor" content="1 0 50"/>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="window_menu.rcss"/>
+<link type="text/rcss" href="window_menu_gfx.generated.rcss"/>
+<link type="text/rcss" href="window_menu_gfx_skins.generated.rcss"/>
+</head><body><div id="menu">
+<div id="frame"><i class="top"/><i class="middle"/><i class="bottom"/></div>
+<i id="key-bg-0"/><div class="hotkey" id="tfSystemHotkey1">Esc</div><div class="mu-button Button_1" id="btnSystem1" data-command="0"><span class="label mu-overflow-label" id="btnSystem1-label"/></div>
+<i id="key-bg-1"/><div class="hotkey" id="tfSystemHotkey2">F1</div><div class="mu-button Button_1" id="btnSystem2" data-command="1"><span class="label mu-overflow-label" id="btnSystem2-label"/></div>
+<i id="key-bg-2"/><div class="hotkey" id="tfSystemHotkey3">G</div><div class="mu-button Button_1" id="btnSystem3" data-command="2"><span class="label mu-overflow-label" id="btnSystem3-label"/></div>
+<i id="key-bg-3"/><div class="hotkey" id="tfSystemHotkey4">M</div><div class="mu-button Button_1" id="btnSystem4" data-command="3"><span class="label mu-overflow-label" id="btnSystem4-label"/></div>
+<i id="key-bg-4"/><div class="hotkey" id="tfSystemHotkey5">Tab</div><div class="mu-button Button_1" id="btnSystem5" data-command="4"><span class="label mu-overflow-label" id="btnSystem5-label"/></div>
+<i id="key-bg-5"/><div class="hotkey" id="tfSystemHotkey0">B</div><div class="mu-button Button_1" id="btnSystem0" data-command="5"><span class="label mu-overflow-label" id="btnSystem0-label"/></div>
+</div></body></rml>

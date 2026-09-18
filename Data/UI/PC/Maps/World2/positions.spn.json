@@ -1,0 +1,72 @@
+{
+  "world": "World2",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World2_spn.bmd",
+  "sourceSha256": "9565607e5c014766ac5f9c131272f6c0098680418d7abeb194c1c189e153fafd",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 108,
+      "y": 249,
+      "rotation": 135,
+      "name": "Entrada a Lorencia"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 238,
+      "y": 150,
+      "rotation": 225,
+      "name": "Entrada a Nivel 2 del Calabozo"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 232,
+      "y": 128,
+      "rotation": 135,
+      "name": "Entrada a Nivel 1 del Calabozo"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 1,
+      "y": 18,
+      "rotation": 225,
+      "name": "Entrada Oeste a Nivel 3 del Calabozo"
+    },
+    {
+      "index": 4,
+      "kind": "portal",
+      "x": 5,
+      "y": 35,
+      "rotation": 135,
+      "name": "Entrada Este a Nivel 3 del Calabozo"
+    },
+    {
+      "index": 5,
+      "kind": "portal",
+      "x": 1,
+      "y": 85,
+      "rotation": 225,
+      "name": "Entrada Oeste a Nivel 2 del Calabozo"
+    },
+    {
+      "index": 6,
+      "kind": "portal",
+      "x": 29,
+      "y": 127,
+      "rotation": 135,
+      "name": "Entrada Este a Nivel 2 del Calabozo"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

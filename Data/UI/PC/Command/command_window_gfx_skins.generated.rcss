@@ -1,0 +1,12 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.command-background-top { decorator: image(characterFrame.popup_01_1); }
+.command-background-body { decorator: image(characterFrame.popup_bg01); }
+.command-background-bottom { decorator: image(characterFrame.popup_bg03); }
+.command-button { decorator: image(FriendMenu.btn_l01); }
+.command-button.over, .command-button:hover { decorator: image(FriendMenu.btn_l02); }
+.command-button.down, .command-button:active, .command-button.selected { decorator: image(FriendMenu.btn_l03); }
+.command-button.disabled, .command-button:disabled { decorator: image(FriendMenu.btn_l04); }
+.command-window-close { decorator: image(FriendMenu.btn_close01); }
+.command-window-close.over, .command-window-close:hover { decorator: image(FriendMenu.btn_close02); }
+.command-window-close.down, .command-window-close:active { decorator: image(FriendMenu.btn_close03); }
+.command-window-close.disabled, .command-window-close:disabled { decorator: image(FriendMenu.btn_close04); }

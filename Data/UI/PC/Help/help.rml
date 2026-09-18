@@ -1,0 +1,19 @@
+<rml><head><title>Help</title><meta name="mu-design-Panel-Size" content="327 639"/><meta name="mu-design-Panel-Reference" content="640 480"/><meta name="mu-design-Panel-Initial" content="20 20"/>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="help.rcss"/>
+<link type="text/rcss" href="help_gfx.generated.rcss"/>
+<link type="text/rcss" href="help_gfx_skins.generated.rcss"/>
+</head><body><div id="panel">
+<div id="art-108" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-110" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-112" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/><i class="piece-3"/><i class="piece-4"/><i class="piece-5"/><i class="piece-6"/><i class="piece-7"/><i class="piece-8"/></div>
+<div id="art-114" class="art"><i class="piece-0"/></div>
+<div id="btnDrag" class="drag MuButton_Drag"></div>
+<div id="btnClose" class="mu-button MuButton_Close"><div class="button-state state-up"><i class="piece-0"/></div><div class="button-state state-over"><i class="piece-0"/></div><div class="button-state state-down"><i class="piece-0"/></div><div class="button-state state-disabled"><i class="piece-0"/></div></div>
+<div id="btnHotKey" class="mu-button MuButton_S01"><div class="button-state state-up"><i class="piece-0"/></div><div class="button-state state-over"><i class="piece-0"/></div><div class="button-state state-down"><i class="piece-0"/></div><div class="button-state state-disabled"><i class="piece-0"/></div><span id="btnHotKey-label" class="label mu-overflow-label"/></div>
+<div id="btnChatHotKey" class="mu-button MuButton_Tap01"><div class="button-state state-up"><i class="piece-0"/></div><div class="button-state state-over"><i class="piece-0"/></div><div class="button-state state-down"><i class="piece-0"/></div><div class="button-state state-disabled"><i class="piece-0"/><i class="piece-1"/></div><span id="btnChatHotKey-label" class="label mu-overflow-label"/></div>
+<div id="tfTitle" class="label mu-overflow-label"/>
+<div id="mcHotKey" class="page"><div id="tfFunction" class="label mu-overflow-label"/><div id="tfFunctionMent" class="label mu-overflow-label"/><div id="scrollingHotKey" class="mu-list"/><div id="sbHotKey" class="mu-scrollbar"><div class="mu-scrollbar-track MuButton_sbTrack"/><div class="mu-scrollbar-down MuButton_sbArrowDOWN"/><div class="mu-scrollbar-up MuButton_sbArrowUP"/><div class="mu-scrollbar-thumb MuButton_sbThumb"/></div></div>
+<div id="mcChatHotKey" class="page"><div id="tfChatFunction" class="label mu-overflow-label"/><div id="tfChatFunctionMent" class="label mu-overflow-label"/><div id="scrollingChatKey" class="mu-list"/><div id="sbChatHotKey" class="mu-scrollbar"><div class="mu-scrollbar-track MuButton_sbTrack"/><div class="mu-scrollbar-down MuButton_sbArrowDOWN"/><div class="mu-scrollbar-up MuButton_sbArrowUP"/><div class="mu-scrollbar-thumb MuButton_sbThumb"/></div></div>
+</div><div id="help-row-template" class="mu-button HelpListItemRenderer"><span class="mu-list-cell textField1 mu-overflow-label"/><span class="mu-list-cell textField2 mu-overflow-label"/></div></body></rml>

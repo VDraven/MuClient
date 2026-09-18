@@ -1,0 +1,228 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-233-0 > .piece-0 { decorator: image(GuildInfoFrame.popup_01_1); }
+#art-233-0 > .piece-1 { decorator: image(GuildInfoFrame.popup_bg01); }
+#art-233-0 > .piece-2 { decorator: image(GuildInfoFrame.popup_bg03); }
+#art-235-0 > .piece-0 { decorator: image(GuildInfoFrame.textbg01); }
+#art-235-0 > .piece-1 { decorator: image(GuildInfoFrame.textbg02); }
+#art-235-0 > .piece-2 { decorator: image(GuildInfoFrame.textbg03); }
+#art-235-0 > .piece-3 { decorator: image(GuildInfoFrame.textbg04); }
+#art-235-0 > .piece-4 { decorator: image(GuildInfoFrame.textbg05); }
+#art-235-0 > .piece-5 { decorator: image(GuildInfoFrame.textbg06); }
+#art-235-0 > .piece-6 { decorator: image(GuildInfoFrame.textbg07); }
+#art-235-0 > .piece-7 { decorator: image(GuildInfoFrame.textbg08); }
+#art-235-0 > .piece-8 { decorator: image(GuildInfoFrame.textbg09); }
+#art-237-0 > .piece-0 { decorator: image(GuildInfoFrame.popup_line_m); }
+#btnToggleInfo > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_s01); }
+#btnToggleInfo > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleInfo > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_s03); }
+#btnToggleInfo > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_s04); }
+#btnToggleInfo > .state-selected-up > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleInfo > .state-selected-over > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleInfo > .state-selected-down > .piece-0 { decorator: image(GuildInfoFrame.btn_s01); }
+#btnToggleInfo > .state-selected-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleMember > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_s01); }
+#btnToggleMember > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleMember > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_s03); }
+#btnToggleMember > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_s04); }
+#btnToggleMember > .state-selected-up > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleMember > .state-selected-over > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleMember > .state-selected-down > .piece-0 { decorator: image(GuildInfoFrame.btn_s01); }
+#btnToggleMember > .state-selected-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleUnion > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_s01); }
+#btnToggleUnion > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleUnion > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_s03); }
+#btnToggleUnion > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_s04); }
+#btnToggleUnion > .state-selected-up > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleUnion > .state-selected-over > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleUnion > .state-selected-down > .piece-0 { decorator: image(GuildInfoFrame.btn_s01); }
+#btnToggleUnion > .state-selected-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleRival > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_s01); }
+#btnToggleRival > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleRival > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_s03); }
+#btnToggleRival > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_s04); }
+#btnToggleRival > .state-selected-up > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleRival > .state-selected-over > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnToggleRival > .state-selected-down > .piece-0 { decorator: image(GuildInfoFrame.btn_s01); }
+#btnToggleRival > .state-selected-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_s02); }
+#btnClose > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_close01); }
+#btnClose > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_close02); }
+#btnClose > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_close03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_close04); }
+#mcRival-art-239-0 > .piece-0 { decorator: image(GuildInfoFrame.bg_field01); }
+#mcRival-art-239-0 > .piece-1 { decorator: image(GuildInfoFrame.bg_field02); }
+#mcRival-art-239-0 > .piece-2 { decorator: image(GuildInfoFrame.bg_field03); }
+#mcRival-art-235-0 > .piece-0 { decorator: image(GuildInfoFrame.textbg01); }
+#mcRival-art-235-0 > .piece-1 { decorator: image(GuildInfoFrame.textbg02); }
+#mcRival-art-235-0 > .piece-2 { decorator: image(GuildInfoFrame.textbg03); }
+#mcRival-art-235-0 > .piece-3 { decorator: image(GuildInfoFrame.textbg04); }
+#mcRival-art-235-0 > .piece-4 { decorator: image(GuildInfoFrame.textbg05); }
+#mcRival-art-235-0 > .piece-5 { decorator: image(GuildInfoFrame.textbg06); }
+#mcRival-art-235-0 > .piece-6 { decorator: image(GuildInfoFrame.textbg07); }
+#mcRival-art-235-0 > .piece-7 { decorator: image(GuildInfoFrame.textbg08); }
+#mcRival-art-235-0 > .piece-8 { decorator: image(GuildInfoFrame.textbg09); }
+#sbRival > .mu-scrollbar-track { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbRival > .mu-scrollbar-track.over { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbRival > .mu-scrollbar-track.down { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbRival > .mu-scrollbar-track.disabled { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbRival > .mu-scrollbar-down { decorator: image(GuildInfoFrame.scroll_btn05); }
+#sbRival > .mu-scrollbar-down.over { decorator: image(GuildInfoFrame.scroll_btn06); }
+#sbRival > .mu-scrollbar-down.down { decorator: image(GuildInfoFrame.scroll_btn07); }
+#sbRival > .mu-scrollbar-down.disabled { decorator: image(GuildInfoFrame.scroll_btn08); }
+#sbRival > .mu-scrollbar-up { decorator: image(GuildInfoFrame.scroll_btn01); }
+#sbRival > .mu-scrollbar-up.over { decorator: image(GuildInfoFrame.scroll_btn02); }
+#sbRival > .mu-scrollbar-up.down { decorator: image(GuildInfoFrame.scroll_btn03); }
+#sbRival > .mu-scrollbar-up.disabled { decorator: image(GuildInfoFrame.scroll_btn04); }
+#sbRival > .mu-scrollbar-thumb { decorator: image(GuildInfoFrame.scroll01); }
+#sbRival > .mu-scrollbar-thumb.over { decorator: image(GuildInfoFrame.scroll02); }
+#sbRival > .mu-scrollbar-thumb.down { decorator: image(GuildInfoFrame.scroll03); }
+#sbRival > .mu-scrollbar-thumb.disabled { decorator: image(GuildInfoFrame.scroll04); }
+#btnRivalAdd > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_l01); }
+#btnRivalAdd > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_l02); }
+#btnRivalAdd > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_l03); }
+#btnRivalAdd > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_l04); }
+#btnRivalDelete > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_l01); }
+#btnRivalDelete > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_l02); }
+#btnRivalDelete > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_l03); }
+#btnRivalDelete > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_l04); }
+#mcUnion-art-239-0 > .piece-0 { decorator: image(GuildInfoFrame.bg_field01); }
+#mcUnion-art-239-0 > .piece-1 { decorator: image(GuildInfoFrame.bg_field02); }
+#mcUnion-art-239-0 > .piece-2 { decorator: image(GuildInfoFrame.bg_field03); }
+#mcUnion-art-235-0 > .piece-0 { decorator: image(GuildInfoFrame.textbg01); }
+#mcUnion-art-235-0 > .piece-1 { decorator: image(GuildInfoFrame.textbg02); }
+#mcUnion-art-235-0 > .piece-2 { decorator: image(GuildInfoFrame.textbg03); }
+#mcUnion-art-235-0 > .piece-3 { decorator: image(GuildInfoFrame.textbg04); }
+#mcUnion-art-235-0 > .piece-4 { decorator: image(GuildInfoFrame.textbg05); }
+#mcUnion-art-235-0 > .piece-5 { decorator: image(GuildInfoFrame.textbg06); }
+#mcUnion-art-235-0 > .piece-6 { decorator: image(GuildInfoFrame.textbg07); }
+#mcUnion-art-235-0 > .piece-7 { decorator: image(GuildInfoFrame.textbg08); }
+#mcUnion-art-235-0 > .piece-8 { decorator: image(GuildInfoFrame.textbg09); }
+#sbUnion > .mu-scrollbar-track { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbUnion > .mu-scrollbar-track.over { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbUnion > .mu-scrollbar-track.down { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbUnion > .mu-scrollbar-track.disabled { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbUnion > .mu-scrollbar-down { decorator: image(GuildInfoFrame.scroll_btn05); }
+#sbUnion > .mu-scrollbar-down.over { decorator: image(GuildInfoFrame.scroll_btn06); }
+#sbUnion > .mu-scrollbar-down.down { decorator: image(GuildInfoFrame.scroll_btn07); }
+#sbUnion > .mu-scrollbar-down.disabled { decorator: image(GuildInfoFrame.scroll_btn08); }
+#sbUnion > .mu-scrollbar-up { decorator: image(GuildInfoFrame.scroll_btn01); }
+#sbUnion > .mu-scrollbar-up.over { decorator: image(GuildInfoFrame.scroll_btn02); }
+#sbUnion > .mu-scrollbar-up.down { decorator: image(GuildInfoFrame.scroll_btn03); }
+#sbUnion > .mu-scrollbar-up.disabled { decorator: image(GuildInfoFrame.scroll_btn04); }
+#sbUnion > .mu-scrollbar-thumb { decorator: image(GuildInfoFrame.scroll01); }
+#sbUnion > .mu-scrollbar-thumb.over { decorator: image(GuildInfoFrame.scroll02); }
+#sbUnion > .mu-scrollbar-thumb.down { decorator: image(GuildInfoFrame.scroll03); }
+#sbUnion > .mu-scrollbar-thumb.disabled { decorator: image(GuildInfoFrame.scroll04); }
+#btnUnionDisbandGuild > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_l01); }
+#btnUnionDisbandGuild > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_l02); }
+#btnUnionDisbandGuild > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_l03); }
+#btnUnionDisbandGuild > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_l04); }
+#btnUnionDisbandUnion > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_l01); }
+#btnUnionDisbandUnion > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_l02); }
+#btnUnionDisbandUnion > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_l03); }
+#btnUnionDisbandUnion > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_l04); }
+#mcMember-art-239-0 > .piece-0 { decorator: image(GuildInfoFrame.bg_field01); }
+#mcMember-art-239-0 > .piece-1 { decorator: image(GuildInfoFrame.bg_field02); }
+#mcMember-art-239-0 > .piece-2 { decorator: image(GuildInfoFrame.bg_field03); }
+#mcMember-art-235-0 > .piece-0 { decorator: image(GuildInfoFrame.textbg01); }
+#mcMember-art-235-0 > .piece-1 { decorator: image(GuildInfoFrame.textbg02); }
+#mcMember-art-235-0 > .piece-2 { decorator: image(GuildInfoFrame.textbg03); }
+#mcMember-art-235-0 > .piece-3 { decorator: image(GuildInfoFrame.textbg04); }
+#mcMember-art-235-0 > .piece-4 { decorator: image(GuildInfoFrame.textbg05); }
+#mcMember-art-235-0 > .piece-5 { decorator: image(GuildInfoFrame.textbg06); }
+#mcMember-art-235-0 > .piece-6 { decorator: image(GuildInfoFrame.textbg07); }
+#mcMember-art-235-0 > .piece-7 { decorator: image(GuildInfoFrame.textbg08); }
+#mcMember-art-235-0 > .piece-8 { decorator: image(GuildInfoFrame.textbg09); }
+#sbMember > .mu-scrollbar-track { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbMember > .mu-scrollbar-track.over { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbMember > .mu-scrollbar-track.down { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbMember > .mu-scrollbar-track.disabled { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbMember > .mu-scrollbar-down { decorator: image(GuildInfoFrame.scroll_btn05); }
+#sbMember > .mu-scrollbar-down.over { decorator: image(GuildInfoFrame.scroll_btn06); }
+#sbMember > .mu-scrollbar-down.down { decorator: image(GuildInfoFrame.scroll_btn07); }
+#sbMember > .mu-scrollbar-down.disabled { decorator: image(GuildInfoFrame.scroll_btn08); }
+#sbMember > .mu-scrollbar-up { decorator: image(GuildInfoFrame.scroll_btn01); }
+#sbMember > .mu-scrollbar-up.over { decorator: image(GuildInfoFrame.scroll_btn02); }
+#sbMember > .mu-scrollbar-up.down { decorator: image(GuildInfoFrame.scroll_btn03); }
+#sbMember > .mu-scrollbar-up.disabled { decorator: image(GuildInfoFrame.scroll_btn04); }
+#sbMember > .mu-scrollbar-thumb { decorator: image(GuildInfoFrame.scroll01); }
+#sbMember > .mu-scrollbar-thumb.over { decorator: image(GuildInfoFrame.scroll02); }
+#sbMember > .mu-scrollbar-thumb.down { decorator: image(GuildInfoFrame.scroll03); }
+#sbMember > .mu-scrollbar-thumb.disabled { decorator: image(GuildInfoFrame.scroll04); }
+#btnPosition > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_m01); }
+#btnPosition > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_m02); }
+#btnPosition > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_m03); }
+#btnPosition > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_m04); }
+#btnClear > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_m01); }
+#btnClear > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_m02); }
+#btnClear > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_m03); }
+#btnClear > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_m04); }
+#btnFire > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_m01); }
+#btnFire > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_m02); }
+#btnFire > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_m03); }
+#btnFire > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_m04); }
+#mcInfo-art-239-0 > .piece-0 { decorator: image(GuildInfoFrame.bg_field01); }
+#mcInfo-art-239-0 > .piece-1 { decorator: image(GuildInfoFrame.bg_field02); }
+#mcInfo-art-239-0 > .piece-2 { decorator: image(GuildInfoFrame.bg_field03); }
+#mcInfo-art-235-0 > .piece-0 { decorator: image(GuildInfoFrame.textbg01); }
+#mcInfo-art-235-0 > .piece-1 { decorator: image(GuildInfoFrame.textbg02); }
+#mcInfo-art-235-0 > .piece-2 { decorator: image(GuildInfoFrame.textbg03); }
+#mcInfo-art-235-0 > .piece-3 { decorator: image(GuildInfoFrame.textbg04); }
+#mcInfo-art-235-0 > .piece-4 { decorator: image(GuildInfoFrame.textbg05); }
+#mcInfo-art-235-0 > .piece-5 { decorator: image(GuildInfoFrame.textbg06); }
+#mcInfo-art-235-0 > .piece-6 { decorator: image(GuildInfoFrame.textbg07); }
+#mcInfo-art-235-0 > .piece-7 { decorator: image(GuildInfoFrame.textbg08); }
+#mcInfo-art-235-0 > .piece-8 { decorator: image(GuildInfoFrame.textbg09); }
+#mcInfo-art-245-0 > .piece-0 { decorator: image(GuildInfoFrame.popup_line_s); }
+#mcInfo-art-247-0 > .piece-0 { decorator: image(GuildInfoFrame.point); }
+#mcGuildMark > .palette-color-0 { decorator: image(GuildInfoFrame.markbox_01); }
+#mcGuildMark > .palette-color-1 { decorator: image(GuildInfoFrame.markbox_02); }
+#mcGuildMark > .palette-color-2 { decorator: image(GuildInfoFrame.markbox_03); }
+#mcGuildMark > .palette-color-3 { decorator: image(GuildInfoFrame.markbox_04); }
+#mcGuildMark > .palette-color-4 { decorator: image(GuildInfoFrame.markbox_05); }
+#mcGuildMark > .palette-color-5 { decorator: image(GuildInfoFrame.markbox_06); }
+#mcGuildMark > .palette-color-6 { decorator: image(GuildInfoFrame.markbox_07); }
+#mcGuildMark > .palette-color-7 { decorator: image(GuildInfoFrame.markbox_08); }
+#mcGuildMark > .palette-color-8 { decorator: image(GuildInfoFrame.markbox_09); }
+#mcGuildMark > .palette-color-9 { decorator: image(GuildInfoFrame.markbox_10); }
+#mcGuildMark > .palette-color-10 { decorator: image(GuildInfoFrame.markbox_11); }
+#mcGuildMark > .palette-color-11 { decorator: image(GuildInfoFrame.markbox_12); }
+#mcGuildMark > .palette-color-12 { decorator: image(GuildInfoFrame.markbox_13); }
+#mcGuildMark > .palette-color-13 { decorator: image(GuildInfoFrame.markbox_14); }
+#mcGuildMark > .palette-color-14 { decorator: image(GuildInfoFrame.markbox_15); }
+#mcGuildMark > .palette-color-15 { decorator: image(GuildInfoFrame.markbox_16); }
+#sbGuildNotice > .mu-scrollbar-track { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbGuildNotice > .mu-scrollbar-track.over { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbGuildNotice > .mu-scrollbar-track.down { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbGuildNotice > .mu-scrollbar-track.disabled { decorator: image(GuildInfoFrame.scroll_bg02); }
+#sbGuildNotice > .mu-scrollbar-down { decorator: image(GuildInfoFrame.scroll_btn05); }
+#sbGuildNotice > .mu-scrollbar-down.over { decorator: image(GuildInfoFrame.scroll_btn06); }
+#sbGuildNotice > .mu-scrollbar-down.down { decorator: image(GuildInfoFrame.scroll_btn07); }
+#sbGuildNotice > .mu-scrollbar-down.disabled { decorator: image(GuildInfoFrame.scroll_btn08); }
+#sbGuildNotice > .mu-scrollbar-up { decorator: image(GuildInfoFrame.scroll_btn01); }
+#sbGuildNotice > .mu-scrollbar-up.over { decorator: image(GuildInfoFrame.scroll_btn02); }
+#sbGuildNotice > .mu-scrollbar-up.down { decorator: image(GuildInfoFrame.scroll_btn03); }
+#sbGuildNotice > .mu-scrollbar-up.disabled { decorator: image(GuildInfoFrame.scroll_btn04); }
+#sbGuildNotice > .mu-scrollbar-thumb { decorator: image(GuildInfoFrame.scroll01); }
+#sbGuildNotice > .mu-scrollbar-thumb.over { decorator: image(GuildInfoFrame.scroll02); }
+#sbGuildNotice > .mu-scrollbar-thumb.down { decorator: image(GuildInfoFrame.scroll03); }
+#sbGuildNotice > .mu-scrollbar-thumb.disabled { decorator: image(GuildInfoFrame.scroll04); }
+#btnDisband > .state-up > .piece-0 { decorator: image(GuildInfoFrame.btn_m01); }
+#btnDisband > .state-over > .piece-0 { decorator: image(GuildInfoFrame.btn_m02); }
+#btnDisband > .state-down > .piece-0 { decorator: image(GuildInfoFrame.btn_m03); }
+#btnDisband > .state-disabled > .piece-0 { decorator: image(GuildInfoFrame.btn_m04); }
+.GuildListItemRenderer > .mu-palette > .palette-color-0 { decorator: image(GuildInfoFrame.markbox_01); }
+.GuildListItemRenderer > .mu-palette > .palette-color-1 { decorator: image(GuildInfoFrame.markbox_02); }
+.GuildListItemRenderer > .mu-palette > .palette-color-2 { decorator: image(GuildInfoFrame.markbox_03); }
+.GuildListItemRenderer > .mu-palette > .palette-color-3 { decorator: image(GuildInfoFrame.markbox_04); }
+.GuildListItemRenderer > .mu-palette > .palette-color-4 { decorator: image(GuildInfoFrame.markbox_05); }
+.GuildListItemRenderer > .mu-palette > .palette-color-5 { decorator: image(GuildInfoFrame.markbox_06); }
+.GuildListItemRenderer > .mu-palette > .palette-color-6 { decorator: image(GuildInfoFrame.markbox_07); }
+.GuildListItemRenderer > .mu-palette > .palette-color-7 { decorator: image(GuildInfoFrame.markbox_08); }
+.GuildListItemRenderer > .mu-palette > .palette-color-8 { decorator: image(GuildInfoFrame.markbox_09); }
+.GuildListItemRenderer > .mu-palette > .palette-color-9 { decorator: image(GuildInfoFrame.markbox_10); }
+.GuildListItemRenderer > .mu-palette > .palette-color-10 { decorator: image(GuildInfoFrame.markbox_11); }
+.GuildListItemRenderer > .mu-palette > .palette-color-11 { decorator: image(GuildInfoFrame.markbox_12); }
+.GuildListItemRenderer > .mu-palette > .palette-color-12 { decorator: image(GuildInfoFrame.markbox_13); }
+.GuildListItemRenderer > .mu-palette > .palette-color-13 { decorator: image(GuildInfoFrame.markbox_14); }
+.GuildListItemRenderer > .mu-palette > .palette-color-14 { decorator: image(GuildInfoFrame.markbox_15); }
+.GuildListItemRenderer > .mu-palette > .palette-color-15 { decorator: image(GuildInfoFrame.markbox_16); }

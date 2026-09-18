@@ -1,0 +1,43 @@
+{
+  "world": "World39",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World39_por.bmd",
+  "sourceSha256": "88c6e052c21e5d08bdfe78f95559600962280ee5f923df2602c01f6fcbcfe1e7",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 141,
+      "y": 191,
+      "rotation": 90,
+      "name": "Máquina do portal",
+      "npcNumber": 367,
+      "index": 0
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 66,
+      "y": 105,
+      "rotation": 225,
+      "name": "Entrada para as Ru�nas de Kanturu",
+      "sourceNameHex": "456e74726164612070617261206173205275ed6e6173206465204b616e74757275"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 141,
+      "y": 186,
+      "rotation": 135,
+      "name": "M�quina do portal",
+      "sourceNameHex": "4de17175696e6120646f20706f7274616c"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

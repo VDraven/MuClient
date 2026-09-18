@@ -1,0 +1,41 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-19 > .piece-0 { decorator: image(NpcGateKeeper.popup_01_1); }
+#art-19 > .piece-1 { decorator: image(NpcGateKeeper.popup_bg01); }
+#art-19 > .piece-2 { decorator: image(NpcGateKeeper.popup_bg03); }
+#art-18 > .piece-0 { decorator: image(NpcGateKeeper.popup_line_s); }
+#art-17 > .piece-0 { decorator: image(NpcGateKeeper.popup_line_s); }
+#art-16 > .piece-0 { decorator: image(NpcGateKeeper.command_deco01); }
+#art-15 > .piece-0 { decorator: image(NpcGateKeeper.command_deco01); }
+#art-14 > .piece-0 { decorator: image(NpcGateKeeper.command_deco01); }
+#art-13 > .piece-0 { decorator: image(NpcGateKeeper.command_deco01); }
+#btnClose > .state-up > .piece-0 { decorator: image(NpcGateKeeper.btn_close01); }
+#btnClose > .state-over > .piece-0 { decorator: image(NpcGateKeeper.btn_close02); }
+#btnClose > .state-down > .piece-0 { decorator: image(NpcGateKeeper.btn_close03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(NpcGateKeeper.btn_close04); }
+#btnSetConfirm > .state-up > .piece-0 { decorator: image(NpcGateKeeper.btn_s01); }
+#btnSetConfirm > .state-over > .piece-0 { decorator: image(NpcGateKeeper.btn_s02); }
+#btnSetConfirm > .state-down > .piece-0 { decorator: image(NpcGateKeeper.btn_s03); }
+#btnSetConfirm > .state-disabled > .piece-0 { decorator: image(NpcGateKeeper.btn_s04); }
+#btnEnter > .state-up > .piece-0 { decorator: image(NpcGateKeeper.btn_l01); }
+#btnEnter > .state-over > .piece-0 { decorator: image(NpcGateKeeper.btn_l02); }
+#btnEnter > .state-down > .piece-0 { decorator: image(NpcGateKeeper.btn_l03); }
+#btnEnter > .state-disabled > .piece-0 { decorator: image(NpcGateKeeper.btn_l04); }
+#opZen-background > .piece-0 { decorator: image(NpcGateKeeper.textfield01); }
+#opZen-background > .piece-1 { decorator: image(NpcGateKeeper.textfield02); }
+#opZen-background > .piece-2 { decorator: image(NpcGateKeeper.textfield03); }
+#nextBtn > .state-up > .piece-0 { decorator: image(NpcGateKeeper.btn_rightselect01); }
+#nextBtn > .state-over > .piece-0 { decorator: image(NpcGateKeeper.btn_rightselect02); }
+#nextBtn > .state-down > .piece-0 { decorator: image(NpcGateKeeper.btn_rightselect03); }
+#nextBtn > .state-disabled > .piece-0 { decorator: image(NpcGateKeeper.btn_rightselect04); }
+#prevBtn > .state-up > .piece-0 { decorator: image(NpcGateKeeper.btn_leftselect01); }
+#prevBtn > .state-over > .piece-0 { decorator: image(NpcGateKeeper.btn_leftselect02); }
+#prevBtn > .state-down > .piece-0 { decorator: image(NpcGateKeeper.btn_leftselect03); }
+#prevBtn > .state-disabled > .piece-0 { decorator: image(NpcGateKeeper.btn_leftselect04); }
+#cbEnterCheck-input { decorator: image(NpcGateKeeper.checkbox_0_01); }
+#cbEnterCheck-input:hover { decorator: image(NpcGateKeeper.checkbox_0_02); }
+#cbEnterCheck-input:active { decorator: image(NpcGateKeeper.checkbox_0_03); }
+#cbEnterCheck-input:disabled { decorator: image(NpcGateKeeper.checkbox_0_04); }
+#cbEnterCheck-input:checked { decorator: image(NpcGateKeeper.checkbox_1_01); }
+#cbEnterCheck-input:checked:hover { decorator: image(NpcGateKeeper.checkbox_1_02); }
+#cbEnterCheck-input:checked:active { decorator: image(NpcGateKeeper.checkbox_1_03); }
+#cbEnterCheck-input:checked:disabled { decorator: image(NpcGateKeeper.checkbox_1_04); }

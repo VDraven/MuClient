@@ -1,0 +1,33 @@
+<rml>
+<head>
+<meta name="mu-design-Login-Width" content="307.998413"/>
+<meta name="mu-design-Login-Height" content="190.000717"/>
+<meta name="mu-design-Login-AnchorX" content="0.5"/>
+<meta name="mu-design-Login-AnchorY" content="0.666666667"/>
+    <title>MU Online Login</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="login.rcss"/>
+    <link type="text/rcss" href="login_gfx.generated.rcss"/>
+    <link type="text/rcss" href="login_gfx_skins.generated.rcss"/>
+</head>
+<body>
+    <div id="login-panel" class="login-panel">
+        <div id="login-background" class="gfx-scale-grid-parts login-art"><i class="ServerSelect.popupfield01"/><i class="ServerSelect.popupfield02"/><i class="ServerSelect.popupfield03"/><i class="ServerSelect.popupfield04"/><i class="ServerSelect.popupfield05"/><i class="ServerSelect.popupfield06"/><i class="ServerSelect.popupfield07"/><i class="ServerSelect.popupfield08"/><i class="ServerSelect.popupfield09"/></div>
+        <div id="login-title-line" class="login-art"/>
+        <div id="account-background" class="login-art"/>
+        <div id="password-background" class="login-art"/>
+        <div id="title" class="Label_MuTitle">MU Online</div>
+        <div id="server-name" class="Label_타이틀"></div>
+        <div id="account-label" class="mu-overflow-label Label_gray label"></div>
+        <div id="password-label" class="mu-overflow-label Label_gray label"></div>
+        <input id="account-input" class="mu-text-input TextInput login-input" type="text"/>
+        <input id="password-input" class="mu-text-input TextInput login-input" type="password"/>
+        <div id="login-bottom">
+        <div id="login-bottom-line" class="login-art"/>
+        <div id="ok-button" class="mu-button MuButton_M01 login-button"><span id="ok-label" class="mu-overflow-label login-button-label"></span></div>
+        <div id="cancel-button" class="mu-button MuButton_M01 login-button"><span id="cancel-label" class="mu-overflow-label login-button-label"></span></div>
+        </div>
+    </div>
+</body>
+</rml>

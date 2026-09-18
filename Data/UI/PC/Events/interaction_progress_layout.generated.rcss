@@ -1,0 +1,998 @@
+/* Generated from exact source instance matrices and bitmap bounds. */
+#panel { width: 306px; height: 189px; }
+#panel-art-6 { width: 306px; height: 189px; left: 0px; top: 0px; }
+#panel-art-6 > .piece-9 { left: 0px; top: 0px; width: 16px; height: 16px; }
+#panel-art-6 > .piece-8 { left: 16px; top: 0px; width: 274px; height: 16px; }
+#panel-art-6 > .piece-7 { left: 290px; top: 0px; width: 16px; height: 16px; }
+#panel-art-6 > .piece-6 { left: 0px; top: 16px; width: 16px; height: 157px; }
+#panel-art-6 > .piece-5 { left: 16px; top: 16px; width: 274px; height: 157px; }
+#panel-art-6 > .piece-4 { left: 290px; top: 16px; width: 16px; height: 157px; }
+#panel-art-6 > .piece-3 { left: 0px; top: 173px; width: 16px; height: 16px; }
+#panel-art-6 > .piece-2 { left: 16px; top: 173px; width: 273px; height: 16px; }
+#panel-art-6 > .piece-1 { left: 289px; top: 173px; width: 16px; height: 16px; }
+#panel-art-6 > .piece-0 { left: 7px; top: 34px; width: 293px; height: 9px; }
+#pbGauge { width: 262px; height: 18px; left: 36px; top: 110px; }
+#pbGauge-back { width: 262px; height: 18px; left: 0px; top: 0px; }
+#pbGauge-back > .piece-2 { left: -12.5px; top: -5px; width: 12px; height: 18px; }
+#pbGauge-back > .piece-1 { left: -0.5px; top: -5px; width: 238px; height: 18px; }
+#pbGauge-back > .piece-0 { left: 237.5px; top: -5px; width: 12px; height: 18px; }
+#pbGauge-fill { width: 238px; height: 8px; left: 0px; top: 0px; transform-origin: 0px 0px; transform: matrix(0.007812, 0, 0, 1, 0, 0); }
+#pbGauge-fill > .piece-0 { left: 0px; top: 0px; width: 238px; height: 8px; }
+#pbGauge-fill.frame-1 { width: 0px; }
+#pbGauge-fill.frame-1 > i { width: 0px; }
+#pbGauge-fill.frame-2 { width: 1.859375px; }
+#pbGauge-fill.frame-2 > i { width: 1.859375px; }
+#pbGauge-fill.frame-3 { width: 2.353271px; }
+#pbGauge-fill.frame-3 > i { width: 2.353271px; }
+#pbGauge-fill.frame-4 { width: 2.847168px; }
+#pbGauge-fill.frame-4 > i { width: 2.847168px; }
+#pbGauge-fill.frame-5 { width: 3.341064px; }
+#pbGauge-fill.frame-5 > i { width: 3.341064px; }
+#pbGauge-fill.frame-6 { width: 3.834961px; }
+#pbGauge-fill.frame-6 > i { width: 3.834961px; }
+#pbGauge-fill.frame-7 { width: 4.332489px; }
+#pbGauge-fill.frame-7 > i { width: 4.332489px; }
+#pbGauge-fill.frame-8 { width: 4.826385px; }
+#pbGauge-fill.frame-8 > i { width: 4.826385px; }
+#pbGauge-fill.frame-9 { width: 5.320282px; }
+#pbGauge-fill.frame-9 > i { width: 5.320282px; }
+#pbGauge-fill.frame-10 { width: 5.810547px; }
+#pbGauge-fill.frame-10 > i { width: 5.810547px; }
+#pbGauge-fill.frame-11 { width: 6.304443px; }
+#pbGauge-fill.frame-11 > i { width: 6.304443px; }
+#pbGauge-fill.frame-12 { width: 6.79834px; }
+#pbGauge-fill.frame-12 > i { width: 6.79834px; }
+#pbGauge-fill.frame-13 { width: 7.292236px; }
+#pbGauge-fill.frame-13 > i { width: 7.292236px; }
+#pbGauge-fill.frame-14 { width: 7.786133px; }
+#pbGauge-fill.frame-14 > i { width: 7.786133px; }
+#pbGauge-fill.frame-15 { width: 8.280029px; }
+#pbGauge-fill.frame-15 > i { width: 8.280029px; }
+#pbGauge-fill.frame-16 { width: 8.773926px; }
+#pbGauge-fill.frame-16 > i { width: 8.773926px; }
+#pbGauge-fill.frame-17 { width: 9.271454px; }
+#pbGauge-fill.frame-17 > i { width: 9.271454px; }
+#pbGauge-fill.frame-18 { width: 9.76535px; }
+#pbGauge-fill.frame-18 > i { width: 9.76535px; }
+#pbGauge-fill.frame-19 { width: 10.259247px; }
+#pbGauge-fill.frame-19 > i { width: 10.259247px; }
+#pbGauge-fill.frame-20 { width: 10.753143px; }
+#pbGauge-fill.frame-20 > i { width: 10.753143px; }
+#pbGauge-fill.frame-21 { width: 11.24704px; }
+#pbGauge-fill.frame-21 > i { width: 11.24704px; }
+#pbGauge-fill.frame-22 { width: 11.740936px; }
+#pbGauge-fill.frame-22 > i { width: 11.740936px; }
+#pbGauge-fill.frame-23 { width: 12.234833px; }
+#pbGauge-fill.frame-23 > i { width: 12.234833px; }
+#pbGauge-fill.frame-24 { width: 12.725098px; }
+#pbGauge-fill.frame-24 > i { width: 12.725098px; }
+#pbGauge-fill.frame-25 { width: 13.218994px; }
+#pbGauge-fill.frame-25 > i { width: 13.218994px; }
+#pbGauge-fill.frame-26 { width: 13.716522px; }
+#pbGauge-fill.frame-26 > i { width: 13.716522px; }
+#pbGauge-fill.frame-27 { width: 14.210419px; }
+#pbGauge-fill.frame-27 > i { width: 14.210419px; }
+#pbGauge-fill.frame-28 { width: 14.704315px; }
+#pbGauge-fill.frame-28 > i { width: 14.704315px; }
+#pbGauge-fill.frame-29 { width: 15.198212px; }
+#pbGauge-fill.frame-29 > i { width: 15.198212px; }
+#pbGauge-fill.frame-30 { width: 15.692108px; }
+#pbGauge-fill.frame-30 > i { width: 15.692108px; }
+#pbGauge-fill.frame-31 { width: 16.186005px; }
+#pbGauge-fill.frame-31 > i { width: 16.186005px; }
+#pbGauge-fill.frame-32 { width: 16.679901px; }
+#pbGauge-fill.frame-32 > i { width: 16.679901px; }
+#pbGauge-fill.frame-33 { width: 17.173798px; }
+#pbGauge-fill.frame-33 > i { width: 17.173798px; }
+#pbGauge-fill.frame-34 { width: 17.667694px; }
+#pbGauge-fill.frame-34 > i { width: 17.667694px; }
+#pbGauge-fill.frame-35 { width: 18.161591px; }
+#pbGauge-fill.frame-35 > i { width: 18.161591px; }
+#pbGauge-fill.frame-36 { width: 18.659119px; }
+#pbGauge-fill.frame-36 > i { width: 18.659119px; }
+#pbGauge-fill.frame-37 { width: 19.153015px; }
+#pbGauge-fill.frame-37 > i { width: 19.153015px; }
+#pbGauge-fill.frame-38 { width: 19.64328px; }
+#pbGauge-fill.frame-38 > i { width: 19.64328px; }
+#pbGauge-fill.frame-39 { width: 20.137177px; }
+#pbGauge-fill.frame-39 > i { width: 20.137177px; }
+#pbGauge-fill.frame-40 { width: 20.631073px; }
+#pbGauge-fill.frame-40 > i { width: 20.631073px; }
+#pbGauge-fill.frame-41 { width: 21.124969px; }
+#pbGauge-fill.frame-41 > i { width: 21.124969px; }
+#pbGauge-fill.frame-42 { width: 21.618866px; }
+#pbGauge-fill.frame-42 > i { width: 21.618866px; }
+#pbGauge-fill.frame-43 { width: 22.112762px; }
+#pbGauge-fill.frame-43 > i { width: 22.112762px; }
+#pbGauge-fill.frame-44 { width: 22.606659px; }
+#pbGauge-fill.frame-44 > i { width: 22.606659px; }
+#pbGauge-fill.frame-45 { width: 23.100555px; }
+#pbGauge-fill.frame-45 > i { width: 23.100555px; }
+#pbGauge-fill.frame-46 { width: 23.598083px; }
+#pbGauge-fill.frame-46 > i { width: 23.598083px; }
+#pbGauge-fill.frame-47 { width: 24.09198px; }
+#pbGauge-fill.frame-47 > i { width: 24.09198px; }
+#pbGauge-fill.frame-48 { width: 24.585876px; }
+#pbGauge-fill.frame-48 > i { width: 24.585876px; }
+#pbGauge-fill.frame-49 { width: 25.079773px; }
+#pbGauge-fill.frame-49 > i { width: 25.079773px; }
+#pbGauge-fill.frame-50 { width: 25.573669px; }
+#pbGauge-fill.frame-50 > i { width: 25.573669px; }
+#pbGauge-fill.frame-51 { width: 26.067566px; }
+#pbGauge-fill.frame-51 > i { width: 26.067566px; }
+#pbGauge-fill.frame-52 { width: 26.557831px; }
+#pbGauge-fill.frame-52 > i { width: 26.557831px; }
+#pbGauge-fill.frame-53 { width: 27.051727px; }
+#pbGauge-fill.frame-53 > i { width: 27.051727px; }
+#pbGauge-fill.frame-54 { width: 27.545624px; }
+#pbGauge-fill.frame-54 > i { width: 27.545624px; }
+#pbGauge-fill.frame-55 { width: 28.043152px; }
+#pbGauge-fill.frame-55 > i { width: 28.043152px; }
+#pbGauge-fill.frame-56 { width: 28.537048px; }
+#pbGauge-fill.frame-56 > i { width: 28.537048px; }
+#pbGauge-fill.frame-57 { width: 29.030945px; }
+#pbGauge-fill.frame-57 > i { width: 29.030945px; }
+#pbGauge-fill.frame-58 { width: 29.524841px; }
+#pbGauge-fill.frame-58 > i { width: 29.524841px; }
+#pbGauge-fill.frame-59 { width: 30.018738px; }
+#pbGauge-fill.frame-59 > i { width: 30.018738px; }
+#pbGauge-fill.frame-60 { width: 30.512634px; }
+#pbGauge-fill.frame-60 > i { width: 30.512634px; }
+#pbGauge-fill.frame-61 { width: 31.006531px; }
+#pbGauge-fill.frame-61 > i { width: 31.006531px; }
+#pbGauge-fill.frame-62 { width: 31.500427px; }
+#pbGauge-fill.frame-62 > i { width: 31.500427px; }
+#pbGauge-fill.frame-63 { width: 31.994324px; }
+#pbGauge-fill.frame-63 > i { width: 31.994324px; }
+#pbGauge-fill.frame-64 { width: 32.48822px; }
+#pbGauge-fill.frame-64 > i { width: 32.48822px; }
+#pbGauge-fill.frame-65 { width: 32.985748px; }
+#pbGauge-fill.frame-65 > i { width: 32.985748px; }
+#pbGauge-fill.frame-66 { width: 33.476013px; }
+#pbGauge-fill.frame-66 > i { width: 33.476013px; }
+#pbGauge-fill.frame-67 { width: 33.96991px; }
+#pbGauge-fill.frame-67 > i { width: 33.96991px; }
+#pbGauge-fill.frame-68 { width: 34.463806px; }
+#pbGauge-fill.frame-68 > i { width: 34.463806px; }
+#pbGauge-fill.frame-69 { width: 34.957703px; }
+#pbGauge-fill.frame-69 > i { width: 34.957703px; }
+#pbGauge-fill.frame-70 { width: 35.451599px; }
+#pbGauge-fill.frame-70 > i { width: 35.451599px; }
+#pbGauge-fill.frame-71 { width: 35.945496px; }
+#pbGauge-fill.frame-71 > i { width: 35.945496px; }
+#pbGauge-fill.frame-72 { width: 36.439392px; }
+#pbGauge-fill.frame-72 > i { width: 36.439392px; }
+#pbGauge-fill.frame-73 { width: 36.933289px; }
+#pbGauge-fill.frame-73 > i { width: 36.933289px; }
+#pbGauge-fill.frame-74 { width: 37.430817px; }
+#pbGauge-fill.frame-74 > i { width: 37.430817px; }
+#pbGauge-fill.frame-75 { width: 37.924713px; }
+#pbGauge-fill.frame-75 > i { width: 37.924713px; }
+#pbGauge-fill.frame-76 { width: 38.41861px; }
+#pbGauge-fill.frame-76 > i { width: 38.41861px; }
+#pbGauge-fill.frame-77 { width: 38.912506px; }
+#pbGauge-fill.frame-77 > i { width: 38.912506px; }
+#pbGauge-fill.frame-78 { width: 39.406403px; }
+#pbGauge-fill.frame-78 > i { width: 39.406403px; }
+#pbGauge-fill.frame-79 { width: 39.900299px; }
+#pbGauge-fill.frame-79 > i { width: 39.900299px; }
+#pbGauge-fill.frame-80 { width: 40.390564px; }
+#pbGauge-fill.frame-80 > i { width: 40.390564px; }
+#pbGauge-fill.frame-81 { width: 40.88446px; }
+#pbGauge-fill.frame-81 > i { width: 40.88446px; }
+#pbGauge-fill.frame-82 { width: 41.378357px; }
+#pbGauge-fill.frame-82 > i { width: 41.378357px; }
+#pbGauge-fill.frame-83 { width: 41.872253px; }
+#pbGauge-fill.frame-83 > i { width: 41.872253px; }
+#pbGauge-fill.frame-84 { width: 42.369781px; }
+#pbGauge-fill.frame-84 > i { width: 42.369781px; }
+#pbGauge-fill.frame-85 { width: 42.863678px; }
+#pbGauge-fill.frame-85 > i { width: 42.863678px; }
+#pbGauge-fill.frame-86 { width: 43.357574px; }
+#pbGauge-fill.frame-86 > i { width: 43.357574px; }
+#pbGauge-fill.frame-87 { width: 43.851471px; }
+#pbGauge-fill.frame-87 > i { width: 43.851471px; }
+#pbGauge-fill.frame-88 { width: 44.345367px; }
+#pbGauge-fill.frame-88 > i { width: 44.345367px; }
+#pbGauge-fill.frame-89 { width: 44.839264px; }
+#pbGauge-fill.frame-89 > i { width: 44.839264px; }
+#pbGauge-fill.frame-90 { width: 45.33316px; }
+#pbGauge-fill.frame-90 > i { width: 45.33316px; }
+#pbGauge-fill.frame-91 { width: 45.827057px; }
+#pbGauge-fill.frame-91 > i { width: 45.827057px; }
+#pbGauge-fill.frame-92 { width: 46.320953px; }
+#pbGauge-fill.frame-92 > i { width: 46.320953px; }
+#pbGauge-fill.frame-93 { width: 46.818481px; }
+#pbGauge-fill.frame-93 > i { width: 46.818481px; }
+#pbGauge-fill.frame-94 { width: 47.308746px; }
+#pbGauge-fill.frame-94 > i { width: 47.308746px; }
+#pbGauge-fill.frame-95 { width: 47.802643px; }
+#pbGauge-fill.frame-95 > i { width: 47.802643px; }
+#pbGauge-fill.frame-96 { width: 48.296539px; }
+#pbGauge-fill.frame-96 > i { width: 48.296539px; }
+#pbGauge-fill.frame-97 { width: 48.790436px; }
+#pbGauge-fill.frame-97 > i { width: 48.790436px; }
+#pbGauge-fill.frame-98 { width: 49.284332px; }
+#pbGauge-fill.frame-98 > i { width: 49.284332px; }
+#pbGauge-fill.frame-99 { width: 49.778229px; }
+#pbGauge-fill.frame-99 > i { width: 49.778229px; }
+#pbGauge-fill.frame-100 { width: 50.272125px; }
+#pbGauge-fill.frame-100 > i { width: 50.272125px; }
+#pbGauge-fill.frame-101 { width: 50.766022px; }
+#pbGauge-fill.frame-101 > i { width: 50.766022px; }
+#pbGauge-fill.frame-102 { width: 51.259918px; }
+#pbGauge-fill.frame-102 > i { width: 51.259918px; }
+#pbGauge-fill.frame-103 { width: 51.757446px; }
+#pbGauge-fill.frame-103 > i { width: 51.757446px; }
+#pbGauge-fill.frame-104 { width: 52.251343px; }
+#pbGauge-fill.frame-104 > i { width: 52.251343px; }
+#pbGauge-fill.frame-105 { width: 52.745239px; }
+#pbGauge-fill.frame-105 > i { width: 52.745239px; }
+#pbGauge-fill.frame-106 { width: 53.239136px; }
+#pbGauge-fill.frame-106 > i { width: 53.239136px; }
+#pbGauge-fill.frame-107 { width: 53.733032px; }
+#pbGauge-fill.frame-107 > i { width: 53.733032px; }
+#pbGauge-fill.frame-108 { width: 54.223297px; }
+#pbGauge-fill.frame-108 > i { width: 54.223297px; }
+#pbGauge-fill.frame-109 { width: 54.717194px; }
+#pbGauge-fill.frame-109 > i { width: 54.717194px; }
+#pbGauge-fill.frame-110 { width: 55.21109px; }
+#pbGauge-fill.frame-110 > i { width: 55.21109px; }
+#pbGauge-fill.frame-111 { width: 55.704987px; }
+#pbGauge-fill.frame-111 > i { width: 55.704987px; }
+#pbGauge-fill.frame-112 { width: 56.202515px; }
+#pbGauge-fill.frame-112 > i { width: 56.202515px; }
+#pbGauge-fill.frame-113 { width: 56.696411px; }
+#pbGauge-fill.frame-113 > i { width: 56.696411px; }
+#pbGauge-fill.frame-114 { width: 57.190308px; }
+#pbGauge-fill.frame-114 > i { width: 57.190308px; }
+#pbGauge-fill.frame-115 { width: 57.684204px; }
+#pbGauge-fill.frame-115 > i { width: 57.684204px; }
+#pbGauge-fill.frame-116 { width: 58.178101px; }
+#pbGauge-fill.frame-116 > i { width: 58.178101px; }
+#pbGauge-fill.frame-117 { width: 58.671997px; }
+#pbGauge-fill.frame-117 > i { width: 58.671997px; }
+#pbGauge-fill.frame-118 { width: 59.165894px; }
+#pbGauge-fill.frame-118 > i { width: 59.165894px; }
+#pbGauge-fill.frame-119 { width: 59.65979px; }
+#pbGauge-fill.frame-119 > i { width: 59.65979px; }
+#pbGauge-fill.frame-120 { width: 60.153687px; }
+#pbGauge-fill.frame-120 > i { width: 60.153687px; }
+#pbGauge-fill.frame-121 { width: 60.647583px; }
+#pbGauge-fill.frame-121 > i { width: 60.647583px; }
+#pbGauge-fill.frame-122 { width: 61.141479px; }
+#pbGauge-fill.frame-122 > i { width: 61.141479px; }
+#pbGauge-fill.frame-123 { width: 61.635376px; }
+#pbGauge-fill.frame-123 > i { width: 61.635376px; }
+#pbGauge-fill.frame-124 { width: 62.129272px; }
+#pbGauge-fill.frame-124 > i { width: 62.129272px; }
+#pbGauge-fill.frame-125 { width: 62.623169px; }
+#pbGauge-fill.frame-125 > i { width: 62.623169px; }
+#pbGauge-fill.frame-126 { width: 63.117065px; }
+#pbGauge-fill.frame-126 > i { width: 63.117065px; }
+#pbGauge-fill.frame-127 { width: 63.610962px; }
+#pbGauge-fill.frame-127 > i { width: 63.610962px; }
+#pbGauge-fill.frame-128 { width: 64.104858px; }
+#pbGauge-fill.frame-128 > i { width: 64.104858px; }
+#pbGauge-fill.frame-129 { width: 64.598755px; }
+#pbGauge-fill.frame-129 > i { width: 64.598755px; }
+#pbGauge-fill.frame-130 { width: 65.092651px; }
+#pbGauge-fill.frame-130 > i { width: 65.092651px; }
+#pbGauge-fill.frame-131 { width: 65.586548px; }
+#pbGauge-fill.frame-131 > i { width: 65.586548px; }
+#pbGauge-fill.frame-132 { width: 66.084076px; }
+#pbGauge-fill.frame-132 > i { width: 66.084076px; }
+#pbGauge-fill.frame-133 { width: 66.577972px; }
+#pbGauge-fill.frame-133 > i { width: 66.577972px; }
+#pbGauge-fill.frame-134 { width: 67.071869px; }
+#pbGauge-fill.frame-134 > i { width: 67.071869px; }
+#pbGauge-fill.frame-135 { width: 67.565765px; }
+#pbGauge-fill.frame-135 > i { width: 67.565765px; }
+#pbGauge-fill.frame-136 { width: 68.05603px; }
+#pbGauge-fill.frame-136 > i { width: 68.05603px; }
+#pbGauge-fill.frame-137 { width: 68.549927px; }
+#pbGauge-fill.frame-137 > i { width: 68.549927px; }
+#pbGauge-fill.frame-138 { width: 69.043823px; }
+#pbGauge-fill.frame-138 > i { width: 69.043823px; }
+#pbGauge-fill.frame-139 { width: 69.53772px; }
+#pbGauge-fill.frame-139 > i { width: 69.53772px; }
+#pbGauge-fill.frame-140 { width: 70.031616px; }
+#pbGauge-fill.frame-140 > i { width: 70.031616px; }
+#pbGauge-fill.frame-141 { width: 70.529144px; }
+#pbGauge-fill.frame-141 > i { width: 70.529144px; }
+#pbGauge-fill.frame-142 { width: 71.023041px; }
+#pbGauge-fill.frame-142 > i { width: 71.023041px; }
+#pbGauge-fill.frame-143 { width: 71.516937px; }
+#pbGauge-fill.frame-143 > i { width: 71.516937px; }
+#pbGauge-fill.frame-144 { width: 72.010834px; }
+#pbGauge-fill.frame-144 > i { width: 72.010834px; }
+#pbGauge-fill.frame-145 { width: 72.50473px; }
+#pbGauge-fill.frame-145 > i { width: 72.50473px; }
+#pbGauge-fill.frame-146 { width: 72.998627px; }
+#pbGauge-fill.frame-146 > i { width: 72.998627px; }
+#pbGauge-fill.frame-147 { width: 73.492523px; }
+#pbGauge-fill.frame-147 > i { width: 73.492523px; }
+#pbGauge-fill.frame-148 { width: 73.98642px; }
+#pbGauge-fill.frame-148 > i { width: 73.98642px; }
+#pbGauge-fill.frame-149 { width: 74.480316px; }
+#pbGauge-fill.frame-149 > i { width: 74.480316px; }
+#pbGauge-fill.frame-150 { width: 74.970581px; }
+#pbGauge-fill.frame-150 > i { width: 74.970581px; }
+#pbGauge-fill.frame-151 { width: 75.468109px; }
+#pbGauge-fill.frame-151 > i { width: 75.468109px; }
+#pbGauge-fill.frame-152 { width: 75.962006px; }
+#pbGauge-fill.frame-152 > i { width: 75.962006px; }
+#pbGauge-fill.frame-153 { width: 76.455902px; }
+#pbGauge-fill.frame-153 > i { width: 76.455902px; }
+#pbGauge-fill.frame-154 { width: 76.949799px; }
+#pbGauge-fill.frame-154 > i { width: 76.949799px; }
+#pbGauge-fill.frame-155 { width: 77.443695px; }
+#pbGauge-fill.frame-155 > i { width: 77.443695px; }
+#pbGauge-fill.frame-156 { width: 77.937592px; }
+#pbGauge-fill.frame-156 > i { width: 77.937592px; }
+#pbGauge-fill.frame-157 { width: 78.431488px; }
+#pbGauge-fill.frame-157 > i { width: 78.431488px; }
+#pbGauge-fill.frame-158 { width: 78.925385px; }
+#pbGauge-fill.frame-158 > i { width: 78.925385px; }
+#pbGauge-fill.frame-159 { width: 79.419281px; }
+#pbGauge-fill.frame-159 > i { width: 79.419281px; }
+#pbGauge-fill.frame-160 { width: 79.916809px; }
+#pbGauge-fill.frame-160 > i { width: 79.916809px; }
+#pbGauge-fill.frame-161 { width: 80.410706px; }
+#pbGauge-fill.frame-161 > i { width: 80.410706px; }
+#pbGauge-fill.frame-162 { width: 80.904602px; }
+#pbGauge-fill.frame-162 > i { width: 80.904602px; }
+#pbGauge-fill.frame-163 { width: 81.398499px; }
+#pbGauge-fill.frame-163 > i { width: 81.398499px; }
+#pbGauge-fill.frame-164 { width: 81.888763px; }
+#pbGauge-fill.frame-164 > i { width: 81.888763px; }
+#pbGauge-fill.frame-165 { width: 82.38266px; }
+#pbGauge-fill.frame-165 > i { width: 82.38266px; }
+#pbGauge-fill.frame-166 { width: 82.876556px; }
+#pbGauge-fill.frame-166 > i { width: 82.876556px; }
+#pbGauge-fill.frame-167 { width: 83.370453px; }
+#pbGauge-fill.frame-167 > i { width: 83.370453px; }
+#pbGauge-fill.frame-168 { width: 83.864349px; }
+#pbGauge-fill.frame-168 > i { width: 83.864349px; }
+#pbGauge-fill.frame-169 { width: 84.358246px; }
+#pbGauge-fill.frame-169 > i { width: 84.358246px; }
+#pbGauge-fill.frame-170 { width: 84.855774px; }
+#pbGauge-fill.frame-170 > i { width: 84.855774px; }
+#pbGauge-fill.frame-171 { width: 85.34967px; }
+#pbGauge-fill.frame-171 > i { width: 85.34967px; }
+#pbGauge-fill.frame-172 { width: 85.843567px; }
+#pbGauge-fill.frame-172 > i { width: 85.843567px; }
+#pbGauge-fill.frame-173 { width: 86.337463px; }
+#pbGauge-fill.frame-173 > i { width: 86.337463px; }
+#pbGauge-fill.frame-174 { width: 86.83136px; }
+#pbGauge-fill.frame-174 > i { width: 86.83136px; }
+#pbGauge-fill.frame-175 { width: 87.325256px; }
+#pbGauge-fill.frame-175 > i { width: 87.325256px; }
+#pbGauge-fill.frame-176 { width: 87.819153px; }
+#pbGauge-fill.frame-176 > i { width: 87.819153px; }
+#pbGauge-fill.frame-177 { width: 88.313049px; }
+#pbGauge-fill.frame-177 > i { width: 88.313049px; }
+#pbGauge-fill.frame-178 { width: 88.803314px; }
+#pbGauge-fill.frame-178 > i { width: 88.803314px; }
+#pbGauge-fill.frame-179 { width: 89.300842px; }
+#pbGauge-fill.frame-179 > i { width: 89.300842px; }
+#pbGauge-fill.frame-180 { width: 89.794739px; }
+#pbGauge-fill.frame-180 > i { width: 89.794739px; }
+#pbGauge-fill.frame-181 { width: 90.288635px; }
+#pbGauge-fill.frame-181 > i { width: 90.288635px; }
+#pbGauge-fill.frame-182 { width: 90.782532px; }
+#pbGauge-fill.frame-182 > i { width: 90.782532px; }
+#pbGauge-fill.frame-183 { width: 91.276428px; }
+#pbGauge-fill.frame-183 > i { width: 91.276428px; }
+#pbGauge-fill.frame-184 { width: 91.770325px; }
+#pbGauge-fill.frame-184 > i { width: 91.770325px; }
+#pbGauge-fill.frame-185 { width: 92.264221px; }
+#pbGauge-fill.frame-185 > i { width: 92.264221px; }
+#pbGauge-fill.frame-186 { width: 92.758118px; }
+#pbGauge-fill.frame-186 > i { width: 92.758118px; }
+#pbGauge-fill.frame-187 { width: 93.252014px; }
+#pbGauge-fill.frame-187 > i { width: 93.252014px; }
+#pbGauge-fill.frame-188 { width: 93.745911px; }
+#pbGauge-fill.frame-188 > i { width: 93.745911px; }
+#pbGauge-fill.frame-189 { width: 94.243439px; }
+#pbGauge-fill.frame-189 > i { width: 94.243439px; }
+#pbGauge-fill.frame-190 { width: 94.737335px; }
+#pbGauge-fill.frame-190 > i { width: 94.737335px; }
+#pbGauge-fill.frame-191 { width: 95.231232px; }
+#pbGauge-fill.frame-191 > i { width: 95.231232px; }
+#pbGauge-fill.frame-192 { width: 95.721497px; }
+#pbGauge-fill.frame-192 > i { width: 95.721497px; }
+#pbGauge-fill.frame-193 { width: 96.215393px; }
+#pbGauge-fill.frame-193 > i { width: 96.215393px; }
+#pbGauge-fill.frame-194 { width: 96.70929px; }
+#pbGauge-fill.frame-194 > i { width: 96.70929px; }
+#pbGauge-fill.frame-195 { width: 97.203186px; }
+#pbGauge-fill.frame-195 > i { width: 97.203186px; }
+#pbGauge-fill.frame-196 { width: 97.697083px; }
+#pbGauge-fill.frame-196 > i { width: 97.697083px; }
+#pbGauge-fill.frame-197 { width: 98.190979px; }
+#pbGauge-fill.frame-197 > i { width: 98.190979px; }
+#pbGauge-fill.frame-198 { width: 98.688507px; }
+#pbGauge-fill.frame-198 > i { width: 98.688507px; }
+#pbGauge-fill.frame-199 { width: 99.182404px; }
+#pbGauge-fill.frame-199 > i { width: 99.182404px; }
+#pbGauge-fill.frame-200 { width: 99.6763px; }
+#pbGauge-fill.frame-200 > i { width: 99.6763px; }
+#pbGauge-fill.frame-201 { width: 100.170197px; }
+#pbGauge-fill.frame-201 > i { width: 100.170197px; }
+#pbGauge-fill.frame-202 { width: 100.664093px; }
+#pbGauge-fill.frame-202 > i { width: 100.664093px; }
+#pbGauge-fill.frame-203 { width: 101.15799px; }
+#pbGauge-fill.frame-203 > i { width: 101.15799px; }
+#pbGauge-fill.frame-204 { width: 101.651886px; }
+#pbGauge-fill.frame-204 > i { width: 101.651886px; }
+#pbGauge-fill.frame-205 { width: 102.145782px; }
+#pbGauge-fill.frame-205 > i { width: 102.145782px; }
+#pbGauge-fill.frame-206 { width: 102.636047px; }
+#pbGauge-fill.frame-206 > i { width: 102.636047px; }
+#pbGauge-fill.frame-207 { width: 103.129944px; }
+#pbGauge-fill.frame-207 > i { width: 103.129944px; }
+#pbGauge-fill.frame-208 { width: 103.627472px; }
+#pbGauge-fill.frame-208 > i { width: 103.627472px; }
+#pbGauge-fill.frame-209 { width: 104.121368px; }
+#pbGauge-fill.frame-209 > i { width: 104.121368px; }
+#pbGauge-fill.frame-210 { width: 104.615265px; }
+#pbGauge-fill.frame-210 > i { width: 104.615265px; }
+#pbGauge-fill.frame-211 { width: 105.109161px; }
+#pbGauge-fill.frame-211 > i { width: 105.109161px; }
+#pbGauge-fill.frame-212 { width: 105.603058px; }
+#pbGauge-fill.frame-212 > i { width: 105.603058px; }
+#pbGauge-fill.frame-213 { width: 106.096954px; }
+#pbGauge-fill.frame-213 > i { width: 106.096954px; }
+#pbGauge-fill.frame-214 { width: 106.590851px; }
+#pbGauge-fill.frame-214 > i { width: 106.590851px; }
+#pbGauge-fill.frame-215 { width: 107.084747px; }
+#pbGauge-fill.frame-215 > i { width: 107.084747px; }
+#pbGauge-fill.frame-216 { width: 107.578644px; }
+#pbGauge-fill.frame-216 > i { width: 107.578644px; }
+#pbGauge-fill.frame-217 { width: 108.07254px; }
+#pbGauge-fill.frame-217 > i { width: 108.07254px; }
+#pbGauge-fill.frame-218 { width: 108.570068px; }
+#pbGauge-fill.frame-218 > i { width: 108.570068px; }
+#pbGauge-fill.frame-219 { width: 109.063965px; }
+#pbGauge-fill.frame-219 > i { width: 109.063965px; }
+#pbGauge-fill.frame-220 { width: 109.55423px; }
+#pbGauge-fill.frame-220 > i { width: 109.55423px; }
+#pbGauge-fill.frame-221 { width: 110.048126px; }
+#pbGauge-fill.frame-221 > i { width: 110.048126px; }
+#pbGauge-fill.frame-222 { width: 110.542023px; }
+#pbGauge-fill.frame-222 > i { width: 110.542023px; }
+#pbGauge-fill.frame-223 { width: 111.035919px; }
+#pbGauge-fill.frame-223 > i { width: 111.035919px; }
+#pbGauge-fill.frame-224 { width: 111.529816px; }
+#pbGauge-fill.frame-224 > i { width: 111.529816px; }
+#pbGauge-fill.frame-225 { width: 112.023712px; }
+#pbGauge-fill.frame-225 > i { width: 112.023712px; }
+#pbGauge-fill.frame-226 { width: 112.517609px; }
+#pbGauge-fill.frame-226 > i { width: 112.517609px; }
+#pbGauge-fill.frame-227 { width: 113.015137px; }
+#pbGauge-fill.frame-227 > i { width: 113.015137px; }
+#pbGauge-fill.frame-228 { width: 113.509033px; }
+#pbGauge-fill.frame-228 > i { width: 113.509033px; }
+#pbGauge-fill.frame-229 { width: 114.00293px; }
+#pbGauge-fill.frame-229 > i { width: 114.00293px; }
+#pbGauge-fill.frame-230 { width: 114.496826px; }
+#pbGauge-fill.frame-230 > i { width: 114.496826px; }
+#pbGauge-fill.frame-231 { width: 114.990723px; }
+#pbGauge-fill.frame-231 > i { width: 114.990723px; }
+#pbGauge-fill.frame-232 { width: 115.484619px; }
+#pbGauge-fill.frame-232 > i { width: 115.484619px; }
+#pbGauge-fill.frame-233 { width: 115.978516px; }
+#pbGauge-fill.frame-233 > i { width: 115.978516px; }
+#pbGauge-fill.frame-234 { width: 116.472412px; }
+#pbGauge-fill.frame-234 > i { width: 116.472412px; }
+#pbGauge-fill.frame-235 { width: 116.962677px; }
+#pbGauge-fill.frame-235 > i { width: 116.962677px; }
+#pbGauge-fill.frame-236 { width: 117.456573px; }
+#pbGauge-fill.frame-236 > i { width: 117.456573px; }
+#pbGauge-fill.frame-237 { width: 117.954102px; }
+#pbGauge-fill.frame-237 > i { width: 117.954102px; }
+#pbGauge-fill.frame-238 { width: 118.447998px; }
+#pbGauge-fill.frame-238 > i { width: 118.447998px; }
+#pbGauge-fill.frame-239 { width: 118.941895px; }
+#pbGauge-fill.frame-239 > i { width: 118.941895px; }
+#pbGauge-fill.frame-240 { width: 119.435791px; }
+#pbGauge-fill.frame-240 > i { width: 119.435791px; }
+#pbGauge-fill.frame-241 { width: 119.929688px; }
+#pbGauge-fill.frame-241 > i { width: 119.929688px; }
+#pbGauge-fill.frame-242 { width: 120.423584px; }
+#pbGauge-fill.frame-242 > i { width: 120.423584px; }
+#pbGauge-fill.frame-243 { width: 120.91748px; }
+#pbGauge-fill.frame-243 > i { width: 120.91748px; }
+#pbGauge-fill.frame-244 { width: 121.411377px; }
+#pbGauge-fill.frame-244 > i { width: 121.411377px; }
+#pbGauge-fill.frame-245 { width: 121.905273px; }
+#pbGauge-fill.frame-245 > i { width: 121.905273px; }
+#pbGauge-fill.frame-246 { width: 122.402802px; }
+#pbGauge-fill.frame-246 > i { width: 122.402802px; }
+#pbGauge-fill.frame-247 { width: 122.896698px; }
+#pbGauge-fill.frame-247 > i { width: 122.896698px; }
+#pbGauge-fill.frame-248 { width: 123.390594px; }
+#pbGauge-fill.frame-248 > i { width: 123.390594px; }
+#pbGauge-fill.frame-249 { width: 123.880859px; }
+#pbGauge-fill.frame-249 > i { width: 123.880859px; }
+#pbGauge-fill.frame-250 { width: 124.374756px; }
+#pbGauge-fill.frame-250 > i { width: 124.374756px; }
+#pbGauge-fill.frame-251 { width: 124.868652px; }
+#pbGauge-fill.frame-251 > i { width: 124.868652px; }
+#pbGauge-fill.frame-252 { width: 125.362549px; }
+#pbGauge-fill.frame-252 > i { width: 125.362549px; }
+#pbGauge-fill.frame-253 { width: 125.856445px; }
+#pbGauge-fill.frame-253 > i { width: 125.856445px; }
+#pbGauge-fill.frame-254 { width: 126.350342px; }
+#pbGauge-fill.frame-254 > i { width: 126.350342px; }
+#pbGauge-fill.frame-255 { width: 126.844238px; }
+#pbGauge-fill.frame-255 > i { width: 126.844238px; }
+#pbGauge-fill.frame-256 { width: 127.341766px; }
+#pbGauge-fill.frame-256 > i { width: 127.341766px; }
+#pbGauge-fill.frame-257 { width: 127.835663px; }
+#pbGauge-fill.frame-257 > i { width: 127.835663px; }
+#pbGauge-fill.frame-258 { width: 128.329559px; }
+#pbGauge-fill.frame-258 > i { width: 128.329559px; }
+#pbGauge-fill.frame-259 { width: 128.823456px; }
+#pbGauge-fill.frame-259 > i { width: 128.823456px; }
+#pbGauge-fill.frame-260 { width: 129.317352px; }
+#pbGauge-fill.frame-260 > i { width: 129.317352px; }
+#pbGauge-fill.frame-261 { width: 129.811249px; }
+#pbGauge-fill.frame-261 > i { width: 129.811249px; }
+#pbGauge-fill.frame-262 { width: 130.305145px; }
+#pbGauge-fill.frame-262 > i { width: 130.305145px; }
+#pbGauge-fill.frame-263 { width: 130.79541px; }
+#pbGauge-fill.frame-263 > i { width: 130.79541px; }
+#pbGauge-fill.frame-264 { width: 131.289307px; }
+#pbGauge-fill.frame-264 > i { width: 131.289307px; }
+#pbGauge-fill.frame-265 { width: 131.786835px; }
+#pbGauge-fill.frame-265 > i { width: 131.786835px; }
+#pbGauge-fill.frame-266 { width: 132.280731px; }
+#pbGauge-fill.frame-266 > i { width: 132.280731px; }
+#pbGauge-fill.frame-267 { width: 132.774628px; }
+#pbGauge-fill.frame-267 > i { width: 132.774628px; }
+#pbGauge-fill.frame-268 { width: 133.268524px; }
+#pbGauge-fill.frame-268 > i { width: 133.268524px; }
+#pbGauge-fill.frame-269 { width: 133.762421px; }
+#pbGauge-fill.frame-269 > i { width: 133.762421px; }
+#pbGauge-fill.frame-270 { width: 134.256317px; }
+#pbGauge-fill.frame-270 > i { width: 134.256317px; }
+#pbGauge-fill.frame-271 { width: 134.750214px; }
+#pbGauge-fill.frame-271 > i { width: 134.750214px; }
+#pbGauge-fill.frame-272 { width: 135.24411px; }
+#pbGauge-fill.frame-272 > i { width: 135.24411px; }
+#pbGauge-fill.frame-273 { width: 135.738007px; }
+#pbGauge-fill.frame-273 > i { width: 135.738007px; }
+#pbGauge-fill.frame-274 { width: 136.231903px; }
+#pbGauge-fill.frame-274 > i { width: 136.231903px; }
+#pbGauge-fill.frame-275 { width: 136.729431px; }
+#pbGauge-fill.frame-275 > i { width: 136.729431px; }
+#pbGauge-fill.frame-276 { width: 137.223328px; }
+#pbGauge-fill.frame-276 > i { width: 137.223328px; }
+#pbGauge-fill.frame-277 { width: 137.713593px; }
+#pbGauge-fill.frame-277 > i { width: 137.713593px; }
+#pbGauge-fill.frame-278 { width: 138.207489px; }
+#pbGauge-fill.frame-278 > i { width: 138.207489px; }
+#pbGauge-fill.frame-279 { width: 138.701385px; }
+#pbGauge-fill.frame-279 > i { width: 138.701385px; }
+#pbGauge-fill.frame-280 { width: 139.195282px; }
+#pbGauge-fill.frame-280 > i { width: 139.195282px; }
+#pbGauge-fill.frame-281 { width: 139.689178px; }
+#pbGauge-fill.frame-281 > i { width: 139.689178px; }
+#pbGauge-fill.frame-282 { width: 140.183075px; }
+#pbGauge-fill.frame-282 > i { width: 140.183075px; }
+#pbGauge-fill.frame-283 { width: 140.676971px; }
+#pbGauge-fill.frame-283 > i { width: 140.676971px; }
+#pbGauge-fill.frame-284 { width: 141.170868px; }
+#pbGauge-fill.frame-284 > i { width: 141.170868px; }
+#pbGauge-fill.frame-285 { width: 141.668396px; }
+#pbGauge-fill.frame-285 > i { width: 141.668396px; }
+#pbGauge-fill.frame-286 { width: 142.162292px; }
+#pbGauge-fill.frame-286 > i { width: 142.162292px; }
+#pbGauge-fill.frame-287 { width: 142.656189px; }
+#pbGauge-fill.frame-287 > i { width: 142.656189px; }
+#pbGauge-fill.frame-288 { width: 143.150085px; }
+#pbGauge-fill.frame-288 > i { width: 143.150085px; }
+#pbGauge-fill.frame-289 { width: 143.643982px; }
+#pbGauge-fill.frame-289 > i { width: 143.643982px; }
+#pbGauge-fill.frame-290 { width: 144.137878px; }
+#pbGauge-fill.frame-290 > i { width: 144.137878px; }
+#pbGauge-fill.frame-291 { width: 144.628143px; }
+#pbGauge-fill.frame-291 > i { width: 144.628143px; }
+#pbGauge-fill.frame-292 { width: 145.12204px; }
+#pbGauge-fill.frame-292 > i { width: 145.12204px; }
+#pbGauge-fill.frame-293 { width: 145.615936px; }
+#pbGauge-fill.frame-293 > i { width: 145.615936px; }
+#pbGauge-fill.frame-294 { width: 146.113464px; }
+#pbGauge-fill.frame-294 > i { width: 146.113464px; }
+#pbGauge-fill.frame-295 { width: 146.607361px; }
+#pbGauge-fill.frame-295 > i { width: 146.607361px; }
+#pbGauge-fill.frame-296 { width: 147.101257px; }
+#pbGauge-fill.frame-296 > i { width: 147.101257px; }
+#pbGauge-fill.frame-297 { width: 147.595154px; }
+#pbGauge-fill.frame-297 > i { width: 147.595154px; }
+#pbGauge-fill.frame-298 { width: 148.08905px; }
+#pbGauge-fill.frame-298 > i { width: 148.08905px; }
+#pbGauge-fill.frame-299 { width: 148.582947px; }
+#pbGauge-fill.frame-299 > i { width: 148.582947px; }
+#pbGauge-fill.frame-300 { width: 149.076843px; }
+#pbGauge-fill.frame-300 > i { width: 149.076843px; }
+#pbGauge-fill.frame-301 { width: 149.57074px; }
+#pbGauge-fill.frame-301 > i { width: 149.57074px; }
+#pbGauge-fill.frame-302 { width: 150.064636px; }
+#pbGauge-fill.frame-302 > i { width: 150.064636px; }
+#pbGauge-fill.frame-303 { width: 150.558533px; }
+#pbGauge-fill.frame-303 > i { width: 150.558533px; }
+#pbGauge-fill.frame-304 { width: 151.056061px; }
+#pbGauge-fill.frame-304 > i { width: 151.056061px; }
+#pbGauge-fill.frame-305 { width: 151.546326px; }
+#pbGauge-fill.frame-305 > i { width: 151.546326px; }
+#pbGauge-fill.frame-306 { width: 152.040222px; }
+#pbGauge-fill.frame-306 > i { width: 152.040222px; }
+#pbGauge-fill.frame-307 { width: 152.534119px; }
+#pbGauge-fill.frame-307 > i { width: 152.534119px; }
+#pbGauge-fill.frame-308 { width: 153.028015px; }
+#pbGauge-fill.frame-308 > i { width: 153.028015px; }
+#pbGauge-fill.frame-309 { width: 153.521912px; }
+#pbGauge-fill.frame-309 > i { width: 153.521912px; }
+#pbGauge-fill.frame-310 { width: 154.015808px; }
+#pbGauge-fill.frame-310 > i { width: 154.015808px; }
+#pbGauge-fill.frame-311 { width: 154.509705px; }
+#pbGauge-fill.frame-311 > i { width: 154.509705px; }
+#pbGauge-fill.frame-312 { width: 155.003601px; }
+#pbGauge-fill.frame-312 > i { width: 155.003601px; }
+#pbGauge-fill.frame-313 { width: 155.501129px; }
+#pbGauge-fill.frame-313 > i { width: 155.501129px; }
+#pbGauge-fill.frame-314 { width: 155.995026px; }
+#pbGauge-fill.frame-314 > i { width: 155.995026px; }
+#pbGauge-fill.frame-315 { width: 156.488922px; }
+#pbGauge-fill.frame-315 > i { width: 156.488922px; }
+#pbGauge-fill.frame-316 { width: 156.982819px; }
+#pbGauge-fill.frame-316 > i { width: 156.982819px; }
+#pbGauge-fill.frame-317 { width: 157.476715px; }
+#pbGauge-fill.frame-317 > i { width: 157.476715px; }
+#pbGauge-fill.frame-318 { width: 157.970612px; }
+#pbGauge-fill.frame-318 > i { width: 157.970612px; }
+#pbGauge-fill.frame-319 { width: 158.460876px; }
+#pbGauge-fill.frame-319 > i { width: 158.460876px; }
+#pbGauge-fill.frame-320 { width: 158.954773px; }
+#pbGauge-fill.frame-320 > i { width: 158.954773px; }
+#pbGauge-fill.frame-321 { width: 159.448669px; }
+#pbGauge-fill.frame-321 > i { width: 159.448669px; }
+#pbGauge-fill.frame-322 { width: 159.942566px; }
+#pbGauge-fill.frame-322 > i { width: 159.942566px; }
+#pbGauge-fill.frame-323 { width: 160.440094px; }
+#pbGauge-fill.frame-323 > i { width: 160.440094px; }
+#pbGauge-fill.frame-324 { width: 160.93399px; }
+#pbGauge-fill.frame-324 > i { width: 160.93399px; }
+#pbGauge-fill.frame-325 { width: 161.427887px; }
+#pbGauge-fill.frame-325 > i { width: 161.427887px; }
+#pbGauge-fill.frame-326 { width: 161.921783px; }
+#pbGauge-fill.frame-326 > i { width: 161.921783px; }
+#pbGauge-fill.frame-327 { width: 162.41568px; }
+#pbGauge-fill.frame-327 > i { width: 162.41568px; }
+#pbGauge-fill.frame-328 { width: 162.909576px; }
+#pbGauge-fill.frame-328 > i { width: 162.909576px; }
+#pbGauge-fill.frame-329 { width: 163.403473px; }
+#pbGauge-fill.frame-329 > i { width: 163.403473px; }
+#pbGauge-fill.frame-330 { width: 163.897369px; }
+#pbGauge-fill.frame-330 > i { width: 163.897369px; }
+#pbGauge-fill.frame-331 { width: 164.391266px; }
+#pbGauge-fill.frame-331 > i { width: 164.391266px; }
+#pbGauge-fill.frame-332 { width: 164.888794px; }
+#pbGauge-fill.frame-332 > i { width: 164.888794px; }
+#pbGauge-fill.frame-333 { width: 165.379059px; }
+#pbGauge-fill.frame-333 > i { width: 165.379059px; }
+#pbGauge-fill.frame-334 { width: 165.872955px; }
+#pbGauge-fill.frame-334 > i { width: 165.872955px; }
+#pbGauge-fill.frame-335 { width: 166.366852px; }
+#pbGauge-fill.frame-335 > i { width: 166.366852px; }
+#pbGauge-fill.frame-336 { width: 166.860748px; }
+#pbGauge-fill.frame-336 > i { width: 166.860748px; }
+#pbGauge-fill.frame-337 { width: 167.354645px; }
+#pbGauge-fill.frame-337 > i { width: 167.354645px; }
+#pbGauge-fill.frame-338 { width: 167.848541px; }
+#pbGauge-fill.frame-338 > i { width: 167.848541px; }
+#pbGauge-fill.frame-339 { width: 168.342438px; }
+#pbGauge-fill.frame-339 > i { width: 168.342438px; }
+#pbGauge-fill.frame-340 { width: 168.836334px; }
+#pbGauge-fill.frame-340 > i { width: 168.836334px; }
+#pbGauge-fill.frame-341 { width: 169.330231px; }
+#pbGauge-fill.frame-341 > i { width: 169.330231px; }
+#pbGauge-fill.frame-342 { width: 169.827759px; }
+#pbGauge-fill.frame-342 > i { width: 169.827759px; }
+#pbGauge-fill.frame-343 { width: 170.321655px; }
+#pbGauge-fill.frame-343 > i { width: 170.321655px; }
+#pbGauge-fill.frame-344 { width: 170.815552px; }
+#pbGauge-fill.frame-344 > i { width: 170.815552px; }
+#pbGauge-fill.frame-345 { width: 171.309448px; }
+#pbGauge-fill.frame-345 > i { width: 171.309448px; }
+#pbGauge-fill.frame-346 { width: 171.803345px; }
+#pbGauge-fill.frame-346 > i { width: 171.803345px; }
+#pbGauge-fill.frame-347 { width: 172.29361px; }
+#pbGauge-fill.frame-347 > i { width: 172.29361px; }
+#pbGauge-fill.frame-348 { width: 172.787506px; }
+#pbGauge-fill.frame-348 > i { width: 172.787506px; }
+#pbGauge-fill.frame-349 { width: 173.281403px; }
+#pbGauge-fill.frame-349 > i { width: 173.281403px; }
+#pbGauge-fill.frame-350 { width: 173.775299px; }
+#pbGauge-fill.frame-350 > i { width: 173.775299px; }
+#pbGauge-fill.frame-351 { width: 174.272827px; }
+#pbGauge-fill.frame-351 > i { width: 174.272827px; }
+#pbGauge-fill.frame-352 { width: 174.766724px; }
+#pbGauge-fill.frame-352 > i { width: 174.766724px; }
+#pbGauge-fill.frame-353 { width: 175.26062px; }
+#pbGauge-fill.frame-353 > i { width: 175.26062px; }
+#pbGauge-fill.frame-354 { width: 175.754517px; }
+#pbGauge-fill.frame-354 > i { width: 175.754517px; }
+#pbGauge-fill.frame-355 { width: 176.248413px; }
+#pbGauge-fill.frame-355 > i { width: 176.248413px; }
+#pbGauge-fill.frame-356 { width: 176.74231px; }
+#pbGauge-fill.frame-356 > i { width: 176.74231px; }
+#pbGauge-fill.frame-357 { width: 177.236206px; }
+#pbGauge-fill.frame-357 > i { width: 177.236206px; }
+#pbGauge-fill.frame-358 { width: 177.730103px; }
+#pbGauge-fill.frame-358 > i { width: 177.730103px; }
+#pbGauge-fill.frame-359 { width: 178.223999px; }
+#pbGauge-fill.frame-359 > i { width: 178.223999px; }
+#pbGauge-fill.frame-360 { width: 178.717896px; }
+#pbGauge-fill.frame-360 > i { width: 178.717896px; }
+#pbGauge-fill.frame-361 { width: 179.211792px; }
+#pbGauge-fill.frame-361 > i { width: 179.211792px; }
+#pbGauge-fill.frame-362 { width: 179.705688px; }
+#pbGauge-fill.frame-362 > i { width: 179.705688px; }
+#pbGauge-fill.frame-363 { width: 180.199585px; }
+#pbGauge-fill.frame-363 > i { width: 180.199585px; }
+#pbGauge-fill.frame-364 { width: 180.693481px; }
+#pbGauge-fill.frame-364 > i { width: 180.693481px; }
+#pbGauge-fill.frame-365 { width: 181.187378px; }
+#pbGauge-fill.frame-365 > i { width: 181.187378px; }
+#pbGauge-fill.frame-366 { width: 181.681274px; }
+#pbGauge-fill.frame-366 > i { width: 181.681274px; }
+#pbGauge-fill.frame-367 { width: 182.175171px; }
+#pbGauge-fill.frame-367 > i { width: 182.175171px; }
+#pbGauge-fill.frame-368 { width: 182.669067px; }
+#pbGauge-fill.frame-368 > i { width: 182.669067px; }
+#pbGauge-fill.frame-369 { width: 183.162964px; }
+#pbGauge-fill.frame-369 > i { width: 183.162964px; }
+#pbGauge-fill.frame-370 { width: 183.65686px; }
+#pbGauge-fill.frame-370 > i { width: 183.65686px; }
+#pbGauge-fill.frame-371 { width: 184.154388px; }
+#pbGauge-fill.frame-371 > i { width: 184.154388px; }
+#pbGauge-fill.frame-372 { width: 184.648285px; }
+#pbGauge-fill.frame-372 > i { width: 184.648285px; }
+#pbGauge-fill.frame-373 { width: 185.142181px; }
+#pbGauge-fill.frame-373 > i { width: 185.142181px; }
+#pbGauge-fill.frame-374 { width: 185.636078px; }
+#pbGauge-fill.frame-374 > i { width: 185.636078px; }
+#pbGauge-fill.frame-375 { width: 186.126343px; }
+#pbGauge-fill.frame-375 > i { width: 186.126343px; }
+#pbGauge-fill.frame-376 { width: 186.620239px; }
+#pbGauge-fill.frame-376 > i { width: 186.620239px; }
+#pbGauge-fill.frame-377 { width: 187.114136px; }
+#pbGauge-fill.frame-377 > i { width: 187.114136px; }
+#pbGauge-fill.frame-378 { width: 187.608032px; }
+#pbGauge-fill.frame-378 > i { width: 187.608032px; }
+#pbGauge-fill.frame-379 { width: 188.101929px; }
+#pbGauge-fill.frame-379 > i { width: 188.101929px; }
+#pbGauge-fill.frame-380 { width: 188.599457px; }
+#pbGauge-fill.frame-380 > i { width: 188.599457px; }
+#pbGauge-fill.frame-381 { width: 189.093353px; }
+#pbGauge-fill.frame-381 > i { width: 189.093353px; }
+#pbGauge-fill.frame-382 { width: 189.58725px; }
+#pbGauge-fill.frame-382 > i { width: 189.58725px; }
+#pbGauge-fill.frame-383 { width: 190.081146px; }
+#pbGauge-fill.frame-383 > i { width: 190.081146px; }
+#pbGauge-fill.frame-384 { width: 190.575043px; }
+#pbGauge-fill.frame-384 > i { width: 190.575043px; }
+#pbGauge-fill.frame-385 { width: 191.068939px; }
+#pbGauge-fill.frame-385 > i { width: 191.068939px; }
+#pbGauge-fill.frame-386 { width: 191.562836px; }
+#pbGauge-fill.frame-386 > i { width: 191.562836px; }
+#pbGauge-fill.frame-387 { width: 192.056732px; }
+#pbGauge-fill.frame-387 > i { width: 192.056732px; }
+#pbGauge-fill.frame-388 { width: 192.550629px; }
+#pbGauge-fill.frame-388 > i { width: 192.550629px; }
+#pbGauge-fill.frame-389 { width: 193.040894px; }
+#pbGauge-fill.frame-389 > i { width: 193.040894px; }
+#pbGauge-fill.frame-390 { width: 193.538422px; }
+#pbGauge-fill.frame-390 > i { width: 193.538422px; }
+#pbGauge-fill.frame-391 { width: 194.032318px; }
+#pbGauge-fill.frame-391 > i { width: 194.032318px; }
+#pbGauge-fill.frame-392 { width: 194.526215px; }
+#pbGauge-fill.frame-392 > i { width: 194.526215px; }
+#pbGauge-fill.frame-393 { width: 195.020111px; }
+#pbGauge-fill.frame-393 > i { width: 195.020111px; }
+#pbGauge-fill.frame-394 { width: 195.514008px; }
+#pbGauge-fill.frame-394 > i { width: 195.514008px; }
+#pbGauge-fill.frame-395 { width: 196.007904px; }
+#pbGauge-fill.frame-395 > i { width: 196.007904px; }
+#pbGauge-fill.frame-396 { width: 196.501801px; }
+#pbGauge-fill.frame-396 > i { width: 196.501801px; }
+#pbGauge-fill.frame-397 { width: 196.995697px; }
+#pbGauge-fill.frame-397 > i { width: 196.995697px; }
+#pbGauge-fill.frame-398 { width: 197.489594px; }
+#pbGauge-fill.frame-398 > i { width: 197.489594px; }
+#pbGauge-fill.frame-399 { width: 197.987122px; }
+#pbGauge-fill.frame-399 > i { width: 197.987122px; }
+#pbGauge-fill.frame-400 { width: 198.481018px; }
+#pbGauge-fill.frame-400 > i { width: 198.481018px; }
+#pbGauge-fill.frame-401 { width: 198.974915px; }
+#pbGauge-fill.frame-401 > i { width: 198.974915px; }
+#pbGauge-fill.frame-402 { width: 199.468811px; }
+#pbGauge-fill.frame-402 > i { width: 199.468811px; }
+#pbGauge-fill.frame-403 { width: 199.959076px; }
+#pbGauge-fill.frame-403 > i { width: 199.959076px; }
+#pbGauge-fill.frame-404 { width: 200.452972px; }
+#pbGauge-fill.frame-404 > i { width: 200.452972px; }
+#pbGauge-fill.frame-405 { width: 200.946869px; }
+#pbGauge-fill.frame-405 > i { width: 200.946869px; }
+#pbGauge-fill.frame-406 { width: 201.440765px; }
+#pbGauge-fill.frame-406 > i { width: 201.440765px; }
+#pbGauge-fill.frame-407 { width: 201.934662px; }
+#pbGauge-fill.frame-407 > i { width: 201.934662px; }
+#pbGauge-fill.frame-408 { width: 202.428558px; }
+#pbGauge-fill.frame-408 > i { width: 202.428558px; }
+#pbGauge-fill.frame-409 { width: 202.926086px; }
+#pbGauge-fill.frame-409 > i { width: 202.926086px; }
+#pbGauge-fill.frame-410 { width: 203.419983px; }
+#pbGauge-fill.frame-410 > i { width: 203.419983px; }
+#pbGauge-fill.frame-411 { width: 203.913879px; }
+#pbGauge-fill.frame-411 > i { width: 203.913879px; }
+#pbGauge-fill.frame-412 { width: 204.407776px; }
+#pbGauge-fill.frame-412 > i { width: 204.407776px; }
+#pbGauge-fill.frame-413 { width: 204.901672px; }
+#pbGauge-fill.frame-413 > i { width: 204.901672px; }
+#pbGauge-fill.frame-414 { width: 205.395569px; }
+#pbGauge-fill.frame-414 > i { width: 205.395569px; }
+#pbGauge-fill.frame-415 { width: 205.889465px; }
+#pbGauge-fill.frame-415 > i { width: 205.889465px; }
+#pbGauge-fill.frame-416 { width: 206.383362px; }
+#pbGauge-fill.frame-416 > i { width: 206.383362px; }
+#pbGauge-fill.frame-417 { width: 206.873627px; }
+#pbGauge-fill.frame-417 > i { width: 206.873627px; }
+#pbGauge-fill.frame-418 { width: 207.371155px; }
+#pbGauge-fill.frame-418 > i { width: 207.371155px; }
+#pbGauge-fill.frame-419 { width: 207.865051px; }
+#pbGauge-fill.frame-419 > i { width: 207.865051px; }
+#pbGauge-fill.frame-420 { width: 208.358948px; }
+#pbGauge-fill.frame-420 > i { width: 208.358948px; }
+#pbGauge-fill.frame-421 { width: 208.852844px; }
+#pbGauge-fill.frame-421 > i { width: 208.852844px; }
+#pbGauge-fill.frame-422 { width: 209.346741px; }
+#pbGauge-fill.frame-422 > i { width: 209.346741px; }
+#pbGauge-fill.frame-423 { width: 209.840637px; }
+#pbGauge-fill.frame-423 > i { width: 209.840637px; }
+#pbGauge-fill.frame-424 { width: 210.334534px; }
+#pbGauge-fill.frame-424 > i { width: 210.334534px; }
+#pbGauge-fill.frame-425 { width: 210.82843px; }
+#pbGauge-fill.frame-425 > i { width: 210.82843px; }
+#pbGauge-fill.frame-426 { width: 211.322327px; }
+#pbGauge-fill.frame-426 > i { width: 211.322327px; }
+#pbGauge-fill.frame-427 { width: 211.816223px; }
+#pbGauge-fill.frame-427 > i { width: 211.816223px; }
+#pbGauge-fill.frame-428 { width: 212.313751px; }
+#pbGauge-fill.frame-428 > i { width: 212.313751px; }
+#pbGauge-fill.frame-429 { width: 212.807648px; }
+#pbGauge-fill.frame-429 > i { width: 212.807648px; }
+#pbGauge-fill.frame-430 { width: 213.301544px; }
+#pbGauge-fill.frame-430 > i { width: 213.301544px; }
+#pbGauge-fill.frame-431 { width: 213.791809px; }
+#pbGauge-fill.frame-431 > i { width: 213.791809px; }
+#pbGauge-fill.frame-432 { width: 214.285706px; }
+#pbGauge-fill.frame-432 > i { width: 214.285706px; }
+#pbGauge-fill.frame-433 { width: 214.779602px; }
+#pbGauge-fill.frame-433 > i { width: 214.779602px; }
+#pbGauge-fill.frame-434 { width: 215.273499px; }
+#pbGauge-fill.frame-434 > i { width: 215.273499px; }
+#pbGauge-fill.frame-435 { width: 215.767395px; }
+#pbGauge-fill.frame-435 > i { width: 215.767395px; }
+#pbGauge-fill.frame-436 { width: 216.261292px; }
+#pbGauge-fill.frame-436 > i { width: 216.261292px; }
+#pbGauge-fill.frame-437 { width: 216.75882px; }
+#pbGauge-fill.frame-437 > i { width: 216.75882px; }
+#pbGauge-fill.frame-438 { width: 217.252716px; }
+#pbGauge-fill.frame-438 > i { width: 217.252716px; }
+#pbGauge-fill.frame-439 { width: 217.746613px; }
+#pbGauge-fill.frame-439 > i { width: 217.746613px; }
+#pbGauge-fill.frame-440 { width: 218.240509px; }
+#pbGauge-fill.frame-440 > i { width: 218.240509px; }
+#pbGauge-fill.frame-441 { width: 218.734406px; }
+#pbGauge-fill.frame-441 > i { width: 218.734406px; }
+#pbGauge-fill.frame-442 { width: 219.228302px; }
+#pbGauge-fill.frame-442 > i { width: 219.228302px; }
+#pbGauge-fill.frame-443 { width: 219.722198px; }
+#pbGauge-fill.frame-443 > i { width: 219.722198px; }
+#pbGauge-fill.frame-444 { width: 220.216095px; }
+#pbGauge-fill.frame-444 > i { width: 220.216095px; }
+#pbGauge-fill.frame-445 { width: 220.70636px; }
+#pbGauge-fill.frame-445 > i { width: 220.70636px; }
+#pbGauge-fill.frame-446 { width: 221.200256px; }
+#pbGauge-fill.frame-446 > i { width: 221.200256px; }
+#pbGauge-fill.frame-447 { width: 221.697784px; }
+#pbGauge-fill.frame-447 > i { width: 221.697784px; }
+#pbGauge-fill.frame-448 { width: 222.191681px; }
+#pbGauge-fill.frame-448 > i { width: 222.191681px; }
+#pbGauge-fill.frame-449 { width: 222.685577px; }
+#pbGauge-fill.frame-449 > i { width: 222.685577px; }
+#pbGauge-fill.frame-450 { width: 223.179474px; }
+#pbGauge-fill.frame-450 > i { width: 223.179474px; }
+#pbGauge-fill.frame-451 { width: 223.67337px; }
+#pbGauge-fill.frame-451 > i { width: 223.67337px; }
+#pbGauge-fill.frame-452 { width: 224.167267px; }
+#pbGauge-fill.frame-452 > i { width: 224.167267px; }
+#pbGauge-fill.frame-453 { width: 224.661163px; }
+#pbGauge-fill.frame-453 > i { width: 224.661163px; }
+#pbGauge-fill.frame-454 { width: 225.15506px; }
+#pbGauge-fill.frame-454 > i { width: 225.15506px; }
+#pbGauge-fill.frame-455 { width: 225.648956px; }
+#pbGauge-fill.frame-455 > i { width: 225.648956px; }
+#pbGauge-fill.frame-456 { width: 226.142853px; }
+#pbGauge-fill.frame-456 > i { width: 226.142853px; }
+#pbGauge-fill.frame-457 { width: 226.640381px; }
+#pbGauge-fill.frame-457 > i { width: 226.640381px; }
+#pbGauge-fill.frame-458 { width: 227.134277px; }
+#pbGauge-fill.frame-458 > i { width: 227.134277px; }
+#pbGauge-fill.frame-459 { width: 227.624542px; }
+#pbGauge-fill.frame-459 > i { width: 227.624542px; }
+#pbGauge-fill.frame-460 { width: 228.118439px; }
+#pbGauge-fill.frame-460 > i { width: 228.118439px; }
+#pbGauge-fill.frame-461 { width: 228.612335px; }
+#pbGauge-fill.frame-461 > i { width: 228.612335px; }
+#pbGauge-fill.frame-462 { width: 229.106232px; }
+#pbGauge-fill.frame-462 > i { width: 229.106232px; }
+#pbGauge-fill.frame-463 { width: 229.600128px; }
+#pbGauge-fill.frame-463 > i { width: 229.600128px; }
+#pbGauge-fill.frame-464 { width: 230.094025px; }
+#pbGauge-fill.frame-464 > i { width: 230.094025px; }
+#pbGauge-fill.frame-465 { width: 230.587921px; }
+#pbGauge-fill.frame-465 > i { width: 230.587921px; }
+#pbGauge-fill.frame-466 { width: 231.085449px; }
+#pbGauge-fill.frame-466 > i { width: 231.085449px; }
+#pbGauge-fill.frame-467 { width: 231.579346px; }
+#pbGauge-fill.frame-467 > i { width: 231.579346px; }
+#pbGauge-fill.frame-468 { width: 232.073242px; }
+#pbGauge-fill.frame-468 > i { width: 232.073242px; }
+#pbGauge-fill.frame-469 { width: 232.567139px; }
+#pbGauge-fill.frame-469 > i { width: 232.567139px; }
+#pbGauge-fill.frame-470 { width: 233.061035px; }
+#pbGauge-fill.frame-470 > i { width: 233.061035px; }
+#pbGauge-fill.frame-471 { width: 233.554932px; }
+#pbGauge-fill.frame-471 > i { width: 233.554932px; }
+#pbGauge-fill.frame-472 { width: 234.048828px; }
+#pbGauge-fill.frame-472 > i { width: 234.048828px; }
+#pbGauge-fill.frame-473 { width: 234.542725px; }
+#pbGauge-fill.frame-473 > i { width: 234.542725px; }
+#pbGauge-fill.frame-474 { width: 235.03299px; }
+#pbGauge-fill.frame-474 > i { width: 235.03299px; }
+#pbGauge-fill.frame-475 { width: 235.526886px; }
+#pbGauge-fill.frame-475 > i { width: 235.526886px; }
+#pbGauge-fill.frame-476 { width: 236.024414px; }
+#pbGauge-fill.frame-476 > i { width: 236.024414px; }
+#pbGauge-fill.frame-477 { width: 236.518311px; }
+#pbGauge-fill.frame-477 > i { width: 236.518311px; }
+#pbGauge-fill.frame-478 { width: 237.012207px; }
+#pbGauge-fill.frame-478 > i { width: 237.012207px; }
+#pbGauge-fill.frame-479 { width: 237.506104px; }
+#pbGauge-fill.frame-479 > i { width: 237.506104px; }
+#pbGauge-fill.frame-480 { width: 238px; }
+#pbGauge-fill.frame-480 > i { width: 238px; }
+#pbGauge-fill { transform: none; }
+#btnOk { width: 75px; height: 35px; left: 74px; top: 140px; }
+#btnOk > .state-up > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnOk > .state-over > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnOk > .state-down > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnOk > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnCancel { width: 75px; height: 35px; left: 153px; top: 140px; }
+#btnCancel > .state-up > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnCancel > .state-over > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnCancel > .state-down > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnCancel > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnClose { width: 75px; height: 35px; left: 114px; top: 140px; }
+#btnClose > .state-up > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnClose > .state-over > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnClose > .state-down > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#btnClose > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 75px; height: 35px; }
+#tfTitle { width: 196px; height: 12.6px; left: 52px; top: 15px; }
+#taMent { width: 247px; height: 46px; left: 28px; top: 49px; }

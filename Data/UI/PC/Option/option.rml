@@ -1,0 +1,96 @@
+<rml>
+<head>
+<meta name="mu-design-Option-Width" content="390"/>
+<meta name="mu-design-Option-Height" content="580"/>
+    <title>MU Online Option</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="option.rcss"/>
+    <link type="text/rcss" href="option_gfx.generated.rcss"/>
+    <link type="text/rcss" href="option_gfx_skins.generated.rcss"/>
+</head>
+<body>
+    <div id="option-panel">
+        <div class="option-back gfx-scale-grid-parts"><i class="Option.popupfield01"/><i class="Option.popupfield02"/><i class="Option.popupfield03"/><i class="Option.popupfield04"/><i class="Option.popupfield05"/><i class="Option.popupfield06"/><i class="Option.popupfield07"/><i class="Option.popupfield08"/><i class="Option.popupfield09"/></div>
+        <div id="title" class="MULabel Label_타이틀"></div>
+        <div class="title-divider"/>
+
+        <div class="option-check-row">
+            <input id="automatic-check" class="mu-checkbox MuCheckBox_001 option-check automatic-check" type="checkbox"/>
+            <label id="automatic-label" class="mu-overflow-label row-label automatic-row" for="automatic-check"></label>
+        </div>
+        <div class="option-check-row">
+            <input id="whisper-check" class="mu-checkbox MuCheckBox_001 option-check whisper-check" type="checkbox"/>
+            <label id="whisper-label" class="mu-overflow-label row-label whisper-row" for="whisper-check"></label>
+        </div>
+        <div class="option-check-row">
+            <input id="name-display-check" class="mu-checkbox MuCheckBox_001 option-check name-display-check" type="checkbox"/>
+            <label id="name-display-label" class="mu-overflow-label row-label name-display-row" for="name-display-check"></label>
+        </div>
+
+        <div id="sound-label" class="mu-overflow-label row-label sound-label MULabel Label_볼륨조절"></div>
+        <div class="volume-row MuStatusIndicator_volume sound-volume">
+            <input id="sound-0" class="volume-speaker" type="radio" name="sound-volume" value="0"/>
+            <input id="sound-1" class="mu-meter-cell volume-cell" type="radio" name="sound-volume" value="1"/>
+            <input id="sound-2" class="mu-meter-cell volume-cell" type="radio" name="sound-volume" value="2"/>
+            <input id="sound-3" class="mu-meter-cell volume-cell" type="radio" name="sound-volume" value="3"/>
+            <input id="sound-4" class="mu-meter-cell volume-cell" type="radio" name="sound-volume" value="4"/>
+            <input id="sound-5" class="mu-meter-cell volume-cell" type="radio" name="sound-volume" value="5"/>
+            <input id="sound-6" class="mu-meter-cell volume-cell" type="radio" name="sound-volume" value="6"/>
+            <input id="sound-7" class="mu-meter-cell volume-cell" type="radio" name="sound-volume" value="7"/>
+            <input id="sound-8" class="mu-meter-cell volume-cell" type="radio" name="sound-volume" value="8"/>
+            <input id="sound-9" class="mu-meter-cell volume-cell" type="radio" name="sound-volume" value="9"/>
+            <input id="sound-10" class="mu-meter-cell volume-cell" type="radio" name="sound-volume" value="10"/>
+        </div>
+
+        <div id="music-label" class="mu-overflow-label row-label music-label MULabel Label_볼륨조절"></div>
+        <div class="volume-row MuStatusIndicator_volume music-volume">
+            <input id="music-0" class="volume-speaker" type="radio" name="music-volume" value="0"/>
+            <input id="music-1" class="mu-meter-cell volume-cell" type="radio" name="music-volume" value="1"/>
+            <input id="music-2" class="mu-meter-cell volume-cell" type="radio" name="music-volume" value="2"/>
+            <input id="music-3" class="mu-meter-cell volume-cell" type="radio" name="music-volume" value="3"/>
+            <input id="music-4" class="mu-meter-cell volume-cell" type="radio" name="music-volume" value="4"/>
+            <input id="music-5" class="mu-meter-cell volume-cell" type="radio" name="music-volume" value="5"/>
+            <input id="music-6" class="mu-meter-cell volume-cell" type="radio" name="music-volume" value="6"/>
+            <input id="music-7" class="mu-meter-cell volume-cell" type="radio" name="music-volume" value="7"/>
+            <input id="music-8" class="mu-meter-cell volume-cell" type="radio" name="music-volume" value="8"/>
+            <input id="music-9" class="mu-meter-cell volume-cell" type="radio" name="music-volume" value="9"/>
+            <input id="music-10" class="mu-meter-cell volume-cell" type="radio" name="music-volume" value="10"/>
+        </div>
+
+        <div class="option-check-row">
+            <input id="slide-check" class="mu-checkbox MuCheckBox_001 option-check slide-check" type="checkbox"/>
+            <label id="slide-label" class="mu-overflow-label row-label slide-row" for="slide-check"></label>
+        </div>
+
+        <div id="effect-label" class="mu-overflow-label row-label effect-label MULabel Label_효과제한"></div>
+        <div class="effect-row">
+            <label class="effect-option"><input id="effect-0" class="mu-button effect-choice Button" type="radio" name="effect-level" value="0"/><span class="mu-overflow-label">5</span></label>
+            <label class="effect-option"><input id="effect-1" class="mu-button effect-choice Button" type="radio" name="effect-level" value="1"/><span class="mu-overflow-label">7</span></label>
+            <label class="effect-option"><input id="effect-2" class="mu-button effect-choice Button" type="radio" name="effect-level" value="2"/><span class="mu-overflow-label">9</span></label>
+            <label class="effect-option"><input id="effect-3" class="mu-button effect-choice Button" type="radio" name="effect-level" value="3"/><span class="mu-overflow-label">11</span></label>
+            <label class="effect-option"><input id="effect-4" class="mu-button effect-choice Button" type="radio" name="effect-level" value="4"/><span class="mu-overflow-label">13</span></label>
+        </div>
+
+        <div class="option-check-row">
+            <input id="render-check" class="mu-checkbox MuCheckBox_001 option-check render-check" type="checkbox"/>
+            <label id="render-label" class="mu-overflow-label row-label render-row" for="render-check"></label>
+        </div>
+
+        <div id="font-label" class="mu-overflow-label row-label font-label MULabel Label_볼륨조절"></div>
+        <select id="font-select" class="mu-select font-select"/>
+        <div id="language-label" class="mu-overflow-label row-label language-label MULabel Label_볼륨조절"></div>
+        <select id="language-select" class="mu-select language-select"/>
+        <div id="resolution-label" class="mu-overflow-label row-label resolution-label MULabel Label_볼륨조절"></div>
+        <select id="resolution-select" class="mu-select resolution-select"/>
+
+        <div class="option-check-row">
+            <input id="windowed-check" class="mu-checkbox MuCheckBox_001 option-check windowed-check" type="checkbox"/>
+            <label id="windowed-label" class="mu-overflow-label row-label windowed-row" for="windowed-check"></label>
+        </div>
+
+        <div class="bottom-divider"/>
+        <button id="close-button" class="mu-button MuButton_S01"><span id="close-label" class="mu-overflow-label"></span></button>
+    </div>
+</body>
+</rml>

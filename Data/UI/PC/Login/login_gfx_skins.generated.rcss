@@ -1,0 +1,27 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#login-background {
+    decorator: tiled-box(
+        ServerSelect.popupfield01, ServerSelect.popupfield02, ServerSelect.popupfield03,
+        ServerSelect.popupfield04, ServerSelect.popupfield05, ServerSelect.popupfield06,
+        ServerSelect.popupfield07, ServerSelect.popupfield08, ServerSelect.popupfield09
+    );
+}
+#login-background.gfx-scale-grid-parts { decorator: none; }
+.gfx-scale-grid-parts > i { position: absolute; pointer-events: none; }
+#login-background > .ServerSelect\.popupfield01 { decorator: image(ServerSelect.popupfield01); }
+#login-background > .ServerSelect\.popupfield02 { decorator: image(ServerSelect.popupfield02); }
+#login-background > .ServerSelect\.popupfield03 { decorator: image(ServerSelect.popupfield03); }
+#login-background > .ServerSelect\.popupfield04 { decorator: image(ServerSelect.popupfield04); }
+#login-background > .ServerSelect\.popupfield05 { decorator: image(ServerSelect.popupfield05); }
+#login-background > .ServerSelect\.popupfield06 { decorator: image(ServerSelect.popupfield06); }
+#login-background > .ServerSelect\.popupfield07 { decorator: image(ServerSelect.popupfield07); }
+#login-background > .ServerSelect\.popupfield08 { decorator: image(ServerSelect.popupfield08); }
+#login-background > .ServerSelect\.popupfield09 { decorator: image(ServerSelect.popupfield09); }
+#account-background { decorator: tiled-horizontal(ServerSelect.textfield01, ServerSelect.textfield02, ServerSelect.textfield03); }
+#password-background { decorator: tiled-horizontal(ServerSelect.textfield01, ServerSelect.textfield02, ServerSelect.textfield03); }
+#login-title-line { decorator: image(ServerSelect.popup_line_m); }
+#login-bottom-line { decorator: image(ServerSelect.popup_line_s); }
+.login-panel .MuButton_M01 { decorator: image(ServerSelect.btn_m01); }
+.login-panel .MuButton_M01.over, .login-panel .MuButton_M01:hover { decorator: image(ServerSelect.btn_m02); }
+.login-panel .MuButton_M01.down, .login-panel .MuButton_M01:active { decorator: image(ServerSelect.btn_m03); }
+.login-panel .MuButton_M01.disabled, .login-panel .MuButton_M01:disabled { decorator: image(ServerSelect.btn_m04); }

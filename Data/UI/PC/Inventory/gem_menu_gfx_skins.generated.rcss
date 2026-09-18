@@ -1,0 +1,24 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#menu-art-7 > .piece-0 { decorator: image(MixStone.popupfield01); }
+#menu-art-7 > .piece-1 { decorator: image(MixStone.popupfield02); }
+#menu-art-7 > .piece-2 { decorator: image(MixStone.popupfield03); }
+#menu-art-7 > .piece-3 { decorator: image(MixStone.popupfield04); }
+#menu-art-7 > .piece-4 { decorator: image(MixStone.popupfield05); }
+#menu-art-7 > .piece-5 { decorator: image(MixStone.popupfield06); }
+#menu-art-7 > .piece-6 { decorator: image(MixStone.popupfield07); }
+#menu-art-7 > .piece-7 { decorator: image(MixStone.popupfield08); }
+#menu-art-7 > .piece-8 { decorator: image(MixStone.popupfield09); }
+#menu-art-6 > .piece-0 { decorator: image(MixStone.popup_line_m); }
+#menu-art-5 > .piece-0 { decorator: image(MixStone.popup_line_s); }
+#btnSelectClose > .state-up > .piece-0 { decorator: image(MixStone.btn_s01); }
+#btnSelectClose > .state-over > .piece-0 { decorator: image(MixStone.btn_s02); }
+#btnSelectClose > .state-down > .piece-0 { decorator: image(MixStone.btn_s03); }
+#btnSelectClose > .state-disabled > .piece-0 { decorator: image(MixStone.btn_s04); }
+#btnSelectAttach > .state-up > .piece-0 { decorator: image(MixStone.btn_xl01); }
+#btnSelectAttach > .state-over > .piece-0 { decorator: image(MixStone.btn_xl02); }
+#btnSelectAttach > .state-down > .piece-0 { decorator: image(MixStone.btn_xl03); }
+#btnSelectAttach > .state-disabled > .piece-0 { decorator: image(MixStone.btn_xl04); }
+#btnSelectDetach > .state-up > .piece-0 { decorator: image(MixStone.btn_xl01); }
+#btnSelectDetach > .state-over > .piece-0 { decorator: image(MixStone.btn_xl02); }
+#btnSelectDetach > .state-down > .piece-0 { decorator: image(MixStone.btn_xl03); }
+#btnSelectDetach > .state-disabled > .piece-0 { decorator: image(MixStone.btn_xl04); }

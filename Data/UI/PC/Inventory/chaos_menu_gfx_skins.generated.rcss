@@ -1,0 +1,22 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-45-0 > .piece-0 { decorator: image(MixGoblinSel.popupfield01); }
+#art-45-0 > .piece-1 { decorator: image(MixGoblinSel.popupfield02); }
+#art-45-0 > .piece-2 { decorator: image(MixGoblinSel.popupfield03); }
+#art-45-0 > .piece-3 { decorator: image(MixGoblinSel.popupfield04); }
+#art-45-0 > .piece-4 { decorator: image(MixGoblinSel.popupfield05); }
+#art-45-0 > .piece-5 { decorator: image(MixGoblinSel.popupfield06); }
+#art-45-0 > .piece-6 { decorator: image(MixGoblinSel.popupfield07); }
+#art-45-0 > .piece-7 { decorator: image(MixGoblinSel.popupfield08); }
+#art-45-0 > .piece-8 { decorator: image(MixGoblinSel.popupfield09); }
+#art-47-0 > .piece-0 { decorator: image(MixGoblinSel.popup_line_m); }
+#art-49-0 > .piece-0 { decorator: image(MixGoblinSel.popup_line_s); }
+#art-49-1 > .piece-0 { decorator: image(MixGoblinSel.popup_line_s); }
+#art-49-2 > .piece-0 { decorator: image(MixGoblinSel.popup_line_s); }
+#menu .MuButton_XL01 { decorator: image(MixGoblinSel.btn_xl01); }
+#menu .MuButton_XL01:hover { decorator: image(MixGoblinSel.btn_xl02); }
+#menu .MuButton_XL01:active { decorator: image(MixGoblinSel.btn_xl03); }
+#menu .MuButton_XL01.disabled { decorator: image(MixGoblinSel.btn_xl04); }
+#menu .MuButton_S01 { decorator: image(MixGoblinSel.btn_s01); }
+#menu .MuButton_S01:hover { decorator: image(MixGoblinSel.btn_s02); }
+#menu .MuButton_S01:active { decorator: image(MixGoblinSel.btn_s03); }
+#menu .MuButton_S01.disabled { decorator: image(MixGoblinSel.btn_s04); }

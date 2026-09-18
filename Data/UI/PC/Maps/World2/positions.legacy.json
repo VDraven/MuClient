@@ -1,0 +1,77 @@
+{
+  "world": "World2",
+  "language": null,
+  "source": "World2/Minimap.bmd",
+  "sourceSha256": "21660f96b8135ba9fdefbff7c13fa6f0237b1557bb7c2c0f69aab2aa8aadf62c",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 108,
+      "y": 249,
+      "rotation": 135,
+      "name": "�������V�A",
+      "sourceNameHex": "838d838c839383568341"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 238,
+      "y": 150,
+      "rotation": 225,
+      "name": "�_���W����2�K",
+      "sourceNameHex": "835f8393835783878393328a4b"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 232,
+      "y": 128,
+      "rotation": 135,
+      "name": "�_���W����1�K",
+      "sourceNameHex": "835f8393835783878393318a4b"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 1,
+      "y": 18,
+      "rotation": 225,
+      "name": "�_���W����3�K��",
+      "sourceNameHex": "835f8393835783878393338a4b90bc"
+    },
+    {
+      "index": 4,
+      "kind": "portal",
+      "x": 5,
+      "y": 35,
+      "rotation": 135,
+      "name": "�_���W����3�K��",
+      "sourceNameHex": "835f8393835783878393338a4b938c"
+    },
+    {
+      "index": 5,
+      "kind": "portal",
+      "x": 1,
+      "y": 85,
+      "rotation": 225,
+      "name": "�_���W����2�K��",
+      "sourceNameHex": "835f8393835783878393328a4b90bc"
+    },
+    {
+      "index": 6,
+      "kind": "portal",
+      "x": 29,
+      "y": 127,
+      "rotation": 135,
+      "name": "�_���W����2�K��",
+      "sourceNameHex": "835f8393835783878393328a4b938c"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

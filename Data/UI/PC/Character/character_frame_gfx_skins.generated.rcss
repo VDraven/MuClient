@@ -1,0 +1,33 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.character-background-top { decorator: image(characterFrame.popup_01_1); }
+.character-background-middle { decorator: image(characterFrame.popup_bg01); }
+.character-background-bottom { decorator: image(characterFrame.popup_bg03); }
+.character-centerline { decorator: image(characterFrame.war_bg_centerline); }
+.character-section-frame {
+    decorator: tiled-box(
+        FriendMenu.textbg01, FriendMenu.textbg02, FriendMenu.textbg03,
+        FriendMenu.textbg04, FriendMenu.textbg05, FriendMenu.textbg06,
+        FriendMenu.textbg07, FriendMenu.textbg08, FriendMenu.textbg09
+    );
+}
+.character-section-frame.gfx-scale-grid-parts { decorator: none; }
+.gfx-scale-grid-parts > i { position: absolute; pointer-events: none; }
+.character-section-frame > .textbg01 { decorator: image(FriendMenu.textbg01); }
+.character-section-frame > .textbg02 { decorator: image(FriendMenu.textbg02); }
+.character-section-frame > .textbg03 { decorator: image(FriendMenu.textbg03); }
+.character-section-frame > .textbg04 { decorator: image(FriendMenu.textbg04); }
+.character-section-frame > .textbg05 { decorator: image(FriendMenu.textbg05); }
+.character-section-frame > .textbg06 { decorator: image(FriendMenu.textbg06); }
+.character-section-frame > .textbg07 { decorator: image(FriendMenu.textbg07); }
+.character-section-frame > .textbg08 { decorator: image(FriendMenu.textbg08); }
+.character-section-frame > .textbg09 { decorator: image(FriendMenu.textbg09); }
+.character-field-frame { decorator: tiled-horizontal(FriendWindow.textfield01, FriendWindow.textfield02, FriendWindow.textfield03); }
+.character-point { decorator: image(FriendWindow.point); }
+.MuButton_statusUp { decorator: image(characterFrame.btn_skillup01); }
+.MuButton_statusUp.over, .MuButton_statusUp:hover { decorator: image(characterFrame.btn_skillup02); }
+.MuButton_statusUp.down, .MuButton_statusUp:active { decorator: image(characterFrame.btn_skillup03); }
+.MuButton_statusUp.disabled, .MuButton_statusUp:disabled { decorator: image(characterFrame.btn_skillup04); }
+.MuButton_S01 { decorator: image(FriendMenu.btn_l01); }
+.MuButton_S01.over, .MuButton_S01:hover { decorator: image(FriendMenu.btn_l02); }
+.MuButton_S01.down, .MuButton_S01:active { decorator: image(FriendMenu.btn_l03); }
+.MuButton_S01.disabled, .MuButton_S01:disabled { decorator: image(FriendMenu.btn_l04); }

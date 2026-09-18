@@ -1,0 +1,38 @@
+{
+  "world": "World8",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World8_eng.bmd",
+  "sourceSha256": "16a6a43d6820357782339de278e585c0853d3354671615b0486d002812f3b52d",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 8,
+      "y": 8,
+      "rotation": 270,
+      "name": "Entrance to Noria"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 9,
+      "y": 18,
+      "rotation": 225,
+      "name": "Entrance to Elveland"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 10,
+      "y": 228,
+      "rotation": 225,
+      "name": "Entrance to Tarkan"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

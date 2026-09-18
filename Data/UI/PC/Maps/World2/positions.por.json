@@ -1,0 +1,78 @@
+{
+  "world": "World2",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World2_por.bmd",
+  "sourceSha256": "5eb78d8e24959d0d0ea1857cb18c466aff983adae6b7d23c8ed962216f4feeda",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 108,
+      "y": 249,
+      "rotation": 135,
+      "name": "Entrada para Lorencia"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 238,
+      "y": 150,
+      "rotation": 225,
+      "name": "Entrada para o n�vel 2 da Masmorra",
+      "sourceNameHex": "456e74726164612070617261206f206eed76656c2032206461204d61736d6f727261"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 232,
+      "y": 128,
+      "rotation": 135,
+      "name": "Entrada para o n�vel 1 da Masmorra",
+      "sourceNameHex": "456e74726164612070617261206f206eed76656c2031206461204d61736d6f727261"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 1,
+      "y": 18,
+      "rotation": 225,
+      "name": "Entrada oeste para o n�vel 3 da Masmorra",
+      "sourceNameHex": "456e7472616461206f657374652070617261206f206eed76656c2033206461204d61736d6f727261"
+    },
+    {
+      "index": 4,
+      "kind": "portal",
+      "x": 5,
+      "y": 35,
+      "rotation": 135,
+      "name": "Entrada leste para o n�vel 3 da Masmorra",
+      "sourceNameHex": "456e7472616461206c657374652070617261206f206eed76656c2033206461204d61736d6f727261"
+    },
+    {
+      "index": 5,
+      "kind": "portal",
+      "x": 1,
+      "y": 85,
+      "rotation": 225,
+      "name": "Entrada oeste para o n�vel 2 da Masmorra",
+      "sourceNameHex": "456e7472616461206f657374652070617261206f206eed76656c2032206461204d61736d6f727261"
+    },
+    {
+      "index": 6,
+      "kind": "portal",
+      "x": 29,
+      "y": 127,
+      "rotation": 135,
+      "name": "Entrada leste para o n�vel 2 da Masmorra",
+      "sourceNameHex": "456e7472616461206c657374652070617261206f206eed76656c2032206461204d61736d6f727261"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

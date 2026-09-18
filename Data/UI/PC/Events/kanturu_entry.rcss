@@ -1,0 +1,10 @@
+body { width: 100%; height: 100%; margin: 0; background-color: transparent; font-family: Arial; }
+#menu, #menu div, #menu span, .art > i, .button-state, .button-state > i { position: absolute; }
+.art, .art > i, .label, .button-state, .button-state > i { pointer-events: none; }
+.button-state { left: 0; top: 0; width: 100%; height: 100%; }
+.text-area { overflow-x: hidden; overflow-y: auto; white-space: pre-wrap; }
+.label { position: absolute; white-space: nowrap; }
+#menu .drag { cursor: move; drag: drag; pointer-events: auto; }
+
+#menu input { position: absolute; padding: 0; border-width: 0; background-color: transparent; }
+#menu .mu-text-area { pointer-events: auto; }

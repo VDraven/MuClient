@@ -1,0 +1,12 @@
+body { margin: 0; width: 100%; height: 100%; overflow: hidden; font-family: Arial; }
+.private-store, .private-store div, .private-store span, .private-store input, .private-store i {
+    position: absolute; box-sizing: border-box;
+}
+.private-store { pointer-events: auto; }
+.private-store-background, .private-store-background i, .private-store-title, .private-store-button-label { pointer-events: none; }
+.private-store-text, .private-store-button-label, .private-store-buyer-name { overflow: hidden; white-space: nowrap; }
+.private-store-input { padding: 0; border-width: 0; background-color: transparent; }
+.private-store-drag { pointer-events: auto; cursor: move; drag: drag; }
+.private-store-button, .private-store-close, .private-store-slot { pointer-events: auto; }
+.private-store-button.disabled, .private-store-button:disabled { pointer-events: none; }
+.private-store.seller .private-store-buyer-name, .private-store.buyer .private-store-input { display: none; }

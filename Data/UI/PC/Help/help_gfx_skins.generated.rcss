@@ -1,0 +1,62 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-108 > .piece-0 { decorator: image(HelpWindow.popup_01_1); }
+#art-108 > .piece-1 { decorator: image(HelpWindow.popup_bg01); }
+#art-108 > .piece-2 { decorator: image(HelpWindow.popup_bg03); }
+#art-110 > .piece-0 { decorator: image(HelpWindow.bg_field01); }
+#art-110 > .piece-1 { decorator: image(HelpWindow.bg_field02); }
+#art-110 > .piece-2 { decorator: image(HelpWindow.bg_field03); }
+#art-112 > .piece-0 { decorator: image(HelpWindow.textbg01); }
+#art-112 > .piece-1 { decorator: image(HelpWindow.textbg02); }
+#art-112 > .piece-2 { decorator: image(HelpWindow.textbg03); }
+#art-112 > .piece-3 { decorator: image(HelpWindow.textbg04); }
+#art-112 > .piece-4 { decorator: image(HelpWindow.textbg05); }
+#art-112 > .piece-5 { decorator: image(HelpWindow.textbg06); }
+#art-112 > .piece-6 { decorator: image(HelpWindow.textbg07); }
+#art-112 > .piece-7 { decorator: image(HelpWindow.textbg08); }
+#art-112 > .piece-8 { decorator: image(HelpWindow.textbg09); }
+#art-114 > .piece-0 { decorator: image(HelpWindow.popup_line_m); }
+#btnClose > .state-up > .piece-0 { decorator: image(HelpWindow.btn_close01); }
+#btnClose > .state-over > .piece-0 { decorator: image(HelpWindow.btn_close02); }
+#btnClose > .state-down > .piece-0 { decorator: image(HelpWindow.btn_close03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(HelpWindow.btn_close04); }
+#btnHotKey > .state-up > .piece-0 { decorator: image(HelpWindow.btn_s01); }
+#btnHotKey > .state-over > .piece-0 { decorator: image(HelpWindow.btn_s02); }
+#btnHotKey > .state-down > .piece-0 { decorator: image(HelpWindow.btn_s03); }
+#btnHotKey > .state-disabled > .piece-0 { decorator: image(HelpWindow.btn_s04); }
+#btnChatHotKey > .state-up > .piece-0 { decorator: image(HelpWindow.btn_s01_1); }
+#btnChatHotKey > .state-over > .piece-0 { decorator: image(HelpWindow.btn_select_1); }
+#btnChatHotKey > .state-down > .piece-0 { decorator: image(HelpWindow.btn_s03_1); }
+#btnChatHotKey > .state-disabled > .piece-0 { decorator: image(HelpWindow.btn_s04_1); }
+#btnChatHotKey > .state-disabled > .piece-1 { decorator: image(HelpWindow.btn_select_1); }
+#sbHotKey > .mu-scrollbar-track { decorator: image(HelpWindow.scroll_bg02); }
+#sbHotKey > .mu-scrollbar-track.over { decorator: image(HelpWindow.scroll_bg02); }
+#sbHotKey > .mu-scrollbar-track.down { decorator: image(HelpWindow.scroll_bg02); }
+#sbHotKey > .mu-scrollbar-track.disabled { decorator: image(HelpWindow.scroll_bg02); }
+#sbHotKey > .mu-scrollbar-down { decorator: image(HelpWindow.scroll_btn05); }
+#sbHotKey > .mu-scrollbar-down.over { decorator: image(HelpWindow.scroll_btn06); }
+#sbHotKey > .mu-scrollbar-down.down { decorator: image(HelpWindow.scroll_btn07); }
+#sbHotKey > .mu-scrollbar-down.disabled { decorator: image(HelpWindow.scroll_btn08); }
+#sbHotKey > .mu-scrollbar-up { decorator: image(HelpWindow.scroll_btn01); }
+#sbHotKey > .mu-scrollbar-up.over { decorator: image(HelpWindow.scroll_btn02); }
+#sbHotKey > .mu-scrollbar-up.down { decorator: image(HelpWindow.scroll_btn03); }
+#sbHotKey > .mu-scrollbar-up.disabled { decorator: image(HelpWindow.scroll_btn04); }
+#sbHotKey > .mu-scrollbar-thumb { decorator: image(HelpWindow.scroll01); }
+#sbHotKey > .mu-scrollbar-thumb.over { decorator: image(HelpWindow.scroll02); }
+#sbHotKey > .mu-scrollbar-thumb.down { decorator: image(HelpWindow.scroll03); }
+#sbHotKey > .mu-scrollbar-thumb.disabled { decorator: image(HelpWindow.scroll04); }
+#sbChatHotKey > .mu-scrollbar-track { decorator: image(HelpWindow.scroll_bg02); }
+#sbChatHotKey > .mu-scrollbar-track.over { decorator: image(HelpWindow.scroll_bg02); }
+#sbChatHotKey > .mu-scrollbar-track.down { decorator: image(HelpWindow.scroll_bg02); }
+#sbChatHotKey > .mu-scrollbar-track.disabled { decorator: image(HelpWindow.scroll_bg02); }
+#sbChatHotKey > .mu-scrollbar-down { decorator: image(HelpWindow.scroll_btn05); }
+#sbChatHotKey > .mu-scrollbar-down.over { decorator: image(HelpWindow.scroll_btn06); }
+#sbChatHotKey > .mu-scrollbar-down.down { decorator: image(HelpWindow.scroll_btn07); }
+#sbChatHotKey > .mu-scrollbar-down.disabled { decorator: image(HelpWindow.scroll_btn08); }
+#sbChatHotKey > .mu-scrollbar-up { decorator: image(HelpWindow.scroll_btn01); }
+#sbChatHotKey > .mu-scrollbar-up.over { decorator: image(HelpWindow.scroll_btn02); }
+#sbChatHotKey > .mu-scrollbar-up.down { decorator: image(HelpWindow.scroll_btn03); }
+#sbChatHotKey > .mu-scrollbar-up.disabled { decorator: image(HelpWindow.scroll_btn04); }
+#sbChatHotKey > .mu-scrollbar-thumb { decorator: image(HelpWindow.scroll01); }
+#sbChatHotKey > .mu-scrollbar-thumb.over { decorator: image(HelpWindow.scroll02); }
+#sbChatHotKey > .mu-scrollbar-thumb.down { decorator: image(HelpWindow.scroll03); }
+#sbChatHotKey > .mu-scrollbar-thumb.disabled { decorator: image(HelpWindow.scroll04); }

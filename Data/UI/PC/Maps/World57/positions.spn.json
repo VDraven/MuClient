@@ -1,0 +1,80 @@
+{
+  "world": "World57",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World57_spn.bmd",
+  "sourceSha256": "2ec706d637541344e8866bba1e84db7cdd996f1e8db674ac79a902cf0b339742",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 139,
+      "y": 125,
+      "rotation": 135,
+      "name": "Entrada a Tierras de Caza del Pantano de Paz (1)"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 124,
+      "y": 109,
+      "rotation": 225,
+      "name": "Entrada a Tierras de Caza del Pantano de Paz (2)"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 140,
+      "y": 95,
+      "rotation": 315,
+      "name": "Entrada a Tierras de Caza del Pantano de Paz (3)"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 150,
+      "y": 109,
+      "rotation": 45,
+      "name": "Entrada a Tierras de Caza del Pantano de Paz (4)"
+    },
+    {
+      "index": 4,
+      "kind": "portal",
+      "x": 185,
+      "y": 188,
+      "rotation": 270,
+      "name": "Entrada a Zona Segura"
+    },
+    {
+      "index": 5,
+      "kind": "portal",
+      "x": 56,
+      "y": 177,
+      "rotation": 225,
+      "name": "Entrada a Zona Segura"
+    },
+    {
+      "index": 6,
+      "kind": "portal",
+      "x": 68,
+      "y": 52,
+      "rotation": 90,
+      "name": "Entrada a Zona Segura"
+    },
+    {
+      "index": 7,
+      "kind": "portal",
+      "x": 197,
+      "y": 13,
+      "rotation": 225,
+      "name": "Entrada a Zona Segura"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

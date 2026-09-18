@@ -1,0 +1,98 @@
+{
+  "world": "World5",
+  "language": "eng",
+  "source": "Local/Eng/Minimap/Minimap_World5_eng.bmd",
+  "sourceSha256": "7fc16ecc1a8b58717005ebdf0a89ed6d43c19bcd6fbc24530a53acf74b6b1bb4",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 201,
+      "y": 76,
+      "rotation": 135,
+      "name": "Safety Guardian",
+      "npcNumber": 240,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 207,
+      "y": 76,
+      "rotation": 45,
+      "name": "Potion Girl Amy",
+      "npcNumber": 253,
+      "index": 1
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 164,
+      "y": 0,
+      "rotation": 315,
+      "name": "Entrance to Devias"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 190,
+      "y": 5,
+      "rotation": 225,
+      "name": "Lost Tower Level 2 Entrance"
+    },
+    {
+      "index": 4,
+      "kind": "portal",
+      "x": 165,
+      "y": 165,
+      "rotation": 225,
+      "name": "Lost Tower Level 3 Entrance"
+    },
+    {
+      "index": 5,
+      "kind": "portal",
+      "x": 133,
+      "y": 246,
+      "rotation": 135,
+      "name": "Lost Tower Level 4 Entrance"
+    },
+    {
+      "index": 6,
+      "kind": "portal",
+      "x": 133,
+      "y": 136,
+      "rotation": 135,
+      "name": "Lost Tower Level 5 Entrance"
+    },
+    {
+      "index": 7,
+      "kind": "portal",
+      "x": 129,
+      "y": 14,
+      "rotation": 225,
+      "name": "Lost Tower Level 6 Entrance"
+    },
+    {
+      "index": 8,
+      "kind": "portal",
+      "x": 4,
+      "y": 7,
+      "rotation": 225,
+      "name": "Lost Tower Level 7 Entrance"
+    },
+    {
+      "index": 9,
+      "kind": "portal",
+      "x": 16,
+      "y": 250,
+      "rotation": 135,
+      "name": "Entrance to Icarus"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

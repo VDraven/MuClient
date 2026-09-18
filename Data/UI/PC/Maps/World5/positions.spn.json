@@ -1,0 +1,99 @@
+{
+  "world": "World5",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World5_spn.bmd",
+  "sourceSha256": "0dd53c3a40aab7e4da3da4974860c14784d75b3101d7afcb730c979d990b439e",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 201,
+      "y": 76,
+      "rotation": 135,
+      "name": "Guardián de Seguridad",
+      "npcNumber": 240,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 207,
+      "y": 76,
+      "rotation": 45,
+      "name": "Amy la Chica de las Pócimas",
+      "npcNumber": 253,
+      "index": 1
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 164,
+      "y": 0,
+      "rotation": 315,
+      "name": "Entrada a Devias"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 190,
+      "y": 5,
+      "rotation": 225,
+      "name": "Entrada a Nivel 2 de Torre Perdida"
+    },
+    {
+      "index": 4,
+      "kind": "portal",
+      "x": 165,
+      "y": 165,
+      "rotation": 225,
+      "name": "Entrada a Nivel 3 de Torre Perdida"
+    },
+    {
+      "index": 5,
+      "kind": "portal",
+      "x": 133,
+      "y": 246,
+      "rotation": 135,
+      "name": "Entrada a Nivel 4 de Torre Perdida"
+    },
+    {
+      "index": 6,
+      "kind": "portal",
+      "x": 133,
+      "y": 136,
+      "rotation": 135,
+      "name": "Entrada a Nivel 5 de Torre Perdida"
+    },
+    {
+      "index": 7,
+      "kind": "portal",
+      "x": 129,
+      "y": 14,
+      "rotation": 225,
+      "name": "Entrada a Nivel 6 de Torre Perdida"
+    },
+    {
+      "index": 8,
+      "kind": "portal",
+      "x": 4,
+      "y": 7,
+      "rotation": 225,
+      "name": "Entrada a Nivel 7 de Torre Perdida"
+    },
+    {
+      "index": 9,
+      "kind": "portal",
+      "x": 16,
+      "y": 250,
+      "rotation": 135,
+      "name": "Entrada a �caro",
+      "sourceNameHex": "456e7472616461206120cd6361726f"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

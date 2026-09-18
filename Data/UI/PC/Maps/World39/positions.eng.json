@@ -1,0 +1,41 @@
+{
+  "world": "World39",
+  "language": "eng",
+  "source": "Local/Eng/Minimap/Minimap_World39_eng.bmd",
+  "sourceSha256": "8cec832f6cfb36e7fc9eced05df90725855d14f54e07b1b607996e8916851cf7",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 141,
+      "y": 191,
+      "rotation": 90,
+      "name": "Gateway Machine",
+      "npcNumber": 367,
+      "index": 0
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 66,
+      "y": 105,
+      "rotation": 225,
+      "name": "Entrance to the Kanturu Ruins"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 141,
+      "y": 186,
+      "rotation": 135,
+      "name": "Gateway Machine"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

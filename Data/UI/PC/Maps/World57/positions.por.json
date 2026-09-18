@@ -1,0 +1,84 @@
+{
+  "world": "World57",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World57_por.bmd",
+  "sourceSha256": "cc0d254bf7c266cdbf8d63e7ffefdac4a7d7fd07b4b7de7efb8a4fe78d7526fd",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 139,
+      "y": 125,
+      "rotation": 135,
+      "name": "Entrada para os Campos de ca�a do P�ntano da paz (1)",
+      "sourceNameHex": "456e74726164612070617261206f732043616d706f73206465206361e76120646f2050e26e74616e6f2064612070617a20283129"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 124,
+      "y": 109,
+      "rotation": 225,
+      "name": "Entrada para os Campos de ca�a do P�ntano da paz (2)",
+      "sourceNameHex": "456e74726164612070617261206f732043616d706f73206465206361e76120646f2050e26e74616e6f2064612070617a20283229"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 140,
+      "y": 95,
+      "rotation": 315,
+      "name": "Entrada para os Campos de ca�a do P�ntano da paz (3)",
+      "sourceNameHex": "456e74726164612070617261206f732043616d706f73206465206361e76120646f2050e26e74616e6f2064612070617a20283329"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 150,
+      "y": 109,
+      "rotation": 45,
+      "name": "Entrada para os Campos de ca�a do P�ntano da paz (4)",
+      "sourceNameHex": "456e74726164612070617261206f732043616d706f73206465206361e76120646f2050e26e74616e6f2064612070617a20283429"
+    },
+    {
+      "index": 4,
+      "kind": "portal",
+      "x": 185,
+      "y": 188,
+      "rotation": 270,
+      "name": "Entrada para a Zona segura"
+    },
+    {
+      "index": 5,
+      "kind": "portal",
+      "x": 56,
+      "y": 177,
+      "rotation": 225,
+      "name": "Entrada para a Zona segura"
+    },
+    {
+      "index": 6,
+      "kind": "portal",
+      "x": 68,
+      "y": 52,
+      "rotation": 90,
+      "name": "Entrada para a Zona segura"
+    },
+    {
+      "index": 7,
+      "kind": "portal",
+      "x": 197,
+      "y": 13,
+      "rotation": 225,
+      "name": "Entrada para a Zona segura"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

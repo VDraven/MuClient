@@ -1,0 +1,77 @@
+{
+  "world": "World81",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World81_por.bmd",
+  "sourceSha256": "c0e3d2d6cc1ab164011faed0960ee913ba2dfd15c7ef77b933d25eef6c5e7be4",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 122,
+      "y": 96,
+      "rotation": 135,
+      "name": "Guardião de segurança",
+      "npcNumber": 240,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 123,
+      "y": 132,
+      "rotation": 90,
+      "name": "Guardião de segurança",
+      "npcNumber": 240,
+      "index": 1
+    },
+    {
+      "kind": "npc",
+      "x": 158,
+      "y": 126,
+      "rotation": 45,
+      "name": "Guardião de segurança",
+      "npcNumber": 240,
+      "index": 2
+    },
+    {
+      "kind": "npc",
+      "x": 121,
+      "y": 102,
+      "rotation": 135,
+      "name": "Leina the General Goods Merchant",
+      "npcNumber": 577,
+      "index": 3
+    },
+    {
+      "kind": "npc",
+      "x": 117,
+      "y": 126,
+      "rotation": 135,
+      "name": "Weapons Merchant Bolo",
+      "npcNumber": 578,
+      "index": 4
+    },
+    {
+      "index": 5,
+      "kind": "portal",
+      "x": 115,
+      "y": 45,
+      "rotation": 180,
+      "name": "Entrada para Aida"
+    },
+    {
+      "index": 6,
+      "kind": "portal",
+      "x": 187,
+      "y": 212,
+      "rotation": 135,
+      "name": "Entrada para Karutan 2"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

@@ -1,0 +1,51 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#mcMatchResult-art-19 > .piece-0 { decorator: image(CursedTempleResult.popupbg01); }
+#mcMatchResult-art-19 > .piece-1 { decorator: image(CursedTempleResult.popupbg02); }
+#mcMatchResult-art-19 > .piece-2 { decorator: image(CursedTempleResult.popupbg03); }
+#mcMatchResult-art-19 > .piece-3 { decorator: image(CursedTempleResult.popupbg04); }
+#mcMatchResult-art-19 > .piece-4 { decorator: image(CursedTempleResult.popupbg05); }
+#mcMatchResult-art-19 > .piece-5 { decorator: image(CursedTempleResult.popupbg06); }
+#mcMatchResult-art-19 > .piece-6 { decorator: image(CursedTempleResult.popupbg07); }
+#mcMatchResult-art-19 > .piece-7 { decorator: image(CursedTempleResult.popupbg08); }
+#mcMatchResult-art-19 > .piece-8 { decorator: image(CursedTempleResult.popupbg09); }
+#mcMatchResult-art-18 > .piece-0 { decorator: image(CursedTempleResult.bg_field01); }
+#mcMatchResult-art-18 > .piece-1 { decorator: image(CursedTempleResult.bg_field02); }
+#mcMatchResult-art-18 > .piece-2 { decorator: image(CursedTempleResult.bg_field03); }
+#slAlliedTeamResult > .piece-0 { decorator: image(CursedTempleResult.tooltip_bg02); }
+#slAlliedTeamResult > .piece-1 { decorator: image(CursedTempleResult.tooltip_bg03); }
+#slAlliedTeamResult > .piece-2 { decorator: image(CursedTempleResult.tooltip_bg01); }
+#slAlliedTeamResult > .piece-3 { decorator: image(CursedTempleResult.tooltip_bg04); }
+#slAlliedTeamResult > .piece-4 { decorator: image(CursedTempleResult.tooltip_bg05); }
+#slAlliedTeamResult > .piece-5 { decorator: image(CursedTempleResult.tooltip_bg06); }
+#slAlliedTeamResult > .piece-6 { decorator: image(CursedTempleResult.tooltip_bg07); }
+#slAlliedTeamResult > .piece-7 { decorator: image(CursedTempleResult.tooltip_bg08); }
+#slAlliedTeamResult > .piece-8 { decorator: image(CursedTempleResult.tooltip_bg09); }
+#mcMatchResult-art-16 > .piece-0 { decorator: image(CursedTempleResult.bg_field01); }
+#mcMatchResult-art-16 > .piece-1 { decorator: image(CursedTempleResult.bg_field02); }
+#mcMatchResult-art-16 > .piece-2 { decorator: image(CursedTempleResult.bg_field03); }
+#mcMatchResult-art-15 > .piece-0 { decorator: image(CursedTempleResult.tooltip_bg02); }
+#mcMatchResult-art-15 > .piece-1 { decorator: image(CursedTempleResult.tooltip_bg03); }
+#mcMatchResult-art-15 > .piece-2 { decorator: image(CursedTempleResult.tooltip_bg01); }
+#mcMatchResult-art-15 > .piece-3 { decorator: image(CursedTempleResult.tooltip_bg04); }
+#mcMatchResult-art-15 > .piece-4 { decorator: image(CursedTempleResult.tooltip_bg05); }
+#mcMatchResult-art-15 > .piece-5 { decorator: image(CursedTempleResult.tooltip_bg06); }
+#mcMatchResult-art-15 > .piece-6 { decorator: image(CursedTempleResult.tooltip_bg07); }
+#mcMatchResult-art-15 > .piece-7 { decorator: image(CursedTempleResult.tooltip_bg08); }
+#mcMatchResult-art-15 > .piece-8 { decorator: image(CursedTempleResult.tooltip_bg09); }
+#mcMatchResult-art-14 > .piece-7 { decorator: image(CursedTempleResult.textfield01); }
+#mcMatchResult-art-14 > .piece-6 { decorator: image(CursedTempleResult.textfield02); }
+#mcMatchResult-art-14 > .piece-5 { decorator: image(CursedTempleResult.textfield03); }
+#mcMatchResult-art-14 > .piece-4 { decorator: image(CursedTempleResult.textfield01); }
+#mcMatchResult-art-14 > .piece-3 { decorator: image(CursedTempleResult.textfield02); }
+#mcMatchResult-art-14 > .piece-2 { decorator: image(CursedTempleResult.textfield03); }
+#mcMatchResult-art-14 > .piece-1 { decorator: image(CursedTempleResult.team_mu); }
+#mcMatchResult-art-14 > .piece-0 { decorator: image(CursedTempleResult.team_hwan); }
+#btnClose > .state-up > .piece-0 { decorator: image(CursedTempleResult.btn_s01); }
+#btnClose > .state-over > .piece-0 { decorator: image(CursedTempleResult.btn_s02); }
+#btnClose > .state-down > .piece-0 { decorator: image(CursedTempleResult.btn_s03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(CursedTempleResult.btn_s04); }
+#mcMatchResult > .piece-0 { decorator: image(CursedTempleResult.popup_line_m); }
+#mcWinLose-art-2 > .piece-1 { decorator: image(CursedTempleResult.winlosedeco); }
+#mcWinLose-art-2 > .piece-0 { decorator: image(CursedTempleResult.winlosedeco); }
+#mcLoseResult > .piece-0 { decorator: image(CursedTempleResult.lose); }
+#mcWinResult > .piece-0 { decorator: image(CursedTempleResult.win); }

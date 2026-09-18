@@ -1,0 +1,32 @@
+<rml>
+<head>
+    <meta name="mu-design-SystemMenu-Width" content="306"/>
+    <meta name="mu-design-SystemMenu-FullHeight" content="290.000336"/>
+    <meta name="mu-design-SystemMenu-LoginHeight" content="242.050336"/>
+    <meta name="mu-design-SystemMenu-SlotX" content="93 93.05 93.05"/>
+    <meta name="mu-design-SystemMenu-SlotY" content="65 114.95 162.9"/>
+    <meta name="mu-design-SystemMenu-DividerY" content="228"/>
+    <meta name="mu-design-SystemMenu-CloseY" content="243"/>
+    <meta name="mu-design-SystemMenu-CompactOffset" content="47.95"/>
+
+    <title>MU Online System Menu</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="system_menu.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="system_menu_gfx.generated.rcss"/>
+    <link type="text/rcss" href="system_menu_gfx_skins.generated.rcss"/>
+</head>
+<body>
+    <div id="system-menu">
+        <div id="system-frame" class="system-frame gfx-scale-grid-parts"><i class="SystemMenu.popupfield01"/><i class="SystemMenu.popupfield02"/><i class="SystemMenu.popupfield03"/><i class="SystemMenu.popupfield04"/><i class="SystemMenu.popupfield05"/><i class="SystemMenu.popupfield06"/><i class="SystemMenu.popupfield07"/><i class="SystemMenu.popupfield08"/><i class="SystemMenu.popupfield09"/></div>
+        <div id="title" class="Label_엘피스"></div>
+        <div id="title-divider"/>
+        <div id="exit-button" class="mu-button MuButton_XL01"><span id="exit-label" class="mu-overflow-label"></span></div>
+        <div id="server-button" class="mu-button MuButton_XL01"><span id="server-label" class="mu-overflow-label"></span></div>
+        <div id="character-button" class="mu-button MuButton_XL01"><span id="character-label" class="mu-overflow-label"></span></div>
+        <div id="option-button" class="mu-button MuButton_XL01"><span id="option-label" class="mu-overflow-label"></span></div>
+        <div id="bottom-divider"/>
+        <div id="close-button" class="mu-button MuButton_S01"><span id="close-label" class="mu-overflow-label"></span></div>
+    </div>
+</body>
+</rml>

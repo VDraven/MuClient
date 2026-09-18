@@ -1,0 +1,50 @@
+{
+  "world": "World34",
+  "language": null,
+  "source": "World34/Minimap.bmd",
+  "sourceSha256": "7090d2ab75b769456a75826d2976846a516d0dba5d85e9b22697e1b9ae607f72",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "npc",
+      "x": 77,
+      "y": 13,
+      "rotation": 0,
+      "name": "�I�Y�{�[��",
+      "sourceNameHex": "83498359837b815b8393"
+    },
+    {
+      "index": 1,
+      "kind": "npc",
+      "x": 85,
+      "y": 13,
+      "rotation": 0,
+      "name": "�W�F���f��",
+      "sourceNameHex": "83578346838a83668393"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 72,
+      "y": 10,
+      "rotation": 225,
+      "name": "�m���A ����",
+      "sourceNameHex": "836d838a83412093fc8cfb"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 238,
+      "y": 165,
+      "rotation": 135,
+      "name": "�J���^�� ����",
+      "sourceNameHex": "834a838b835e83932093fc8cfb"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

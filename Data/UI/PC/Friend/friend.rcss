@@ -1,0 +1,161 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial;
+    color: #ababab;
+}
+
+.friend-panel,
+.friend-panel div,
+.friend-panel span,
+.friend-panel input,
+.friend-panel textarea,
+.friend-panel i {
+    position: absolute;
+    box-sizing: border-box;
+}
+
+.friend-panel { display: none; pointer-events: auto; }
+.friend-main { width: 540px; height: 381px; }
+.friend-chat { width: 553px; height: 282px; overflow: hidden; }
+.friend-write { width: 429px; height: 282px; }
+.friend-read { width: 425px; height: 278px; }
+
+.friend-main-header-art,
+.friend-main-body,
+.friend-main-list-frame,
+.friend-popup-shell,
+.friend-popup-title-frame,
+.friend-content-frame,
+.friend-input-frame,
+.friend-form-bullet { pointer-events: none; }
+
+.friend-main-header-art { left: 0; top: 0; width: 532px; height: 73px; }
+.friend-main-body {
+    left: 0;
+    top: 73px;
+    width: 532px;
+    height: 300px;
+}
+.friend-main-list-frame {
+    left: 23px;
+    top: 115px;
+    width: 486px;
+    height: 189px;
+}
+
+.friend-popup-shell {
+    left: 0;
+    top: 0;
+    width: 425px;
+    height: 278px;
+}
+.friend-popup-title-frame { left: 12px; top: 12px; width: 401px; height: 25px; }
+.friend-input-frame { height: 24px; }
+.friend-form-bullet { width: 14px; height: 15px; }
+
+.friend-chat-message-frame { left: 12px; top: 40px; width: 294px; height: 187px; }
+.friend-chat-member-frame { left: 312px; top: 40px; width: 100px; height: 187px; }
+.friend-chat-input-frame { left: 12px; top: 229px; width: 275px; }
+.friend-chat-invite-shell { display: none; left: 430px; top: 23px; width: 126px; height: 250px; }
+.friend-chat-invite-frame { display: none; left: 437px; top: 39px; width: 100px; height: 187px; }
+.friend-chat.invite-open .friend-chat-invite-shell,
+.friend-chat.invite-open .friend-chat-invite-frame { display: block; }
+
+.friend-popup-scroll,
+.friend-popup-scroll > div { pointer-events: none; }
+.friend-popup-scroll-track { left: 3px; top: 14px; bottom: 14px; width: 15px; }
+.friend-popup-scroll-down { left: 0; bottom: 0; width: 22px; height: 14px; }
+.friend-popup-scroll-up { left: 0; top: 0; width: 22px; height: 14px; }
+.friend-popup-scroll-thumb { left: 3px; top: 15px; width: 16px; height: 41px; }
+.friend-chat-message-scroll { left: 283px; top: 44px; width: 22px; height: 178px; }
+.friend-chat-member-scroll { left: 389px; top: 44px; width: 22px; height: 178px; }
+.friend-write-receiver-bullet { left: 18px; top: 44px; }
+.friend-write-subject-bullet { left: 18px; top: 68px; }
+.friend-read-sender-bullet { left: 18px; top: 44px; }
+
+.friend-drag { left: 11px; top: 27px; width: 510px; height: 50px; }
+.friend-popup-drag { left: 14px; top: 10px; width: 350px; height: 27px; cursor: move; drag: drag; }
+.friend-title { left: 187px; top: 44px; width: 167px; height: 18px; font-size: 13px; line-height: 18px; color: #ffc000; text-align: center; pointer-events: none; }
+.friend-popup-title { overflow: hidden; white-space: nowrap; pointer-events: none; }
+
+.friend-close { left: 475px; top: 43px; width: 19px; height: 19px; }
+.friend-popup-close { left: 392px; top: 16px; width: 18px; height: 18px; }
+.friend-minimize { left: 372px; top: 16px; width: 18px; height: 18px; }
+
+.friend-tab { top: 88px; width: 108px; height: 31px; }
+#friend-tab-0 { left: 30px; }
+#friend-tab-1 { left: 136px; }
+#friend-tab-2 { left: 242px; }
+.friend-refuse { left: 427px; top: 93px; width: 100px; height: 20px; }
+.friend-refuse > .mu-checkbox { left: 0; top: 3px; width: 13px; height: 13px; }
+.friend-refuse span { left: 22px; top: 1px; width: 78px; height: 18px; line-height: 18px; font-size: 13px; }
+
+.friend-grid-title { left: 27px; top: 120px; width: 456px; height: 26px; }
+.friend-header { top: 5px; height: 14px; line-height: 14px; font-size: 13px; text-align: center; color: #cccccc; overflow: hidden; white-space: nowrap; }
+#friend-header-0 { left: 2px; width: 223px; }
+#friend-header-1 { left: 230px; width: 224px; }
+#friend-header-2, #friend-header-3 { display: none; }
+.friend-main.mail #friend-header-0 { display: none; }
+.friend-main.mail #friend-header-1 { display: block; left: 56px; width: 96px; }
+.friend-main.mail #friend-header-2 { display: block; left: 157px; width: 86px; }
+.friend-main.mail #friend-header-3 { display: block; left: 248px; width: 206px; }
+.friend-main.window-list #friend-header-0 { display: block; left: 8px; width: 446px; text-align: left; }
+.friend-main.window-list #friend-header-1 { display: none; }
+.friend-header-check { display: none; left: 4px; top: 2px; width: 44px; height: 20px; }
+.friend-header-check > .mu-checkbox { left: 0; top: 4px; width: 12px; height: 12px; }
+.friend-header-mail-icon { left: 18px; top: 4px; }
+
+.friend-rows { left: 28px; top: 147px; width: 456px; height: 130px; overflow: hidden; }
+.friend-row { left: 0; }
+.friend-row span { top: 7px; height: 14px; line-height: 14px; font-size: 13px; overflow: hidden; white-space: nowrap; }
+.friend-row .data-grid-field-0 { left: 2px; width: 223px; text-align: center; }
+.friend-row .data-grid-field-1 { left: 230px; width: 224px; text-align: center; }
+.friend-row .data-grid-field-2, .friend-row .data-grid-field-3 { display: none; }
+.friend-row.mail .data-grid-field-0 { display: none; }
+.friend-row.mail .data-grid-field-1 { display: block; left: 56px; width: 96px; text-align: left; }
+.friend-row.mail .data-grid-field-2 { display: block; left: 157px; width: 86px; text-align: center; }
+.friend-row.mail .data-grid-field-3 { display: block; left: 255px; width: 199px; }
+.friend-main.window-list .friend-row .data-grid-field-0 { left: 8px; width: 446px; text-align: left; }
+.friend-main.window-list .friend-row .data-grid-field-1 { display: none; }
+.friend-row-icons { display: none; left: 4px; top: 3px; width: 45px; height: 15px; }
+.friend-row.mail .friend-row-icons { display: block; }
+.friend-row.empty .friend-row-icons { display: none; }
+.friend-row-icons > .mu-checkbox { left: 0; top: 1px; width: 12px; height: 12px; }
+.friend-mail-icon { left: 21px; top: 0; }
+
+.friend-scroll { left: 483px; top: 147px; width: 22px; height: 151px; }
+
+.friend-main-action { top: 313px; width: 95px; height: 35px; }
+#friend-action-0 { left: 23px; }
+#friend-action-1 { left: 120px; }
+#friend-action-2 { left: 218px; }
+#friend-action-3 { left: 315px; }
+.friend-chat-messages { left: 18px; top: 47px; width: 265px; height: 176px; overflow: hidden; font-size: 12px; line-height: 16px; white-space: pre-wrap; }
+.friend-chat-members { left: 319px; top: 47px; width: 70px; height: 176px; overflow: hidden; font-size: 12px; line-height: 18px; color: #00aaff; white-space: pre-wrap; }
+.friend-chat-input { left: 18px; top: 233px; width: 265px; height: 18px; padding: 0 4px; border-width: 0; background-color: transparent; color: #c6c6c6; font-size: 12px; line-height: 18px; }
+.friend-popup-action { width: 75px; height: 35px; }
+#friend-chat-toggle { left: 337px; top: 229px; }
+.friend-chat-invite-rows { left: 444px; top: 46px; width: 95px; height: 176px; overflow: hidden; font-size: 12px; line-height: 18px; color: #00aaff; white-space: pre-wrap; }
+.friend-chat-invite-row { left: 0; width: 95px; height: 20px; line-height: 20px; padding-left: 4px; overflow: hidden; white-space: nowrap; }
+.friend-chat-invite-row:hover, .friend-chat-invite-row.selected { background-color: rgba(0, 88, 112, 220); }
+#friend-chat-invite { left: 435px; top: 228px; }
+
+.friend-write-receiver, .friend-write-subject { padding: 0; border-width: 0; background-color: transparent; }
+.friend-write-body { padding: 4px 0 0 2px; border-width: 0; background-color: transparent; }
+
+.friend-read-sender { overflow: hidden; white-space: nowrap; }
+.friend-read-body { padding: 5px 0 0 2px; white-space: pre-wrap; }
+
+.mu-hidden { display: none; }
+
+/* Rows use the authored row height and normal document flow. */
+.friend-main .friend-row { display: block; position: relative; top: auto; height: 26px; }
+.friend-chat .friend-chat-invite-row { display: block; position: relative; top: auto; }
+
+#friend-scroll > .mu-scrollbar-track { left: 3.5px; top: 14px; width: 15px; height: 123px; }
+#friend-scroll > .MuButton_sbArrowUP { left: 0; top: 0; width: 22px; height: 14px; }
+#friend-scroll > .MuButton_sbArrowDOWN { left: 0; top: auto; bottom: 0; width: 22px; height: 14px; }
+#friend-scroll > .mu-scrollbar-thumb { left: 3.5px; top: 18px; width: 15px; height: 24px; min-height: 10px; }

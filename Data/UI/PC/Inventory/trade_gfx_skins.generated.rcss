@@ -1,0 +1,48 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-114-0 > .piece-0 { decorator: image(trade.popup_01_1); }
+#art-114-0 > .piece-1 { decorator: image(trade.popup_bg01); }
+#art-114-0 > .piece-2 { decorator: image(trade.popup_bg03); }
+#art-116-1 > .piece-0 { decorator: image(trade.invenframe_01); }
+#art-116-1 > .piece-1 { decorator: image(trade.invenframe_02); }
+#art-116-1 > .piece-2 { decorator: image(trade.invenframe_01); }
+#art-116-0 > .piece-0 { decorator: image(trade.invenframe_01); }
+#art-116-0 > .piece-1 { decorator: image(trade.invenframe_02); }
+#art-116-0 > .piece-2 { decorator: image(trade.invenframe_01); }
+#art-118-1 > .piece-0 { decorator: image(trade.invenbg01); }
+#art-118-1 > .piece-1 { decorator: image(trade.invenbg02); }
+#art-118-1 > .piece-2 { decorator: image(trade.invenbg02); }
+#art-118-1 > .piece-3 { decorator: image(trade.invenbg03); }
+#art-118-0 > .piece-0 { decorator: image(trade.invenbg01); }
+#art-118-0 > .piece-1 { decorator: image(trade.invenbg02); }
+#art-118-0 > .piece-2 { decorator: image(trade.invenbg02); }
+#art-118-0 > .piece-3 { decorator: image(trade.invenbg03); }
+#art-120-3 { decorator: tiled-horizontal(trade.textfield01, trade.textfield02, trade.textfield03); }
+#art-120-4 { decorator: tiled-horizontal(trade.textfield01, trade.textfield02, trade.textfield03); }
+#art-120-2 { decorator: tiled-horizontal(trade.textfield01, trade.textfield02, trade.textfield03); }
+#art-120-0 { decorator: tiled-horizontal(trade.textfield01, trade.textfield02, trade.textfield03); }
+#art-120-1 { decorator: tiled-horizontal(trade.textfield01, trade.textfield02, trade.textfield03); }
+#art-122-0 > .piece-0 { decorator: image(trade.war_bg_centerline); }
+#art-124-0 > .piece-0 { decorator: image(trade.popup_line_s); }
+#art-124-1 > .piece-0 { decorator: image(trade.popup_line_s); }
+#art-126-0 > .piece-0 { decorator: image(trade.point); }
+#art-126-1 > .piece-0 { decorator: image(trade.point); }
+#art-128-0 > .piece-0 { decorator: image(trade.coin); }
+#art-128-1 > .piece-0 { decorator: image(trade.coin); }
+.MuButton_S01 { decorator: image(trade.btn_s01); }
+.MuButton_S01.over, .MuButton_S01:hover { decorator: image(trade.btn_s02); }
+.MuButton_S01.down, .MuButton_S01:active { decorator: image(trade.btn_s03); }
+.MuButton_S01.disabled { decorator: image(trade.btn_s04); }
+.MuButton_Close { decorator: image(trade.btn_close01); }
+.MuButton_Close.over, .MuButton_Close:hover { decorator: image(trade.btn_close02); }
+.MuButton_Close.down, .MuButton_Close:active { decorator: image(trade.btn_close03); }
+.MuButton_Close.disabled { decorator: image(trade.btn_close04); }
+.MuButton_M01 { decorator: image(trade.btn_m01); }
+.MuButton_M01.over, .MuButton_M01:hover { decorator: image(trade.btn_m02); }
+.MuButton_M01.down, .MuButton_M01:active { decorator: image(trade.btn_m03); }
+.MuButton_M01.disabled { decorator: image(trade.btn_m04); }
+.mu-item-slot.icon-frame-2 { decorator: image(trade.02_inven_select3_2); }
+.mu-item-slot.icon-frame-3 { decorator: image(trade.03_inven_select3_3); }
+.mu-item-slot.icon-frame-4 { decorator: image(trade.04_inven_select3_4); }
+.mu-item-slot.icon-frame-5 { decorator: image(trade.05_inven_select3_5); }
+.mu-item-slot.icon-frame-6 { decorator: image(trade.06_inven_select3_5); }
+.mu-item-slot.icon-frame-7 { decorator: image(trade.07_inven_select3_7); }

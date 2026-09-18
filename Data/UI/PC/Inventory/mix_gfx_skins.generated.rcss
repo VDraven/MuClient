@@ -1,0 +1,57 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-124-0 > .piece-0 { decorator: image(MixInventoryFrame.popup_01_1); }
+#art-124-0 > .piece-1 { decorator: image(MixInventoryFrame.popup_bg01); }
+#art-124-0 > .piece-2 { decorator: image(MixInventoryFrame.popup_bg03); }
+#art-125-0 > .piece-0 { decorator: image(MixInventoryFrame.invenframe_01); }
+#art-125-0 > .piece-1 { decorator: image(MixInventoryFrame.invenframe_02); }
+#art-125-0 > .piece-2 { decorator: image(MixInventoryFrame.invenframe_01); }
+#art-112-0 > .piece-0 { decorator: image(MixInventoryFrame.textbg01); }
+#art-112-0 > .piece-1 { decorator: image(MixInventoryFrame.textbg02); }
+#art-112-0 > .piece-2 { decorator: image(MixInventoryFrame.textbg03); }
+#art-112-0 > .piece-3 { decorator: image(MixInventoryFrame.textbg04); }
+#art-112-0 > .piece-4 { decorator: image(MixInventoryFrame.textbg05); }
+#art-112-0 > .piece-5 { decorator: image(MixInventoryFrame.textbg06); }
+#art-112-0 > .piece-6 { decorator: image(MixInventoryFrame.textbg07); }
+#art-112-0 > .piece-7 { decorator: image(MixInventoryFrame.textbg08); }
+#art-112-0 > .piece-8 { decorator: image(MixInventoryFrame.textbg09); }
+#art-127-0 > .piece-0 { decorator: image(MixInventoryFrame.invenbg01); }
+#art-127-0 > .piece-1 { decorator: image(MixInventoryFrame.invenbg02); }
+#art-127-0 > .piece-2 { decorator: image(MixInventoryFrame.invenbg02); }
+#art-127-0 > .piece-3 { decorator: image(MixInventoryFrame.invenbg03); }
+#mcScrollList-art-110-0 { decorator: tiled-vertical(MixInventoryFrame.bg_field01, MixInventoryFrame.bg_field02, MixInventoryFrame.bg_field03); }
+#mcScrollList-art-112-0 > .piece-0 { decorator: image(MixInventoryFrame.textbg01); }
+#mcScrollList-art-112-0 > .piece-1 { decorator: image(MixInventoryFrame.textbg02); }
+#mcScrollList-art-112-0 > .piece-2 { decorator: image(MixInventoryFrame.textbg03); }
+#mcScrollList-art-112-0 > .piece-3 { decorator: image(MixInventoryFrame.textbg04); }
+#mcScrollList-art-112-0 > .piece-4 { decorator: image(MixInventoryFrame.textbg05); }
+#mcScrollList-art-112-0 > .piece-5 { decorator: image(MixInventoryFrame.textbg06); }
+#mcScrollList-art-112-0 > .piece-6 { decorator: image(MixInventoryFrame.textbg07); }
+#mcScrollList-art-112-0 > .piece-7 { decorator: image(MixInventoryFrame.textbg08); }
+#mcScrollList-art-112-0 > .piece-8 { decorator: image(MixInventoryFrame.textbg09); }
+.MuButton_S01_폰트색변경 { decorator: image(MixInventoryFrame.btn_s01); }
+.MuButton_S01_폰트색변경.over, .MuButton_S01_폰트색변경:hover { decorator: image(MixInventoryFrame.btn_s02); }
+.MuButton_S01_폰트색변경.down, .MuButton_S01_폰트색변경:active { decorator: image(MixInventoryFrame.btn_s03); }
+.MuButton_S01_폰트색변경.disabled { decorator: image(MixInventoryFrame.btn_s04); }
+.MuButton_Close { decorator: image(MixInventoryFrame.btn_close01); }
+.MuButton_Close.over, .MuButton_Close:hover { decorator: image(MixInventoryFrame.btn_close02); }
+.MuButton_Close.down, .MuButton_Close:active { decorator: image(MixInventoryFrame.btn_close03); }
+.MuButton_Close.disabled { decorator: image(MixInventoryFrame.btn_close04); }
+#sbSockList-track { decorator: image(MixInventoryFrame.scroll_bg02); }
+#sbSockList-downArrow { decorator: image(MixInventoryFrame.scroll_btn05); }
+#sbSockList-downArrow.over, #sbSockList-downArrow:hover { decorator: image(MixInventoryFrame.scroll_btn06); }
+#sbSockList-downArrow.down, #sbSockList-downArrow:active { decorator: image(MixInventoryFrame.scroll_btn07); }
+#sbSockList-downArrow.disabled { decorator: image(MixInventoryFrame.scroll_btn08); }
+#sbSockList-upArrow { decorator: image(MixInventoryFrame.scroll_btn01); }
+#sbSockList-upArrow.over, #sbSockList-upArrow:hover { decorator: image(MixInventoryFrame.scroll_btn02); }
+#sbSockList-upArrow.down, #sbSockList-upArrow:active { decorator: image(MixInventoryFrame.scroll_btn03); }
+#sbSockList-upArrow.disabled { decorator: image(MixInventoryFrame.scroll_btn04); }
+#sbSockList-thumb { decorator: image(MixInventoryFrame.scroll01); }
+#sbSockList-thumb.over, #sbSockList-thumb:hover { decorator: image(MixInventoryFrame.scroll02); }
+#sbSockList-thumb.down, #sbSockList-thumb:active { decorator: image(MixInventoryFrame.scroll03); }
+#sbSockList-thumb.disabled { decorator: image(MixInventoryFrame.scroll04); }
+.MuItemSlot_clear01.icon-frame-2 { decorator: image(MixInventoryFrame.02_inven_select3_2); }
+.MuItemSlot_clear01.icon-frame-3 { decorator: image(MixInventoryFrame.03_inven_select3_3); }
+.MuItemSlot_clear01.icon-frame-4 { decorator: image(MixInventoryFrame.04_inven_select3_4); }
+.MuItemSlot_clear01.icon-frame-5 { decorator: image(MixInventoryFrame.05_inven_select3_5); }
+.MuItemSlot_clear01.icon-frame-6 { decorator: image(MixInventoryFrame.06_inven_select3_5); }
+.MuItemSlot_clear01.icon-frame-7 { decorator: image(MixInventoryFrame.07_inven_select3_7); }

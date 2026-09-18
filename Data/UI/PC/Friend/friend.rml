@@ -1,0 +1,160 @@
+<rml>
+<head>
+    <!-- C++ presentation inputs. Authored here; read once before rendering. -->
+    <meta name="mu-design-RmlFriendPanel-PanelMainWidth" content="540"/>
+    <meta name="mu-design-RmlFriendPanel-PanelMainHeight" content="381"/>
+    <meta name="mu-design-RmlFriendPanel-PanelChatWidth" content="553"/>
+    <meta name="mu-design-RmlFriendPanel-PanelChatCollapsedWidth" content="425"/>
+    <meta name="mu-design-RmlFriendPanel-PanelChatHeight" content="282"/>
+    <meta name="mu-design-RmlFriendPanel-PanelWriteWidth" content="429"/>
+    <meta name="mu-design-RmlFriendPanel-PanelWriteHeight" content="282"/>
+    <meta name="mu-design-RmlFriendPanel-PanelReadWidth" content="425"/>
+    <meta name="mu-design-RmlFriendPanel-PanelReadHeight" content="278"/>
+    <meta name="mu-design-RmlFriendPanel-PanelMainVisibleRows" content="5"/>
+    <meta name="mu-design-RmlFriendPanel-PanelVisibleRows" content="8"/>
+    <meta name="mu-design-RmlFriendPanel-InitialX" content="50"/>
+    <meta name="mu-design-RmlFriendPanel-InitialY" content="50"/>
+    <meta name="mu-design-RmlFriendPanel-ChatVisibleLines" content="11"/>
+    <!-- End presentation inputs -->
+
+
+
+    <link type="text/rcss" href="../ui_assets.rcss" />
+    <title>MU Online Friend</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="friend_skins.rcss"/>
+    <link type="text/rcss" href="friend_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="friend.rcss"/>
+    <link type="text/rcss" href="friend_gfx.generated.rcss"/>
+</head>
+<body>
+    <div id="friend-main" class="friend-panel friend-main">
+        <div class="mu-frame-part popup_bg_dub01 friend-main-header-art"/>
+        <div class="mu-frame-part Bitmap433 friend-main-body"/>
+        <div class="mu-frame-box mu-frame-friend-list friend-main-list-frame"/>
+        <div id="friend-main-drag" class="mu-button MuButton_Drag friend-drag"/>
+        <div id="friend-main-title" class="friend-title"/>
+        <div id="friend-main-close" class="mu-button MuButton_Close friend-close"/>
+        <div id="friend-tab-0" class="mu-button MuButton_toggleTap friend-tab"><span id="friend-tab-label-0" class="mu-overflow-label"/></div>
+        <div id="friend-tab-1" class="mu-button MuButton_toggleTap friend-tab"><span id="friend-tab-label-1" class="mu-overflow-label"/></div>
+        <div id="friend-tab-2" class="mu-button MuButton_toggleTap friend-tab"><span id="friend-tab-label-2" class="mu-overflow-label"/></div>
+        <div id="friend-refuse" class="mu-button friend-refuse"><input id="friend-refuse-mark" class="MuCheckBox_etc friend-refuse-check" type="checkbox"/><span id="friend-refuse-label" class="mu-overflow-label"/></div>
+        <div id="friend-grid-title" class="friend-grid-title mcFriendTitle">
+            <i class="data-grid-title-cell data-grid-cell-0"/><i class="data-grid-title-cell data-grid-cell-1"/><i class="data-grid-title-cell data-grid-cell-2"/><i class="data-grid-title-cell data-grid-cell-3"/>
+            <div id="friend-header-check" class="mu-button friend-header-check"><input id="friend-header-check-mark" class="MuCheckBox_mail01 friend-header-mail-check" type="checkbox"/><div class="mu-icon mu-icon-mail-header friend-header-mail-icon"/></div>
+            <div id="friend-header-0" class="mu-button friend-header"/>
+            <div id="friend-header-1" class="mu-button friend-header"/>
+            <div id="friend-header-2" class="mu-button friend-header"/>
+            <div id="friend-header-3" class="mu-button friend-header"/>
+        </div>
+        <div id="friend-rows" class="friend-rows">
+            <div id="friend-row-0" class="mu-button dataGridItem_Server friend-row"><i class="data-grid-cell data-grid-cell-0"/><i class="data-grid-cell data-grid-cell-1"/><i class="data-grid-cell data-grid-cell-2"/><i class="data-grid-cell data-grid-cell-3"/><span class="mu-overflow-label data-grid-field-0"/><span class="mu-overflow-label data-grid-field-1"/><span class="mu-overflow-label data-grid-field-2"/><span class="mu-overflow-label data-grid-field-3"/><div class="friend-row-icons"><input class="dataGridItem_Check" type="checkbox"/><div class="mu-icon mu-icon-mail friend-mail-icon"/></div></div>
+            <div id="friend-row-1" class="mu-button dataGridItem_Server friend-row"><i class="data-grid-cell data-grid-cell-0"/><i class="data-grid-cell data-grid-cell-1"/><i class="data-grid-cell data-grid-cell-2"/><i class="data-grid-cell data-grid-cell-3"/><span class="mu-overflow-label data-grid-field-0"/><span class="mu-overflow-label data-grid-field-1"/><span class="mu-overflow-label data-grid-field-2"/><span class="mu-overflow-label data-grid-field-3"/><div class="friend-row-icons"><input class="dataGridItem_Check" type="checkbox"/><div class="mu-icon mu-icon-mail friend-mail-icon"/></div></div>
+            <div id="friend-row-2" class="mu-button dataGridItem_Server friend-row"><i class="data-grid-cell data-grid-cell-0"/><i class="data-grid-cell data-grid-cell-1"/><i class="data-grid-cell data-grid-cell-2"/><i class="data-grid-cell data-grid-cell-3"/><span class="mu-overflow-label data-grid-field-0"/><span class="mu-overflow-label data-grid-field-1"/><span class="mu-overflow-label data-grid-field-2"/><span class="mu-overflow-label data-grid-field-3"/><div class="friend-row-icons"><input class="dataGridItem_Check" type="checkbox"/><div class="mu-icon mu-icon-mail friend-mail-icon"/></div></div>
+            <div id="friend-row-3" class="mu-button dataGridItem_Server friend-row"><i class="data-grid-cell data-grid-cell-0"/><i class="data-grid-cell data-grid-cell-1"/><i class="data-grid-cell data-grid-cell-2"/><i class="data-grid-cell data-grid-cell-3"/><span class="mu-overflow-label data-grid-field-0"/><span class="mu-overflow-label data-grid-field-1"/><span class="mu-overflow-label data-grid-field-2"/><span class="mu-overflow-label data-grid-field-3"/><div class="friend-row-icons"><input class="dataGridItem_Check" type="checkbox"/><div class="mu-icon mu-icon-mail friend-mail-icon"/></div></div>
+            <div id="friend-row-4" class="mu-button dataGridItem_Server friend-row"><i class="data-grid-cell data-grid-cell-0"/><i class="data-grid-cell data-grid-cell-1"/><i class="data-grid-cell data-grid-cell-2"/><i class="data-grid-cell data-grid-cell-3"/><span class="mu-overflow-label data-grid-field-0"/><span class="mu-overflow-label data-grid-field-1"/><span class="mu-overflow-label data-grid-field-2"/><span class="mu-overflow-label data-grid-field-3"/><div class="friend-row-icons"><input class="dataGridItem_Check" type="checkbox"/><div class="mu-icon mu-icon-mail friend-mail-icon"/></div></div>
+            <div id="friend-row-5" class="mu-button dataGridItem_Server friend-row"><i class="data-grid-cell data-grid-cell-0"/><i class="data-grid-cell data-grid-cell-1"/><i class="data-grid-cell data-grid-cell-2"/><i class="data-grid-cell data-grid-cell-3"/><span class="mu-overflow-label data-grid-field-0"/><span class="mu-overflow-label data-grid-field-1"/><span class="mu-overflow-label data-grid-field-2"/><span class="mu-overflow-label data-grid-field-3"/><div class="friend-row-icons"><input class="dataGridItem_Check" type="checkbox"/><div class="mu-icon mu-icon-mail friend-mail-icon"/></div></div>
+            <div id="friend-row-6" class="mu-button dataGridItem_Server friend-row"><i class="data-grid-cell data-grid-cell-0"/><i class="data-grid-cell data-grid-cell-1"/><i class="data-grid-cell data-grid-cell-2"/><i class="data-grid-cell data-grid-cell-3"/><span class="mu-overflow-label data-grid-field-0"/><span class="mu-overflow-label data-grid-field-1"/><span class="mu-overflow-label data-grid-field-2"/><span class="mu-overflow-label data-grid-field-3"/><div class="friend-row-icons"><input class="dataGridItem_Check" type="checkbox"/><div class="mu-icon mu-icon-mail friend-mail-icon"/></div></div>
+            <div id="friend-row-7" class="mu-button dataGridItem_Server friend-row"><i class="data-grid-cell data-grid-cell-0"/><i class="data-grid-cell data-grid-cell-1"/><i class="data-grid-cell data-grid-cell-2"/><i class="data-grid-cell data-grid-cell-3"/><span class="mu-overflow-label data-grid-field-0"/><span class="mu-overflow-label data-grid-field-1"/><span class="mu-overflow-label data-grid-field-2"/><span class="mu-overflow-label data-grid-field-3"/><div class="friend-row-icons"><input class="dataGridItem_Check" type="checkbox"/><div class="mu-icon mu-icon-mail friend-mail-icon"/></div></div>
+        </div>
+        <div id="friend-scroll" class="mu-scrollbar MuScrollBar_001 friend-scroll">
+            <div class="mu-scrollbar-track MuButton_sbTrack"/>
+            <div class="mu-scrollbar-button MuButton_sbArrowDOWN"/>
+            <div class="mu-scrollbar-button MuButton_sbArrowUP"/>
+            <div class="mu-scrollbar-thumb MuButton_sbThumb"/>
+        </div>
+        <div id="friend-action-0" class="mu-button MuButton_L01 friend-main-action"><span id="friend-action-label-0" class="mu-overflow-label"/></div>
+        <div id="friend-action-1" class="mu-button MuButton_L01 friend-main-action"><span id="friend-action-label-1" class="mu-overflow-label"/></div>
+        <div id="friend-action-2" class="mu-button MuButton_L01 friend-main-action"><span id="friend-action-label-2" class="mu-overflow-label"/></div>
+        <div id="friend-action-3" class="mu-button MuButton_L01 friend-main-action"><span id="friend-action-label-3" class="mu-overflow-label"/></div>
+    </div>
+
+    <div id="friend-chat" class="friend-panel friend-chat">
+        <div class="mu-frame-box mu-frame-popup-s16 friend-popup-shell"/>
+        <div class="mu-frame-popup-title friend-popup-title-frame"/>
+        <div class="mu-frame-box mu-frame-content-s16 friend-content-frame friend-chat-message-frame"/>
+        <div class="mu-frame-box mu-frame-content-s16 friend-content-frame friend-chat-member-frame"/>
+        <div class="mu-frame-input friend-input-frame friend-chat-input-frame"/>
+        <div class="mu-scrollbar MuScrollBar_001 friend-popup-scroll friend-chat-message-scroll"><div class="mu-scrollbar-track MuButton_sbTrack friend-popup-scroll-track"/><div class="mu-scrollbar-button MuButton_sbArrowDOWN friend-popup-scroll-down"/><div class="mu-scrollbar-button MuButton_sbArrowUP friend-popup-scroll-up"/><div class="mu-scrollbar-thumb MuButton_sbThumb friend-popup-scroll-thumb"/></div>
+        <div class="mu-scrollbar MuScrollBar_001 friend-popup-scroll friend-chat-member-scroll"><div class="mu-scrollbar-track MuButton_sbTrack friend-popup-scroll-track"/><div class="mu-scrollbar-button MuButton_sbArrowDOWN friend-popup-scroll-down"/><div class="mu-scrollbar-button MuButton_sbArrowUP friend-popup-scroll-up"/><div class="mu-scrollbar-thumb MuButton_sbThumb friend-popup-scroll-thumb"/></div>
+        <div class="mu-frame-box mu-frame-popup-s16 friend-popup-shell friend-chat-invite-shell"/>
+        <div class="mu-frame-box mu-frame-content-s16 friend-content-frame friend-chat-invite-frame"/>
+        <div id="friend-chat-drag" class="friend-popup-drag"/>
+        <div id="friend-chat-title" class="friend-popup-title"/>
+        <div id="friend-chat-minimize" class="mu-button MuButton_bigWnd friend-minimize"/>
+        <div id="friend-chat-close" class="mu-button MuButton_Close2 friend-popup-close"/>
+        <div id="friend-chat-messages" class="friend-chat-messages"/>
+        <div id="friend-chat-members" class="friend-chat-members"/>
+        <input id="friend-chat-input" class="mu-text-input friend-chat-input" type="text" maxlength="89"/>
+        <div id="friend-chat-toggle" class="mu-button MuButton_M01 friend-popup-action"><span id="friend-chat-toggle-label" class="mu-overflow-label"/></div>
+        <div id="friend-chat-invite-rows" class="friend-chat-invite-rows">
+            <div id="friend-chat-invite-row-0" class="mu-button friend-chat-invite-row"/>
+            <div id="friend-chat-invite-row-1" class="mu-button friend-chat-invite-row"/>
+            <div id="friend-chat-invite-row-2" class="mu-button friend-chat-invite-row"/>
+            <div id="friend-chat-invite-row-3" class="mu-button friend-chat-invite-row"/>
+            <div id="friend-chat-invite-row-4" class="mu-button friend-chat-invite-row"/>
+            <div id="friend-chat-invite-row-5" class="mu-button friend-chat-invite-row"/>
+            <div id="friend-chat-invite-row-6" class="mu-button friend-chat-invite-row"/>
+            <div id="friend-chat-invite-row-7" class="mu-button friend-chat-invite-row"/>
+        </div>
+        <div id="friend-chat-invite" class="mu-button MuButton_M01 friend-popup-action"><span id="friend-chat-invite-label" class="mu-overflow-label"/></div>
+    </div>
+
+    <div id="friend-write" class="friend-panel friend-write">
+        <div class="mu-frame-box mu-frame-popup-s16 gfx-scale-grid-parts friend-popup-shell friend-write-shell">
+            <i class="popupfield01"/><i class="popupfield02"/><i class="popupfield03"/>
+            <i class="popupfield04"/><i class="popupfield05"/><i class="popupfield06"/>
+            <i class="popupfield07"/><i class="popupfield08"/><i class="popupfield09"/>
+        </div>
+        <div class="mu-frame-popup-title friend-popup-title-frame friend-write-title-frame"/>
+        <div class="mu-frame-box mu-frame-content-s16 gfx-scale-grid-parts friend-content-frame friend-write-body-frame">
+            <i class="MuBackground_boxT1p"/><i class="MuBackground_boxT2p"/><i class="MuBackground_boxT3p"/>
+            <i class="MuBackground_boxT4p"/><i class="MuBackground_boxT5p"/><i class="MuBackground_boxT6p"/>
+            <i class="MuBackground_boxT7p"/><i class="MuBackground_boxT8p"/><i class="MuBackground_boxT9p"/>
+        </div>
+        <div class="mu-frame-input friend-input-frame friend-write-receiver-frame"/>
+        <div class="mu-frame-input friend-input-frame friend-write-subject-frame"/>
+        <i class="mu-icon mu-icon-bullet friend-form-bullet friend-write-receiver-bullet"/>
+        <i class="mu-icon mu-icon-bullet friend-form-bullet friend-write-subject-bullet"/>
+        <div id="friend-write-drag" class="friend-popup-drag"/>
+        <div id="friend-write-title" class="friend-popup-title"/>
+        <div id="friend-write-minimize" class="mu-button MuButton_bigWnd friend-minimize"/>
+        <div id="friend-write-close-top" class="mu-button MuButton_Close2 friend-popup-close"/>
+        <div id="friend-write-receiver-label" class="friend-form-label mu-overflow-label"/>
+        <div id="friend-write-subject-label" class="friend-form-label mu-overflow-label"/>
+        <input id="friend-write-receiver" class="mu-text-input friend-write-receiver" type="text" maxlength="10"/>
+        <input id="friend-write-subject" class="mu-text-input friend-write-subject" type="text" maxlength="31"/>
+        <textarea id="friend-write-body" class="mu-text-input MUTextArea TextArea_스크롤 friend-write-body" maxlength="1000"/>
+        <div id="friend-write-send" class="mu-button MuButton_M01 friend-popup-action"><span id="friend-write-send-label" class="mu-overflow-label"/></div>
+        <div id="friend-write-close" class="mu-button MuButton_M01 friend-popup-action"><span id="friend-write-close-label" class="mu-overflow-label"/></div>
+    </div>
+
+    <div id="friend-read" class="friend-panel friend-read">
+        <div class="mu-frame-box mu-frame-popup-s16 gfx-scale-grid-parts friend-popup-shell friend-read-shell">
+            <i class="popupfield01"/><i class="popupfield02"/><i class="popupfield03"/>
+            <i class="popupfield04"/><i class="popupfield05"/><i class="popupfield06"/>
+            <i class="popupfield07"/><i class="popupfield08"/><i class="popupfield09"/>
+        </div>
+        <div class="mu-frame-popup-title friend-popup-title-frame friend-read-title-frame"/>
+        <div class="mu-frame-box mu-frame-content-s16 gfx-scale-grid-parts friend-content-frame friend-read-body-frame">
+            <i class="MuBackground_boxT1p"/><i class="MuBackground_boxT2p"/><i class="MuBackground_boxT3p"/>
+            <i class="MuBackground_boxT4p"/><i class="MuBackground_boxT5p"/><i class="MuBackground_boxT6p"/>
+            <i class="MuBackground_boxT7p"/><i class="MuBackground_boxT8p"/><i class="MuBackground_boxT9p"/>
+        </div>
+        <div class="mu-frame-input friend-input-frame friend-read-sender-frame"/>
+        <i class="mu-icon mu-icon-bullet friend-form-bullet friend-read-sender-bullet"/>
+        <div id="friend-read-drag" class="friend-popup-drag"/>
+        <div id="friend-read-title" class="friend-popup-title"/>
+        <div id="friend-read-minimize" class="mu-button MuButton_bigWnd friend-minimize"/>
+        <div id="friend-read-close-top" class="mu-button MuButton_Close2 friend-popup-close"/>
+        <div id="friend-read-sender-label" class="friend-form-label mu-overflow-label"/>
+        <div id="friend-read-sender" class="friend-read-sender"/>
+        <div id="friend-read-body" class="MUTextArea TextArea_스크롤 friend-read-body"/>
+        <div id="friend-read-action-0" class="mu-button MuButton_M01 friend-popup-action"><span class="mu-overflow-label"/></div>
+        <div id="friend-read-action-1" class="mu-button MuButton_M01 friend-popup-action"><span class="mu-overflow-label"/></div>
+        <div id="friend-read-action-2" class="mu-button MuButton_M01 friend-popup-action"><span class="mu-overflow-label"/></div>
+        <div id="friend-read-action-3" class="mu-button MuButton_M01 friend-popup-action"><span class="mu-overflow-label"/></div>
+        <div id="friend-read-action-4" class="mu-button MuButton_M01 friend-popup-action"><span class="mu-overflow-label"/></div>
+    </div>
+</body>
+</rml>

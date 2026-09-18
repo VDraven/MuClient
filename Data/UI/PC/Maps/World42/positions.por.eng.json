@@ -1,0 +1,22 @@
+{
+  "world": "World42",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World42_eng.bmd",
+  "sourceSha256": "edd8b1bf8204c7227bf787d81929c4037f6b5e73ad6a8bd410ba9781ca6ff1cf",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "npc",
+      "x": 120,
+      "y": 168,
+      "rotation": 0,
+      "name": "Gatekeeper"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

@@ -1,0 +1,88 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#move-command-outer {
+    decorator: tiled-box(
+        MoveCommand.popupbg01, MoveCommand.popupbg02, MoveCommand.popupbg03,
+        MoveCommand.popupbg04, MoveCommand.popupbg05, MoveCommand.popupbg06,
+        MoveCommand.popupbg07, MoveCommand.popupbg08, MoveCommand.popupbg09
+    );
+}
+#move-command-inner {
+    decorator: tiled-box(
+        MoveCommand.fieldbg01, MoveCommand.fieldbg02, MoveCommand.fieldbg03,
+        MoveCommand.fieldbg04, MoveCommand.fieldbg05, MoveCommand.fieldbg06,
+        MoveCommand.fieldbg07, MoveCommand.fieldbg08, MoveCommand.fieldbg09
+    );
+}
+#move-command-inner.gfx-scale-grid-parts { decorator: none; }
+.gfx-scale-grid-parts > i { position: absolute; pointer-events: none; }
+#move-command-inner > .MoveCommand\.fieldbg01 { decorator: image(MoveCommand.fieldbg01); }
+#move-command-inner > .MoveCommand\.fieldbg02 { decorator: image(MoveCommand.fieldbg02); }
+#move-command-inner > .MoveCommand\.fieldbg03 { decorator: image(MoveCommand.fieldbg03); }
+#move-command-inner > .MoveCommand\.fieldbg04 { decorator: image(MoveCommand.fieldbg04); }
+#move-command-inner > .MoveCommand\.fieldbg05 { decorator: image(MoveCommand.fieldbg05); }
+#move-command-inner > .MoveCommand\.fieldbg06 { decorator: image(MoveCommand.fieldbg06); }
+#move-command-inner > .MoveCommand\.fieldbg07 { decorator: image(MoveCommand.fieldbg07); }
+#move-command-inner > .MoveCommand\.fieldbg08 { decorator: image(MoveCommand.fieldbg08); }
+#move-command-inner > .MoveCommand\.fieldbg09 { decorator: image(MoveCommand.fieldbg09); }
+#move-command-main-panel {
+    decorator: tiled-box(
+        MoveCommand.textbg01, MoveCommand.textbg02, MoveCommand.textbg03,
+        MoveCommand.textbg04, MoveCommand.textbg05, MoveCommand.textbg06,
+        MoveCommand.textbg07, MoveCommand.textbg08, MoveCommand.textbg09
+    );
+}
+#move-command-main-panel.gfx-scale-grid-parts { decorator: none; }
+#move-command-main-panel > .MoveCommand\.textbg01 { decorator: image(MoveCommand.textbg01); }
+#move-command-main-panel > .MoveCommand\.textbg02 { decorator: image(MoveCommand.textbg02); }
+#move-command-main-panel > .MoveCommand\.textbg03 { decorator: image(MoveCommand.textbg03); }
+#move-command-main-panel > .MoveCommand\.textbg04 { decorator: image(MoveCommand.textbg04); }
+#move-command-main-panel > .MoveCommand\.textbg05 { decorator: image(MoveCommand.textbg05); }
+#move-command-main-panel > .MoveCommand\.textbg06 { decorator: image(MoveCommand.textbg06); }
+#move-command-main-panel > .MoveCommand\.textbg07 { decorator: image(MoveCommand.textbg07); }
+#move-command-main-panel > .MoveCommand\.textbg08 { decorator: image(MoveCommand.textbg08); }
+#move-command-main-panel > .MoveCommand\.textbg09 { decorator: image(MoveCommand.textbg09); }
+#move-command-favorite-panel {
+    decorator: tiled-box(
+        MoveCommand.textbg01, MoveCommand.textbg02, MoveCommand.textbg03,
+        MoveCommand.textbg04, MoveCommand.textbg05, MoveCommand.textbg06,
+        MoveCommand.textbg07, MoveCommand.textbg08, MoveCommand.textbg09
+    );
+}
+#move-command-favorite-panel.gfx-scale-grid-parts { decorator: none; }
+#move-command-favorite-panel > .MoveCommand\.textbg01 { decorator: image(MoveCommand.textbg01); }
+#move-command-favorite-panel > .MoveCommand\.textbg02 { decorator: image(MoveCommand.textbg02); }
+#move-command-favorite-panel > .MoveCommand\.textbg03 { decorator: image(MoveCommand.textbg03); }
+#move-command-favorite-panel > .MoveCommand\.textbg04 { decorator: image(MoveCommand.textbg04); }
+#move-command-favorite-panel > .MoveCommand\.textbg05 { decorator: image(MoveCommand.textbg05); }
+#move-command-favorite-panel > .MoveCommand\.textbg06 { decorator: image(MoveCommand.textbg06); }
+#move-command-favorite-panel > .MoveCommand\.textbg07 { decorator: image(MoveCommand.textbg07); }
+#move-command-favorite-panel > .MoveCommand\.textbg08 { decorator: image(MoveCommand.textbg08); }
+#move-command-favorite-panel > .MoveCommand\.textbg09 { decorator: image(MoveCommand.textbg09); }
+#move-command-title-divider { decorator: image(MoveCommand.popup_line_m); }
+#move-command-button-divider { decorator: image(MoveCommand.popup_line_s); }
+#move-command-favorite-mark { decorator: image(MoveCommand.point); }
+.MuButton_M01_텍스트색변경 { decorator: image(MoveCommand.btn_m01); }
+.MuButton_M01_텍스트색변경.over { decorator: image(MoveCommand.btn_m02); }
+.MuButton_M01_텍스트색변경.down { decorator: image(MoveCommand.btn_m03); }
+.MuButton_M01_텍스트색변경.disabled { decorator: image(MoveCommand.btn_m04); }
+.MapListItemRenderer .MuCheckBox_etc { decorator: image(MoveCommand.mail_checkbox03); }
+.MapListItemRenderer.over .MuCheckBox_etc { decorator: image(MoveCommand.mail_checkbox03); }
+.MapListItemRenderer.down .MuCheckBox_etc { decorator: image(MoveCommand.mail_checkbox03); }
+.MapListItemRenderer.disabled .MuCheckBox_etc { decorator: image(MoveCommand.mail_checkbox05); }
+.MapListItemRenderer.checked .MuCheckBox_etc { decorator: image(MoveCommand.mail_checkbox04); }
+.MapListItemRenderer.checked.over .MuCheckBox_etc { decorator: image(MoveCommand.mail_checkbox04); }
+.MapListItemRenderer.checked.down .MuCheckBox_etc { decorator: image(MoveCommand.mail_checkbox04); }
+.MapListItemRenderer.checked.disabled .MuCheckBox_etc { decorator: image(MoveCommand.mail_checkbox05); }
+.MuButton_sbArrowUP { decorator: image(MoveCommand.scroll_btn01); }
+.MuButton_sbArrowUP.over { decorator: image(MoveCommand.scroll_btn02); }
+.MuButton_sbArrowUP.down { decorator: image(MoveCommand.scroll_btn03); }
+.MuButton_sbArrowUP.disabled { decorator: image(MoveCommand.scroll_btn04); }
+.MuButton_sbArrowDOWN { decorator: image(MoveCommand.scroll_btn05); }
+.MuButton_sbArrowDOWN.over { decorator: image(MoveCommand.scroll_btn06); }
+.MuButton_sbArrowDOWN.down { decorator: image(MoveCommand.scroll_btn07); }
+.MuButton_sbArrowDOWN.disabled { decorator: image(MoveCommand.scroll_btn08); }
+.MuButton_sbThumb { decorator: image(MoveCommand.scroll01); }
+.MuButton_sbThumb.over { decorator: image(MoveCommand.scroll02); }
+.MuButton_sbThumb.down { decorator: image(MoveCommand.scroll03); }
+.MuButton_sbThumb.disabled { decorator: image(MoveCommand.scroll04); }
+.MuButton_sbTrack { decorator: image(MoveCommand.scroll_bg02); }

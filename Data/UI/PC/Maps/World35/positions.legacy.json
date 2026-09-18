@@ -1,0 +1,95 @@
+{
+  "world": "World35",
+  "language": null,
+  "source": "World35/Minimap.bmd",
+  "sourceSha256": "5adfec10514a91f5246ff9dd9fd99fbf77e34c853b9c2959f76cdd255b72b541",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "npc",
+      "x": 228,
+      "y": 48,
+      "rotation": 0,
+      "name": "�i�Ճf���B��",
+      "sourceNameHex": "8e698dd58366839483428393"
+    },
+    {
+      "index": 1,
+      "kind": "npc",
+      "x": 62,
+      "y": 239,
+      "rotation": 0,
+      "name": "�E�F�A�E���t�R�[����",
+      "sourceNameHex": "8345834683418345838b83748352815b8389838b"
+    },
+    {
+      "index": 2,
+      "kind": "npc",
+      "x": 135,
+      "y": 47,
+      "rotation": 0,
+      "name": "�g���[�i�[",
+      "sourceNameHex": "8367838c815b8369815b"
+    },
+    {
+      "index": 3,
+      "kind": "npc",
+      "x": 99,
+      "y": 40,
+      "rotation": 0,
+      "name": "�Y�����l�J�C��",
+      "sourceNameHex": "955997ac8fa4906c834a83438393"
+    },
+    {
+      "index": 4,
+      "kind": "npc",
+      "x": 96,
+      "y": 25,
+      "rotation": 0,
+      "name": "�Z���r�X",
+      "sourceNameHex": "835a838b83728358"
+    },
+    {
+      "index": 5,
+      "kind": "npc",
+      "x": 145,
+      "y": 14,
+      "rotation": 0,
+      "name": "�b��E�l�n���X",
+      "sourceNameHex": "926296e89045906c836e83938358"
+    },
+    {
+      "index": 6,
+      "kind": "npc",
+      "x": 113,
+      "y": 56,
+      "rotation": 0,
+      "name": "�q�ɔԃo�Y",
+      "sourceNameHex": "91718cc994d4836f8359"
+    },
+    {
+      "index": 7,
+      "kind": "npc",
+      "x": 118,
+      "y": 11,
+      "rotation": 0,
+      "name": "�߉q��",
+      "sourceNameHex": "8bdf897195ba"
+    },
+    {
+      "index": 8,
+      "kind": "portal",
+      "x": 238,
+      "y": 42,
+      "rotation": 45,
+      "name": "���������J",
+      "sourceNameHex": "838d838c83938bac924a"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

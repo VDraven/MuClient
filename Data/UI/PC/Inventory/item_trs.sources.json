@@ -1,0 +1,40 @@
+{
+  "primary": {
+    "file": "ItemTRSDataS9.txt",
+    "source": "C:\\MuOffline\\MuTools\\GFX\\TRS\\ItemTRSDataS9_Enc.bmd",
+    "sourceSha256": "81124bf6aa59b25ddcfb196e8ba7055c22cba4b64190abdfdd71763bf27c1f36",
+    "records": 1310,
+    "format": "uint32 count, count XOR-encoded <I7f records, uint32 checksum",
+    "xorKey": "FC CF AB, restarted per 32-byte record",
+    "checksum": "GenerateCheckSum2 on encrypted records, key 0xE2F1; verified",
+    "columns": [
+      "itemId",
+      "slotX",
+      "slotY",
+      "sourceDistance",
+      "rotationX",
+      "rotationY",
+      "rotationZ",
+      "scale"
+    ],
+    "sourceDistance": 2000,
+    "decoder": "tools/decode_item_trs.py"
+  },
+  "fallback": {
+    "file": "ItemTRSDataS13.txt",
+    "source": "C:\\MuOffline\\MuTools\\GFX\\TRS\\ItemTRSDataS13.txt",
+    "sourceSha256": "5c9db344972a6fc6bfa324435d33c1ec71a7b3a46cbf5901cb77120cfcfeab01",
+    "records": 2536,
+    "columns": [
+      "itemId",
+      "slotX",
+      "slotY",
+      "rotationX",
+      "rotationY",
+      "rotationZ",
+      "scale"
+    ],
+    "policy": "Only IDs absent from S9"
+  },
+  "presentation": "Authored translation, rotation and scale; uniform panel UI scaling only. Intentional model overflow is preserved. No bounds fit, recentering, or equipment footprint fit."
+}

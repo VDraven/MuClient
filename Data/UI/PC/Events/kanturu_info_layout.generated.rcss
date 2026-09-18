@@ -1,0 +1,4 @@
+/* Generated from KanturuEvent AS2; do not hand-edit. */
+#source { left: 0; top: 0; width: 306px; height: 290px; transform-origin: 0px 0px; transform: scale(0.6, 0.5); }
+#menu { position: absolute; right: 0; top: 85%; margin-top: -123.25px; }
+@media (max-width: 1023px) { #menu { right: auto; left: 93%; margin-left: -142.29px; top: 70%; margin-top: -81.2001px; width: 153px; height: 116px; } #source { transform: scale(0.5, 0.4); } }

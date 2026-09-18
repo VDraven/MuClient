@@ -1,0 +1,237 @@
+{
+  "world": "World3",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World3_por.bmd",
+  "sourceSha256": "96b922814247cf0415afc4cdbc175e3136bda816f3df6c07bc3df7a1af52ebf6",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 217,
+      "y": 20,
+      "rotation": 135,
+      "name": "Mensageiro do Arcanjo",
+      "npcNumber": 233,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 217,
+      "y": 29,
+      "rotation": 135,
+      "name": "Mensageiro do Arcanjo",
+      "npcNumber": 233,
+      "index": 1
+    },
+    {
+      "kind": "npc",
+      "x": 183,
+      "y": 32,
+      "rotation": 135,
+      "name": "Sebina, a Madre",
+      "npcNumber": 235,
+      "index": 2
+    },
+    {
+      "kind": "npc",
+      "x": 218,
+      "y": 63,
+      "rotation": 90,
+      "name": "Guardião de segurança",
+      "npcNumber": 240,
+      "index": 3
+    },
+    {
+      "kind": "npc",
+      "x": 215,
+      "y": 45,
+      "rotation": 45,
+      "name": "Lorence, o Cap. da Guarda Real",
+      "npcNumber": 241,
+      "index": 4
+    },
+    {
+      "kind": "npc",
+      "x": 226,
+      "y": 25,
+      "rotation": 135,
+      "name": "Caren, a garçonete",
+      "npcNumber": 244,
+      "index": 5
+    },
+    {
+      "kind": "npc",
+      "x": 225,
+      "y": 41,
+      "rotation": 135,
+      "name": "Maga Izabel",
+      "npcNumber": 245,
+      "index": 6
+    },
+    {
+      "kind": "npc",
+      "x": 186,
+      "y": 47,
+      "rotation": 135,
+      "name": "Zienna, a Mercadora de armas",
+      "npcNumber": 246,
+      "index": 7
+    },
+    {
+      "kind": "npc",
+      "x": 169,
+      "y": 39,
+      "rotation": 315,
+      "name": "Guarda",
+      "npcNumber": 247,
+      "index": 8
+    },
+    {
+      "kind": "npc",
+      "x": 169,
+      "y": 45,
+      "rotation": 315,
+      "name": "Guarda",
+      "npcNumber": 247,
+      "index": 9
+    },
+    {
+      "kind": "npc",
+      "x": 219,
+      "y": 79,
+      "rotation": 225,
+      "name": "Guarda",
+      "npcNumber": 247,
+      "index": 10
+    },
+    {
+      "kind": "npc",
+      "x": 224,
+      "y": 79,
+      "rotation": 225,
+      "name": "Guarda",
+      "npcNumber": 247,
+      "index": 11
+    },
+    {
+      "kind": "npc",
+      "x": 193,
+      "y": 13,
+      "rotation": 135,
+      "name": "Lahap",
+      "npcNumber": 256,
+      "index": 12
+    },
+    {
+      "kind": "npc",
+      "x": 219,
+      "y": 76,
+      "rotation": 135,
+      "name": "Soldado Fantasma das sombras",
+      "npcNumber": 257,
+      "index": 13
+    },
+    {
+      "kind": "npc",
+      "x": 13,
+      "y": 28,
+      "rotation": 135,
+      "name": "Natasha, Merc. Fog. Artifício",
+      "npcNumber": 379,
+      "index": 14
+    },
+    {
+      "kind": "npc",
+      "x": 197,
+      "y": 53,
+      "rotation": 45,
+      "name": "Miragem",
+      "npcNumber": 385,
+      "index": 15
+    },
+    {
+      "kind": "npc",
+      "x": 181,
+      "y": 35,
+      "rotation": 135,
+      "name": "Apóstolo Devin",
+      "npcNumber": 406,
+      "index": 16
+    },
+    {
+      "kind": "npc",
+      "x": 191,
+      "y": 17,
+      "rotation": 135,
+      "name": "Delgado",
+      "npcNumber": 478,
+      "index": 17
+    },
+    {
+      "kind": "npc",
+      "x": 229,
+      "y": 221,
+      "rotation": 45,
+      "name": "Jerint, o Assistente",
+      "npcNumber": 522,
+      "index": 18
+    },
+    {
+      "kind": "npc",
+      "x": 233,
+      "y": 66,
+      "rotation": 45,
+      "name": "Lugard",
+      "npcNumber": 540,
+      "index": 19
+    },
+    {
+      "kind": "npc",
+      "x": 204,
+      "y": 61,
+      "rotation": 135,
+      "name": "Administrador da Guilda Mercenária Tercia",
+      "npcNumber": 566,
+      "index": 20
+    },
+    {
+      "index": 21,
+      "kind": "portal",
+      "x": 251,
+      "y": 33,
+      "rotation": 45,
+      "name": "Entrada para Lorencia"
+    },
+    {
+      "index": 22,
+      "kind": "portal",
+      "x": 162,
+      "y": 248,
+      "rotation": 135,
+      "name": "Entrada para Elveland"
+    },
+    {
+      "index": 23,
+      "kind": "portal",
+      "x": 0,
+      "y": 250,
+      "rotation": 180,
+      "name": "Entrada para a Torre Perdida"
+    },
+    {
+      "index": 24,
+      "kind": "portal",
+      "x": 51,
+      "y": 92,
+      "rotation": 135,
+      "name": "Entrada para La Cleon"
+    }
+  ],
+  "imageOriginPixels": [
+    3,
+    9
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

@@ -1,0 +1,3 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.hp-background { decorator: image(hudPlayerName.Bitmap27); }
+.hp-fill { decorator: image(hudPlayerName.Bitmap29); }

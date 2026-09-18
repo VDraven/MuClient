@@ -1,0 +1,93 @@
+<rml>
+<head>
+    <!-- C++ presentation inputs. Authored here; read once before rendering. -->
+    <meta name="mu-design-RmlPetInfoPanel-PanelWidth" content="327"/>
+    <meta name="mu-design-RmlPetInfoPanel-PanelHeight" content="639"/>
+    <meta name="mu-design-RmlPetInfoPanel-ReferenceWidth" content="640"/>
+    <meta name="mu-design-RmlPetInfoPanel-ReferenceHeight" content="480"/>
+    <meta name="mu-design-RmlPetInfoPanel-GfxStageWidth" content="1024"/>
+    <meta name="mu-design-RmlPetInfoPanel-InitialX" content="339"/>
+    <meta name="mu-design-RmlPetInfoPanel-InitialY" content="55"/>
+    <meta name="mu-design-RmlPetInfoPanel-TabX" content="27 136"/>
+    <meta name="mu-design-RmlPetInfoPanel-TabY" content="85"/>
+    <meta name="mu-design-RmlPetInfoPanel-TabWidth" content="110"/>
+    <meta name="mu-design-RmlPetInfoPanel-TabHeight" content="31"/>
+    <!-- End presentation inputs -->
+
+
+
+    <link type="text/rcss" href="../ui_assets.rcss" />
+    <title>MU Online Pet Information</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="pet_info.rcss"/>
+    <link type="text/rcss" href="pet_info_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="pet_info_gfx.generated.rcss"/>
+    <link type="text/rcss" href="pet_skill_icons.generated.rcss"/>
+    <meta name="mu-design-Skill-Columns" content="25"/>
+</head>
+<body>
+    <div id="pet-info" class="pet-info">
+        <div id="pet-info-background" class="pet-info-background"><i class="pet-info-background-top character-popup-01-1"/><i class="pet-info-background-middle character-popup-bg01"/><i class="pet-info-background-bottom character-popup-bg03"/></div>
+        <div id="pet-info-divider" class="pet-info-divider"/>
+        <div id="pet-info-stats-field" class="pet-info-nine-slice gfx-scale-grid-parts">
+            <i class="textbg01"/><i class="textbg02"/><i class="textbg03"/>
+            <i class="textbg04"/><i class="textbg05"/><i class="textbg06"/>
+            <i class="textbg07"/><i class="textbg08"/><i class="textbg09"/>
+        </div>
+        <div id="pet-info-row-0" class="pet-info-row"/>
+        <div id="pet-info-row-1" class="pet-info-row"/>
+        <div id="pet-info-row-2" class="pet-info-row"/>
+        <div id="pet-info-row-3" class="pet-info-row"/>
+        <div id="pet-info-row-4" class="pet-info-row"/>
+        <div id="pet-info-value-back-0" class="pet-info-value-back"/>
+        <div id="pet-info-value-back-1" class="pet-info-value-back"/>
+        <div id="pet-info-value-back-2" class="pet-info-value-back"/>
+        <div id="pet-info-value-back-3" class="pet-info-value-back"/>
+        <div id="pet-info-value-back-4" class="pet-info-value-back"/>
+
+        <div id="pet-info-title" class="pet-info-title"/>
+        <div id="pet-info-tab-0" class="mu-button MuButton_Tap01"><span id="pet-info-tab-label-0" class="mu-overflow-label"/></div>
+        <div id="pet-info-tab-1" class="mu-button MuButton_Tap01"><span id="pet-info-tab-label-1" class="mu-overflow-label"/></div>
+
+        <div id="pet-info-content" class="pet-info-content">
+            <div id="pet-info-label-0" class="mu-overflow-label pet-info-label pet-info-label-0"/>
+            <div id="pet-info-value-0" class="mu-overflow-label pet-info-value pet-info-value-0"/>
+            <div id="pet-info-label-1" class="mu-overflow-label pet-info-label pet-info-label-1"/>
+            <div id="pet-info-value-1" class="mu-overflow-label pet-info-value pet-info-value-1"/>
+            <div id="pet-info-label-2" class="mu-overflow-label pet-info-label pet-info-label-2"/>
+            <div id="pet-info-value-2" class="mu-overflow-label pet-info-value pet-info-value-2"/>
+            <div id="pet-info-label-3" class="mu-overflow-label pet-info-label pet-info-label-3"/>
+            <div id="pet-info-value-3" class="mu-overflow-label pet-info-value pet-info-value-3"/>
+            <div id="pet-info-label-4" class="mu-overflow-label pet-info-label pet-info-label-4"/>
+            <div id="pet-info-value-4" class="mu-overflow-label pet-info-value pet-info-value-4"/>
+            <div id="pet-info-progress" class="MuProgressBar_PetInfo">
+                <div class="pet-info-progress-content"><div id="pet-info-progress-fill" class="MuProgressBar_PetInfo-fill"/></div>
+            </div>
+
+            <div id="pet-info-commands" class="pet-info-commands">
+                <div id="pet-info-command-background" class="pet-info-command-background"><i class="pet-info-command-background-top bg_field01"/><i class="pet-info-command-background-middle bg_field02"/><i class="pet-info-command-background-bottom bg_field03"/></div>
+                <div id="pet-info-command-frame" class="pet-info-nine-slice gfx-scale-grid-parts">
+                    <i class="textbg01"/><i class="textbg02"/><i class="textbg03"/>
+                    <i class="textbg04"/><i class="textbg05"/><i class="textbg06"/>
+                    <i class="textbg07"/><i class="textbg08"/><i class="textbg09"/>
+                </div>
+                <i id="pet-info-command-point" class="pet-info-command-point"/>
+                <div id="pet-info-leadership-label" class="mu-overflow-label pet-info-label pet-info-leadership-label"/>
+                <div id="pet-info-leadership" class="mu-overflow-label pet-info-value pet-info-leadership"/>
+                <div id="pet-info-command-label" class="mu-overflow-label pet-info-label pet-info-command-label"/>
+                <div id="pet-info-skill-list" class="pet-info-skill-list">
+                    <div class="mu-button ListItemPetSkill pet-info-skill-row pet-info-skill-row-0"><div id="pet-info-skill-slot-0" class="mu-item-slot ItemSlot pet-info-skill-slot"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div><span id="pet-info-skill-label-0" class="mu-overflow-label"/></div>
+                    <div class="mu-button ListItemPetSkill pet-info-skill-row pet-info-skill-row-1"><div id="pet-info-skill-slot-1" class="mu-item-slot ItemSlot pet-info-skill-slot"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div><span id="pet-info-skill-label-1" class="mu-overflow-label"/></div>
+                    <div class="mu-button ListItemPetSkill pet-info-skill-row pet-info-skill-row-2"><div id="pet-info-skill-slot-2" class="mu-item-slot ItemSlot pet-info-skill-slot"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div><span id="pet-info-skill-label-2" class="mu-overflow-label"/></div>
+                    <div class="mu-button ListItemPetSkill pet-info-skill-row pet-info-skill-row-3"><div id="pet-info-skill-slot-3" class="mu-item-slot ItemSlot pet-info-skill-slot"><div class="mu-skill-icon"><div class="skill-sheet"/></div></div><span id="pet-info-skill-label-3" class="mu-overflow-label"/></div>
+                </div>
+                <div id="pet-info-scroll" class="mu-scrollbar MuScrollBar_001 pet-info-scroll"><div class="mu-scrollbar-track MuButton_sbTrack"/><div class="mu-scrollbar-button MuButton_sbArrowDOWN"/><div class="mu-scrollbar-button MuButton_sbArrowUP"/><div class="mu-scrollbar-thumb MuButton_sbThumb"/></div>
+            </div>
+        </div>
+
+        <div id="pet-info-missing" class="pet-info-missing"/>
+        <div id="pet-info-drag" class="mu-button MuButton_Drag pet-info-drag"/>
+        <div id="pet-info-close" class="mu-button MuButton_Close"/>
+    </div>
+</body>
+</rml>

@@ -1,0 +1,16 @@
+<rml><head><title>KanturuInfo</title><meta name="mu-design-Menu-Size" content="183.6 145.000168"/><meta name="mu-design-Menu-Reference" content="640 480"/><meta name="mu-design-Panel-Initial" content="20 20"/>
+<meta name="mu-design-Source-Scale" content="0.6 0.5"/><meta name="mu-design-Source-SmallScale" content="0.5 0.4"/><link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="kanturu_info.rcss"/>
+<link type="text/rcss" href="kanturu_info_gfx.generated.rcss"/>
+<link type="text/rcss" href="kanturu_info_gfx_skins.generated.rcss"/>
+<link type="text/rcss" href="kanturu_info_layout.generated.rcss"/></head><body><div id="menu">
+<div id="source"><div id="art-7" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/><i class="piece-3"/><i class="piece-4"/><i class="piece-5"/><i class="piece-6"/><i class="piece-7"/><i class="piece-8"/></div>
+<div id="strUserCount" class="text-area mu-text-area MuTextAreaA"/>
+<div id="strTime" class="text-area mu-text-area MuTextAreaA"/>
+<div id="strMonsterCount" class="text-area mu-text-area MuTextAreaA"/>
+<div id="art-3" class="art"><i class="piece-0"/></div>
+<div id="art-2" class="art"><i class="piece-0"/></div>
+<div id="art-1" class="art"><i class="piece-0"/></div>
+<div id="art-0" class="art"><i class="piece-0"/></div></div>
+</div></body></rml>

@@ -1,0 +1,240 @@
+/* Friend-only GFx skins. Promote only after exact reuse by another approved UI. */
+
+.popup_bg_dub01 { decorator: image(FriendMenu.popup_bg_dub01); }
+.Bitmap433 { decorator: image(FriendMenu.Bitmap433); }
+.mu-frame-friend-list {
+    decorator: tiled-box(
+        FriendMenu.textbg01, FriendMenu.textbg02, FriendMenu.textbg03,
+        FriendMenu.textbg04, FriendMenu.textbg05, FriendMenu.textbg06,
+        FriendMenu.textbg07, FriendMenu.textbg08, FriendMenu.textbg09
+    );
+}
+
+.data-grid-title-cell {
+    position: absolute;
+    height: 25px;
+    display: none;
+    pointer-events: none;
+    decorator: tiled-box(
+        FriendMenu.textbg01, FriendMenu.textbg02, FriendMenu.textbg03,
+        FriendMenu.textbg04, FriendMenu.textbg05, FriendMenu.textbg06,
+        FriendMenu.textbg07, FriendMenu.textbg08, FriendMenu.textbg09
+    );
+}
+.mcFriendTitle > .data-grid-cell-0 { display: block; left: 0px; width: 227px; }
+.mcFriendTitle > .data-grid-cell-1 { display: block; left: 228px; width: 228px; }
+.mcMailTitle > .data-grid-cell-0 { display: block; left: 0px; width: 53px; }
+.mcMailTitle > .data-grid-cell-1 { display: block; left: 54px; width: 100px; }
+.mcMailTitle > .data-grid-cell-2 { display: block; left: 155px; width: 90px; }
+.mcMailTitle > .data-grid-cell-3 { display: block; left: 246px; width: 210px; }
+.mcWindowTitle > .data-grid-cell-0 { display: block; left: 0px; width: 456px; }
+
+.dataGridItem_Server,
+.dataGridItem_Mail_renewal_co,
+.dataGridItem_Title {
+    width: 456px;
+    height: 20px;
+    background-color: transparent;
+}
+.data-grid-cell {
+    position: absolute;
+    top: 4px;
+    height: 22px;
+    display: none;
+    background-color: rgba(51, 51, 51, 76);
+    border-radius: 2px;
+    pointer-events: none;
+}
+.dataGridItem_Server > .data-grid-cell-0 { display: block; left: 0px; width: 225px; }
+.dataGridItem_Server > .data-grid-cell-1 { display: block; left: 230px; width: 226px; }
+.dataGridItem_Mail_renewal_co > .data-grid-cell-0 { display: block; left: 0px; width: 48px; }
+.dataGridItem_Mail_renewal_co > .data-grid-cell-1 { display: block; left: 54px; width: 98px; }
+.dataGridItem_Mail_renewal_co > .data-grid-cell-2 { display: block; left: 157px; width: 90px; }
+.dataGridItem_Mail_renewal_co > .data-grid-cell-3 { display: block; left: 252px; width: 204px; }
+.dataGridItem_Title > .data-grid-cell-0 { display: block; left: 0px; width: 456px; }
+.dataGridItem_Server:hover > .data-grid-cell,
+.dataGridItem_Mail_renewal_co:hover > .data-grid-cell,
+.dataGridItem_Title:hover > .data-grid-cell,
+.dataGridItem_Server.over > .data-grid-cell,
+.dataGridItem_Mail_renewal_co.over > .data-grid-cell,
+.dataGridItem_Title.over > .data-grid-cell {
+    background-color: rgba(0, 153, 153, 102);
+}
+.dataGridItem_Server:active > .data-grid-cell,
+.dataGridItem_Mail_renewal_co:active > .data-grid-cell,
+.dataGridItem_Title:active > .data-grid-cell,
+.dataGridItem_Server.down > .data-grid-cell,
+.dataGridItem_Mail_renewal_co.down > .data-grid-cell,
+.dataGridItem_Title.down > .data-grid-cell {
+    background-color: rgba(0, 153, 153, 76);
+}
+.dataGridItem_Server.selected > .data-grid-cell,
+.dataGridItem_Mail_renewal_co.selected > .data-grid-cell,
+.dataGridItem_Title.selected > .data-grid-cell {
+    background-color: rgba(0, 153, 204, 76);
+}
+.dataGridItem_Server.selected:hover > .data-grid-cell,
+.dataGridItem_Mail_renewal_co.selected:hover > .data-grid-cell,
+.dataGridItem_Title.selected:hover > .data-grid-cell {
+    background-color: rgba(0, 153, 204, 102);
+}
+
+.MuButton_L01 { width: 95px; height: 35px; decorator: image(FriendMenu.btn_l01); }
+.MuButton_L01.over,
+.MuButton_L01:hover { decorator: image(FriendMenu.btn_l02); }
+.MuButton_L01.down,
+.MuButton_L01:active { decorator: image(FriendMenu.btn_l03); }
+.MuButton_L01.disabled,
+.MuButton_L01:disabled { decorator: image(FriendMenu.btn_l04); }
+.MuButton_L01 span {
+    position: absolute;
+    left: 4px;
+    top: 6px;
+    width: 87px;
+    height: 22px;
+    line-height: 22px;
+    font-size: 13px;
+    text-align: center;
+    color: #ffc000;
+}
+.MuButton_toggleTap { width: 108px; height: 31px; decorator: image(PetInfo.btn_s01_1); }
+.MuButton_toggleTap.over,
+.MuButton_toggleTap:hover,
+.MuButton_toggleTap.selected,
+.MuButton_toggleTap.selected:hover { decorator: image(PetInfo.btn_select_1); }
+.MuButton_toggleTap.down,
+.MuButton_toggleTap:active { decorator: image(PetInfo.btn_s01_1); }
+.MuButton_toggleTap span {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    width: 98px;
+    height: 21px;
+    line-height: 21px;
+    text-align: center;
+    font-size: 13px;
+}
+.MuButton_toggleTap.selected span { color: #ffc000; }
+.MuButton_M01 { width: 75px; height: 35px; decorator: image(FriendMenu.btn_l01); }
+.MuButton_M01.over,
+.MuButton_M01:hover { decorator: image(FriendMenu.btn_l02); }
+.MuButton_M01.down,
+.MuButton_M01:active { decorator: image(FriendMenu.btn_l03); }
+.MuButton_M01.disabled,
+.MuButton_M01:disabled { decorator: image(FriendMenu.btn_l04); }
+.MuButton_M01 span {
+    position: absolute;
+    left: 4px;
+    top: 6px;
+    width: 67px;
+    height: 22px;
+    line-height: 22px;
+    font-size: 13px;
+    text-align: center;
+    color: #c6c6c6;
+}
+.MuButton_M01.disabled span,
+.MuButton_M01:disabled span { color: #666666; }
+.MuButton_Close2 { width: 18px; height: 18px; decorator: image(FriendMenu.btn_close01); }
+.MuButton_Close2.over,
+.MuButton_Close2:hover { decorator: image(FriendMenu.btn_close02); }
+.MuButton_Close2.down,
+.MuButton_Close2:active { decorator: image(FriendMenu.btn_close03); }
+.MuButton_Close2.disabled,
+.MuButton_Close2:disabled { decorator: image(FriendMenu.btn_close04); }
+.MuButton_bigWnd { width: 18px; height: 18px; decorator: image(FriendWindow.mubutton_smo2_01); }
+.MuButton_bigWnd.over,
+.MuButton_bigWnd:hover { decorator: image(FriendWindow.mubutton_smo2_02); }
+.MuButton_bigWnd.down,
+.MuButton_bigWnd:active { decorator: image(FriendWindow.mubutton_smo2_03); }
+.MuButton_bigWnd.disabled,
+.MuButton_bigWnd:disabled { decorator: image(FriendWindow.mubutton_smo2_04); }
+
+.MuButton_sbTrack { decorator: image(FriendWindow.scroll_bg02); pointer-events: auto; }
+.MuButton_sbTrack.over,
+.MuButton_sbTrack:hover,
+.MuButton_sbTrack.down,
+.MuButton_sbTrack:active { decorator: image(FriendWindow.scroll_bg02); }
+.MuButton_sbTrack.disabled { decorator: image(FriendWindow.scroll_bg02); pointer-events: none; }
+.MuButton_sbArrowUP { decorator: image(FriendWindow.scroll_btn01); pointer-events: auto; }
+.MuButton_sbArrowUP.over,
+.MuButton_sbArrowUP:hover { decorator: image(FriendWindow.scroll_btn02); }
+.MuButton_sbArrowUP.down,
+.MuButton_sbArrowUP:active { decorator: image(FriendWindow.scroll_btn03); }
+.MuButton_sbArrowUP.disabled { decorator: image(FriendWindow.scroll_btn04); pointer-events: none; }
+.MuButton_sbArrowDOWN { decorator: image(FriendWindow.scroll_btn05); pointer-events: auto; }
+.MuButton_sbArrowDOWN.over,
+.MuButton_sbArrowDOWN:hover { decorator: image(FriendWindow.scroll_btn06); }
+.MuButton_sbArrowDOWN.down,
+.MuButton_sbArrowDOWN:active { decorator: image(FriendWindow.scroll_btn07); }
+.MuButton_sbArrowDOWN.disabled { decorator: image(FriendWindow.scroll_btn08); pointer-events: none; }
+.MuButton_sbThumb {
+    decorator: image(FriendWindow.scroll01);
+    pointer-events: auto;
+    cursor: move;
+    drag: drag;
+}
+.MuButton_sbThumb.over,
+.MuButton_sbThumb:hover { decorator: image(FriendWindow.scroll02); }
+.MuButton_sbThumb.down,
+.MuButton_sbThumb:active { decorator: image(FriendWindow.scroll03); }
+.MuButton_sbThumb.disabled { decorator: image(FriendWindow.scroll04); pointer-events: none; }
+
+.dataGridItem_Check { width: 12px; height: 12px; decorator: image(FriendMenu.Bitmap225); }
+.dataGridItem_Check:hover,
+.dataGridItem_Check:active { decorator: image(FriendMenu.Bitmap225); }
+.dataGridItem_Check:checked,
+.dataGridItem_Check:checked:hover,
+.dataGridItem_Check:checked:active { decorator: image(FriendMenu.Bitmap228); }
+.MuCheckBox_mail01 { width: 12px; height: 12px; decorator: image(FriendMenu.Bitmap379); }
+.MuCheckBox_mail01:hover,
+.MuCheckBox_mail01:active { decorator: image(FriendMenu.Bitmap379); }
+.MuCheckBox_mail01:checked,
+.MuCheckBox_mail01:checked:hover,
+.MuCheckBox_mail01:checked:active { decorator: image(FriendMenu.Bitmap384); }
+.MuCheckBox_etc { width: 13px; height: 13px; decorator: image(FriendMenu.checkbox_0_01); }
+.MuCheckBox_etc:hover { decorator: image(FriendMenu.checkbox_0_02); }
+.MuCheckBox_etc:active { decorator: image(FriendMenu.checkbox_0_03); }
+.MuCheckBox_etc:checked { decorator: image(FriendMenu.checkbox_1_01); }
+.MuCheckBox_etc:checked:hover { decorator: image(FriendMenu.checkbox_1_02); }
+.MuCheckBox_etc:checked:active { decorator: image(FriendMenu.checkbox_1_03); }
+
+.mu-icon-mail { width: 19px; height: 12px; decorator: image(FriendMenu.Bitmap216); }
+.mu-icon-mail.read { width: 19px; height: 15px; decorator: image(FriendMenu.Bitmap218); }
+.mu-icon-mail-header { width: 19px; height: 12px; decorator: image(FriendMenu.Bitmap381); }
+.mu-icon-bullet { width: 14px; height: 15px; decorator: image(FriendWindow.point); }
+
+.TextArea_스크롤 scrollbarhorizontal,
+.TextArea_스크롤 scrollbarcorner { width: 0; height: 0; }
+.TextArea_스크롤 scrollbarvertical { width: 22px; }
+.TextArea_스크롤 scrollbarvertical slidertrack {
+    width: 15px;
+    margin-left: 3.5px;
+    decorator: image(FriendWindow.scroll_bg02);
+}
+.TextArea_스크롤 scrollbarvertical sliderbar {
+    width: 16px;
+    min-height: 41px;
+    margin-left: 3px;
+    decorator: image(FriendWindow.scroll01);
+}
+.TextArea_스크롤 scrollbarvertical sliderbar:hover { decorator: image(FriendWindow.scroll02); }
+.TextArea_스크롤 scrollbarvertical sliderbar:active { decorator: image(FriendWindow.scroll03); }
+.TextArea_스크롤 scrollbarvertical sliderarrowdec,
+.TextArea_스크롤 scrollbarvertical sliderarrowinc { width: 22px; height: 14px; }
+.TextArea_스크롤 scrollbarvertical sliderarrowdec { decorator: image(FriendWindow.scroll_btn01); }
+.TextArea_스크롤 scrollbarvertical sliderarrowdec:hover { decorator: image(FriendWindow.scroll_btn02); }
+.TextArea_스크롤 scrollbarvertical sliderarrowdec:active { decorator: image(FriendWindow.scroll_btn03); }
+.TextArea_스크롤 scrollbarvertical sliderarrowinc { decorator: image(FriendWindow.scroll_btn05); }
+.TextArea_스크롤 scrollbarvertical sliderarrowinc:hover { decorator: image(FriendWindow.scroll_btn06); }
+.TextArea_스크롤 scrollbarvertical sliderarrowinc:active { decorator: image(FriendWindow.scroll_btn07); }
+
+.MuButton_Drag { cursor: move; drag: drag; pointer-events: auto; }
+
+.MuButton_Close { width: 19px; height: 19px; decorator: image(FriendMenu.btn_close01); }
+.MuButton_Close.over,
+.MuButton_Close:hover { decorator: image(FriendMenu.btn_close02); }
+.MuButton_Close.down,
+.MuButton_Close:active { decorator: image(FriendMenu.btn_close03); }
+.MuButton_Close.disabled,
+.MuButton_Close:disabled { decorator: image(FriendMenu.btn_close04); }

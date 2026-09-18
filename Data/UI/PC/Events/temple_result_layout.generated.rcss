@@ -1,0 +1,80 @@
+/* Generated from exact source instance matrices and bitmap bounds. */
+#panel { width: 310px; height: 516px; }
+#mcMatchResult { width: 310px; height: 450px; left: 0px; top: 66px; }
+#mcMatchResult-art-19 { width: 310px; height: 450px; left: 0px; top: 0px; }
+#mcMatchResult-art-19 > .piece-0 { left: 0px; top: 0px; width: 16px; height: 16px; }
+#mcMatchResult-art-19 > .piece-1 { left: 16px; top: 0px; width: 278px; height: 16px; }
+#mcMatchResult-art-19 > .piece-2 { left: 294px; top: 0px; width: 16px; height: 16px; }
+#mcMatchResult-art-19 > .piece-3 { left: 0px; top: 16px; width: 16px; height: 418px; }
+#mcMatchResult-art-19 > .piece-4 { left: 16px; top: 16px; width: 278px; height: 418px; }
+#mcMatchResult-art-19 > .piece-5 { left: 294px; top: 16px; width: 16px; height: 418px; }
+#mcMatchResult-art-19 > .piece-6 { left: 0px; top: 434px; width: 16px; height: 16px; }
+#mcMatchResult-art-19 > .piece-7 { left: 16px; top: 434px; width: 278px; height: 16px; }
+#mcMatchResult-art-19 > .piece-8 { left: 294px; top: 434px; width: 16px; height: 16px; }
+#mcMatchResult-art-18 { width: 286px; height: 145px; left: 12px; top: 74px; }
+#mcMatchResult-art-18 > .piece-0 { left: 0px; top: 0px; width: 286px; height: 12px; }
+#mcMatchResult-art-18 > .piece-1 { left: 0px; top: 12px; width: 286px; height: 123px; }
+#mcMatchResult-art-18 > .piece-2 { left: 0px; top: 135px; width: 286px; height: 10px; }
+#slAlliedTeamResult { width: 261px; height: 98px; left: 23px; top: 107px; }
+#slAlliedTeamResult > .piece-0 { left: 8px; top: 0px; width: 245px; height: 8px; }
+#slAlliedTeamResult > .piece-1 { left: 253px; top: 0px; width: 8px; height: 8px; }
+#slAlliedTeamResult > .piece-2 { left: 0px; top: 0.05px; width: 8px; height: 8px; }
+#slAlliedTeamResult > .piece-3 { left: 0px; top: 8px; width: 8px; height: 82px; }
+#slAlliedTeamResult > .piece-4 { left: 8px; top: 8px; width: 245px; height: 82px; }
+#slAlliedTeamResult > .piece-5 { left: 253px; top: 8px; width: 8px; height: 82px; }
+#slAlliedTeamResult > .piece-6 { left: 0px; top: 90px; width: 8px; height: 8px; }
+#slAlliedTeamResult > .piece-7 { left: 8px; top: 90px; width: 245px; height: 8px; }
+#slAlliedTeamResult > .piece-8 { left: 253px; top: 90px; width: 8px; height: 8px; }
+#mcMatchResult-art-16 { width: 286px; height: 145px; left: 12px; top: 247px; }
+#mcMatchResult-art-16 > .piece-0 { left: 0px; top: 0px; width: 286px; height: 12px; }
+#mcMatchResult-art-16 > .piece-1 { left: 0px; top: 12px; width: 286px; height: 123px; }
+#mcMatchResult-art-16 > .piece-2 { left: 0px; top: 135px; width: 286px; height: 10px; }
+#mcMatchResult-art-15 { width: 261px; height: 98px; left: 23px; top: 280px; }
+#mcMatchResult-art-15 > .piece-0 { left: 8px; top: 0px; width: 245px; height: 8px; }
+#mcMatchResult-art-15 > .piece-1 { left: 253px; top: 0px; width: 8px; height: 8px; }
+#mcMatchResult-art-15 > .piece-2 { left: 0px; top: 0.05px; width: 8px; height: 8px; }
+#mcMatchResult-art-15 > .piece-3 { left: 0px; top: 8px; width: 8px; height: 82px; }
+#mcMatchResult-art-15 > .piece-4 { left: 8px; top: 8px; width: 245px; height: 82px; }
+#mcMatchResult-art-15 > .piece-5 { left: 253px; top: 8px; width: 8px; height: 82px; }
+#mcMatchResult-art-15 > .piece-6 { left: 0px; top: 90px; width: 8px; height: 8px; }
+#mcMatchResult-art-15 > .piece-7 { left: 8px; top: 90px; width: 245px; height: 8px; }
+#mcMatchResult-art-15 > .piece-8 { left: 253px; top: 90px; width: 8px; height: 8px; }
+#mcMatchResult-art-14 { width: 275px; height: 197px; left: 0px; top: 0px; }
+#mcMatchResult-art-14 > .piece-7 { left: 195px; top: 53px; width: 8px; height: 24px; }
+#mcMatchResult-art-14 > .piece-6 { left: 203px; top: 53px; width: 82px; height: 24px; }
+#mcMatchResult-art-14 > .piece-5 { left: 285px; top: 53px; width: 8px; height: 24px; }
+#mcMatchResult-art-14 > .piece-4 { left: 195px; top: 226px; width: 8px; height: 24px; }
+#mcMatchResult-art-14 > .piece-3 { left: 203px; top: 226px; width: 82px; height: 24px; }
+#mcMatchResult-art-14 > .piece-2 { left: 285px; top: 226px; width: 8px; height: 24px; }
+#mcMatchResult-art-14 > .piece-1 { left: 18px; top: 55px; width: 19px; height: 20px; }
+#mcMatchResult-art-14 > .piece-0 { left: 18px; top: 229px; width: 19px; height: 20px; }
+#btnClose { width: 70px; height: 30px; left: 120px; top: 403px; }
+#btnClose > .state-up > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnClose > .state-over > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnClose > .state-down > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnClose > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#tfTitle { width: 196px; height: 13.8px; left: 55px; top: 14px; }
+#tfAlliedChararcter { width: 66px; height: 12.6px; left: 50px; top: 87px; }
+#tfAlliedClass { width: 66px; height: 12.6px; left: 140px; top: 87px; }
+#tfAlliedPoint { width: 66px; height: 12.6px; left: 221px; top: 87px; }
+#tfIllusionChararcter { width: 66px; height: 12.6px; left: 50px; top: 260px; }
+#tfIllusionClass { width: 66px; height: 12.6px; left: 140px; top: 260px; }
+#tfIllusionPoint { width: 66px; height: 12.6px; left: 221px; top: 260px; }
+#tfAlliedTeam { width: 86px; height: 12.6px; left: 38px; top: 56px; }
+#tfAlliedGuild { width: 86px; height: 12.6px; left: 198px; top: 56px; }
+#tfIllusionTeam { width: 86px; height: 12.6px; left: 38px; top: 229px; }
+#tfIllusionGuild { width: 86px; height: 12.6px; left: 198px; top: 229px; }
+#slAlliedTeamInfo { width: 243.807301px; height: 83.083832px; left: 30px; top: 113px; transform-origin: 0px 0px; transform: matrix(1, 0, 0, 1.00058, 0, 0); }
+#slAlliedTeamInfo { transform: none; width: 247.95px; height: 86.049866px; box-sizing: border-box; padding-bottom: 2px; overflow: hidden; }
+#slIllusionTeamInfo { width: 243.807301px; height: 83.083832px; left: 30px; top: 286px; transform-origin: 0px 0px; transform: matrix(1, 0, 0, 1.00058, 0, 0); }
+#slIllusionTeamInfo { transform: none; width: 247.95px; height: 86.049866px; box-sizing: border-box; padding-bottom: 2px; overflow: hidden; }
+#mcMatchResult > .piece-0 { left: 7px; top: 34px; width: 293px; height: 9px; }
+#mcWinLose { width: 303px; height: 58px; left: 4px; top: 0px; }
+#mcWinLose-art-2 { width: 303px; height: 52px; left: 0px; top: 0px; }
+#mcWinLose-art-2 > .piece-1 { left: 260px; top: 4px; width: 43px; height: 52px; }
+#mcWinLose-art-2 > .piece-0 { left: 0px; top: 4px; width: 43px; height: 51.95px; }
+#mcLoseResult { width: 156px; height: 58px; left: 76px; top: 0px; }
+#mcLoseResult > .piece-0 { left: 0px; top: 0px; width: 156px; height: 58px; }
+#mcWinResult { width: 156px; height: 58px; left: 76px; top: 0px; }
+#mcWinResult > .piece-0 { left: 0px; top: 0px; width: 156px; height: 58px; }
+.temple-row { left: 1px; right: 1px; width: auto; height: 16px; margin-top: 1px; }

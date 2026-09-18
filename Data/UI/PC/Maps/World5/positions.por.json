@@ -1,0 +1,104 @@
+{
+  "world": "World5",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World5_por.bmd",
+  "sourceSha256": "89f5048eb76afa6c048d21af79f95003d26dc7d77cda61f5ee0cad5f9a6ea0b4",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 201,
+      "y": 76,
+      "rotation": 135,
+      "name": "Guardião de segurança",
+      "npcNumber": 240,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 207,
+      "y": 76,
+      "rotation": 45,
+      "name": "Amy, a Garota das poções",
+      "npcNumber": 253,
+      "index": 1
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 164,
+      "y": 0,
+      "rotation": 315,
+      "name": "Entrada para Devias"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 190,
+      "y": 5,
+      "rotation": 225,
+      "name": "Entrada para o n�vel 2 da Torre Perdida",
+      "sourceNameHex": "456e74726164612070617261206f206eed76656c203220646120546f7272652050657264696461"
+    },
+    {
+      "index": 4,
+      "kind": "portal",
+      "x": 165,
+      "y": 165,
+      "rotation": 225,
+      "name": "Entrada para o n�vel 3 da Torre Perdida",
+      "sourceNameHex": "456e74726164612070617261206f206eed76656c203320646120546f7272652050657264696461"
+    },
+    {
+      "index": 5,
+      "kind": "portal",
+      "x": 133,
+      "y": 246,
+      "rotation": 135,
+      "name": "Entrada para o n�vel 4 da Torre Perdida",
+      "sourceNameHex": "456e74726164612070617261206f206eed76656c203420646120546f7272652050657264696461"
+    },
+    {
+      "index": 6,
+      "kind": "portal",
+      "x": 133,
+      "y": 136,
+      "rotation": 135,
+      "name": "Entrada para o n�vel 5 da Torre Perdida",
+      "sourceNameHex": "456e74726164612070617261206f206eed76656c203520646120546f7272652050657264696461"
+    },
+    {
+      "index": 7,
+      "kind": "portal",
+      "x": 129,
+      "y": 14,
+      "rotation": 225,
+      "name": "Entrada para o n�vel 6 da Torre Perdida",
+      "sourceNameHex": "456e74726164612070617261206f206eed76656c203620646120546f7272652050657264696461"
+    },
+    {
+      "index": 8,
+      "kind": "portal",
+      "x": 4,
+      "y": 7,
+      "rotation": 225,
+      "name": "Entrada para o n�vel 7 da Torre Perdida",
+      "sourceNameHex": "456e74726164612070617261206f206eed76656c203720646120546f7272652050657264696461"
+    },
+    {
+      "index": 9,
+      "kind": "portal",
+      "x": 16,
+      "y": 250,
+      "rotation": 135,
+      "name": "Entrada para Icarus"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

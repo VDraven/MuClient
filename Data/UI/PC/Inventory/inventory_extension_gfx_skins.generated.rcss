@@ -1,0 +1,40 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#symbol-57-0 > .garage_bg2-0 { decorator: image(ExtensionBagFrame.garage_bg2); }
+#symbol-57-0 > .inven_no4_1-1 { decorator: image(ExtensionBagFrame.inven_no4_1); }
+#symbol-57-0 > .bag_bg2-2 { decorator: image(ExtensionBagFrame.bag_bg2); }
+#symbol-54-3 > .invenbg01-0 { decorator: image(ExtensionBagFrame.invenbg01); }
+#symbol-54-3 > .invenbg02-1 { decorator: image(ExtensionBagFrame.invenbg02); }
+#symbol-54-3 > .invenbg02-2 { decorator: image(ExtensionBagFrame.invenbg02); }
+#symbol-54-3 > .invenbg03-3 { decorator: image(ExtensionBagFrame.invenbg03); }
+#symbol-56-0 > .garage_bg2-0 { decorator: image(ExtensionBagFrame.garage_bg2); }
+#symbol-56-0 > .inven_no3_1-1 { decorator: image(ExtensionBagFrame.inven_no3_1); }
+#symbol-56-0 > .bag_bg2-2 { decorator: image(ExtensionBagFrame.bag_bg2); }
+#symbol-54-2 > .invenbg01-0 { decorator: image(ExtensionBagFrame.invenbg01); }
+#symbol-54-2 > .invenbg02-1 { decorator: image(ExtensionBagFrame.invenbg02); }
+#symbol-54-2 > .invenbg02-2 { decorator: image(ExtensionBagFrame.invenbg02); }
+#symbol-54-2 > .invenbg03-3 { decorator: image(ExtensionBagFrame.invenbg03); }
+#symbol-55-0 > .garage_bg2-0 { decorator: image(ExtensionBagFrame.garage_bg2); }
+#symbol-55-0 > .inven_no2_1-1 { decorator: image(ExtensionBagFrame.inven_no2_1); }
+#symbol-55-0 > .bag_bg2-2 { decorator: image(ExtensionBagFrame.bag_bg2); }
+#symbol-54-1 > .invenbg01-0 { decorator: image(ExtensionBagFrame.invenbg01); }
+#symbol-54-1 > .invenbg02-1 { decorator: image(ExtensionBagFrame.invenbg02); }
+#symbol-54-1 > .invenbg02-2 { decorator: image(ExtensionBagFrame.invenbg02); }
+#symbol-54-1 > .invenbg03-3 { decorator: image(ExtensionBagFrame.invenbg03); }
+#symbol-52-0 > .popup_01_1-0 { decorator: image(ExtensionBagFrame.popup_01_1); }
+#symbol-52-0 > .garage_bg2-1 { decorator: image(ExtensionBagFrame.garage_bg2); }
+#symbol-52-0 > .inven_no1_1-2 { decorator: image(ExtensionBagFrame.inven_no1_1); }
+#symbol-52-0 > .bag_bg2-3 { decorator: image(ExtensionBagFrame.bag_bg2); }
+#symbol-54-0 > .invenbg01-0 { decorator: image(ExtensionBagFrame.invenbg01); }
+#symbol-54-0 > .invenbg02-1 { decorator: image(ExtensionBagFrame.invenbg02); }
+#symbol-54-0 > .invenbg02-2 { decorator: image(ExtensionBagFrame.invenbg02); }
+#symbol-54-0 > .invenbg03-3 { decorator: image(ExtensionBagFrame.invenbg03); }
+.MuButton_Close { decorator: image(ExtensionBagFrame.btn_close01); }
+.MuButton_Close.over, .MuButton_Close:hover { decorator: image(ExtensionBagFrame.btn_close02); }
+.MuButton_Close.down, .MuButton_Close:active { decorator: image(ExtensionBagFrame.btn_close03); }
+.MuButton_Close.disabled { decorator: image(ExtensionBagFrame.btn_close04); }
+.MuItemSlot_clear01.icon-frame-2 { decorator: image(ExtensionBagFrame.02_inven_select3_2); }
+.MuItemSlot_clear01.icon-frame-3 { decorator: image(ExtensionBagFrame.03_inven_select3_3); }
+.MuItemSlot_clear01.icon-frame-4 { decorator: image(ExtensionBagFrame.04_inven_select3_4); }
+.MuItemSlot_clear01.icon-frame-5 { decorator: image(ExtensionBagFrame.05_inven_select3_5); }
+.MuItemSlot_clear01.icon-frame-6 { decorator: image(ExtensionBagFrame.06_inven_select3_5); }
+.MuItemSlot_clear01.icon-frame-7 { decorator: image(ExtensionBagFrame.07_inven_select3_7); }

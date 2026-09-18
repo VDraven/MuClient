@@ -1,0 +1,23 @@
+{
+  "world": "World11",
+  "language": null,
+  "source": "World11/Minimap.bmd",
+  "sourceSha256": "5a0e9881b4622389d1684ed32b0e7975cd92a576eed1c47e72bf8580d85df93a",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 13,
+      "y": 8,
+      "rotation": 315,
+      "name": "���X�g�^���[",
+      "sourceNameHex": "838d83588367835e838f815b"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

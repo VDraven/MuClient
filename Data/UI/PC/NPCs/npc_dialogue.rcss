@@ -1,0 +1,2 @@
+body { display: block; }
+#menu { position: absolute; }

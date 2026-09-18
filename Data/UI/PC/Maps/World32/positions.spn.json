@@ -1,0 +1,24 @@
+{
+  "world": "World32",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World32_spn.bmd",
+  "sourceSha256": "72a4063d38384825b22cc196bf501e746b0922200a9ba18e4c50af200b552181",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 60,
+      "y": 8,
+      "rotation": 315,
+      "name": "Entrada al Valle de Loren"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

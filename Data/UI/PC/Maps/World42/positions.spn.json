@@ -1,0 +1,25 @@
+{
+  "world": "World42",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World42_spn.bmd",
+  "sourceSha256": "1a17eb491c46a0a3eb7934670044622124d53716577bda602fe0a77d0ff3b25a",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 119,
+      "y": 168,
+      "rotation": 90,
+      "name": "Guardián de Entrada",
+      "npcNumber": 408,
+      "index": 0
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

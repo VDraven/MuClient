@@ -1,0 +1,69 @@
+<rml>
+<head>
+<meta name="mu-design-PartyFrame-ReferenceWidth" content="640.0"/>
+<meta name="mu-design-PartyFrame-ReferenceHeight" content="480.0"/>
+<meta name="mu-design-PartyFrame-HeaderWidth" content="147.0"/>
+<meta name="mu-design-PartyFrame-HeaderHeight" content="19.0"/>
+<meta name="mu-design-PartyFrame-MemberX" content="-1"/>
+<meta name="mu-design-PartyFrame-MemberWidth" content="150.0"/>
+<meta name="mu-design-PartyFrame-MemberHeight" content="45"/>
+<meta name="mu-design-PartyFrame-FirstRowY" content="17"/>
+<meta name="mu-design-PartyFrame-RowStep" content="45"/>
+<meta name="mu-design-PartyFrame-MinimizeX" content="132"/>
+<meta name="mu-design-PartyFrame-MinimizeY" content="3"/>
+<meta name="mu-design-PartyFrame-MinimizeSize" content="13.0"/>
+<meta name="mu-design-PartyFrame-HpX" content="25"/>
+<meta name="mu-design-PartyFrame-HpY" content="23"/>
+<meta name="mu-design-PartyFrame-HpWidth" content="120.0"/>
+<meta name="mu-design-PartyFrame-HpHeight" content="6.0"/>
+<meta name="mu-design-PartyFrame-MpX" content="25"/>
+<meta name="mu-design-PartyFrame-MpY" content="32"/>
+<meta name="mu-design-PartyFrame-MpWidth" content="120.0"/>
+<meta name="mu-design-PartyFrame-MpHeight" content="6.0"/>
+<meta name="mu-design-PartyFrame-OverlayX" content="1.0"/>
+<meta name="mu-design-PartyFrame-OverlayY" content="1.0"/>
+<meta name="mu-design-PartyFrame-OverlayWidth" content="147.0"/>
+<meta name="mu-design-PartyFrame-OverlayHeight" content="40.0"/>
+<meta name="mu-design-PartyFrame-CrownX" content="0.95"/>
+<meta name="mu-design-PartyFrame-CrownY" content="20.85"/>
+<meta name="mu-design-PartyFrame-CrownWidth" content="24.0"/>
+<meta name="mu-design-PartyFrame-CrownHeight" content="19.0"/>
+<meta name="mu-design-PartyFrame-LeaveX" content="128"/>
+<meta name="mu-design-PartyFrame-LeaveY" content="3"/>
+<meta name="mu-design-PartyFrame-LeaveSize" content="18.0"/>
+<meta name="mu-design-PartyFrame-BackgroundHeight" content="42.0"/>
+<meta name="mu-design-PartyFrame-InitialY" content="38"/>
+<meta name="mu-design-PartyFrame-WorldHpBarWidth" content="38.0"/>
+
+    <title>MU Online Party Frame</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="party_frame.rcss"/>
+    <link type="text/rcss" href="party_frame_gfx_skins.generated.rcss"/>
+    <link type="text/rcss" href="party_frame_gfx.generated.rcss"/>
+<meta name="mu-design-PartyFrame-WorldHpRaise" content="100"/>
+<meta name="mu-design-PartyFrame-WorldHpHoverY" content="-2 6"/>
+<meta name="mu-design-PartyFrame-WorldHpTextY" content="-6"/>
+<meta name="mu-design-PartyFrame-WorldHpTextColor" content="255 230 210 255"/>
+<meta name="mu-design-PartyFrame-WorldHpShadowRect" content="1 1 42 5"/>
+<meta name="mu-design-PartyFrame-WorldHpFrameRect" content="0 0 42 5"/>
+<meta name="mu-design-PartyFrame-WorldHpTrackRect" content="2 2 38 1"/>
+<meta name="mu-design-PartyFrame-WorldHpStepRect" content="2 2 3 2"/>
+<meta name="mu-design-PartyFrame-WorldHpStepStride" content="4"/>
+<meta name="mu-design-PartyFrame-WorldHpShadowColor" content="0 0 0 0.5"/>
+<meta name="mu-design-PartyFrame-WorldHpFrameColor" content="0.2 0 0"/>
+<meta name="mu-design-PartyFrame-WorldHpTrackColor" content="0.196078431372549 0.0392156862745098 0"/>
+<meta name="mu-design-PartyFrame-WorldHpStepColor" content="0.980392156862745 0.0392156862745098 0"/>
+</head>
+<body>
+    <div id="party-frame" class="party-frame">
+        <div id="party-dragbar" class="party-dragbar MuButton_DragBar_party"/>
+        <div id="party-minimize" class="mu-button party-minimize MuButton_Minimize"/>
+        <div id="party-member-0" class="party-member Button_hidden"><div id="party-background-0" class="party-background"/><div id="party-channel-0" class="party-channel Label_ch"/><div id="party-name-0" class="party-name Label_name"/><div id="party-hp-clip-0" class="party-gauge-clip"><div id="party-hp-0" class="party-hp MuProgressBar_partyHP"/></div><div id="party-mp-clip-0" class="party-gauge-clip"><div id="party-mp-0" class="party-mp MuProgressBar_partyMP"/></div><div id="party-crown-0" class="party-crown ButtonPartyMaster"><i/></div><div id="party-leave-0" class="mu-button party-leave ButtonPartyLeave"/><div class="party-hover"/><div id="party-overlay-0" class="party-overlay"/></div>
+        <div id="party-member-1" class="party-member Button_hidden"><div id="party-background-1" class="party-background"/><div id="party-channel-1" class="party-channel Label_ch"/><div id="party-name-1" class="party-name Label_name"/><div id="party-hp-clip-1" class="party-gauge-clip"><div id="party-hp-1" class="party-hp MuProgressBar_partyHP"/></div><div id="party-mp-clip-1" class="party-gauge-clip"><div id="party-mp-1" class="party-mp MuProgressBar_partyMP"/></div><div id="party-crown-1" class="party-crown ButtonPartyMaster"><i/></div><div id="party-leave-1" class="mu-button party-leave ButtonPartyLeave"/><div class="party-hover"/><div id="party-overlay-1" class="party-overlay"/></div>
+        <div id="party-member-2" class="party-member Button_hidden"><div id="party-background-2" class="party-background"/><div id="party-channel-2" class="party-channel Label_ch"/><div id="party-name-2" class="party-name Label_name"/><div id="party-hp-clip-2" class="party-gauge-clip"><div id="party-hp-2" class="party-hp MuProgressBar_partyHP"/></div><div id="party-mp-clip-2" class="party-gauge-clip"><div id="party-mp-2" class="party-mp MuProgressBar_partyMP"/></div><div id="party-crown-2" class="party-crown ButtonPartyMaster"><i/></div><div id="party-leave-2" class="mu-button party-leave ButtonPartyLeave"/><div class="party-hover"/><div id="party-overlay-2" class="party-overlay"/></div>
+        <div id="party-member-3" class="party-member Button_hidden"><div id="party-background-3" class="party-background"/><div id="party-channel-3" class="party-channel Label_ch"/><div id="party-name-3" class="party-name Label_name"/><div id="party-hp-clip-3" class="party-gauge-clip"><div id="party-hp-3" class="party-hp MuProgressBar_partyHP"/></div><div id="party-mp-clip-3" class="party-gauge-clip"><div id="party-mp-3" class="party-mp MuProgressBar_partyMP"/></div><div id="party-crown-3" class="party-crown ButtonPartyMaster"><i/></div><div id="party-leave-3" class="mu-button party-leave ButtonPartyLeave"/><div class="party-hover"/><div id="party-overlay-3" class="party-overlay"/></div>
+        <div id="party-member-4" class="party-member Button_hidden"><div id="party-background-4" class="party-background"/><div id="party-channel-4" class="party-channel Label_ch"/><div id="party-name-4" class="party-name Label_name"/><div id="party-hp-clip-4" class="party-gauge-clip"><div id="party-hp-4" class="party-hp MuProgressBar_partyHP"/></div><div id="party-mp-clip-4" class="party-gauge-clip"><div id="party-mp-4" class="party-mp MuProgressBar_partyMP"/></div><div id="party-crown-4" class="party-crown ButtonPartyMaster"><i/></div><div id="party-leave-4" class="mu-button party-leave ButtonPartyLeave"/><div class="party-hover"/><div id="party-overlay-4" class="party-overlay"/></div>
+    </div>
+</body>
+</rml>

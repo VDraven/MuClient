@@ -1,0 +1,5 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.MuButton_clear01:hover { decorator: image(QuickCommand.command_chatip_btn01); }
+#frame-top { decorator: image(QuickCommand.command_chatip_bg01); }
+#frame-middle { decorator: image(QuickCommand.command_chatip_bg02); }
+#frame-bottom { decorator: image(QuickCommand.command_chatip_bg03); }

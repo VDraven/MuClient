@@ -1,0 +1,73 @@
+/* Generated from exact source instance matrices and bitmap bounds. */
+#menu { width: 307.998413px; height: 268.999695px; }
+#menu-art-9 { width: 307.998413px; height: 268.999695px; left: 0px; top: 0px; }
+#menu-art-9 > .piece-0 { left: 0px; top: 0px; width: 16px; height: 16px; }
+#menu-art-9 > .piece-1 { left: 16px; top: 0px; width: 275.998413px; height: 16px; }
+#menu-art-9 > .piece-2 { left: 291.998413px; top: 0px; width: 16px; height: 16px; }
+#menu-art-9 > .piece-3 { left: 0px; top: 16px; width: 16px; height: 236.999695px; }
+#menu-art-9 > .piece-4 { left: 16px; top: 16px; width: 275.998413px; height: 236.999695px; }
+#menu-art-9 > .piece-5 { left: 291.998413px; top: 16px; width: 16px; height: 236.999695px; }
+#menu-art-9 > .piece-6 { left: 0px; top: 252.999695px; width: 16px; height: 16px; }
+#menu-art-9 > .piece-7 { left: 16px; top: 252.999695px; width: 274.99112px; height: 16px; }
+#menu-art-9 > .piece-8 { left: 290.99112px; top: 252.999695px; width: 16.007293px; height: 16px; }
+#menu-art-8 { width: 255.998337px; height: 88.001251px; left: 18px; top: 76px; }
+#menu-art-8 > .piece-0 { left: 0px; top: 0px; width: 10px; height: 10px; }
+#menu-art-8 > .piece-1 { left: 10px; top: 0px; width: 235.998337px; height: 10px; }
+#menu-art-8 > .piece-2 { left: 245.998337px; top: 0px; width: 10px; height: 10px; }
+#menu-art-8 > .piece-3 { left: 0px; top: 10px; width: 10px; height: 68.001251px; }
+#menu-art-8 > .piece-4 { left: 10px; top: 10px; width: 235.998337px; height: 68.051251px; }
+#menu-art-8 > .piece-5 { left: 245.998337px; top: 10px; width: 10px; height: 68.001251px; }
+#menu-art-8 > .piece-6 { left: 0px; top: 78.001251px; width: 10px; height: 10px; }
+#menu-art-8 > .piece-7 { left: 10px; top: 78.001251px; width: 235.998337px; height: 10px; }
+#menu-art-8 > .piece-8 { left: 245.998337px; top: 78.001251px; width: 10px; height: 10px; }
+#menu-art-7 { width: 293px; height: 9px; left: 7px; top: 38px; }
+#menu-art-7 > .piece-0 { left: 0px; top: 0px; width: 293px; height: 9px; }
+#menu-art-6 { width: 287px; height: 2px; left: 11px; top: 211px; }
+#menu-art-6 > .piece-0 { left: 0px; top: 0px; width: 287px; height: 2px; }
+#menu-art-5 { width: 228px; height: 12.6px; left: 34px; top: 54px; }
+#tfDetachTitle { width: 228px; height: 12.6px; left: 35px; top: 16px; }
+#btnDetachRun { width: 95px; height: 35px; left: 107px; top: 171px; }
+#btnDetachRun > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnDetachRun > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnDetachRun > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnDetachRun > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnDetachClose { width: 70px; height: 30px; left: 119px; top: 225px; }
+#btnDetachClose > .state-up > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnDetachClose > .state-over > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnDetachClose > .state-down > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnDetachClose > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#scrollList { width: 225.807404px; height: 182.153595px; left: 23px; top: 81px; transform-origin: 0px 0px; transform: matrix(1.069565, 0, 0, 0.421616, 0, 0); }
+#scrollList { transform: none; width: 245.94643px; height: 77.998886px; box-sizing: border-box; padding-bottom: 2px; overflow: hidden; }
+#sbList { width: 22px; height: 201.5px; left: 275px; top: 78px; transform-origin: 0px 0px; transform: matrix(1, 0, 0, 0.406952, 0, 0); }
+#sbList { transform: none; width: 22px; height: 82.000809px; }
+#sbList-track { width: 15px; height: 40px; left: 3.5px; top: 11px; transform-origin: 0px 0px; transform: matrix(1, 0, 0, 4.5, 0, 0); }
+#sbList-track > .state-up > .piece-0 { left: 0px; top: 0px; width: 15px; height: 40px; }
+#sbList-track > .state-over > .piece-0 { left: 0px; top: 0px; width: 15px; height: 40px; }
+#sbList-track > .state-down > .piece-0 { left: 0px; top: 0px; width: 15px; height: 40px; }
+#sbList-track > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 15px; height: 40px; }
+#sbList-track { transform: none; top: 11px; width: 15px; height: 60.500809px; }
+#sbList-track > .state > i { width: 100%; height: 100%; }
+#sbList-downArrow { width: 22px; height: 14px; left: 0px; top: 187.5px; }
+#sbList-downArrow > .state-up > .piece-0 { left: 0px; top: 0px; width: 22px; height: 14px; }
+#sbList-downArrow > .state-over > .piece-0 { left: 0px; top: 0px; width: 22px; height: 14px; }
+#sbList-downArrow > .state-down > .piece-0 { left: 0px; top: 0px; width: 22px; height: 14px; }
+#sbList-downArrow > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 22px; height: 14px; }
+#sbList-downArrow { transform: none; top: 68.000809px; width: 22px; height: 14px; }
+#sbList-downArrow > .state > i { width: 100%; height: 100%; }
+#sbList-upArrow { width: 22px; height: 14px; left: 0px; top: 0px; }
+#sbList-upArrow > .state-up > .piece-0 { left: 0px; top: 0px; width: 22px; height: 14px; }
+#sbList-upArrow > .state-over > .piece-0 { left: 0px; top: 0px; width: 22px; height: 14px; }
+#sbList-upArrow > .state-down > .piece-0 { left: 0px; top: 0px; width: 22px; height: 14px; }
+#sbList-upArrow > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 22px; height: 14px; }
+#sbList-upArrow { transform: none; top: 0px; width: 22px; height: 14px; }
+#sbList-upArrow > .state > i { width: 100%; height: 100%; }
+#sbList-thumb { width: 16px; height: 41px; left: 3px; top: 12px; }
+#sbList-thumb > .state-up > .piece-0 { left: 0px; top: 0px; width: 16px; height: 41px; }
+#sbList-thumb > .state-over > .piece-0 { left: 0px; top: 0px; width: 16px; height: 41px; }
+#sbList-thumb > .state-down > .piece-0 { left: 0px; top: 0px; width: 16px; height: 41px; }
+#sbList-thumb > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 16px; height: 41px; }
+#sbList-thumb { transform: none; top: 11px; width: 16px; height: 41px; }
+#sbList-thumb > .state > i { width: 100%; height: 100%; }
+#sbList-thumb { drag: drag; min-height: 10px; }
+.gem-row { left: 1px; right: 1px; width: auto; height: 20px; margin-top: 1px; }
+.gem-row .mu-list-cell { right: 2px; width: auto; }

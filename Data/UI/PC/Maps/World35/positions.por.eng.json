@@ -1,0 +1,86 @@
+{
+  "world": "World35",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World35_eng.bmd",
+  "sourceSha256": "b20cd63da7853fa8dda8c761bfa347d943e761e7cfb561434f1ed347be254a53",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "npc",
+      "x": 228,
+      "y": 48,
+      "rotation": 0,
+      "name": "Apostle Devin"
+    },
+    {
+      "index": 1,
+      "kind": "npc",
+      "x": 62,
+      "y": 239,
+      "rotation": 0,
+      "name": "Werewolf Quarel"
+    },
+    {
+      "index": 2,
+      "kind": "npc",
+      "x": 135,
+      "y": 47,
+      "rotation": 0,
+      "name": "Trainer"
+    },
+    {
+      "index": 3,
+      "kind": "npc",
+      "x": 99,
+      "y": 40,
+      "rotation": 0,
+      "name": "Wandering Merchant Martin"
+    },
+    {
+      "index": 4,
+      "kind": "npc",
+      "x": 96,
+      "y": 25,
+      "rotation": 0,
+      "name": "Lahap"
+    },
+    {
+      "index": 5,
+      "kind": "npc",
+      "x": 145,
+      "y": 14,
+      "rotation": 0,
+      "name": "Hanzo the Blacksmith"
+    },
+    {
+      "index": 6,
+      "kind": "npc",
+      "x": 113,
+      "y": 56,
+      "rotation": 0,
+      "name": "Safety Guardian"
+    },
+    {
+      "index": 7,
+      "kind": "npc",
+      "x": 118,
+      "y": 11,
+      "rotation": 0,
+      "name": "Guardsman"
+    },
+    {
+      "index": 8,
+      "kind": "portal",
+      "x": 238,
+      "y": 42,
+      "rotation": 45,
+      "name": "Entrance to the Valley of Loren"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

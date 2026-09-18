@@ -1,0 +1,43 @@
+/* Generated from exact source instance matrices and bitmap bounds. */
+#menu { width: 307.998413px; height: 409.999878px; }
+#menu-art-12 { width: 307.998413px; height: 409.999878px; left: 0px; top: 0px; }
+#menu-art-12 > .piece-0 { left: 0px; top: 0px; width: 16px; height: 16px; }
+#menu-art-12 > .piece-1 { left: 16px; top: 0px; width: 275.998413px; height: 16px; }
+#menu-art-12 > .piece-2 { left: 291.998413px; top: 0px; width: 16px; height: 16px; }
+#menu-art-12 > .piece-3 { left: 0px; top: 16px; width: 16px; height: 377.999878px; }
+#menu-art-12 > .piece-4 { left: 16px; top: 16px; width: 275.998413px; height: 377.999878px; }
+#menu-art-12 > .piece-5 { left: 291.998413px; top: 16px; width: 16px; height: 377.999878px; }
+#menu-art-12 > .piece-6 { left: 0px; top: 393.999878px; width: 16px; height: 16px; }
+#menu-art-12 > .piece-7 { left: 16px; top: 393.999878px; width: 274.99112px; height: 16px; }
+#menu-art-12 > .piece-8 { left: 290.99112px; top: 393.999878px; width: 16.007293px; height: 16px; }
+#menu-art-11 { width: 293px; height: 9px; left: 7px; top: 38px; }
+#menu-art-11 > .piece-0 { left: 0px; top: 0px; width: 293px; height: 9px; }
+#menu-art-10 { width: 287px; height: 2px; left: 11px; top: 146px; }
+#menu-art-10 > .piece-0 { left: 0px; top: 0px; width: 287px; height: 2px; }
+#menu-art-9 { width: 287px; height: 2px; left: 11px; top: 210px; }
+#menu-art-9 > .piece-0 { left: 0px; top: 0px; width: 287px; height: 2px; }
+#tfUnitMent { width: 228px; height: 12.6px; left: 35px; top: 55px; }
+#tfUnitMent1 { width: 228px; height: 12.6px; left: 35px; top: 124px; }
+#tfUnitMent2 { width: 228px; height: 12.6px; left: 35px; top: 190px; }
+#tfUnitMent3 { width: 228px; height: 12.6px; left: 35px; top: 258px; }
+#tfUnitTitle { width: 228px; height: 12.6px; left: 35px; top: 16px; }
+#btnUnitClose { width: 70px; height: 30px; left: 119px; top: 365px; }
+#btnUnitClose > .state-up > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnUnitClose > .state-over > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnUnitClose > .state-down > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnUnitClose > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 70px; height: 30px; }
+#btnUnit1 { width: 95px; height: 35px; left: 108px; top: 86px; }
+#btnUnit1 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnUnit1 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnUnit1 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnUnit1 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnUnit2 { width: 95px; height: 35px; left: 108px; top: 154px; }
+#btnUnit2 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnUnit2 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnUnit2 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnUnit2 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnUnit3 { width: 95px; height: 35px; left: 108px; top: 218px; }
+#btnUnit3 > .state-up > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnUnit3 > .state-over > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnUnit3 > .state-down > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }
+#btnUnit3 > .state-disabled > .piece-0 { left: 0px; top: 0px; width: 95px; height: 35px; }

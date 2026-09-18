@@ -1,0 +1,18 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#private-store.buyer #private-store-background > .popup_01_1-0 { decorator: image(purchaseinven.popup_01_1); }
+#private-store.buyer #private-store-background > .popup_bg01-1 { decorator: image(purchaseinven.popup_bg01); }
+#private-store.buyer #private-store-background > .popup_bg05-2 { decorator: image(purchaseinven.popup_bg05); }
+#private-store.buyer #private-store-grid-background > .invenbg01-0 { decorator: image(purchaseinven.invenbg01); }
+#private-store.buyer #private-store-grid-background > .invenbg02-1 { decorator: image(purchaseinven.invenbg02); }
+#private-store.buyer #private-store-grid-background > .invenbg02-2 { decorator: image(purchaseinven.invenbg02); }
+#private-store.buyer #private-store-grid-background > .invenbg03-3 { decorator: image(purchaseinven.invenbg03); }
+#private-store.buyer #private-store-point { decorator: image(purchaseinven.point); }
+#private-store.buyer #private-store-name-background { decorator: tiled-horizontal(purchaseinven.textfield01, purchaseinven.textfield02, purchaseinven.textfield03); }
+#private-store.buyer .MuButton_Close { decorator: image(purchaseinven.btn_close01); }
+#private-store.buyer .MuButton_Close.over, #private-store.buyer .MuButton_Close:hover { decorator: image(purchaseinven.btn_close02); }
+#private-store.buyer .MuButton_Close.down, #private-store.buyer .MuButton_Close:active { decorator: image(purchaseinven.btn_close03); }
+#private-store.buyer .MuButton_Close.disabled, #private-store.buyer .MuButton_Close:disabled { decorator: image(purchaseinven.btn_close04); }
+#private-store.buyer .MuButton_S01 { decorator: image(purchaseinven.btn_s01); }
+#private-store.buyer .MuButton_S01.over, #private-store.buyer .MuButton_S01:hover { decorator: image(purchaseinven.btn_s02); }
+#private-store.buyer .MuButton_S01.down, #private-store.buyer .MuButton_S01:active { decorator: image(purchaseinven.btn_s03); }
+#private-store.buyer .MuButton_S01.disabled, #private-store.buyer .MuButton_S01:disabled { decorator: image(purchaseinven.btn_s04); }

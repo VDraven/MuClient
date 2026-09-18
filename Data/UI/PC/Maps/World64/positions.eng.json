@@ -1,0 +1,25 @@
+{
+  "world": "World64",
+  "language": "eng",
+  "source": "Local/Eng/Minimap/Minimap_World64_eng.bmd",
+  "sourceSha256": "31dd582664a3d158cbcbb5f8640052257d7a8233032c0be68698fe9afd5e3a52",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 122,
+      "y": 135,
+      "rotation": 45,
+      "name": "Doorkeeper Titus",
+      "npcNumber": 479,
+      "index": 0
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

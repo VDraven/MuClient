@@ -1,0 +1,4 @@
+body { margin: 0; width: 100%; height: 100%; overflow: hidden; font-family: Arial; }
+#system-menu, #system-frame, #title, #title-divider, #bottom-divider { position: absolute; }
+#system-frame, #title, #title-divider, #bottom-divider { pointer-events: none; }
+#system-menu .mu-button > span { position: absolute; pointer-events: none; white-space: nowrap; overflow: hidden; }

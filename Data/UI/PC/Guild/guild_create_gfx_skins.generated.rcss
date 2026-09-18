@@ -1,0 +1,453 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-156-0 > .piece-0 { decorator: image(GuildCreateFrame.popup_01_1); }
+#art-156-0 > .piece-1 { decorator: image(GuildCreateFrame.popup_bg01); }
+#art-156-0 > .piece-2 { decorator: image(GuildCreateFrame.popup_bg03); }
+#btnClose > .state-up > .piece-0 { decorator: image(GuildCreateFrame.btn_close01); }
+#btnClose > .state-over > .piece-0 { decorator: image(GuildCreateFrame.btn_close02); }
+#btnClose > .state-down > .piece-0 { decorator: image(GuildCreateFrame.btn_close03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.btn_close04); }
+#btnNext > .state-up > .piece-0 { decorator: image(GuildCreateFrame.btn_m01); }
+#btnNext > .state-over > .piece-0 { decorator: image(GuildCreateFrame.btn_m02); }
+#btnNext > .state-down > .piece-0 { decorator: image(GuildCreateFrame.btn_m03); }
+#btnNext > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.btn_m04); }
+#btnPrev > .state-up > .piece-0 { decorator: image(GuildCreateFrame.btn_m01); }
+#btnPrev > .state-over > .piece-0 { decorator: image(GuildCreateFrame.btn_m02); }
+#btnPrev > .state-down > .piece-0 { decorator: image(GuildCreateFrame.btn_m03); }
+#btnPrev > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.btn_m04); }
+#mcGuildCheck-art-158-0 > .piece-0 { decorator: image(GuildCreateFrame.textbg01); }
+#mcGuildCheck-art-158-0 > .piece-1 { decorator: image(GuildCreateFrame.textbg02); }
+#mcGuildCheck-art-158-0 > .piece-2 { decorator: image(GuildCreateFrame.textbg03); }
+#mcGuildCheck-art-158-0 > .piece-3 { decorator: image(GuildCreateFrame.textbg04); }
+#mcGuildCheck-art-158-0 > .piece-4 { decorator: image(GuildCreateFrame.textbg05); }
+#mcGuildCheck-art-158-0 > .piece-5 { decorator: image(GuildCreateFrame.textbg06); }
+#mcGuildCheck-art-158-0 > .piece-6 { decorator: image(GuildCreateFrame.textbg07); }
+#mcGuildCheck-art-158-0 > .piece-7 { decorator: image(GuildCreateFrame.textbg08); }
+#mcGuildCheck-art-158-0 > .piece-8 { decorator: image(GuildCreateFrame.textbg09); }
+#mcCheckGuildMark > .palette-color-0 { decorator: image(GuildCreateFrame.markbox_01); }
+#mcCheckGuildMark > .palette-color-1 { decorator: image(GuildCreateFrame.markbox_02); }
+#mcCheckGuildMark > .palette-color-2 { decorator: image(GuildCreateFrame.markbox_03); }
+#mcCheckGuildMark > .palette-color-3 { decorator: image(GuildCreateFrame.markbox_04); }
+#mcCheckGuildMark > .palette-color-4 { decorator: image(GuildCreateFrame.markbox_05); }
+#mcCheckGuildMark > .palette-color-5 { decorator: image(GuildCreateFrame.markbox_06); }
+#mcCheckGuildMark > .palette-color-6 { decorator: image(GuildCreateFrame.markbox_07); }
+#mcCheckGuildMark > .palette-color-7 { decorator: image(GuildCreateFrame.markbox_08); }
+#mcCheckGuildMark > .palette-color-8 { decorator: image(GuildCreateFrame.markbox_09); }
+#mcCheckGuildMark > .palette-color-9 { decorator: image(GuildCreateFrame.markbox_10); }
+#mcCheckGuildMark > .palette-color-10 { decorator: image(GuildCreateFrame.markbox_11); }
+#mcCheckGuildMark > .palette-color-11 { decorator: image(GuildCreateFrame.markbox_12); }
+#mcCheckGuildMark > .palette-color-12 { decorator: image(GuildCreateFrame.markbox_13); }
+#mcCheckGuildMark > .palette-color-13 { decorator: image(GuildCreateFrame.markbox_14); }
+#mcCheckGuildMark > .palette-color-14 { decorator: image(GuildCreateFrame.markbox_15); }
+#mcCheckGuildMark > .palette-color-15 { decorator: image(GuildCreateFrame.markbox_16); }
+#mcGuildMark-art-161-0 > .piece-0 { decorator: image(GuildCreateFrame.bg_field01); }
+#mcGuildMark-art-161-0 > .piece-1 { decorator: image(GuildCreateFrame.bg_field02); }
+#mcGuildMark-art-161-0 > .piece-2 { decorator: image(GuildCreateFrame.bg_field03); }
+#mcGuildMark-art-163-0 > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-2 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-3 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-4 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-5 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-6 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-7 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-8 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-9 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-10 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-11 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-12 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-13 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-14 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-15 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-16 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-17 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-18 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-19 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-20 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-21 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-22 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-23 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-24 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-25 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-26 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-27 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-28 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-29 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-30 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-31 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-32 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-33 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-34 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-35 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-36 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-37 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-38 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-39 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-40 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-41 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-42 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-43 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-44 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-45 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-46 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-47 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-48 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-49 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-50 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-51 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-52 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-53 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-54 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-55 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-56 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-57 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-58 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-59 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-60 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-61 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-62 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-163-0 > .piece-63 { decorator: image(GuildCreateFrame.markbox_bg); }
+#mcGuildMark-art-165-1 > .piece-0 { decorator: image(GuildCreateFrame.point); }
+#mcGuildMark-art-165-0 > .piece-0 { decorator: image(GuildCreateFrame.point); }
+#mcGuildMark-art-167-0 > .piece-0 { decorator: image(GuildCreateFrame.textfield01); }
+#mcGuildMark-art-167-0 > .piece-1 { decorator: image(GuildCreateFrame.textfield02); }
+#mcGuildMark-art-167-0 > .piece-2 { decorator: image(GuildCreateFrame.textfield03); }
+#mcGuildMarkDraw > .palette-color-0 { decorator: image(GuildCreateFrame.markbox_01); }
+#mcGuildMarkDraw > .palette-color-1 { decorator: image(GuildCreateFrame.markbox_02); }
+#mcGuildMarkDraw > .palette-color-2 { decorator: image(GuildCreateFrame.markbox_03); }
+#mcGuildMarkDraw > .palette-color-3 { decorator: image(GuildCreateFrame.markbox_04); }
+#mcGuildMarkDraw > .palette-color-4 { decorator: image(GuildCreateFrame.markbox_05); }
+#mcGuildMarkDraw > .palette-color-5 { decorator: image(GuildCreateFrame.markbox_06); }
+#mcGuildMarkDraw > .palette-color-6 { decorator: image(GuildCreateFrame.markbox_07); }
+#mcGuildMarkDraw > .palette-color-7 { decorator: image(GuildCreateFrame.markbox_08); }
+#mcGuildMarkDraw > .palette-color-8 { decorator: image(GuildCreateFrame.markbox_09); }
+#mcGuildMarkDraw > .palette-color-9 { decorator: image(GuildCreateFrame.markbox_10); }
+#mcGuildMarkDraw > .palette-color-10 { decorator: image(GuildCreateFrame.markbox_11); }
+#mcGuildMarkDraw > .palette-color-11 { decorator: image(GuildCreateFrame.markbox_12); }
+#mcGuildMarkDraw > .palette-color-12 { decorator: image(GuildCreateFrame.markbox_13); }
+#mcGuildMarkDraw > .palette-color-13 { decorator: image(GuildCreateFrame.markbox_14); }
+#mcGuildMarkDraw > .palette-color-14 { decorator: image(GuildCreateFrame.markbox_15); }
+#mcGuildMarkDraw > .palette-color-15 { decorator: image(GuildCreateFrame.markbox_16); }
+#btnColor1 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor1 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_01); }
+#btnColor1 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor1 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor1 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_01); }
+#btnColor1 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor1 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_01); }
+#btnColor1 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor1 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_01); }
+#btnColor1 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor1 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor1 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_01); }
+#btnColor1 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor1 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor1 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_01); }
+#btnColor1 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor1 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_01); }
+#btnColor1 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor1 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor1 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_01); }
+#btnColor2 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor2 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_02); }
+#btnColor2 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor2 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor2 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_02); }
+#btnColor2 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor2 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_02); }
+#btnColor2 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor2 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_02); }
+#btnColor2 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor2 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor2 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_02); }
+#btnColor2 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor2 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor2 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_02); }
+#btnColor2 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor2 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_02); }
+#btnColor2 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor2 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor2 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_02); }
+#btnColor3 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor3 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_03); }
+#btnColor3 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor3 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor3 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_03); }
+#btnColor3 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor3 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_03); }
+#btnColor3 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor3 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_03); }
+#btnColor3 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor3 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor3 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_03); }
+#btnColor3 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor3 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor3 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_03); }
+#btnColor3 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor3 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_03); }
+#btnColor3 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor3 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor3 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_03); }
+#btnColor4 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor4 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_04); }
+#btnColor4 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor4 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor4 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_04); }
+#btnColor4 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor4 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_04); }
+#btnColor4 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor4 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_04); }
+#btnColor4 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor4 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor4 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_04); }
+#btnColor4 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor4 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor4 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_04); }
+#btnColor4 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor4 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_04); }
+#btnColor4 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor4 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor4 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_04); }
+#btnColor5 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor5 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_05); }
+#btnColor5 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor5 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor5 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_05); }
+#btnColor5 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor5 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_05); }
+#btnColor5 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor5 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_05); }
+#btnColor5 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor5 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor5 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_05); }
+#btnColor5 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor5 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor5 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_05); }
+#btnColor5 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor5 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_05); }
+#btnColor5 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor5 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor5 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_05); }
+#btnColor6 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor6 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_06); }
+#btnColor6 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor6 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor6 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_06); }
+#btnColor6 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor6 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_06); }
+#btnColor6 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor6 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_06); }
+#btnColor6 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor6 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor6 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_06); }
+#btnColor6 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor6 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor6 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_06); }
+#btnColor6 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor6 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_06); }
+#btnColor6 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor6 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor6 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_06); }
+#btnColor7 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor7 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_07); }
+#btnColor7 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor7 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor7 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_07); }
+#btnColor7 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor7 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_07); }
+#btnColor7 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor7 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_07); }
+#btnColor7 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor7 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor7 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_07); }
+#btnColor7 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor7 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor7 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_07); }
+#btnColor7 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor7 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_07); }
+#btnColor7 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor7 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor7 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_07); }
+#btnColor8 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor8 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_08); }
+#btnColor8 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor8 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor8 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_08); }
+#btnColor8 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor8 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_08); }
+#btnColor8 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor8 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_08); }
+#btnColor8 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor8 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor8 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_08); }
+#btnColor8 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor8 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor8 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_08); }
+#btnColor8 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor8 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_08); }
+#btnColor8 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor8 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor8 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_08); }
+#btnColor9 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor9 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_09); }
+#btnColor9 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor9 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor9 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_09); }
+#btnColor9 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor9 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_09); }
+#btnColor9 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor9 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_09); }
+#btnColor9 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor9 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor9 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_09); }
+#btnColor9 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor9 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor9 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_09); }
+#btnColor9 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor9 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_09); }
+#btnColor9 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor9 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor9 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_09); }
+#btnColor10 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor10 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_10); }
+#btnColor10 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor10 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor10 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_10); }
+#btnColor10 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor10 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_10); }
+#btnColor10 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor10 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_10); }
+#btnColor10 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor10 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor10 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_10); }
+#btnColor10 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor10 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor10 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_10); }
+#btnColor10 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor10 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_10); }
+#btnColor10 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor10 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor10 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_10); }
+#btnColor11 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor11 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_11); }
+#btnColor11 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor11 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor11 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_11); }
+#btnColor11 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor11 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_11); }
+#btnColor11 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor11 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_11); }
+#btnColor11 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor11 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor11 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_11); }
+#btnColor11 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor11 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor11 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_11); }
+#btnColor11 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor11 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_11); }
+#btnColor11 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor11 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor11 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_11); }
+#btnColor12 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor12 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_12); }
+#btnColor12 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor12 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor12 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_12); }
+#btnColor12 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor12 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_12); }
+#btnColor12 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor12 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_12); }
+#btnColor12 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor12 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor12 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_12); }
+#btnColor12 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor12 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor12 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_12); }
+#btnColor12 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor12 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_12); }
+#btnColor12 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor12 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor12 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_12); }
+#btnColor13 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor13 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_13); }
+#btnColor13 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor13 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor13 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_13); }
+#btnColor13 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor13 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_13); }
+#btnColor13 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor13 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_13); }
+#btnColor13 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor13 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor13 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_13); }
+#btnColor13 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor13 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor13 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_13); }
+#btnColor13 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor13 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_13); }
+#btnColor13 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor13 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor13 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_13); }
+#btnColor14 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor14 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_14); }
+#btnColor14 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor14 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor14 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_14); }
+#btnColor14 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor14 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_14); }
+#btnColor14 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor14 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_14); }
+#btnColor14 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor14 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor14 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_14); }
+#btnColor14 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor14 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor14 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_14); }
+#btnColor14 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor14 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_14); }
+#btnColor14 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor14 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor14 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_14); }
+#btnColor15 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor15 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_15); }
+#btnColor15 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor15 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor15 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_15); }
+#btnColor15 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor15 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_15); }
+#btnColor15 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor15 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_15); }
+#btnColor15 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor15 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor15 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_15); }
+#btnColor15 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor15 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor15 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_15); }
+#btnColor15 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor15 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_15); }
+#btnColor15 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor15 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor15 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_15); }
+#btnColor16 > .state-up > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor16 > .state-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_16); }
+#btnColor16 > .state-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor16 > .state-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor16 > .state-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_16); }
+#btnColor16 > .state-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor16 > .state-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_16); }
+#btnColor16 > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor16 > .state-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_16); }
+#btnColor16 > .state-selected-up > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor16 > .state-selected-up > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor16 > .state-selected-up > .piece-2 { decorator: image(GuildCreateFrame.markbox_16); }
+#btnColor16 > .state-selected-over > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor16 > .state-selected-over > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor16 > .state-selected-over > .piece-2 { decorator: image(GuildCreateFrame.markbox_16); }
+#btnColor16 > .state-selected-down > .piece-0 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor16 > .state-selected-down > .piece-1 { decorator: image(GuildCreateFrame.markbox_16); }
+#btnColor16 > .state-selected-disabled > .piece-0 { decorator: image(GuildCreateFrame.guild_color_choice); }
+#btnColor16 > .state-selected-disabled > .piece-1 { decorator: image(GuildCreateFrame.markbox_bg); }
+#btnColor16 > .state-selected-disabled > .piece-2 { decorator: image(GuildCreateFrame.markbox_16); }
+#btnConfirm > .state-up > .piece-0 { decorator: image(GuildCreateFrame.btn_l01); }
+#btnConfirm > .state-over > .piece-0 { decorator: image(GuildCreateFrame.btn_l02); }
+#btnConfirm > .state-down > .piece-0 { decorator: image(GuildCreateFrame.btn_l03); }
+#btnConfirm > .state-disabled > .piece-0 { decorator: image(GuildCreateFrame.btn_l04); }

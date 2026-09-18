@@ -1,0 +1,59 @@
+<rml><head>
+<meta name="mu-design-Panel-Size" content="327 639"/>
+<meta name="mu-design-Panel-Grids" content="60 200.5 26 26"/>
+<meta name="mu-design-Panel-Reference" content="640 480"/>
+<meta name="mu-design-Panel-Initial" content="21 40"/>
+<title>MixInventoryFrame</title>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="mix.rcss"/>
+<link type="text/rcss" href="mix_gfx.generated.rcss"/>
+<link type="text/rcss" href="mix_gfx_skins.generated.rcss"/>
+</head><body><div id="panel">
+<div id="art-124-0" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-125-0" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/></div>
+<div id="art-112-0" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/><i class="piece-3"/><i class="piece-4"/><i class="piece-5"/><i class="piece-6"/><i class="piece-7"/><i class="piece-8"/></div>
+<div id="art-127-0" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/><i class="piece-3"/></div>
+<div id="tfMent" class="MUTextArea TextArea_1"/>
+<div id="taGuide01" class="MUTextArea TextArea_2"/>
+<div id="tfTitle" class="label MULabel Label_타이틀"/>
+<div id="mcScrollList" class="group"><div id="mcScrollList-art-110-0" class="art"/>
+<div id="mcScrollList-art-112-0" class="art"><i class="piece-0"/><i class="piece-1"/><i class="piece-2"/><i class="piece-3"/><i class="piece-4"/><i class="piece-5"/><i class="piece-6"/><i class="piece-7"/><i class="piece-8"/></div>
+<div id="tfSockListTitle" class="label MULabel MuLabel_slTitle"/>
+<div id="scrollList" class="MUScrollingList MuScrollingList_002"><div id="socket0" class="mu-button MuListItemRenderer_001"><span id="socket0-label" class="mu-overflow-label socket-label"/></div><div id="socket1" class="mu-button MuListItemRenderer_001"><span id="socket1-label" class="mu-overflow-label socket-label"/></div><div id="socket2" class="mu-button MuListItemRenderer_001"><span id="socket2-label" class="mu-overflow-label socket-label"/></div><div id="socket3" class="mu-button MuListItemRenderer_001"><span id="socket3-label" class="mu-overflow-label socket-label"/></div><div id="socket4" class="mu-button MuListItemRenderer_001"><span id="socket4-label" class="mu-overflow-label socket-label"/></div></div><div id="sbSockList" class="mu-scrollbar MuScrollBar_001"><div id="sbSockList-track" class="mu-scrollbar-button"/><div id="sbSockList-downArrow" class="mu-scrollbar-button"/><div id="sbSockList-upArrow" class="mu-scrollbar-button"/><div id="sbSockList-thumb" class="mu-scrollbar-thumb"/></div></div>
+<div id="isSlot0" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot1" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot2" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot3" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot4" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot5" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot6" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot7" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot8" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot9" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot10" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot11" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot12" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot13" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot14" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot15" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot16" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot17" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot18" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot19" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot20" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot21" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot22" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot23" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot24" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot25" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot26" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot27" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot28" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot29" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot30" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="isSlot31" class="mu-item-slot MuItemSlot_clear01"/>
+<div id="btnDrag" class="drag MuButton_Drag"/>
+<div id="btnMix" class="mu-button MuButton_S01_폰트색변경"><span id="btnMix-label" class="mu-overflow-label label"/></div>
+<div id="btnClose" class="mu-button MuButton_Close"/>
+</div></body></rml>

@@ -1,0 +1,26 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#master-background > .piece-0 { decorator: image(MasterSkillTree.masterskill_bg01); }
+#master-background > .piece-1 { decorator: image(MasterSkillTree.masterskill_bg02); }
+#master-background > .piece-2 { decorator: image(MasterSkillTree.masterskill_bg03); }
+#master-background > .piece-3 { decorator: image(MasterSkillTree.masterskill_bg04); }
+#btnClose > .state-up > .piece-0 { decorator: image(MasterSkillTree.btn_close01); }
+#btnClose > .state-over > .piece-0 { decorator: image(MasterSkillTree.btn_close02); }
+#btnClose > .state-down > .piece-0 { decorator: image(MasterSkillTree.btn_close03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(MasterSkillTree.btn_close04); }
+.master-slot > .direction-art-0 > .piece-0 { decorator: image(MasterSkillTree.masterskill_iconbox); }
+.master-slot > .direction-art-1 > .piece-0 { decorator: image(MasterSkillTree.masterskill_iconbox); }
+.master-slot > .direction-art-1 > .piece-1 { decorator: image(MasterSkillTree.masterskill_arrow04); }
+.master-slot > .direction-art-2 > .piece-0 { decorator: image(MasterSkillTree.masterskill_iconbox); }
+.master-slot > .direction-art-2 > .piece-1 { decorator: image(MasterSkillTree.masterskill_arrow04); }
+.master-slot > .direction-art-3 > .piece-0 { decorator: image(MasterSkillTree.masterskill_iconbox); }
+.master-slot > .direction-art-3 > .piece-1 { decorator: image(MasterSkillTree.masterskill_arrow04); }
+.master-slot > .direction-art-4 > .piece-0 { decorator: image(MasterSkillTree.masterskill_iconbox); }
+.master-slot > .direction-art-4 > .piece-1 { decorator: image(MasterSkillTree.masterskill_arrow04); }
+.master-slot > .direction-art-5 > .piece-0 { decorator: image(MasterSkillTree.masterskill_iconbox); }
+.master-slot > .direction-art-5 > .piece-1 { decorator: image(MasterSkillTree.masterskill_arrow05); }
+.master-slot > .direction-art-6 > .piece-0 { decorator: image(MasterSkillTree.masterskill_iconbox); }
+.master-slot > .direction-art-6 > .piece-1 { decorator: image(MasterSkillTree.masterskill_arrow05); }
+.master-slot > .direction-art-7 > .piece-0 { decorator: image(MasterSkillTree.masterskill_iconbox); }
+.master-slot > .direction-art-7 > .piece-1 { decorator: image(MasterSkillTree.masterskill_arrow07); }
+.master-slot > .direction-art-8 > .piece-0 { decorator: image(MasterSkillTree.masterskill_iconbox); }
+.master-slot > .direction-art-8 > .piece-1 { decorator: image(MasterSkillTree.masterskill_arrow07); }

@@ -1,0 +1,156 @@
+<rml><head>
+<meta name="mu-design-Extension-Width" content="327.5"/>
+<meta name="mu-design-Extension-Heights" content="223 361 499.05 636"/>
+<meta name="mu-design-Extension-GridX" content="60 60 60 60"/>
+<meta name="mu-design-Extension-GridY" content="90 230 366 504"/>
+<meta name="mu-design-Extension-PitchX" content="26"/>
+<meta name="mu-design-Extension-PitchY" content="26"/>
+<meta name="mu-design-Extension-Reference" content="640 480"/>
+<meta name="mu-design-Extension-InitialPosition" content="21 40"/>
+<title>Inventory extension</title>
+<link type="text/rcss" href="../Common/common.rcss"/>
+<link type="text/rcss" href="../ui_assets.rcss"/>
+<link type="text/rcss" href="inventory_extension.rcss"/>
+<link type="text/rcss" href="inventory_extension_gfx.generated.rcss"/>
+<link type="text/rcss" href="inventory_extension_gfx_skins.generated.rcss"/>
+</head><body><div id="extension">
+<div id="symbol-57-0" class="art bag-3"><i class="garage_bg2-0"/><i class="inven_no4_1-1"/><i class="bag_bg2-2"/></div>
+<div id="symbol-54-3" class="art bag-3"><i class="invenbg01-0"/><i class="invenbg02-1"/><i class="invenbg02-2"/><i class="invenbg03-3"/></div>
+<div id="symbol-56-0" class="art bag-2"><i class="garage_bg2-0"/><i class="inven_no3_1-1"/><i class="bag_bg2-2"/></div>
+<div id="symbol-54-2" class="art bag-2"><i class="invenbg01-0"/><i class="invenbg02-1"/><i class="invenbg02-2"/><i class="invenbg03-3"/></div>
+<div id="symbol-55-0" class="art bag-1"><i class="garage_bg2-0"/><i class="inven_no2_1-1"/><i class="bag_bg2-2"/></div>
+<div id="symbol-54-1" class="art bag-1"><i class="invenbg01-0"/><i class="invenbg02-1"/><i class="invenbg02-2"/><i class="invenbg03-3"/></div>
+<div id="symbol-52-0" class="art bag-0"><i class="popup_01_1-0"/><i class="garage_bg2-1"/><i class="inven_no1_1-2"/><i class="bag_bg2-3"/></div>
+<div id="symbol-54-0" class="art bag-0"><i class="invenbg01-0"/><i class="invenbg02-1"/><i class="invenbg02-2"/><i class="invenbg03-3"/></div>
+<div id="tfTitle" class="mu-overflow-label MULabel Label_확장인벤"/>
+<div id="btnDrag" class="MuButton_Drag"/>
+<div id="btnClose" class="mu-button MuButton_Close"/>
+<div id="isSlot0" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot1" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot2" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot3" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot4" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot5" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot6" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot7" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot8" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot9" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot10" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot11" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot12" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot13" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot14" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot15" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot16" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot17" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot18" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot19" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot20" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot21" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot22" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot23" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot24" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot25" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot26" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot27" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot28" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot29" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot30" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot31" class="mu-item-slot MuItemSlot_clear01 bag-0"/>
+<div id="isSlot32" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot33" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot34" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot35" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot36" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot37" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot38" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot39" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot40" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot41" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot42" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot43" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot44" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot45" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot46" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot47" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot48" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot49" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot50" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot51" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot52" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot53" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot54" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot55" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot56" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot57" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot58" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot59" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot60" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot61" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot62" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot63" class="mu-item-slot MuItemSlot_clear01 bag-1"/>
+<div id="isSlot64" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot65" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot66" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot67" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot68" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot69" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot70" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot71" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot72" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot73" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot74" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot75" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot76" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot77" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot78" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot79" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot80" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot81" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot82" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot83" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot84" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot85" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot86" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot87" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot88" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot89" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot90" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot91" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot92" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot93" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot94" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot95" class="mu-item-slot MuItemSlot_clear01 bag-2"/>
+<div id="isSlot96" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot97" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot98" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot99" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot100" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot101" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot102" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot103" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot104" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot105" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot106" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot107" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot108" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot109" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot110" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot111" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot112" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot113" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot114" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot115" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot116" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot117" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot118" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot119" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot120" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot121" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot122" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot123" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot124" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot125" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot126" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+<div id="isSlot127" class="mu-item-slot MuItemSlot_clear01 bag-3"/>
+</div></body></rml>

@@ -1,0 +1,9 @@
+.MuButton_Drag { cursor: move; drag: drag; pointer-events: auto; }
+
+.MuButton_Close { width: 19px; height: 19px; decorator: image(FriendMenu.btn_close01); }
+.MuButton_Close.over,
+.MuButton_Close:hover { decorator: image(FriendMenu.btn_close02); }
+.MuButton_Close.down,
+.MuButton_Close:active { decorator: image(FriendMenu.btn_close03); }
+.MuButton_Close.disabled,
+.MuButton_Close:disabled { decorator: image(FriendMenu.btn_close04); }

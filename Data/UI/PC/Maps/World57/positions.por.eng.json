@@ -1,0 +1,78 @@
+{
+  "world": "World57",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World57_eng.bmd",
+  "sourceSha256": "338ccfe1e36c4034e744899f18d93f371219468a59c4ce2ca037d4b3badb05f6",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 139,
+      "y": 125,
+      "rotation": 135,
+      "name": "Swamp of Peace Hunting Grounds Entrance (1)"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 124,
+      "y": 109,
+      "rotation": 225,
+      "name": "Swamp of Peace Hunting Grounds Entrance (2)"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 140,
+      "y": 95,
+      "rotation": 315,
+      "name": "Swamp of Peace Hunting Grounds Entrance (3)"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 150,
+      "y": 109,
+      "rotation": 45,
+      "name": "Swamp of Peace Hunting Grounds Entrance (4)"
+    },
+    {
+      "index": 4,
+      "kind": "portal",
+      "x": 185,
+      "y": 188,
+      "rotation": 270,
+      "name": "Entrance to Safe Zone"
+    },
+    {
+      "index": 5,
+      "kind": "portal",
+      "x": 56,
+      "y": 177,
+      "rotation": 225,
+      "name": "Entrance to Safe Zone"
+    },
+    {
+      "index": 6,
+      "kind": "portal",
+      "x": 68,
+      "y": 52,
+      "rotation": 90,
+      "name": "Entrance to Safe Zone"
+    },
+    {
+      "index": 7,
+      "kind": "portal",
+      "x": 197,
+      "y": 13,
+      "rotation": 225,
+      "name": "Entrance to Safe Zone"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

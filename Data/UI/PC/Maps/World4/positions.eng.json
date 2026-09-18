@@ -1,0 +1,139 @@
+{
+  "world": "World4",
+  "language": "eng",
+  "source": "Local/Eng/Minimap/Minimap_World4_eng.bmd",
+  "sourceSha256": "015deb8b9cd2101b5478e384489c9c89356b2982c308b741783386fc95888c2b",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 171,
+      "y": 105,
+      "rotation": 135,
+      "name": "Charon",
+      "npcNumber": 237,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 180,
+      "y": 103,
+      "rotation": 45,
+      "name": "Chaos Goblin",
+      "npcNumber": 238,
+      "index": 1
+    },
+    {
+      "kind": "npc",
+      "x": 172,
+      "y": 96,
+      "rotation": 135,
+      "name": "Safety Guardian",
+      "npcNumber": 240,
+      "index": 2
+    },
+    {
+      "kind": "npc",
+      "x": 173,
+      "y": 125,
+      "rotation": 45,
+      "name": "Elf Lala",
+      "npcNumber": 242,
+      "index": 3
+    },
+    {
+      "kind": "npc",
+      "x": 195,
+      "y": 124,
+      "rotation": 90,
+      "name": "Eo the Craftsman",
+      "npcNumber": 243,
+      "index": 4
+    },
+    {
+      "kind": "npc",
+      "x": 169,
+      "y": 109,
+      "rotation": 135,
+      "name": "Potion Girl Amy",
+      "npcNumber": 253,
+      "index": 5
+    },
+    {
+      "kind": "npc",
+      "x": 193,
+      "y": 110,
+      "rotation": 90,
+      "name": "Potion Girl Amy",
+      "npcNumber": 253,
+      "index": 6
+    },
+    {
+      "kind": "npc",
+      "x": 167,
+      "y": 118,
+      "rotation": 45,
+      "name": "Shadow Phantom Soldier",
+      "npcNumber": 257,
+      "index": 7
+    },
+    {
+      "kind": "npc",
+      "x": 179,
+      "y": 126,
+      "rotation": 45,
+      "name": "Cherry Blossom Spirit",
+      "npcNumber": 450,
+      "index": 8
+    },
+    {
+      "kind": "npc",
+      "x": 179,
+      "y": 129,
+      "rotation": 135,
+      "name": "Cherry Blossom Tree",
+      "npcNumber": 451,
+      "index": 9
+    },
+    {
+      "kind": "npc",
+      "x": 187,
+      "y": 125,
+      "rotation": 45,
+      "name": "Gens Vanert Steward",
+      "npcNumber": 544,
+      "index": 10
+    },
+    {
+      "index": 11,
+      "kind": "portal",
+      "x": 151,
+      "y": 2,
+      "rotation": 315,
+      "name": "Entrance to Lorencia"
+    },
+    {
+      "index": 12,
+      "kind": "portal",
+      "x": 222,
+      "y": 29,
+      "rotation": 135,
+      "name": "Entrance to Aida"
+    },
+    {
+      "index": 13,
+      "kind": "portal",
+      "x": 242,
+      "y": 241,
+      "rotation": 45,
+      "name": "Entrance to Atlans"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

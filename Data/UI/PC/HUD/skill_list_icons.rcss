@@ -1,0 +1,5 @@
+body { margin: 0; width: 100%; height: 100%; pointer-events: none; }
+#skill-list-icons, .mu-skill-icon, .skill-sheet, .skill-cooldown { position: absolute; pointer-events: none; }
+#skill-list-icons { left: 0; top: 0; width: 100%; height: 100%; }
+.mu-skill-icon { overflow: hidden; clip: always; }
+.skill-cooldown { left: 0; bottom: 0; width: 100%; height: 0; background-color: #ff808080; }

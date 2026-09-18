@@ -1,0 +1,187 @@
+<rml>
+<head>
+<meta name="mu-design-MoveCommand-PanelWidth" content="376.998901"/>
+<meta name="mu-design-MoveCommand-PanelHeight" content="532.997894"/>
+<meta name="mu-design-MoveCommand-MainListX" content="27"/>
+<meta name="mu-design-MoveCommand-MainListY" content="89"/>
+<meta name="mu-design-MoveCommand-FavoriteListY" content="362"/>
+<meta name="mu-design-MoveCommand-ShowMapX" content="111"/>
+<meta name="mu-design-MoveCommand-CloseX" content="192"/>
+<meta name="mu-design-MoveCommand-TextButtonY" content="484"/>
+<meta name="mu-design-MoveCommand-TextButtonWidth" content="75"/>
+<meta name="mu-design-MoveCommand-TextButtonHeight" content="35"/>
+<meta name="mu-design-MoveCommand-ScrollBarX" content="331.35"/>
+<meta name="mu-design-MoveCommand-ScrollBarY" content="82"/>
+<meta name="mu-design-MoveCommand-RowHeight" content="20"/>
+<meta name="mu-design-MoveCommand-RowWidth" content="295.935713"/>
+<meta name="mu-design-MoveCommand-CheckBoxX" content="262"/>
+<meta name="mu-design-MoveCommand-CheckBoxWidth" content="42.600001"/>
+<meta name="mu-design-MoveCommand-ScrollUpRect" content="0 0 22 14"/>
+<meta name="mu-design-MoveCommand-ScrollThumbRect" content="3 12 16 41"/>
+<meta name="mu-design-MoveCommand-ScrollDownY" content="239.00032"/>
+<meta name="mu-design-MoveCommand-ScrollTrackHeight" content="231.50032"/>
+<meta name="mu-design-MoveCommand-RootY" content="50"/>
+<meta name="mu-design-MoveCommand-ReferenceWidth" content="640"/>
+<meta name="mu-design-MoveCommand-ReferenceHeight" content="480"/>
+
+    <title>MU Online Move Command</title>
+    <link type="text/rcss" href="../Common/common.rcss"/>
+    <link type="text/rcss" href="../ui_assets.rcss"/>
+    <link type="text/rcss" href="move_command.rcss"/>
+    <link type="text/rcss" href="move_command_gfx.generated.rcss"/>
+    <link type="text/rcss" href="move_command_gfx_skins.generated.rcss"/>
+</head>
+<body>
+    <div id="move-command" class="move-command">
+        <div id="move-command-outer" class="move-command-outer"/>
+        <div id="move-command-main-panel" class="move-command-list-panel gfx-scale-grid-parts"><i class="MoveCommand.textbg01"/><i class="MoveCommand.textbg02"/><i class="MoveCommand.textbg03"/><i class="MoveCommand.textbg04"/><i class="MoveCommand.textbg05"/><i class="MoveCommand.textbg06"/><i class="MoveCommand.textbg07"/><i class="MoveCommand.textbg08"/><i class="MoveCommand.textbg09"/></div>
+        <div id="move-command-title-divider" class="move-command-title-divider"/>
+        <div id="move-command-button-divider" class="move-command-button-divider"/>
+        <div id="move-command-favorite-panel" class="move-command-list-panel gfx-scale-grid-parts"><i class="MoveCommand.textbg01"/><i class="MoveCommand.textbg02"/><i class="MoveCommand.textbg03"/><i class="MoveCommand.textbg04"/><i class="MoveCommand.textbg05"/><i class="MoveCommand.textbg06"/><i class="MoveCommand.textbg07"/><i class="MoveCommand.textbg08"/><i class="MoveCommand.textbg09"/></div>
+        <div id="move-command-favorite-mark" class="move-command-favorite-mark"/>
+        <div id="move-command-inner" class="move-command-inner gfx-scale-grid-parts"><i class="MoveCommand.fieldbg01"/><i class="MoveCommand.fieldbg02"/><i class="MoveCommand.fieldbg03"/><i class="MoveCommand.fieldbg04"/><i class="MoveCommand.fieldbg05"/><i class="MoveCommand.fieldbg06"/><i class="MoveCommand.fieldbg07"/><i class="MoveCommand.fieldbg08"/><i class="MoveCommand.fieldbg09"/></div>
+        <div id="move-command-title" class="move-command-title MULabel Label_타이틀"/>
+        <div id="move-command-strife-label" class="mu-overflow-label move-command-label MULabel Label_분쟁지역"/>
+        <div id="move-command-map-label" class="mu-overflow-label move-command-label MULabel Label_맵이름"/>
+        <div id="move-command-level-label" class="mu-overflow-label move-command-label MULabel Label_레벨제한"/>
+        <div id="move-command-zen-label" class="mu-overflow-label move-command-label MULabel Label_요구젠"/>
+        <div id="move-command-favorite-label" class="mu-overflow-label move-command-label MULabel Label_레벨제한"/>
+        <div id="move-command-favorite-title" class="move-command-title favorite MULabel Label_타이틀"/>
+        <div id="move-command-main-list" class="move-command-list">
+            <div id="move-command-main-row-0" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-0" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-0" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-0" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-0" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-0" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-main-row-1" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-1" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-1" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-1" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-1" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-1" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-main-row-2" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-2" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-2" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-2" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-2" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-2" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-main-row-3" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-3" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-3" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-3" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-3" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-3" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-main-row-4" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-4" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-4" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-4" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-4" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-4" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-main-row-5" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-5" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-5" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-5" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-5" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-5" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-main-row-6" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-6" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-6" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-6" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-6" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-6" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-main-row-7" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-7" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-7" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-7" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-7" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-7" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-main-row-8" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-8" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-8" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-8" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-8" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-8" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-main-row-9" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-9" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-9" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-9" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-9" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-9" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-main-row-10" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-10" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-10" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-10" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-10" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-10" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-main-row-11" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-main-row-art-11" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-main-row-strife-11" class="move-command-row-text strife"/>
+                <div id="move-command-main-row-map-11" class="move-command-row-text map"/>
+                <div id="move-command-main-row-level-11" class="move-command-row-text level"/>
+                <div id="move-command-main-row-zen-11" class="move-command-row-text zen"/>
+            </div>
+        </div>
+        <div id="move-command-favorite-list" class="move-command-list">
+            <div id="move-command-favorite-row-0" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-favorite-row-art-0" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-favorite-row-strife-0" class="move-command-row-text strife"/>
+                <div id="move-command-favorite-row-map-0" class="move-command-row-text map"/>
+                <div id="move-command-favorite-row-level-0" class="move-command-row-text level"/>
+                <div id="move-command-favorite-row-zen-0" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-favorite-row-1" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-favorite-row-art-1" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-favorite-row-strife-1" class="move-command-row-text strife"/>
+                <div id="move-command-favorite-row-map-1" class="move-command-row-text map"/>
+                <div id="move-command-favorite-row-level-1" class="move-command-row-text level"/>
+                <div id="move-command-favorite-row-zen-1" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-favorite-row-2" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-favorite-row-art-2" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-favorite-row-strife-2" class="move-command-row-text strife"/>
+                <div id="move-command-favorite-row-map-2" class="move-command-row-text map"/>
+                <div id="move-command-favorite-row-level-2" class="move-command-row-text level"/>
+                <div id="move-command-favorite-row-zen-2" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-favorite-row-3" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-favorite-row-art-3" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-favorite-row-strife-3" class="move-command-row-text strife"/>
+                <div id="move-command-favorite-row-map-3" class="move-command-row-text map"/>
+                <div id="move-command-favorite-row-level-3" class="move-command-row-text level"/>
+                <div id="move-command-favorite-row-zen-3" class="move-command-row-text zen"/>
+            </div>
+            <div id="move-command-favorite-row-4" class="mu-checkbox-list-row move-command-row MapListItemRenderer">
+                <div id="move-command-favorite-row-art-4" class="move-command-row-art MuCheckBox_etc"/>
+                <div id="move-command-favorite-row-strife-4" class="move-command-row-text strife"/>
+                <div id="move-command-favorite-row-map-4" class="move-command-row-text map"/>
+                <div id="move-command-favorite-row-level-4" class="move-command-row-text level"/>
+                <div id="move-command-favorite-row-zen-4" class="move-command-row-text zen"/>
+            </div>
+        </div>
+        <div id="move-command-scroll" class="mu-scrollbar move-command-scrollbar MuScrollBar_001">
+            <div id="move-command-scroll-track" class="mu-scrollbar-track mu-scrollbar-s01-track MuButton_sbTrack"/>
+            <div id="move-command-scroll-down" class="mu-scrollbar-button mu-scrollbar-s01-down MuButton_sbArrowDOWN"/>
+            <div id="move-command-scroll-up" class="mu-scrollbar-button mu-scrollbar-s01-up MuButton_sbArrowUP"/>
+            <div id="move-command-scroll-thumb" class="mu-scrollbar-thumb mu-scrollbar-s01-thumb MuButton_sbThumb"/>
+        </div>
+        <div id="move-command-show-map" class="mu-button move-command-button MuButton_M01_텍스트색변경">
+            <div id="move-command-show-map-label" class="mu-overflow-label move-command-button-label"/>
+        </div>
+        <div id="move-command-close" class="mu-button move-command-button MuButton_M01_텍스트색변경">
+            <div id="move-command-close-label" class="mu-overflow-label move-command-button-label"/>
+        </div>
+    </div>
+</body>
+</rml>

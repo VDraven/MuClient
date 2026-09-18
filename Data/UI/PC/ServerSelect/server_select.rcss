@@ -1,0 +1,187 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial;
+    font-size: 14px;
+    color: #c6c6c6;
+}
+
+#server-select {
+    position: absolute;
+    width: 500px;
+    height: 460px;
+}
+
+#title {
+    position: absolute;
+    left: 16px;
+    top: 15px;
+    width: 468px;
+    line-height: 20px;
+    text-align: center;
+    color: #ffc000;
+}
+
+#title-divider {
+    left: 106px;
+    top: 47px;
+}
+
+.server-list {
+    position: absolute;
+    top: 64px;
+    height: 286px;
+    padding: 4px;
+    border-width: 1px;
+    border-color: #473423;
+    background-color: #050403d9;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#group-list {
+    left: 20px;
+    width: 132px;
+}
+
+#server-list {
+    left: 164px;
+    width: 316px;
+}
+
+.server-group,
+.server-row {
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    height: 27px;
+    margin-bottom: 2px;
+    padding: 4px 7px;
+    border-width: 1px;
+    border-color: #3d2b1d;
+    background-color: #100c09e6;
+    color: #c6c6c6;
+    font-family: Arial;
+    font-size: 13px;
+    text-align: left;
+}
+
+.server-group:hover,
+.server-row:hover {
+    border-color: #8d5b25;
+    background-color: #4a2912ed;
+}
+
+.server-group:active,
+.server-row:active {
+    border-color: #c27c23;
+    background-color: #2c170bec;
+}
+
+.server-group.selected {
+    border-color: #c27c23;
+    background-color: #5b3214ed;
+    color: #f0b501;
+}
+
+.server-row.pvp { color: #b00000; }
+.server-row.non-pvp { color: #00b000; }
+.server-row.gold { color: #f0b501; }
+.server-row.busy { color: #80807d; }
+.server-row.offline,
+.server-row:disabled {
+    border-color: #2b241d;
+    background-color: #080706d9;
+    color: #80807d;
+}
+
+.server-name {
+    position: absolute;
+    left: 7px;
+    top: 3px;
+    right: 7px;
+    height: 16px;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+.server-load {
+    position: absolute;
+    left: 7px;
+    right: 7px;
+    top: 21px;
+    height: 3px;
+    background-color: #262626;
+    pointer-events: none;
+}
+
+.server-load-fill {
+    display: block;
+    height: 3px;
+    background-color: #b00000;
+}
+
+.server-row.non-pvp .server-load-fill { background-color: #00b000; }
+.server-row.gold .server-load-fill { background-color: #f0b501; }
+.server-row.busy .server-load-fill,
+.server-row.offline .server-load-fill { background-color: #80807d; }
+
+#bottom-divider {
+    left: 103px;
+    top: 360px;
+}
+
+#description,
+#advisory {
+    position: absolute;
+    left: 24px;
+    width: 452px;
+    overflow: hidden;
+    text-align: center;
+    white-space: pre-wrap;
+}
+
+#description {
+    top: 374px;
+    height: 34px;
+    color: #c6c6c6;
+}
+
+#advisory {
+    top: 408px;
+    height: 42px;
+    color: #f0b501;
+    font-size: 12px;
+}
+
+scrollbarvertical {
+    width: 12px;
+    margin-left: 3px;
+}
+
+scrollbarvertical slidertrack {
+    border-width: 1px;
+    border-color: #3d2b1d;
+    background-color: #080705;
+}
+
+scrollbarvertical sliderbar {
+    min-height: 24px;
+    border-width: 1px;
+    border-color: #8d5b25;
+    background-color: #5b3214;
+}
+
+scrollbarvertical sliderbar:hover,
+scrollbarvertical sliderbar:active {
+    border-color: #c27c23;
+    background-color: #7a451d;
+}
+
+scrollbarvertical sliderarrowdec,
+scrollbarvertical sliderarrowinc {
+    display: none;
+}

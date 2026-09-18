@@ -1,0 +1,23 @@
+{
+  "world": "World42",
+  "language": null,
+  "source": "World42/Minimap.bmd",
+  "sourceSha256": "d6ff50b2a903e0dc47368c136531ec951cac4c36e9040274ea68f209bc2c109e",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "npc",
+      "x": 120,
+      "y": 168,
+      "rotation": 0,
+      "name": "���",
+      "sourceNameHex": "96e594d4"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ]
+}

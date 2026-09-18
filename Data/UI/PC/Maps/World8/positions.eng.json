@@ -1,0 +1,49 @@
+{
+  "world": "World8",
+  "language": "eng",
+  "source": "Local/Eng/Minimap/Minimap_World8_eng.bmd",
+  "sourceSha256": "16a6a43d6820357782339de278e585c0853d3354671615b0486d002812f3b52d",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 23,
+      "y": 17,
+      "rotation": 45,
+      "name": "Safety Guardian",
+      "npcNumber": 240,
+      "index": 0
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 8,
+      "y": 8,
+      "rotation": 270,
+      "name": "Entrance to Noria"
+    },
+    {
+      "index": 2,
+      "kind": "portal",
+      "x": 9,
+      "y": 18,
+      "rotation": 225,
+      "name": "Entrance to Elveland"
+    },
+    {
+      "index": 3,
+      "kind": "portal",
+      "x": 10,
+      "y": 228,
+      "rotation": 225,
+      "name": "Entrance to Tarkan"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

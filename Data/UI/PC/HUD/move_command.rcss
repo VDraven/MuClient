@@ -1,0 +1,8 @@
+body { margin: 0; width: 100%; height: 100%; overflow: hidden; font-family: Arial; }
+.move-command, .move-command div, .move-command i { position: absolute; pointer-events: none; }
+.move-command { display: none; transform-origin: 0 0; }
+.move-command-list { overflow: hidden; clip: always; }
+.move-command .move-command-row { position: relative; display: block; }
+.move-command-title, .move-command-label, .move-command-row-text, .move-command-button-label {
+    overflow: hidden; white-space: nowrap;
+}

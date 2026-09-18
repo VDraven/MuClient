@@ -1,0 +1,32 @@
+{
+  "world": "World9",
+  "language": "eng",
+  "source": "Local/Eng/Minimap/Minimap_World9_eng.bmd",
+  "sourceSha256": "78eb8e33736a3f5534a0e72d97f883708e91a252cce24ffc29f818dc17ee0c3e",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "index": 0,
+      "kind": "portal",
+      "x": 250,
+      "y": 40,
+      "rotation": 45,
+      "name": "Entrance to Atlans"
+    },
+    {
+      "index": 1,
+      "kind": "portal",
+      "x": 3,
+      "y": 199,
+      "rotation": 225,
+      "name": "Entrance to the Kanturu Ruins"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

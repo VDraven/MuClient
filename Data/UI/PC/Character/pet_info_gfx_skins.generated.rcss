@@ -1,0 +1,51 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+.pet-info-background-top { decorator: image(characterFrame.popup_01_1); }
+.pet-info-background-middle { decorator: image(characterFrame.popup_bg01); }
+.pet-info-background-bottom { decorator: image(characterFrame.popup_bg03); }
+.pet-info-divider { decorator: image(PetInfo.popup_line_m); }
+.pet-info-nine-slice {
+    decorator: tiled-box(
+        FriendMenu.textbg01, FriendMenu.textbg02, FriendMenu.textbg03,
+        FriendMenu.textbg04, FriendMenu.textbg05, FriendMenu.textbg06,
+        FriendMenu.textbg07, FriendMenu.textbg08, FriendMenu.textbg09
+    );
+}
+.pet-info-nine-slice.gfx-scale-grid-parts { decorator: none; }
+.gfx-scale-grid-parts > i { position: absolute; pointer-events: none; }
+.pet-info-nine-slice > .textbg01 { decorator: image(FriendMenu.textbg01); }
+.pet-info-nine-slice > .textbg02 { decorator: image(FriendMenu.textbg02); }
+.pet-info-nine-slice > .textbg03 { decorator: image(FriendMenu.textbg03); }
+.pet-info-nine-slice > .textbg04 { decorator: image(FriendMenu.textbg04); }
+.pet-info-nine-slice > .textbg05 { decorator: image(FriendMenu.textbg05); }
+.pet-info-nine-slice > .textbg06 { decorator: image(FriendMenu.textbg06); }
+.pet-info-nine-slice > .textbg07 { decorator: image(FriendMenu.textbg07); }
+.pet-info-nine-slice > .textbg08 { decorator: image(FriendMenu.textbg08); }
+.pet-info-nine-slice > .textbg09 { decorator: image(FriendMenu.textbg09); }
+.pet-info-row { decorator: image(PetInfo.popup_line_s); }
+.pet-info-value-back { decorator: tiled-horizontal(FriendWindow.textfield01, FriendWindow.textfield02, FriendWindow.textfield03); }
+.pet-info-command-background-top { decorator: image(PetInfo.bg_field01); }
+.pet-info-command-background-middle { decorator: image(PetInfo.bg_field02); }
+.pet-info-command-background-bottom { decorator: image(PetInfo.bg_field03); }
+.pet-info-command-point { decorator: image(FriendWindow.point); }
+.MuProgressBar_PetInfo { decorator: tiled-horizontal(PetInfo.pethp_bg01, PetInfo.pethp_bg02, PetInfo.pethp_bg03); }
+.MuProgressBar_PetInfo-fill { decorator: image(PetInfo.pethp_guege); }
+.MuButton_Tap01 { decorator: image(PetInfo.btn_s01_1); }
+.MuButton_Tap01.over, .MuButton_Tap01:hover, .MuButton_Tap01.selected { decorator: image(PetInfo.btn_select_1); }
+.MuButton_Tap01.down, .MuButton_Tap01:active { decorator: image(PetInfo.btn_s03_1); }
+.MuButton_Tap01.disabled, .MuButton_Tap01:disabled { decorator: image(PetInfo.btn_s04_1); }
+.MuButton_sbTrack { decorator: image(FriendWindow.scroll_bg02); }
+.MuButton_sbTrack.over, .MuButton_sbTrack:hover { decorator: image(FriendWindow.scroll_bg02); }
+.MuButton_sbTrack.down, .MuButton_sbTrack:active { decorator: image(FriendWindow.scroll_bg02); }
+.MuButton_sbTrack.disabled, .MuButton_sbTrack:disabled { decorator: image(FriendWindow.scroll_bg02); }
+.MuButton_sbArrowUP { decorator: image(FriendWindow.scroll_btn01); }
+.MuButton_sbArrowUP.over, .MuButton_sbArrowUP:hover { decorator: image(FriendWindow.scroll_btn02); }
+.MuButton_sbArrowUP.down, .MuButton_sbArrowUP:active { decorator: image(FriendWindow.scroll_btn03); }
+.MuButton_sbArrowUP.disabled, .MuButton_sbArrowUP:disabled { decorator: image(FriendWindow.scroll_btn04); }
+.MuButton_sbArrowDOWN { decorator: image(FriendWindow.scroll_btn05); }
+.MuButton_sbArrowDOWN.over, .MuButton_sbArrowDOWN:hover { decorator: image(FriendWindow.scroll_btn06); }
+.MuButton_sbArrowDOWN.down, .MuButton_sbArrowDOWN:active { decorator: image(FriendWindow.scroll_btn07); }
+.MuButton_sbArrowDOWN.disabled, .MuButton_sbArrowDOWN:disabled { decorator: image(FriendWindow.scroll_btn08); }
+.MuButton_sbThumb { decorator: image(FriendWindow.scroll01); }
+.MuButton_sbThumb.over, .MuButton_sbThumb:hover { decorator: image(FriendWindow.scroll02); }
+.MuButton_sbThumb.down, .MuButton_sbThumb:active { decorator: image(FriendWindow.scroll03); }
+.MuButton_sbThumb.disabled, .MuButton_sbThumb:disabled { decorator: image(FriendWindow.scroll04); }

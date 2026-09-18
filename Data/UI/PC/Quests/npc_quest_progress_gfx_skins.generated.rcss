@@ -1,0 +1,85 @@
+/* Generated from XFL bitmap fills by tools/gfx_rmlui_pipeline.py. Do not hand-edit. */
+#art-129-0 > .piece-0 { decorator: image(NpcQuestProgress.popup_01_1); }
+#art-129-0 > .piece-1 { decorator: image(NpcQuestProgress.popup_bg01); }
+#art-129-0 > .piece-2 { decorator: image(NpcQuestProgress.popup_bg03); }
+#art-131-0 > .piece-0 { decorator: image(NpcQuestProgress.textbg01); }
+#art-131-0 > .piece-1 { decorator: image(NpcQuestProgress.textbg02); }
+#art-131-0 > .piece-2 { decorator: image(NpcQuestProgress.textbg03); }
+#art-131-0 > .piece-3 { decorator: image(NpcQuestProgress.textbg04); }
+#art-131-0 > .piece-4 { decorator: image(NpcQuestProgress.textbg05); }
+#art-131-0 > .piece-5 { decorator: image(NpcQuestProgress.textbg06); }
+#art-131-0 > .piece-6 { decorator: image(NpcQuestProgress.textbg07); }
+#art-131-0 > .piece-7 { decorator: image(NpcQuestProgress.textbg08); }
+#art-131-0 > .piece-8 { decorator: image(NpcQuestProgress.textbg09); }
+#art-133-0 > .piece-0 { decorator: image(NpcQuestProgress.war_bg_centerline); }
+#art-135-0 > .piece-0 { decorator: image(NpcQuestProgress.command_deco01); }
+#art-135-1 > .piece-0 { decorator: image(NpcQuestProgress.command_deco01); }
+#btnClose > .state-up > .piece-0 { decorator: image(NpcQuestProgress.btn_close01); }
+#btnClose > .state-over > .piece-0 { decorator: image(NpcQuestProgress.btn_close02); }
+#btnClose > .state-down > .piece-0 { decorator: image(NpcQuestProgress.btn_close03); }
+#btnClose > .state-disabled > .piece-0 { decorator: image(NpcQuestProgress.btn_close04); }
+#btnNext > .state-up > .piece-0 { decorator: image(NpcQuestProgress.btn_arrow01); }
+#btnNext > .state-over > .piece-0 { decorator: image(NpcQuestProgress.btn_arrow02); }
+#btnNext > .state-down > .piece-0 { decorator: image(NpcQuestProgress.btn_arrow03); }
+#btnNext > .state-disabled > .piece-0 { decorator: image(NpcQuestProgress.btn_arrow04); }
+#btnPrevious > .state-up > .piece-0 { decorator: image(NpcQuestProgress.btn_arrow001); }
+#btnPrevious > .state-over > .piece-0 { decorator: image(NpcQuestProgress.btn_arrow002); }
+#btnPrevious > .state-down > .piece-0 { decorator: image(NpcQuestProgress.btn_arrow003); }
+#btnPrevious > .state-disabled > .piece-0 { decorator: image(NpcQuestProgress.btn_arrow004); }
+#mcNpcQuestState-art-131-0 > .piece-0 { decorator: image(NpcQuestProgress.textbg01); }
+#mcNpcQuestState-art-131-0 > .piece-1 { decorator: image(NpcQuestProgress.textbg02); }
+#mcNpcQuestState-art-131-0 > .piece-2 { decorator: image(NpcQuestProgress.textbg03); }
+#mcNpcQuestState-art-131-0 > .piece-3 { decorator: image(NpcQuestProgress.textbg04); }
+#mcNpcQuestState-art-131-0 > .piece-4 { decorator: image(NpcQuestProgress.textbg05); }
+#mcNpcQuestState-art-131-0 > .piece-5 { decorator: image(NpcQuestProgress.textbg06); }
+#mcNpcQuestState-art-131-0 > .piece-6 { decorator: image(NpcQuestProgress.textbg07); }
+#mcNpcQuestState-art-131-0 > .piece-7 { decorator: image(NpcQuestProgress.textbg08); }
+#mcNpcQuestState-art-131-0 > .piece-8 { decorator: image(NpcQuestProgress.textbg09); }
+#mcNpcQuestState-art-131-1 > .piece-0 { decorator: image(NpcQuestProgress.textbg01); }
+#mcNpcQuestState-art-131-1 > .piece-1 { decorator: image(NpcQuestProgress.textbg02); }
+#mcNpcQuestState-art-131-1 > .piece-2 { decorator: image(NpcQuestProgress.textbg03); }
+#mcNpcQuestState-art-131-1 > .piece-3 { decorator: image(NpcQuestProgress.textbg04); }
+#mcNpcQuestState-art-131-1 > .piece-4 { decorator: image(NpcQuestProgress.textbg05); }
+#mcNpcQuestState-art-131-1 > .piece-5 { decorator: image(NpcQuestProgress.textbg06); }
+#mcNpcQuestState-art-131-1 > .piece-6 { decorator: image(NpcQuestProgress.textbg07); }
+#mcNpcQuestState-art-131-1 > .piece-7 { decorator: image(NpcQuestProgress.textbg08); }
+#mcNpcQuestState-art-131-1 > .piece-8 { decorator: image(NpcQuestProgress.textbg09); }
+#mcNpcQuestState-art-137-0 > .piece-0 { decorator: image(NpcQuestProgress.point); }
+#mcNpcQuestState-art-137-1 > .piece-0 { decorator: image(NpcQuestProgress.point); }
+#mcNpcQuestState-art-139-0 > .piece-0 { decorator: image(NpcQuestProgress.popup_line_s); }
+#btnConfirm > .state-up > .piece-0 { decorator: image(NpcQuestProgress.btn_m01); }
+#btnConfirm > .state-over > .piece-0 { decorator: image(NpcQuestProgress.btn_m02); }
+#btnConfirm > .state-down > .piece-0 { decorator: image(NpcQuestProgress.btn_m03); }
+#btnConfirm > .state-disabled > .piece-0 { decorator: image(NpcQuestProgress.btn_m04); }
+#sbCondition > .mu-scrollbar-track { decorator: image(NpcQuestProgress.scroll_bg02); }
+#sbCondition > .mu-scrollbar-track.over { decorator: image(NpcQuestProgress.scroll_bg02); }
+#sbCondition > .mu-scrollbar-track.down { decorator: image(NpcQuestProgress.scroll_bg02); }
+#sbCondition > .mu-scrollbar-track.disabled { decorator: image(NpcQuestProgress.scroll_bg02); }
+#sbCondition > .mu-scrollbar-down { decorator: image(NpcQuestProgress.scroll_btn05); }
+#sbCondition > .mu-scrollbar-down.over { decorator: image(NpcQuestProgress.scroll_btn06); }
+#sbCondition > .mu-scrollbar-down.down { decorator: image(NpcQuestProgress.scroll_btn07); }
+#sbCondition > .mu-scrollbar-down.disabled { decorator: image(NpcQuestProgress.scroll_btn08); }
+#sbCondition > .mu-scrollbar-up { decorator: image(NpcQuestProgress.scroll_btn01); }
+#sbCondition > .mu-scrollbar-up.over { decorator: image(NpcQuestProgress.scroll_btn02); }
+#sbCondition > .mu-scrollbar-up.down { decorator: image(NpcQuestProgress.scroll_btn03); }
+#sbCondition > .mu-scrollbar-up.disabled { decorator: image(NpcQuestProgress.scroll_btn04); }
+#sbCondition > .mu-scrollbar-thumb { decorator: image(NpcQuestProgress.scroll01); }
+#sbCondition > .mu-scrollbar-thumb.over { decorator: image(NpcQuestProgress.scroll02); }
+#sbCondition > .mu-scrollbar-thumb.down { decorator: image(NpcQuestProgress.scroll03); }
+#sbCondition > .mu-scrollbar-thumb.disabled { decorator: image(NpcQuestProgress.scroll04); }
+#sbReward > .mu-scrollbar-track { decorator: image(NpcQuestProgress.scroll_bg02); }
+#sbReward > .mu-scrollbar-track.over { decorator: image(NpcQuestProgress.scroll_bg02); }
+#sbReward > .mu-scrollbar-track.down { decorator: image(NpcQuestProgress.scroll_bg02); }
+#sbReward > .mu-scrollbar-track.disabled { decorator: image(NpcQuestProgress.scroll_bg02); }
+#sbReward > .mu-scrollbar-down { decorator: image(NpcQuestProgress.scroll_btn05); }
+#sbReward > .mu-scrollbar-down.over { decorator: image(NpcQuestProgress.scroll_btn06); }
+#sbReward > .mu-scrollbar-down.down { decorator: image(NpcQuestProgress.scroll_btn07); }
+#sbReward > .mu-scrollbar-down.disabled { decorator: image(NpcQuestProgress.scroll_btn08); }
+#sbReward > .mu-scrollbar-up { decorator: image(NpcQuestProgress.scroll_btn01); }
+#sbReward > .mu-scrollbar-up.over { decorator: image(NpcQuestProgress.scroll_btn02); }
+#sbReward > .mu-scrollbar-up.down { decorator: image(NpcQuestProgress.scroll_btn03); }
+#sbReward > .mu-scrollbar-up.disabled { decorator: image(NpcQuestProgress.scroll_btn04); }
+#sbReward > .mu-scrollbar-thumb { decorator: image(NpcQuestProgress.scroll01); }
+#sbReward > .mu-scrollbar-thumb.over { decorator: image(NpcQuestProgress.scroll02); }
+#sbReward > .mu-scrollbar-thumb.down { decorator: image(NpcQuestProgress.scroll03); }
+#sbReward > .mu-scrollbar-thumb.disabled { decorator: image(NpcQuestProgress.scroll04); }

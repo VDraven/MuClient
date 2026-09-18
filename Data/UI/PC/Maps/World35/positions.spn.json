@@ -1,0 +1,87 @@
+{
+  "world": "World35",
+  "language": "spn",
+  "source": "Local/Spn/Minimap/Minimap_World35_spn.bmd",
+  "sourceSha256": "c60a76592a10ac4bf8c6167384a4505dfb028b1656495c901215243f325e2e3a",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 118,
+      "y": 11,
+      "rotation": 135,
+      "name": "Guardia",
+      "npcNumber": 224,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 135,
+      "y": 47,
+      "rotation": 45,
+      "name": "Adiestrador",
+      "npcNumber": 226,
+      "index": 1
+    },
+    {
+      "kind": "npc",
+      "x": 113,
+      "y": 56,
+      "rotation": 45,
+      "name": "Guardián de Seguridad",
+      "npcNumber": 240,
+      "index": 2
+    },
+    {
+      "kind": "npc",
+      "x": 145,
+      "y": 14,
+      "rotation": 135,
+      "name": "Hanzo el Herrero",
+      "npcNumber": 251,
+      "index": 3
+    },
+    {
+      "kind": "npc",
+      "x": 96,
+      "y": 25,
+      "rotation": 135,
+      "name": "Lahap",
+      "npcNumber": 256,
+      "index": 4
+    },
+    {
+      "kind": "npc",
+      "x": 228,
+      "y": 48,
+      "rotation": 45,
+      "name": "Apóstol Devin",
+      "npcNumber": 406,
+      "index": 5
+    },
+    {
+      "kind": "npc",
+      "x": 62,
+      "y": 239,
+      "rotation": 45,
+      "name": "Hombre Lobo Quarel",
+      "npcNumber": 407,
+      "index": 6
+    },
+    {
+      "index": 7,
+      "kind": "portal",
+      "x": 238,
+      "y": 42,
+      "rotation": 45,
+      "name": "Entrada al Valle de Loren"
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

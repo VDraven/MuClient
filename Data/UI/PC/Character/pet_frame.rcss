@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial;
+}
+
+.pet-frame {
+    display: none;
+    position: absolute;
+    pointer-events: none;
+}
+
+.MuButton_DragBar_pet,
+.MuButton_Minimize,
+.pet-member,
+.pet-name,
+.pet-hp,
+.pet-hp-yellow {
+    position: absolute;
+}
+
+.pet-hp,
+.pet-hp-yellow {
+    left: 5px;
+    top: 23px;
+    height: 6px;
+}
+.pet-hp-yellow { display: none; }
+
+.pet-name {
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.pet-hp-track { position: absolute; left: 5px; top: 23px; width: 89px; height: 6px; }
+.pet-hp-track > .pet-hp, .pet-hp-track > .pet-hp-yellow { left: 0; top: 0; width: 100%; height: 100%; }

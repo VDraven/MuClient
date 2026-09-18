@@ -1,0 +1,223 @@
+{
+  "world": "World1",
+  "language": "por",
+  "source": "Local/Por/Minimap/Minimap_World1_por.bmd",
+  "sourceSha256": "b998e07dec671ab6745b9f7655c7ab4c295d9c8079ac04faac623c3316440024",
+  "coordinateGridSize": 256,
+  "coordinates": "Native world x/y tile coordinates. Marker UV uses tile centers ((y+0.5)/256, (x+0.5)/256).",
+  "markers": [
+    {
+      "kind": "npc",
+      "x": 122,
+      "y": 110,
+      "rotation": 135,
+      "name": "Treinador",
+      "npcNumber": 226,
+      "index": 0
+    },
+    {
+      "kind": "npc",
+      "x": 62,
+      "y": 130,
+      "rotation": 135,
+      "name": "Alex, o Mercador itinerante",
+      "npcNumber": 230,
+      "index": 1
+    },
+    {
+      "kind": "npc",
+      "x": 175,
+      "y": 120,
+      "rotation": 135,
+      "name": "Arqueiro dourado",
+      "npcNumber": 236,
+      "index": 2
+    },
+    {
+      "kind": "npc",
+      "x": 146,
+      "y": 110,
+      "rotation": 135,
+      "name": "Guardião de segurança",
+      "npcNumber": 240,
+      "index": 3
+    },
+    {
+      "kind": "npc",
+      "x": 147,
+      "y": 145,
+      "rotation": 45,
+      "name": "Guardião de segurança",
+      "npcNumber": 240,
+      "index": 4
+    },
+    {
+      "kind": "npc",
+      "x": 114,
+      "y": 125,
+      "rotation": 135,
+      "name": "Guarda",
+      "npcNumber": 247,
+      "index": 5
+    },
+    {
+      "kind": "npc",
+      "x": 94,
+      "y": 125,
+      "rotation": 315,
+      "name": "Guarda",
+      "npcNumber": 249,
+      "index": 6
+    },
+    {
+      "kind": "npc",
+      "x": 94,
+      "y": 130,
+      "rotation": 315,
+      "name": "Guarda",
+      "npcNumber": 249,
+      "index": 7
+    },
+    {
+      "kind": "npc",
+      "x": 131,
+      "y": 88,
+      "rotation": 45,
+      "name": "Guarda",
+      "npcNumber": 249,
+      "index": 8
+    },
+    {
+      "kind": "npc",
+      "x": 131,
+      "y": 148,
+      "rotation": 45,
+      "name": "Guarda",
+      "npcNumber": 249,
+      "index": 9
+    },
+    {
+      "kind": "npc",
+      "x": 173,
+      "y": 125,
+      "rotation": 135,
+      "name": "Guarda",
+      "npcNumber": 249,
+      "index": 10
+    },
+    {
+      "kind": "npc",
+      "x": 116,
+      "y": 141,
+      "rotation": 135,
+      "name": "Hanzo, o ferreiro",
+      "npcNumber": 251,
+      "index": 11
+    },
+    {
+      "kind": "npc",
+      "x": 127,
+      "y": 86,
+      "rotation": 90,
+      "name": "Amy, a Garota das poções",
+      "npcNumber": 253,
+      "index": 12
+    },
+    {
+      "kind": "npc",
+      "x": 118,
+      "y": 113,
+      "rotation": 135,
+      "name": "Pasi, o mago",
+      "npcNumber": 254,
+      "index": 13
+    },
+    {
+      "kind": "npc",
+      "x": 123,
+      "y": 135,
+      "rotation": 45,
+      "name": "Lumen, a garçonete",
+      "npcNumber": 255,
+      "index": 14
+    },
+    {
+      "kind": "npc",
+      "x": 96,
+      "y": 129,
+      "rotation": 45,
+      "name": "Soldado Fantasma das sombras",
+      "npcNumber": 257,
+      "index": 15
+    },
+    {
+      "kind": "npc",
+      "x": 130,
+      "y": 128,
+      "rotation": 135,
+      "name": "Soldado Fantasma das sombras",
+      "npcNumber": 257,
+      "index": 16
+    },
+    {
+      "kind": "npc",
+      "x": 132,
+      "y": 165,
+      "rotation": 135,
+      "name": "Soldado Fantasma das sombras",
+      "npcNumber": 257,
+      "index": 17
+    },
+    {
+      "kind": "npc",
+      "x": 174,
+      "y": 129,
+      "rotation": 45,
+      "name": "Soldado Fantasma das sombras",
+      "npcNumber": 257,
+      "index": 18
+    },
+    {
+      "kind": "npc",
+      "x": 130,
+      "y": 126,
+      "rotation": 135,
+      "name": "Leo, o ajudante",
+      "npcNumber": 371,
+      "index": 19
+    },
+    {
+      "kind": "npc",
+      "x": 132,
+      "y": 161,
+      "rotation": 135,
+      "name": "Mestre das cartas do caos",
+      "npcNumber": 375,
+      "index": 20
+    },
+    {
+      "kind": "npc",
+      "x": 141,
+      "y": 143,
+      "rotation": 90,
+      "name": "Gens Duprian Steward",
+      "npcNumber": 543,
+      "index": 21
+    },
+    {
+      "kind": "npc",
+      "x": 139,
+      "y": 138,
+      "rotation": 135,
+      "name": "Julia, Membro da Un. Mercantil",
+      "npcNumber": 547,
+      "index": 22
+    }
+  ],
+  "imageOriginPixels": [
+    0,
+    0
+  ],
+  "npcSource": "src/bin/assets/UI/PC/map_npcs.openmu.json",
+  "npcSourceSha256": "8b6f257b32c430e393143682a42f3025b819ab65746f016e28693c488666e6a2"
+}

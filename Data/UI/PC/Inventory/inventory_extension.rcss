@@ -1,0 +1,8 @@
+body { margin: 0; width: 100%; height: 100%; overflow: hidden; font-family: Arial; }
+#extension, #extension div, #extension i { position: absolute; box-sizing: border-box; }
+#extension .art, #extension i, #tfTitle { pointer-events: none; }
+#extension .mu-item-slot, #btnClose { pointer-events: auto; }
+#btnDrag { pointer-events: auto; cursor: move; drag: drag; }
+#tfTitle { white-space: nowrap; overflow: hidden; }
+
+#extension .mu-overflow-label { pointer-events: auto; }
